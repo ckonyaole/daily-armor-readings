@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-17",
+  "liturgical": {
+    "season": "Easter",
+    "week": "Week of 2026-05-17",
+    "color": "white",
+    "rank": "Sunday",
+    "title": "Sunday - May 17, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-05-17"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Acts 1:12-14",
+      "text": "After Jesus was taken up into heaven the apostles went back from the Mount of Olives, as it is called, to Jerusalem, a short distance away, no more than a sabbath walk; and when they reached the city they went to the upper room where they were staying; there were Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus and Simon the Zealot, and Jude son of James. All these joined in continuous prayer, together with several women, including Mary the mother of Jesus, and with his brothers.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "On this Seventh Sunday of Easter, between Ascension and Pentecost, we behold the nascent Church in the Upper Room: the Eleven, the holy women, the brethren of the Lord, and Mary the Mother of Jesus, persevering with one accord in prayer. This is the apostolic college gathered around Peter, awaiting the promised Spirit. Mary's silent maternal presence at the heart of the praying Church reveals her as Mother of the Church, just as she was the womb from which Christ first came forth.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "He has placed the foundations of the house of the obedient Church—of faith, hope, and love—in the side of that highest mountain, namely, Christ."
+          },
+          {
+            "father": "Pseudo-Jerome",
+            "work": "Catena Aurea on Mark",
+            "quote": "Jesus is held captive on the Mount of Olives, whence He ascended to heaven, that we may know that we ascend into heaven from that place in which we watch and pray."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 861,
+            "title": "Apostolic succession from the Twelve"
+          },
+          {
+            "paragraph": 1053,
+            "title": "Gathered around Jesus and Mary"
+          }
+        ],
+        "thematicConnection": "The disciples persevere in prayer with Mary precisely as Jesus prayed in the Gospel: 'I pray for them...they are in the world.' Christ's high-priestly prayer is now answered in the Upper Room, where the Church begs the Spirit of glory who, Peter will say, rests upon those who suffer for the Name."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 26(27):1,4,7-8",
+      "text": "I am sure I shall see the Lord’s goodness in the land of the living.\nor\nAlleluia!\nThe Lord is my light and my help;\nwhom shall I fear?\nThe Lord is the stronghold of my life;\nbefore whom shall I shrink?\nI am sure I shall see the Lord’s goodness in the land of the living.\nor\nAlleluia!\nThere is one thing I ask of the Lord,\nfor this I long,\nto live in the house of the Lord,\nall the days of my life,\nto savour the sweetness of the Lord,\nto behold his temple.\nI am sure I shall see the Lord’s goodness in the land of the living.\nor\nAlleluia!\nO Lord, hear my voice when I call;\nhave mercy and answer.\nOf you my heart has spoken:\n‘Seek his face.’\nI am sure I shall see the Lord’s goodness in the land of the living.\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "I am sure I shall see the Lord’s goodness in the land of the living.",
+      "exegesis": {
+        "summary": "The psalmist's one consuming desire—'to dwell in the house of the Lord all the days of my life'—gives voice to the Church between Ascension and Pentecost. With the Lord no longer visibly present, the disciple's heart longs to seek His face. The refrain, 'I shall see the Lord's goodness in the land of the living,' confesses our Easter hope: that the Risen One has gone before us to prepare a dwelling.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Epistle 130",
+            "quote": "He who prays, 'Show thy face and we shall be safe,' what is it but to say, 'Let thy kingdom come?'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in You"
+          },
+          {
+            "paragraph": 260,
+            "title": "Dwelling for the Most Holy Trinity"
+          }
+        ],
+        "thematicConnection": "The single desire of the psalmist mirrors the single-hearted prayer of the disciples in the Upper Room and the single-hearted glorification offered by the Son to the Father in the Gospel. To 'seek His face' is to await the Spirit who reveals the Father in the Son."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "1 Peter 4:13-16",
+      "text": "If you can have some share in the sufferings of Christ, be glad, because you will enjoy a much greater gladness when his glory is revealed. It is a blessing for you when they insult you for bearing the name of Christ, because it means that you have the Spirit of glory, the Spirit of God resting on you. None of you should ever deserve to suffer for being a murderer, a thief, a criminal or an informer; but if anyone of you should suffer for being a Christian, then he is not to be ashamed of it; he should thank God that he has been called one.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Peter teaches that sharing in Christ's sufferings is not a misfortune to be endured but a participation in the very glory of God. To be insulted for the Name is to have 'the Spirit of glory, the Spirit of God' resting upon us. The Christian's suffering, when borne for Christ rather than for one's own sins, becomes the place where divine glory is revealed in advance of its full unveiling.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 77",
+            "quote": "The hatred of the world would be evidence of their goodness; so that they ought rather to grieve if they were loved by the world, as that would be evidence of their wickedness."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 88 on John",
+            "quote": "In you they will hate Me, in you persecute Me; your word they will not keep, because it is mine."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1691,
+            "title": "Christian, recognize your dignity"
+          },
+          {
+            "paragraph": 2474,
+            "title": "The witness of the martyrs"
+          }
+        ],
+        "thematicConnection": "Peter expounds in apostolic teaching what the apostles will live in the Upper Room and what Jesus prays for in the Gospel: a Church that does not belong to the world but glorifies the Father precisely by being hated by the world for the Name."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 17:1-11",
+      "text": "Jesus raised his eyes to heaven and said:\n‘Father, the hour has come:\nglorify your Son\nso that your Son may glorify you;\nand, through the power over all mankind that you have given him,\nlet him give eternal life to all those you have entrusted to him.\nAnd eternal life is this:\nto know you,\nthe only true God,\nand Jesus Christ whom you have sent.\nI have glorified you on earth\nand finished the work that you gave me to do.\nNow, Father, it is time for you to glorify me\nwith that glory I had with you\nbefore ever the world was.\nI have made your name known\nto the men you took from the world to give me.\nThey were yours and you gave them to me,\nand they have kept your word.\nNow at last they know\nthat all you have given me comes indeed from you;\nfor I have given them the teaching you gave to me,\nand they have truly accepted this, that I came from you,\nand have believed that it was you who sent me.\nI pray for them;\nI am not praying for the world\nbut for those you have given me,\nbecause they belong to you:\nall I have is yours\nand all you have is mine,\nand in them I am glorified.\nI am not in the world any longer,\nbut they are in the world,\nand I am coming to you.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus' High Priestly Prayer at the Last Supper is the heart of this Sunday before Pentecost. Lifting His eyes to heaven, the Son asks to be glorified—through the Cross—that He might glorify the Father by giving eternal life, which is to know the Father and the Son He has sent. He prays for those the Father has given Him out of the world, sanctifying them as His own and entrusting them to the Father's keeping as He returns to His pre-existent glory.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 105 on John",
+            "quote": "Glorify Thy Son, that Thy Son also may glorify Thee, that is, Raise Me from the dead, that by Me Thou mayest be known to the whole world."
+          },
+          {
+            "father": "Origen",
+            "work": "Commentary on John, Book 32",
+            "quote": "Christ cannot be glorified except the Father be glorified with Him. By His death He spoiled principalities and powers, making peace by the blood of His cross, to reconcile all things unto Himself."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 106 on John",
+            "quote": "As the Maker of the world, He was known among all nations; but as the Father of that Christ, by whom He took away the sins of the world, His name was unknown—which name Christ now manifests to those whom the Father had given Him out of the world."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2605,
+            "title": "Jesus' filial prayer in His hour"
+          },
+          {
+            "paragraph": 2825,
+            "title": "Christ learned obedience"
+          },
+          {
+            "paragraph": 606,
+            "title": "The Son embraces the Father's will"
+          }
+        ],
+        "thematicConnection": "This is the prayer Jesus continues to offer at the right hand of the Father after the Ascension. The disciples in the Upper Room are precisely 'those you have given me,' kept safe in the Father's name; their suffering for the Name (Peter) is the very means by which the Son still glorifies the Father in them."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Kept in the Father's Name: the Church at Prayer between Ascension and Pentecost",
+    "body": "On this Seventh Sunday of Easter, the Church stands in the holy interval between the Ascension and Pentecost, and every reading shows us what to do in that interval: pray, and let ourselves be prayed for. In the Gospel, Jesus lifts His eyes to heaven and offers His High Priestly Prayer—glorifying the Father by the Cross, asking eternal life for those the Father has given Him, and entrusting them to the Father's keeping as He returns to glory. Acts shows that prayer answered visibly on earth: the Eleven, persevering with one accord, together with Mary the Mother of Jesus, become the first cell of the praying Church, the obedient house built on the side of Mount Olivet, awaiting the Spirit. The Psalm gives us the single desire that should animate every Christian heart in this novena of expectation: to dwell in the house of the Lord, to seek His face, to see His goodness in the land of the living. And St. Peter completes the picture: because the Spirit of glory rests upon us, even insult and suffering for the Name become the place where the Father is glorified in the Son and the Son in His members. To be a Christian is to be one whom Jesus is praying for, right now."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 11998,
+    "completionTokens": 2780,
+    "generatedAt": "2026-05-17T22:07:07.747034+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
