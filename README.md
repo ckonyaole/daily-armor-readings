@@ -5,7 +5,7 @@ Daily Catholic Mass reading exegesis pipeline for the
 
 A GitHub Action runs at 04:00 UTC every day. It:
 
-1. Scrapes the day's readings from the USCCB website
+1. Scrapes the day's readings from [Universalis](https://universalis.com) (US edition)
 2. Retrieves relevant patristic commentary (Catena Aurea) + Catechism
    paragraphs from a locally-embedded vector DB
 3. Calls Claude Opus 4.7 via OpenRouter to generate a theological exegesis
@@ -35,6 +35,7 @@ python scripts/generate.py --date 2026-05-17
 - **Catena Aurea** (Aquinas) — public domain (Newman 1841 translation)
 - **Catechism of the Catholic Church** — © Libreria Editrice Vaticana 1994, 1997;
   used here for educational and devotional purposes per their published terms
-- **NABRE Scripture** (via USCCB scraping) — © Confraternity of Christian
-  Doctrine; used with permission for personal/devotional purposes
+- **Daily Mass readings** — sourced from [Universalis](https://universalis.com)
+  US edition; free for personal/non-commercial use per their published terms
+  (USCCB previously used, but they now block bot traffic with a JS PoW challenge)
 - Code — MIT
