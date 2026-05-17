@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-18",
+  "liturgical": {
+    "season": "Easter",
+    "week": "Week of 2026-05-18",
+    "color": "white",
+    "rank": "Weekday",
+    "title": "Monday - May 18, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-18"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Acts 19:1-8",
+      "text": "While Apollos was in Corinth, Paul made his way overland as far as Ephesus, where he found a number of disciples. When he asked, ‘Did you receive the Holy Spirit when you became believers?’ they answered, ‘No, we were never even told there was such a thing as a Holy Spirit.’ ‘Then how were you baptised?’ he asked. ‘With John’s baptism’ they replied. ‘John’s baptism’ said Paul ‘was a baptism of repentance; but he insisted that the people should believe in the one who was to come after him – in other words, Jesus.’ When they heard this, they were baptised in the name of the Lord Jesus, and the moment Paul had laid hands on them the Holy Spirit came down on them, and they began to speak with tongues and to prophesy. There were about twelve of these men.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul arrives in Ephesus and discovers disciples who had received only John's baptism of repentance. He completes their initiation by baptizing them in the name of the Lord Jesus and laying hands upon them, whereupon the Holy Spirit descends visibly in tongues and prophecy. The passage shows the irreplaceable necessity of Christian Baptism and the apostolic gesture by which the Spirit is poured out in fullness.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The baptism of Christ does not undo the baptism of John, but includes it in itself; he who is baptized in Christ's name has both baptisms, that of water and that of the Spirit. The Apostle, having found certain Ephesians baptized with John's baptism, baptized them again in the name of Christ, because they had not been baptized in the Spirit."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John IV-VI",
+            "quote": "Christ retains in His own possession exclusively the power of baptism, that the hope of the baptized might be directed to Him who had baptized them. It is by this power that the unity of the Church is established; of which it is said, 'My dove is one.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1226,
+            "title": "Baptism from Pentecost onward"
+          },
+          {
+            "paragraph": 1227,
+            "title": "Buried and risen with Christ"
+          },
+          {
+            "paragraph": 1315,
+            "title": "Apostles laying hands for the Spirit"
+          },
+          {
+            "paragraph": 1286,
+            "title": "The Spirit on the Messiah"
+          }
+        ],
+        "thematicConnection": "The Ephesian disciples pass from a baptism of mere repentance into the full life of the Risen Christ — they receive the Spirit who is the very gift of the conquering Lord proclaimed in today's Gospel, and they become the kind of believers the Psalm describes: rejoicing at the presence of God."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 67(68):2-7",
+      "text": "Kingdoms of the earth, sing to God.\nor\nAlleluia!\nLet God arise, let his foes be scattered.\nLet those who hate him flee before him.\nAs smoke is blown away so will they be blown away;\nlike wax that melts before the fire,\nso the wicked shall perish at the presence of God.\nKingdoms of the earth, sing to God.\nor\nAlleluia!\nBut the just shall rejoice at the presence of God,\nthey shall exult and dance for joy.\nO sing to the Lord, make music to his name;\nrejoice in the Lord, exult at his presence.\nKingdoms of the earth, sing to God.\nor\nAlleluia!\nFather of the orphan, defender of the widow,\nsuch is God in his holy place.\nGod gives the lonely a home to live in;\nhe leads the prisoners forth into freedom.\nKingdoms of the earth, sing to God.\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "Kingdoms of the earth, sing to God.",
+      "exegesis": {
+        "summary": "The psalm is a triumphal hymn: God arises, His enemies scatter like smoke before fire, and the just leap for joy at His presence. He is named Father of orphans, defender of widows, the One who frees prisoners and gives the lonely a home. In Easter light, this is the song of Christ's Pasch, His victory drawing all kingdoms into His praise.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyprian",
+            "work": "On the Lord's Prayer",
+            "quote": "The kingdom of God may stand for Christ Himself, whom we day by day wish to come, and for whose advent we pray. As He is our resurrection, because in Him we rise again, so may He be called the kingdom of God, because we are to reign in Him."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "The kingdom of God means that He Himself is placed in the midst of them, that is, reigning in their hearts by faith."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 550,
+            "title": "The kingdom defeats Satan's reign"
+          },
+          {
+            "paragraph": 671,
+            "title": "Christ's reign already and not yet"
+          },
+          {
+            "paragraph": 2819,
+            "title": "Kingdom: righteousness, peace, joy in the Spirit"
+          }
+        ],
+        "thematicConnection": "If the Lord has 'conquered the world' (Gospel) and pours out His Spirit on the Ephesians (First Reading), then the wicked must indeed scatter and the kingdoms of the earth must sing. The Psalm is the Church's Easter response to a Christ who has already overcome."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 16:29-33",
+      "text": "His disciples said to Jesus, ‘Now you are speaking plainly and not using metaphors! Now we see that you know everything, and do not have to wait for questions to be put into words; because of this we believe that you came from God.’ Jesus answered them:\n‘Do you believe at last?\nListen; the time will come – in fact it has come already –\nwhen you will be scattered,\neach going his own way and leaving me alone.\nAnd yet I am not alone,\nbecause the Father is with me.\nI have told you all this\nso that you may find peace in me.\nIn the world you will have trouble,\nbut be brave: I have conquered the world.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "At the close of the Last Supper discourse, the disciples profess belief, but Jesus gently warns that their faith is still fragile: they will scatter and leave Him alone. Yet He is not alone, for the Father is with Him. He speaks all this to give them His peace, a peace that holds even in tribulation, because He has already conquered the world.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John 74",
+            "quote": "'Peace I leave with you, My peace I give unto you': He says this to console His disciples, who were now troubled at the prospect of the hatred and opposition which awaited them after His departure."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 77",
+            "quote": "He left no peace in this world; in which we conquer the enemy, and have love one to another. He will give us peace in the world to come, when we shall reign without an enemy. This peace is Himself, both when we believe that He is, and when we shall see Him as He is."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2602,
+            "title": "Jesus' prayer embraces His brethren"
+          },
+          {
+            "paragraph": 2605,
+            "title": "Filial prayer in the hour of trial"
+          },
+          {
+            "paragraph": 520,
+            "title": "Christ our model in persecution"
+          }
+        ],
+        "thematicConnection": "Jesus' promise of peace and victory is what makes the Ephesian disciples' fearless reception of the Spirit possible, and it is what tunes every Christian heart to sing the Psalm's refrain: 'Kingdoms of the earth, sing to God.'"
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Peace in the Conqueror, Power in the Spirit",
+    "body": "Today the Church gathers three notes into one Easter chord. In the Gospel, Jesus stands at the threshold of His Passion and tells trembling disciples the truth: they will scatter, the world will harass them, but in Him they will have peace because He has conquered the world. In Acts, we see what that conquest looks like when it touches real lives — twelve men in Ephesus who knew only John's baptism of repentance are brought into the fullness of Christ's Baptism, and the Holy Spirit, poured out through apostolic hands, opens their lips in tongues and prophecy. The promise of the Upper Room is fulfilled in a back street of Asia Minor. And so the Psalm bursts forth as the only fitting response: 'Let God arise, let his foes be scattered… Kingdoms of the earth, sing to God!' The risen Christ is no distant memory; He is the Father of orphans and defender of widows, leading prisoners into freedom — into the freedom of the children of God. The Catechism reminds us that Baptism plunges us into His death and Resurrection, and that the Spirit makes His kingdom of righteousness, peace, and joy already present within us. In a world still full of trouble, the Church proclaims today: take courage, for He has overcome."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8044,
+    "completionTokens": 2338,
+    "generatedAt": "2026-05-17T22:11:32.959438+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
