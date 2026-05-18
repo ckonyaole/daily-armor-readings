@@ -8,6 +8,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from scripts.scrape_readings import fetch_day, parse_readings, ScrapeError
+from scripts.scrape_catholic_org import (
+    fetch_day as fetch_day_co,
+    parse_readings as parse_readings_co,
+)
 from scripts.retrieve import Retriever
 from scripts.prompt_template import SYSTEM_PROMPT, build_user_prompt
 from scripts.call_openrouter import call_chat, OpenRouterError
@@ -72,30 +76,35 @@ def main(argv: list[str] | None = None) -> int:
                 "translation": "RSVCE",
             })
     else:
+        readings = []
+        scrape_errors: list[str] = []
+        # Sources tried in order: fixture > Universalis (UK) > catholic.org (US)
+        # Catholic.org is reachable from US campus networks where Universalis
+        # is blocked by Geo-IP filters (e.g. Dillard.edu).
         try:
             if args.fixture:
                 html = Path(args.fixture).read_text(encoding="utf-8")
+                readings = parse_readings(html)["readings"]
             else:
                 html = fetch_day(args.date)
-            scraped = parse_readings(html)
-            readings = scraped["readings"]
+                readings = parse_readings(html)["readings"]
         except (ScrapeError, FileNotFoundError) as e:
-            # Fallback: if we're in --use-claude-cli mode, delegate the scrape
-            # to Claude's WebFetch tool (bypasses local network restrictions
-            # like Dillard's Geo-IP firewall that blocks Universalis's UK IP).
-            if args.use_claude_cli and not args.fixture:
-                print(f"Python scrape failed ({e}); delegating to Claude WebFetch...",
+            scrape_errors.append(f"universalis: {e}")
+        if not readings and not args.fixture:
+            print(f"Universalis scrape failed; trying catholic.org fallback...",
+                  file=sys.stderr)
+            try:
+                html2 = fetch_day_co(args.date)
+                readings = parse_readings_co(html2)["readings"]
+                print(f"  ok: catholic.org returned {len(readings)} readings",
                       file=sys.stderr)
-                readings = _scrape_via_claude(args.date)
-                if not readings:
-                    _write_placeholder(out_path, args.date,
-                                       f"scrape_failed (both Python and Claude WebFetch): {e}")
-                    print("CLAUDE WEBFETCH ALSO FAILED", file=sys.stderr)
-                    return 1
-            else:
-                _write_placeholder(out_path, args.date, f"scrape_failed: {e}")
-                print(f"SCRAPE FAILED: {e}", file=sys.stderr)
-                return 1
+            except ScrapeError as e:
+                scrape_errors.append(f"catholic.org: {e}")
+        if not readings:
+            joined = " | ".join(scrape_errors) or "unknown"
+            _write_placeholder(out_path, args.date, f"scrape_failed: {joined}")
+            print(f"ALL SCRAPE SOURCES FAILED: {joined}", file=sys.stderr)
+            return 1
 
     # 2. Liturgical context
     season, color = season_for(d)
