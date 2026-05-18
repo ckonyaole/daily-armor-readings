@@ -1,0 +1,45 @@
+{
+  "_comment": "US lectionary overrides for feasts transferred from weekday to nearest Sunday. Most US ecclesiastical provinces transfer Ascension to Sunday; ~7 NE provinces (NY/PA/NJ/CT/MA/RI/etc.) keep Thursday. We default to the transferred-Sunday convention.",
+  "2026-01-04": {
+    "feast": "epiphany",
+    "source_date": "2026-01-06",
+    "title": "The Epiphany of the Lord",
+    "rank": "Solemnity",
+    "color": "white"
+  },
+  "2026-05-17": {
+    "feast": "ascension",
+    "source_date": "2026-05-14",
+    "title": "The Ascension of the Lord",
+    "rank": "Solemnity",
+    "color": "white"
+  },
+  "2026-06-07": {
+    "feast": "corpus_christi",
+    "source_date": "2026-06-04",
+    "title": "The Most Holy Body and Blood of Christ",
+    "rank": "Solemnity",
+    "color": "white"
+  },
+  "2027-01-03": {
+    "feast": "epiphany",
+    "source_date": "2027-01-06",
+    "title": "The Epiphany of the Lord",
+    "rank": "Solemnity",
+    "color": "white"
+  },
+  "2027-05-09": {
+    "feast": "ascension",
+    "source_date": "2027-05-06",
+    "title": "The Ascension of the Lord",
+    "rank": "Solemnity",
+    "color": "white"
+  },
+  "2027-06-06": {
+    "feast": "corpus_christi",
+    "source_date": "2027-06-03",
+    "title": "The Most Holy Body and Blood of Christ",
+    "rank": "Solemnity",
+    "color": "white"
+  }
+}

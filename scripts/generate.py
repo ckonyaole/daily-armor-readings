@@ -18,6 +18,16 @@ ROOT = Path(__file__).parent.parent
 MODEL = "anthropic/claude-opus-4-7"
 CORPUS_VERSION = "v1.0"
 
+import json as _json
+
+OVERRIDES_PATH = ROOT / "scripts" / "us_feast_overrides.json"
+
+def _load_overrides() -> dict:
+    if not OVERRIDES_PATH.exists():
+        return {}
+    data = _json.loads(OVERRIDES_PATH.read_text(encoding="utf-8"))
+    return {k: v for k, v in data.items() if not k.startswith("_")}
+
 def main(argv: list[str] | None = None) -> int:
     load_dotenv()
     parser = argparse.ArgumentParser()
@@ -33,12 +43,20 @@ def main(argv: list[str] | None = None) -> int:
     out_path = Path(args.out) if args.out else ROOT / "output" / f"{args.date}.json"
     out_path.parent.mkdir(parents=True, exist_ok=True)
 
+    overrides = _load_overrides()
+    override = overrides.get(args.date)
+    if override:
+        scrape_date = override["source_date"]
+        print(f"US feast override: {args.date} → fetching {scrape_date} for {override['title']}")
+    else:
+        scrape_date = args.date
+
     # 1. Scrape (or load fixture)
     try:
         if args.fixture:
             html = Path(args.fixture).read_text(encoding="utf-8")
         else:
-            html = fetch_day(args.date)
+            html = fetch_day(scrape_date)
         scraped = parse_readings(html)
     except (ScrapeError, FileNotFoundError) as e:
         _write_placeholder(out_path, args.date, f"scrape_failed: {e}")
@@ -61,6 +79,11 @@ def main(argv: list[str] | None = None) -> int:
         "weekdayCycle": None if is_sunday else weekday_cycle(d),
         "date": args.date,
     }
+
+    if override:
+        liturgical["title"] = override["title"]
+        liturgical["rank"] = override["rank"]
+        liturgical["color"] = override["color"]
 
     # 3. Retrieve per reading
     retriever = Retriever(
