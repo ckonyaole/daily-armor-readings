@@ -44,7 +44,7 @@ if (Test-Path $lockFile) {
 Push-Location $RepoPath
 try {
     Write-Log "Pulling latest from origin/main..."
-    git pull --rebase --autostash 2>&1 | ForEach-Object { Write-Log $_ }
+    $ErrorActionPreference = "Continue"; git pull --rebase --autostash 2>&1 | ForEach-Object { Write-Log ([string]$_) }; $ErrorActionPreference = "Stop"
 } catch {
     Write-Log "git pull failed: $_"
 }
@@ -117,8 +117,16 @@ try {
         if (-not $changes) {
             Write-Log "No changes to commit (other machine pushed identical content)."
         } else {
-            git commit -m "daily: $today [$env:COMPUTERNAME via claude CLI]" 2>&1 | ForEach-Object { Write-Log $_ }
-            git push origin main 2>&1 | ForEach-Object { Write-Log $_ }
+            # Wrap git commands in Continue mode — git writes progress to
+            # stderr which PS otherwise treats as a fatal error.
+            $prev = $ErrorActionPreference
+            $ErrorActionPreference = "Continue"
+            try {
+                git commit -m "daily: $today [$env:COMPUTERNAME via claude CLI]" 2>&1 | ForEach-Object { Write-Log ([string]$_) }
+                git push origin main 2>&1 | ForEach-Object { Write-Log ([string]$_) }
+            } finally {
+                $ErrorActionPreference = $prev
+            }
             Write-Log "Pushed to GitHub."
         }
     } finally {
