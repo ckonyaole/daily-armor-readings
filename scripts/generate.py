@@ -13,6 +13,7 @@ from scripts.prompt_template import SYSTEM_PROMPT, build_user_prompt
 from scripts.call_openrouter import call_chat, OpenRouterError
 from scripts.validate_output import validate, ValidationError
 from scripts.liturgical import season_for, lectionary_cycle, weekday_cycle
+from scripts.fetch_bible_passage import fetch as fetch_passage, PassageFetchError
 
 ROOT = Path(__file__).parent.parent
 MODEL = "anthropic/claude-opus-4-7"
@@ -45,24 +46,39 @@ def main(argv: list[str] | None = None) -> int:
 
     overrides = _load_overrides()
     override = overrides.get(args.date)
-    if override:
-        scrape_date = override["source_date"]
-        print(f"US feast override: {args.date} → fetching {scrape_date} for {override['title']}")
-    else:
-        scrape_date = args.date
 
-    # 1. Scrape (or load fixture)
-    try:
-        if args.fixture:
-            html = Path(args.fixture).read_text(encoding="utf-8")
-        else:
-            html = fetch_day(scrape_date)
-        scraped = parse_readings(html)
-    except (ScrapeError, FileNotFoundError) as e:
-        _write_placeholder(out_path, args.date, f"scrape_failed: {e}")
-        print(f"SCRAPE FAILED: {e}", file=sys.stderr)
-        return 1
-    readings = scraped["readings"]
+    # 1. Get readings — either from override (citation-based passage fetch)
+    #    or from Universalis scrape.
+    if override and "readings" in override:
+        print(f"US feast override: {args.date} -> {override['title']} (fetching passages by citation)")
+        readings = []
+        for r in override["readings"]:
+            citation = r["citation"]
+            try:
+                text = fetch_passage(citation)
+            except PassageFetchError as e:
+                _write_placeholder(out_path, args.date, f"passage_fetch_failed: {citation}: {e}")
+                print(f"PASSAGE FETCH FAILED for {citation}: {e}", file=sys.stderr)
+                return 1
+            readings.append({
+                "kind": r["kind"],
+                "title": r.get("title", r["kind"].replace("_", " ").title()),
+                "citation": citation,
+                "text": text,
+                "translation": "RSVCE",
+            })
+    else:
+        try:
+            if args.fixture:
+                html = Path(args.fixture).read_text(encoding="utf-8")
+            else:
+                html = fetch_day(args.date)
+            scraped = parse_readings(html)
+        except (ScrapeError, FileNotFoundError) as e:
+            _write_placeholder(out_path, args.date, f"scrape_failed: {e}")
+            print(f"SCRAPE FAILED: {e}", file=sys.stderr)
+            return 1
+        readings = scraped["readings"]
 
     # 2. Liturgical context
     season, color = season_for(d)
