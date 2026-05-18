@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2026-05-18",
   "liturgical": {
     "season": "Easter",
@@ -20,42 +20,42 @@
       "text": "It happened that while Apollos was in Corinth, Paul made his way overland as far as Ephesus, where he found a number of disciples.\nWhen he asked, 'Did you receive the Holy Spirit when you became believers?' they answered, 'No, we were never even told there was such a thing as a Holy Spirit.'\nHe asked, 'Then how were you baptised?' They replied, 'With John's baptism.'\nPaul said, 'John's baptism was a baptism of repentance; but he insisted that the people should believe in the one who was to come after him -- namely Jesus.'\nWhen they heard this, they were baptised in the name of the Lord Jesus,\nand the moment Paul had laid hands on them the Holy Spirit came down on them, and they began to speak with tongues and to prophesy.\nThere were about twelve of these men in all.\nHe began by going to the synagogue, where he spoke out fearlessly and argued persuasively about the kingdom of God. He did this for three months,",
       "translation": "Catholic.org (NJB-based)",
       "exegesis": {
-        "summary": "Paul, arriving in Ephesus, discovers disciples who have received only John's baptism of repentance and have never even heard of the Holy Spirit. After teaching them that John pointed forward to Jesus, Paul baptizes them in the name of the Lord Jesus and lays hands upon them; the Spirit descends, and they prophesy and speak in tongues. The episode unveils the difference between the preparatory baptism of John and the full sacramental baptism of Christ, which alone confers the Holy Spirit and incorporates the believer into the Risen Lord.",
+        "summary": "Paul finds twelve disciples at Ephesus who had received only John's baptism of repentance. He completes their initiation by baptizing them in the name of the Lord Jesus and laying hands on them, and the Holy Spirit descends with the gifts of tongues and prophecy. Paul then enters the synagogue and argues boldly about the kingdom of God for three months.",
         "patristicQuotes": [
           {
             "father": "Pseudo-Chrysostom",
             "work": "Catena Aurea on Matthew",
-            "quote": "The baptism of Christ does not undo the baptism of John, but includes it in itself; he who is baptized in Christ's name has both baptisms, that of water and that of the Spirit. Thus the Apostle, having found certain Ephesians baptized with John's baptism, baptized them again in the name of Christ, because they had not been baptized in the Spirit; for as the baptism of Christ was more than that of John, it was a new one given, not the same repeated."
+            "quote": "The baptism of Christ does not undo the baptism of John, but includes it in itself. The Apostle, having found certain Ephesians baptized with John's baptism, baptized them again in the name of Christ, because they had not been baptized in the Spirit. They were not baptized twice but once, for the baptism of Christ is something new, not the same repeated."
           },
           {
             "father": "Augustine",
-            "work": "Tractates on John IV-VI",
-            "quote": "We baptize again after John's baptism; after a homicide's we baptize not: because John gave his own baptism, the homicide gives Christ's; which is so holy a sacrament, that not even a homicide's ministration can pollute it. It is by this power which Christ retains in His own possession exclusively that the unity of the Church is established."
+            "work": "Tract. iv on John",
+            "quote": "Our Lord retains in His own possession exclusively the power of baptism, while the ministering of it passes to good and bad alike. It is by this power that the unity of the Church is established, of which it is said, 'My dove is one.' What hindrance is the badness of the minister, when the Lord is good?"
           }
         ],
         "cccReferences": [
           {
-            "paragraph": 720,
-            "title": "John's baptism prepares; baptism in water and the Spirit gives new birth"
-          },
-          {
             "paragraph": 1226,
-            "title": "Baptism in the name of Jesus brings the gift of the Holy Spirit"
+            "title": "From Pentecost onward the Church baptizes those who believe"
           },
           {
             "paragraph": 1227,
-            "title": "Baptism incorporates the believer into Christ's death and resurrection"
-          },
-          {
-            "paragraph": 1315,
-            "title": "Apostolic laying on of hands confers the Holy Spirit"
+            "title": "Through Baptism the believer is buried and raised with Christ"
           },
           {
             "paragraph": 1286,
-            "title": "The Spirit who rested on the Messiah is given through Christ's sacraments"
+            "title": "The Holy Spirit rests on the Messiah and on the baptized"
+          },
+          {
+            "paragraph": 1315,
+            "title": "The apostles laid hands so that the baptized would receive the Spirit"
+          },
+          {
+            "paragraph": 720,
+            "title": "John's baptism prepared for the baptism in water and the Spirit"
           }
         ],
-        "thematicConnection": "Easter weekday readings prepare the Church for Pentecost. Acts shows the Spirit completing what John's baptism could only foreshadow; the Psalm sings of God arising in power among His people; the Gospel records Christ's pledge that, though He depart, the Father remains with Him and His victory will not abandon the scattered disciples. The Spirit poured out at Ephesus is the same Spirit Christ promises to send."
+        "thematicConnection": "Acts shows the Holy Spirit completing what John's baptism only foreshadowed, fulfilling the Father's presence promised in today's Gospel ('the Father is with me'). The same Spirit who undergirds Christ's victory in John 16 now descends on the twelve at Ephesus, gathering those who had been scattered into the unity of the Church the Psalm celebrates."
       }
     },
     {
@@ -66,42 +66,42 @@
       "translation": "Catholic.org (NJB-based)",
       "refrain": "You disperse them like smoke; as wax melts in the presence of a fire, so the wicked melt at the presence of God.",
       "exegesis": {
-        "summary": "Psalm 68 is a triumphal hymn celebrating God's arising in power: the wicked melt like wax before His face, but the righteous exult and dance. He is named Father of orphans, defender of widows, the One who brings the lonely into a home and prisoners into freedom. The Church places this royal Easter psalm on the lips of the disciples awaiting the Spirit, for the Risen Christ has ascended on high, leading captivity captive, and now establishes His dwelling among the poor and the abandoned.",
+        "summary": "Psalm 68 sings of God arising in power: the wicked melt before His face like wax in fire, while the upright rejoice with delight. He is named Father of orphans and defender of widows, the One who gives the lonely a home and leads prisoners into freedom. The Lord rides as conqueror at the head of His pilgrim people.",
         "patristicQuotes": [
           {
             "father": "Chrysostom",
             "work": "Catena Aurea on Luke",
-            "quote": "God ever appears in a cloud, according to the Psalms, 'clouds and darkness are round about Him.' Therefore shall the Son of Man come in the clouds as God and the Lord, not secretly, but in glory worthy of God, with great power and majesty."
+            "quote": "God ever appears in a cloud, as the Psalms say: 'clouds and darkness are round about him.' Therefore shall the Son of Man come in the clouds as God and the Lord, not secretly, but in glory worthy of God — with great power and majesty."
           },
           {
             "father": "Hilary",
             "work": "Catena Aurea on Matthew",
-            "quote": "The Word of God entered the ship, that is, the Church; the multitude follows the Lord out of the city into the desert, going from the Synagogue to the Church. The Lord sees them, has compassion upon them, and heals all sickness and infirmity, cleansing their obstructed minds and unbelieving hearts for the understanding of the new preaching."
+            "quote": "The Word of God entered the ship, that is, the Church, and the multitude follow the Lord out of the city into the desert — going from the Synagogue to the Church. The Lord sees them, has compassion, and heals all sickness, cleansing their obstructed minds and unbelieving hearts for the understanding of the new preaching."
           }
         ],
         "cccReferences": [
           {
             "paragraph": 697,
-            "title": "The cloud both veils and reveals the saving presence of God"
+            "title": "Cloud and light reveal and veil the saving God"
+          },
+          {
+            "paragraph": 1,
+            "title": "God calls together all men scattered by sin into His family"
           },
           {
             "paragraph": 2578,
             "title": "God's people learn to pray in the shadow of His dwelling"
           },
           {
-            "paragraph": 2594,
-            "title": "Prayer flourishes under the guidance of shepherds and prophets"
-          },
-          {
             "paragraph": 1090,
-            "title": "The earthly liturgy is a foretaste of the heavenly"
+            "title": "The earthly liturgy is a foretaste of the heavenly liturgy"
           },
           {
-            "paragraph": 1,
-            "title": "God draws scattered humanity into the unity of His family"
+            "paragraph": 333,
+            "title": "The angels accompany God when He rides forth at the head of His people"
           }
         ],
-        "thematicConnection": "The Psalm voices the joy of those whom God gathers and indwells — the very experience of the Ephesian twelve, who pass from being uninstructed strangers to Spirit-filled members of Christ's Body. It also answers the Gospel's warning of scattering: even when disciples scatter, God remains 'Father of orphans,' giving the lonely a home. The Spirit who rises within them is the answer to the Psalmist's plea."
+        "thematicConnection": "The Psalm gives voice to the Ephesians' joy in Acts: God gives the lonely a home — and twelve disciples who had received only repentance are now brought into the household of the Spirit. It also illumines Jesus' Gospel words: even when His own scatter, God remains the Father of orphans, the gatherer of the abandoned."
       }
     },
     {
@@ -111,59 +111,99 @@
       "text": "His disciples said, 'Now you are speaking plainly and not using veiled language.\nNow we see that you know everything and need not wait for questions to be put into words; because of this we believe that you came from God.'\nJesus answered them: Do you believe at last?\nListen; the time will come -- indeed it has come already -- when you are going to be scattered, each going his own way and leaving me alone. And yet I am not alone, because the Father is with me.\nI have told you all this so that you may find peace in me. In the world you will have hardship, but be courageous: I have conquered the world.",
       "translation": "Catholic.org (NJB-based)",
       "exegesis": {
-        "summary": "At the close of the Last Supper Discourse the disciples claim, at last, to understand Jesus plainly and to believe He came from God. Christ replies with sober love: their belief is real but fragile, for the hour is upon them when they will be scattered, each fleeing his own way and leaving Him alone. Yet He is not alone, because the Father is with Him. He speaks all this so they may find peace in Him, for though the world brings tribulation, He has already conquered the world.",
+        "summary": "On the eve of His Passion the disciples claim to understand Jesus clearly at last and profess belief that He came from God. Jesus does not let the confession stand unchallenged: He foretells their scattering, yet declares He will not be alone because the Father is with Him. He gives them His peace and one triumphant word: 'I have conquered the world.'",
         "patristicQuotes": [
           {
             "father": "Augustine",
-            "work": "Tractates on John CVII",
-            "quote": "When He says 'I am no more in the world,' He means that He was soon going away. As man He prays God for His disciples; as God He is one with Him to Whom He prays. He commends to His Father those whom He was about to leave: 'Holy Father, keep through Thine own name those whom Thou hast given Me.'"
+            "work": "Tract. cvii on John",
+            "quote": "We must not understand 'I am no more in the world' metaphorically of the heart and life — could there ever have been a time when He loved the things of the world? He means rather that He was soon going away. And then He commends to His Father those whom He was about to leave."
           },
           {
             "father": "Chrysostom",
-            "work": "Homilies on John LXXXI",
-            "quote": "He speaks as man: 'While I was with them in the world, I kept them in Thy name'; that is, by Thy help. He speaks in condescension to the minds of His disciples, who thought they were more safe in His presence."
+            "work": "Homily lxxxi on John",
+            "quote": "He speaks in condescension to the minds of His disciples, who thought they were more safe in His presence. He kept them in the Father's name, that is, by the Father's help — for love is not to be troubled, but to keep His commandments."
           },
           {
-            "father": "Chrysostom",
-            "work": "Catena Aurea on John",
-            "quote": "The disciples, having heard Him say 'I go to the Father' and being troubled at the thought of it, are taught that to love Him is not to be troubled, but to keep His commandments; this is love, to obey and believe in Him who is loved. And as they had expressed a strong desire for His bodily presence, He assures them that His absence will be supplied to them in another way: He will pray the Father, and the Father will give them another Comforter."
+            "father": "Augustine",
+            "work": "Tract. cxiii on John",
+            "quote": "He spoke openly to the world, that is, within the hearing of many. So in one sense He spoke openly, in that many heard Him; in another sense not openly, in that they did not understand Him. His speaking apart with His disciples was not speaking in secret."
           }
         ],
         "cccReferences": [
           {
-            "paragraph": 2602,
-            "title": "Jesus carries His disciples to the Father in His own prayer"
-          },
-          {
             "paragraph": 2605,
-            "title": "On the Cross, prayer and the gift of self are one"
+            "title": "Christ's filial prayer entrusts everything to the Father"
           },
           {
-            "paragraph": 607,
-            "title": "The Father's plan of redeeming love inspires Christ's whole life"
+            "paragraph": 2602,
+            "title": "Jesus prays alone on the mountain, including all men in His prayer"
           },
           {
             "paragraph": 516,
-            "title": "Christ's words and silences reveal the Father"
+            "title": "Christ's whole life is the Revelation of the Father"
+          },
+          {
+            "paragraph": 65,
+            "title": "In the Son the Father has spoken His one and final Word"
           },
           {
             "paragraph": 687,
-            "title": "The Spirit unveils Christ to those who believe"
+            "title": "The Spirit reveals Christ and dwells with those who believe"
           }
         ],
-        "thematicConnection": "The Lord's word, 'I have conquered the world,' is the very ground on which the Spirit-baptism at Ephesus stands and on which the Psalmist's confidence rests. The disciples who will scatter in the Passion will be re-gathered by the Spirit at Pentecost; the lonely will be brought into a home. The Gospel supplies the source of courage that the other two readings already celebrate as accomplished."
+        "thematicConnection": "John 16 supplies the doctrinal floor for the day: the Father is never absent from the Son, and Christ's victory is already accomplished before the Passion has begun. That victory is what gets ratified in Acts when the Spirit descends on the Ephesians, and it is what Psalm 68 sings when God arises and the scattered are gathered home."
       }
     }
   ],
   "synthesis": {
     "title": "He has conquered the world, and now He fills it with His Spirit",
-    "body": "Today's Easter weekday readings stand on the edge of Pentecost and proclaim a single mystery: the Risen Christ, having conquered the world, pours out His Holy Spirit to gather a scattered people into His Body. In the Gospel, Jesus tells His disciples that their hour of scattering is upon them, yet He is not alone, for the Father is with Him, and His victory is already won. The Acts of the Apostles shows what that victory looks like in time: in Ephesus, twelve men know only John's baptism of repentance, but Paul completes their preparation by baptizing them into the Lord Jesus and laying hands upon them, and the Spirit descends. What John could only foreshadow, Christ accomplishes; what was scattered in the Passion is now being gathered by the Spirit in the Church. Psalm 68 sings the meaning of it all: God arises, the wicked melt away, the upright rejoice, and the Father of orphans gives the lonely a home. The Church recognizes herself there. Once scattered, abandoned, ignorant even of the Spirit's name, we have been baptized into Christ's death and resurrection, made the dwelling place of the Spirit, and brought into the household of the Father. Therefore the Lord's last word at the Supper becomes our peace today: in the world we will have hardship, but be courageous — He has conquered the world."
+    "body": "Today the Church proclaims a single Easter mystery in three voices. In the Gospel, Christ stands on the threshold of His Passion and declares the war already won: 'In the world you will have hardship, but be courageous: I have conquered the world.' The Father has never left Him, even when His own are about to scatter. In Acts, that victory becomes visible at Ephesus. The disciples of John had received only a baptism of repentance, a baptism that pointed beyond itself; Paul completes what was begun, baptizes them into the name of the Lord Jesus, and the Holy Spirit — Christ's own promised gift — descends. What was scattered is gathered; what was incomplete is filled. Psalm 68 supplies the song for both scenes: God arises, His enemies melt like wax, and the lonely are given a home. The Father of orphans is the same Father who is with Jesus in His hour and with the twelve at Ephesus in theirs. The Church does not yet see the conquered world with her eyes, but she already sings the victory with her voice, because the One who said 'I have conquered' has poured His Spirit into her heart."
   },
   "generation": {
     "model": "claude-code-cli/subscription",
     "promptTokens": 0,
     "completionTokens": 0,
-    "generatedAt": "2026-05-18T05:55:07.399185+00:00",
+    "generatedAt": "2026-05-18T06:04:53.758505+00:00",
     "corpusVersion": "v1.0"
+  },
+  "bibleEntry": {
+    "_source": "bible-entry-icb skill",
+    "questions": [
+      "Where am I in the Bible story? You are in the upper room in Jerusalem, late on the night before Jesus dies. The Passover meal is over. Judas has already slipped out into the dark. Jesus has been speaking for a long time — about the Father, the Vine, the Spirit who is coming — and now He finally speaks plainly, with no parables. In one hour they will leave for the Garden of Gethsemane.",
+      "Who is present? Jesus, fully aware He is about to be arrested. Eleven disciples, exhausted, full of wine and food and big emotions, finally feeling like they understand. They are hopeful, a little proud of themselves, and completely unaware of what the next twelve hours will demand.",
+      "What is the main tension? The disciples think they have arrived at faith. Jesus knows they have not. He is about to be alone in a way they cannot imagine, and they are about to fail in a way they cannot imagine. The tension is the gap between what they believe of themselves and what is about to be true.",
+      "What is God revealing about Himself? That the Father is never absent from the Son, even when every human being abandons Him. That Jesus' victory does not depend on His disciples' faithfulness. That He gives peace as a gift, not as a reward for performance.",
+      "What does this passage show me about the human heart? That we often confess Christ most loudly right before we abandon Him. That our faith is real but smaller than we think. That Jesus loves us with full knowledge of what we are about to do, not in spite of it.",
+      "What word or phrase stands out? 'I am not alone, because the Father is with me.' Jesus speaks the antidote to every loneliness ever felt by a Christian — He shares the Father's presence with us through the same Spirit that holds Him.",
+      "What is God asking of me today? To trust that He has already conquered the world, even when my own corner of it looks unconquered. To accept His peace as a gift on Monday morning instead of earning it by Friday.",
+      "How does this connect to Jesus? This IS Jesus — His own voice on the eve of His Passion, naming the victory before the cross, refusing to let suffering have the final word. Every Catholic stands inside this hour every time we say 'peace be with you' at Mass.",
+      "How can I pray this passage? 'Jesus, courage. You have conquered the world. Give me peace in You today, not when the trouble lifts.'",
+      "What truth do I carry today? He has already won. My job is to walk with the Victor, not to win the war myself."
+    ]
+  },
+  "gospelImmersion": {
+    "_source": "step-2-reading-bible skill (Fr. Mike Schmitz Ignatian method)",
+    "icbParaphrase": "The disciples said, 'Now You are speaking plainly. You are not hiding anything.' Then they said, 'Now we see You know everything. We believe You came from God.' Jesus answered them, 'Do you really believe now? Listen. The time is coming — it is here already — when you will all run away. You will leave Me alone. But I am not alone. The Father is with Me. I told you these things so you can have peace in Me. In the world you will have trouble. But be brave. I have won. I have beaten the world.'",
+    "senses": {
+      "sight": "You are in a low-ceilinged upper room. Oil lamps flicker against rough plastered walls. The long table is still cluttered — cups, broken pieces of unleavened bread, a smear of red wine. Eleven men lean toward Jesus, their faces flushed from food and feeling. Jesus sits at the head, very still. His sleeves are still damp at the wrists from washing their feet earlier. His eyes are dark and steady. Outside the small high window the Jerusalem night is black and very quiet.",
+      "sound": "The room has gone hushed after a long, intense conversation. You hear the soft hiss of the lamp wicks. A cup is set down on wood. Someone's robe rustles as he leans in. When the disciples speak, they almost interrupt each other in their excitement — 'Now You are speaking plainly!' — their voices rising. Then Jesus answers, and His voice is lower than theirs, slower, almost tender, as if He is breaking news gently to people who do not yet know they need to hear it.",
+      "touch": "The bench under you is hard and warm from sitting. The night air coming in through the window is cool on the back of your neck. Your sandals are off; the floor is cold stone through your feet. You can feel that your stomach is full and your eyelids are heavy. If you reach out and touch the table, the wood is sticky from spilled wine. Your hand, when you set it down, almost touches the edge of Jesus' cloak.",
+      "smell": "Lamp oil, faintly bitter. The yeasty, charred smell of bread crusts. Sour wine. The clean sharpness of the bowl of water still in the corner where Jesus knelt to wash feet. Underneath it all, the cool dust-and-stone smell of an old Jerusalem house at night.",
+      "taste": "A little wine still on your lips. The papery aftertaste of unleavened bread. A trace of bitter herbs from the Passover meal. Mostly, the strange dry taste of a mouth that has been listening for hours without speaking."
+    },
+    "jesusMoment": "Jesus is leaning forward, elbows on the table, fingers laced. The lamp catches one side of His face and leaves the other in shadow. He is not angry that the disciples have spoken too confidently — He looks at them the way a parent looks at a child who has said 'I'll be fine, Mama' on the first day of school. His eyes go around the table, settling on each of them in turn. When His gaze reaches you, it does not move on quickly. He looks at you for a long moment, knowing exactly what you will do tomorrow, this week, this year — and the look does not change. Then He smiles, just barely, and says quietly, only to you: 'Be courageous. I have conquered the world.'"
+  },
+  "rosaryTieIn": {
+    "_source": "rosary-mysteries-guide skill",
+    "mysterySet": "Joyful",
+    "reasonForToday": "Monday is the Church's traditional day for the Joyful Mysteries — the coming of Christ into the world that He, in today's Gospel, declares He has already conquered.",
+    "spiritualFruit": "Humility, charity, poverty of spirit, obedience, and the joy of finding Jesus when He seems hidden.",
+    "connectionToGospel": "In John 16, Christ stands on the edge of His Passion and says, 'I am not alone, the Father is with Me' — the same Father who in the Joyful Mysteries sent Him into the world through Mary's yes. The Joyful Mysteries show us why Jesus could speak with such peace tonight: He has known the Father's presence since the moment of the Annunciation, and that unbroken communion is now the source of His promise of peace to us."
+  },
+  "walkWithHim": {
+    "_source": "with-him skill (Catholic companionship mode)",
+    "modeDetected": "morning",
+    "companionPrompt": "Good morning. You are here, in this room with me before I have even gotten up. I do not have to summon You — You stayed the night. Today I will probably forget that more than I remember it, but You told the disciples last night, 'In the world you will have trouble, but be courageous; I have conquered the world.' I am taking that as Yours to me this morning. The trouble is real — I am not pretending it is not — but You have already won, and I get to walk through Monday next to the Victor, not as a soldier still in the fight. Stay close. We have today.",
+    "oneTruthToCarry": "He has already conquered the world; I just need to walk through Monday beside Him."
   }
 }
