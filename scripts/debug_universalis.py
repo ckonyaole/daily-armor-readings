@@ -12,8 +12,10 @@ def main() -> int:
     parser.add_argument("--date", required=True, help="YYYYMMDD")
     parser.add_argument("--edition", default="europe.usa",
                         help="Universalis edition path (default europe.usa)")
+    parser.add_argument("--page", default="mass.htm",
+                        help="page name (e.g. mass.htm, mass1.htm)")
     args = parser.parse_args()
-    url = f"https://universalis.com/{args.edition}/{args.date}/mass.htm"
+    url = f"https://universalis.com/{args.edition}/{args.date}/{args.page}"
     print(f"=== FETCH: {url} ===")
     r = requests.get(url, timeout=30, headers=HEADERS)
     print(f"=== STATUS: {r.status_code} ===")

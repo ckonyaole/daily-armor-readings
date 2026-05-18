@@ -9,6 +9,10 @@ on:
         description: 'edition path (default europe.usa)'
         required: false
         default: 'europe.usa'
+      page:
+        description: 'page (default mass.htm)'
+        required: false
+        default: 'mass.htm'
 
 jobs:
   debug:
@@ -21,4 +25,4 @@ jobs:
       - name: install minimal deps
         run: pip install requests beautifulsoup4
       - name: fetch + inspect
-        run: python scripts/debug_universalis.py --date "${{ inputs.date }}" --edition "${{ inputs.edition }}"
+        run: python scripts/debug_universalis.py --date "${{ inputs.date }}" --edition "${{ inputs.edition }}" --page "${{ inputs.page }}"
