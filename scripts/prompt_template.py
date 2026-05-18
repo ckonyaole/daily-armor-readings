@@ -38,7 +38,8 @@ Return ONLY a JSON object. No markdown fences, no commentary outside the JSON.
 
 def build_user_prompt(*, readings: list[dict], liturgical: dict,
                        saint: dict | None,
-                       retrieved_per_reading: list[dict]) -> str:
+                       retrieved_per_reading: list[dict],
+                       with_skills: bool = False) -> str:
     """Assemble the user-turn prompt.
 
     Args:
@@ -48,6 +49,12 @@ def build_user_prompt(*, readings: list[dict], liturgical: dict,
         saint: optional {"name", "rank", "bio"?}
         retrieved_per_reading: parallel to readings; each is
                                {"catena": [...], "ccc": [...]}
+        with_skills: when True, the prompt also instructs Claude to invoke
+                     the 4 Catholic skills (bible-entry-icb,
+                     step-2-reading-bible, rosary-mysteries-guide,
+                     with-him) and return their results as additional
+                     top-level fields. Only set this when running via
+                     Claude CLI where the Skill tool is available.
     """
     parts: list[str] = []
     parts.append(f"# Today: {liturgical.get('title', '')}")
@@ -87,7 +94,14 @@ def build_user_prompt(*, readings: list[dict], liturgical: dict,
                 parts.append(f"- CCC {c['paragraph']}: {c['text']}")
         parts.append("")  # blank line between readings
 
-    parts.append("""
+    if with_skills:
+        parts.append(_SKILL_INSTRUCTIONS)
+    else:
+        parts.append(_BASE_INSTRUCTIONS)
+    return "\n".join(parts)
+
+
+_BASE_INSTRUCTIONS = """
 ## Required JSON output
 
 Return ONLY a JSON object with this exact shape:
@@ -115,5 +129,77 @@ Return ONLY a JSON object with this exact shape:
 }
 
 The order of readings in the output MUST match the order in the input above.
-""")
-    return "\n".join(parts)
+"""
+
+
+_SKILL_INSTRUCTIONS = """
+## Required JSON output
+
+You have access to four installed Catholic skills. After generating the base
+exegesis, invoke each skill on today's GOSPEL passage and include the results
+as additional top-level fields. Return EVERYTHING in one JSON object with
+this exact shape (schemaVersion 2):
+
+{
+  "schemaVersion": 2,
+  "readings": [
+    {
+      "kind": "first_reading" | "psalm" | "second_reading" | "gospel",
+      "exegesis": {
+        "summary": "string — 2-4 sentences explaining what this reading proclaims",
+        "patristicQuotes": [{"father": "...", "work": "...", "quote": "..."}],
+        "cccReferences": [{"paragraph": <int>, "title": "short label"}],
+        "thematicConnection": "string — how this reading relates to today's other readings"
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "What today's readings say together",
+    "body": "string — 150-250 words weaving all readings into one message"
+  },
+  "bibleEntry": {
+    "_source": "bible-entry-icb skill",
+    "questions": [
+      "10 scene-entry questions (one per array element) covering: setting, "
+      "characters, emotions, tension, what Jesus might be feeling, God's "
+      "heart in this passage, where you locate yourself in the story, "
+      "one moment that catches your attention, how this connects to "
+      "another part of the Gospel, one truth to carry."
+    ]
+  },
+  "gospelImmersion": {
+    "_source": "step-2-reading-bible skill (Fr. Mike Schmitz Ignatian method)",
+    "icbParaphrase": "string — today's Gospel rewritten in ICB-simple English (~3-5 short sentences)",
+    "senses": {
+      "sight": "string — what you SEE in the scene (~30-60 words)",
+      "sound": "string — what you HEAR (~30-60 words)",
+      "touch": "string — what you FEEL physically (~30-60 words)",
+      "smell": "string — what you SMELL (~30-60 words)",
+      "taste": "string — what you TASTE, if applicable; else 'not present in this scene' (~30-60 words)"
+    },
+    "jesusMoment": "string — describe Jesus in the scene from your imagined vantage point: face, posture, eyes, voice, one specific thing He does (~80-120 words)"
+  },
+  "rosaryTieIn": {
+    "_source": "rosary-mysteries-guide skill",
+    "mysterySet": "Joyful" | "Sorrowful" | "Glorious" | "Luminous",
+    "reasonForToday": "string — why this set fits today (day-of-week default or feast override; ~30 words)",
+    "spiritualFruit": "string — the spiritual fruit of this mystery set (1 short sentence)",
+    "connectionToGospel": "string — 2 sentences linking today's Gospel to this mystery set's themes"
+  },
+  "walkWithHim": {
+    "_source": "with-him skill (Catholic companionship mode)",
+    "modeDetected": "morning" | "midday" | "evening",
+    "companionPrompt": "string — 80-120 words written AS IF to Christ as a daily companion, framed for the detected time-of-day mode. First-person, intimate, no third-person 'Jesus' references — speak directly TO Him.",
+    "oneTruthToCarry": "string — one short, memorable sentence the user can take into the rest of their day"
+  }
+}
+
+IMPORTANT:
+- For the skill-augmented sections, USE the corresponding installed skill via
+  the Skill tool. Do NOT fabricate skill output. If a skill fails to invoke,
+  omit that section entirely (better to skip than to fake).
+- The order of readings in the output MUST match the order in the input above.
+- All four skill sections are OPTIONAL — if you cannot invoke a skill for any
+  reason, omit that key. The app gracefully handles missing fields.
+- Return ONE JSON object with EVERYTHING. No markdown fences, no commentary.
+"""

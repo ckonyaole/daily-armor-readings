@@ -3,10 +3,12 @@ from __future__ import annotations
 from pathlib import Path
 import pandas as pd
 
-CURRENT_SCHEMA = 1
+SUPPORTED_SCHEMAS = {1, 2}
 REQUIRED_TOP = {"schemaVersion", "date", "liturgical", "readings",
                 "synthesis", "generation"}
 VALID_KINDS = {"first_reading", "psalm", "second_reading", "gospel"}
+# v2 adds these OPTIONAL skill-augmented fields. App tolerates missing.
+OPTIONAL_V2_FIELDS = {"bibleEntry", "gospelImmersion", "rosaryTieIn", "walkWithHim"}
 
 class ValidationError(Exception):
     pass
@@ -24,9 +26,10 @@ def validate(payload: dict, *, ccc_path) -> None:
     missing = REQUIRED_TOP - set(payload.keys())
     if missing:
         raise ValidationError(f"missing top-level fields: {sorted(missing)}")
-    if payload["schemaVersion"] != CURRENT_SCHEMA:
+    if payload["schemaVersion"] not in SUPPORTED_SCHEMAS:
         raise ValidationError(
-            f"schemaVersion must be {CURRENT_SCHEMA}, got {payload['schemaVersion']}")
+            f"schemaVersion must be one of {sorted(SUPPORTED_SCHEMAS)}, "
+            f"got {payload['schemaVersion']}")
     readings = payload.get("readings") or []
     if not readings:
         raise ValidationError("readings must not be empty")

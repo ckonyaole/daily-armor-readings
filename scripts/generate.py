@@ -152,7 +152,8 @@ def main(argv: list[str] | None = None) -> int:
     # 4. Prompt + call (or dry-run)
     user_prompt = build_user_prompt(
         readings=readings, liturgical=liturgical, saint=None,
-        retrieved_per_reading=retrieved_per)
+        retrieved_per_reading=retrieved_per,
+        with_skills=args.use_claude_cli)
 
     if args.dry_run:
         ai_json = {
@@ -199,8 +200,9 @@ def main(argv: list[str] | None = None) -> int:
         usage = res.get("usage", {})
 
     # 5. Merge AI exegesis into readings
+    schema_version = 2 if args.use_claude_cli else 1
     payload = {
-        "schemaVersion": 1,
+        "schemaVersion": schema_version,
         "date": args.date,
         "liturgical": liturgical,
         "saint": None,
@@ -217,6 +219,10 @@ def main(argv: list[str] | None = None) -> int:
             "corpusVersion": CORPUS_VERSION,
         }
     }
+    # Skill-augmented sections (only present when CLI mode returned them)
+    for skill_field in ("bibleEntry", "gospelImmersion", "rosaryTieIn", "walkWithHim"):
+        if skill_field in ai_json and ai_json[skill_field]:
+            payload[skill_field] = ai_json[skill_field]
 
     # 6. Validate (only in live mode - dry runs have empty CCC refs which is fine)
     if not args.dry_run:
