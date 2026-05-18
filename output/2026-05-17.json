@@ -5,8 +5,8 @@
     "season": "Easter",
     "week": "Week of 2026-05-17",
     "color": "white",
-    "rank": "Sunday",
-    "title": "Sunday - May 17, 2026",
+    "rank": "Solemnity",
+    "title": "The Ascension of the Lord",
     "lectionaryCycle": "A",
     "weekdayCycle": null,
     "date": "2026-05-17"
@@ -16,150 +16,121 @@
     {
       "kind": "first_reading",
       "title": "First reading",
-      "citation": "Acts 1:12-14",
-      "text": "After Jesus was taken up into heaven the apostles went back from the Mount of Olives, as it is called, to Jerusalem, a short distance away, no more than a sabbath walk; and when they reached the city they went to the upper room where they were staying; there were Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus and Simon the Zealot, and Jude son of James. All these joined in continuous prayer, together with several women, including Mary the mother of Jesus, and with his brothers.",
+      "citation": "Acts 19:1-8",
+      "text": "While Apollos was in Corinth, Paul made his way overland as far as Ephesus, where he found a number of disciples. When he asked, ‘Did you receive the Holy Spirit when you became believers?’ they answered, ‘No, we were never even told there was such a thing as a Holy Spirit.’ ‘Then how were you baptised?’ he asked. ‘With John’s baptism’ they replied. ‘John’s baptism’ said Paul ‘was a baptism of repentance; but he insisted that the people should believe in the one who was to come after him – in other words, Jesus.’ When they heard this, they were baptised in the name of the Lord Jesus, and the moment Paul had laid hands on them the Holy Spirit came down on them, and they began to speak with tongues and to prophesy. There were about twelve of these men.",
       "translation": "Universalis (US)",
       "exegesis": {
-        "summary": "On this Seventh Sunday of Easter, between Ascension and Pentecost, we behold the nascent Church in the Upper Room: the Eleven, the holy women, the brethren of the Lord, and Mary the Mother of Jesus, persevering with one accord in prayer. This is the apostolic college gathered around Peter, awaiting the promised Spirit. Mary's silent maternal presence at the heart of the praying Church reveals her as Mother of the Church, just as she was the womb from which Christ first came forth.",
+        "summary": "Paul arrives in Ephesus and discovers disciples who knew only the baptism of John. After explaining that John pointed forward to Christ, Paul baptizes them in the name of the Lord Jesus and lays hands on them, and the Holy Spirit descends with the gifts of tongues and prophecy. The episode shows that the baptism of repentance must be completed by the Sacrament instituted by Christ, which alone confers the Holy Spirit.",
         "patristicQuotes": [
           {
-            "father": "St. Bede",
-            "work": "Catena Aurea on Luke",
-            "quote": "He has placed the foundations of the house of the obedient Church—of faith, hope, and love—in the side of that highest mountain, namely, Christ."
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Apostle, having found certain Ephesians baptized with John's baptism, baptized them again in the name of Christ, because they had not been baptized in the Spirit. As the baptism of Christ was more than that of John, it was a new one given, not the same repeated."
           },
           {
-            "father": "Pseudo-Jerome",
-            "work": "Catena Aurea on Mark",
-            "quote": "Jesus is held captive on the Mount of Olives, whence He ascended to heaven, that we may know that we ascend into heaven from that place in which we watch and pray."
+            "father": "St. Augustine",
+            "work": "Tractates on John IV-VI",
+            "quote": "So then we baptize again after John's baptism; after a homicide's we baptize not: because John gave his own baptism, the homicide gives Christ's; which is so holy a sacrament, that not even a homicide's ministration can pollute it."
           }
         ],
         "cccReferences": [
           {
-            "paragraph": 861,
-            "title": "Apostolic succession from the Twelve"
+            "paragraph": 1227,
+            "title": "Baptism unites us to Christ's death and resurrection"
           },
           {
-            "paragraph": 1053,
-            "title": "Gathered around Jesus and Mary"
+            "paragraph": 1315,
+            "title": "Laying on of hands and the gift of the Spirit"
+          },
+          {
+            "paragraph": 1226,
+            "title": "Baptism from the day of Pentecost"
           }
         ],
-        "thematicConnection": "The disciples persevere in prayer with Mary precisely as Jesus prayed in the Gospel: 'I pray for them...they are in the world.' Christ's high-priestly prayer is now answered in the Upper Room, where the Church begs the Spirit of glory who, Peter will say, rests upon those who suffer for the Name."
+        "thematicConnection": "On the threshold of Pentecost, this reading shows what the Ascended Christ pours out on His Church: not merely a baptism of repentance but the Holy Spirit Himself, the Gift of the glorified Lord who now reigns at the Father's right hand."
       }
     },
     {
       "kind": "psalm",
       "title": "Responsorial Psalm",
-      "citation": "Psalm 26(27):1,4,7-8",
-      "text": "I am sure I shall see the Lord’s goodness in the land of the living.\nor\nAlleluia!\nThe Lord is my light and my help;\nwhom shall I fear?\nThe Lord is the stronghold of my life;\nbefore whom shall I shrink?\nI am sure I shall see the Lord’s goodness in the land of the living.\nor\nAlleluia!\nThere is one thing I ask of the Lord,\nfor this I long,\nto live in the house of the Lord,\nall the days of my life,\nto savour the sweetness of the Lord,\nto behold his temple.\nI am sure I shall see the Lord’s goodness in the land of the living.\nor\nAlleluia!\nO Lord, hear my voice when I call;\nhave mercy and answer.\nOf you my heart has spoken:\n‘Seek his face.’\nI am sure I shall see the Lord’s goodness in the land of the living.\nor\nAlleluia!",
+      "citation": "Psalm 67(68):2-7",
+      "text": "Kingdoms of the earth, sing to God.\nor\nAlleluia!\nLet God arise, let his foes be scattered.\nLet those who hate him flee before him.\nAs smoke is blown away so will they be blown away;\nlike wax that melts before the fire,\nso the wicked shall perish at the presence of God.\nKingdoms of the earth, sing to God.\nor\nAlleluia!\nBut the just shall rejoice at the presence of God,\nthey shall exult and dance for joy.\nO sing to the Lord, make music to his name;\nrejoice in the Lord, exult at his presence.\nKingdoms of the earth, sing to God.\nor\nAlleluia!\nFather of the orphan, defender of the widow,\nsuch is God in his holy place.\nGod gives the lonely a home to live in;\nhe leads the prisoners forth into freedom.\nKingdoms of the earth, sing to God.\nor\nAlleluia!",
       "translation": "Universalis (US)",
-      "refrain": "I am sure I shall see the Lord’s goodness in the land of the living.",
+      "refrain": "Kingdoms of the earth, sing to God.",
       "exegesis": {
-        "summary": "The psalmist's one consuming desire—'to dwell in the house of the Lord all the days of my life'—gives voice to the Church between Ascension and Pentecost. With the Lord no longer visibly present, the disciple's heart longs to seek His face. The refrain, 'I shall see the Lord's goodness in the land of the living,' confesses our Easter hope: that the Risen One has gone before us to prepare a dwelling.",
+        "summary": "The psalm sings of God's triumphal procession: His enemies scatter like smoke before Him, while the just exult and dance for joy. He is the Father of orphans and defender of widows, leading prisoners into freedom. The Church hears this psalm as a prophecy of Christ's Ascension, when the King takes His throne and the kingdoms of the earth are summoned to praise.",
         "patristicQuotes": [
           {
-            "father": "St. Augustine",
-            "work": "Epistle 130",
-            "quote": "He who prays, 'Show thy face and we shall be safe,' what is it but to say, 'Let thy kingdom come?'"
+            "father": "St. Cyprian",
+            "work": "On the Lord's Prayer",
+            "quote": "The kingdom of God may stand for Christ Himself, whom we day by day wish to come… As He is our resurrection, because in Him we rise again, so may He be called the kingdom of God, because we are to reign in Him."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "The kingdom of God means that He Himself is placed in the midst of them, that is, reigning in their hearts by faith."
           }
         ],
         "cccReferences": [
           {
-            "paragraph": 30,
-            "title": "Our heart is restless until it rests in You"
+            "paragraph": 671,
+            "title": "Christ reigns yet awaits final fulfillment"
           },
           {
-            "paragraph": 260,
-            "title": "Dwelling for the Most Holy Trinity"
+            "paragraph": 2855,
+            "title": "Kingdom, power, and glory restored to the Father"
           }
         ],
-        "thematicConnection": "The single desire of the psalmist mirrors the single-hearted prayer of the disciples in the Upper Room and the single-hearted glorification offered by the Son to the Father in the Gospel. To 'seek His face' is to await the Spirit who reveals the Father in the Son."
-      }
-    },
-    {
-      "kind": "second_reading",
-      "title": "Second reading",
-      "citation": "1 Peter 4:13-16",
-      "text": "If you can have some share in the sufferings of Christ, be glad, because you will enjoy a much greater gladness when his glory is revealed. It is a blessing for you when they insult you for bearing the name of Christ, because it means that you have the Spirit of glory, the Spirit of God resting on you. None of you should ever deserve to suffer for being a murderer, a thief, a criminal or an informer; but if anyone of you should suffer for being a Christian, then he is not to be ashamed of it; he should thank God that he has been called one.",
-      "translation": "Universalis (US)",
-      "exegesis": {
-        "summary": "St. Peter teaches that sharing in Christ's sufferings is not a misfortune to be endured but a participation in the very glory of God. To be insulted for the Name is to have 'the Spirit of glory, the Spirit of God' resting upon us. The Christian's suffering, when borne for Christ rather than for one's own sins, becomes the place where divine glory is revealed in advance of its full unveiling.",
-        "patristicQuotes": [
-          {
-            "father": "St. John Chrysostom",
-            "work": "Homily 77",
-            "quote": "The hatred of the world would be evidence of their goodness; so that they ought rather to grieve if they were loved by the world, as that would be evidence of their wickedness."
-          },
-          {
-            "father": "St. Augustine",
-            "work": "Tractate 88 on John",
-            "quote": "In you they will hate Me, in you persecute Me; your word they will not keep, because it is mine."
-          }
-        ],
-        "cccReferences": [
-          {
-            "paragraph": 1691,
-            "title": "Christian, recognize your dignity"
-          },
-          {
-            "paragraph": 2474,
-            "title": "The witness of the martyrs"
-          }
-        ],
-        "thematicConnection": "Peter expounds in apostolic teaching what the apostles will live in the Upper Room and what Jesus prays for in the Gospel: a Church that does not belong to the world but glorifies the Father precisely by being hated by the world for the Name."
+        "thematicConnection": "The psalm provides the soundtrack of the Ascension: 'Kingdoms of the earth, sing to God.' What the apostles witness in Acts and what Jesus promises in the Gospel — His victory and the gift of the Spirit — the psalm proclaims in song."
       }
     },
     {
       "kind": "gospel",
       "title": "Gospel",
-      "citation": "John 17:1-11",
-      "text": "Jesus raised his eyes to heaven and said:\n‘Father, the hour has come:\nglorify your Son\nso that your Son may glorify you;\nand, through the power over all mankind that you have given him,\nlet him give eternal life to all those you have entrusted to him.\nAnd eternal life is this:\nto know you,\nthe only true God,\nand Jesus Christ whom you have sent.\nI have glorified you on earth\nand finished the work that you gave me to do.\nNow, Father, it is time for you to glorify me\nwith that glory I had with you\nbefore ever the world was.\nI have made your name known\nto the men you took from the world to give me.\nThey were yours and you gave them to me,\nand they have kept your word.\nNow at last they know\nthat all you have given me comes indeed from you;\nfor I have given them the teaching you gave to me,\nand they have truly accepted this, that I came from you,\nand have believed that it was you who sent me.\nI pray for them;\nI am not praying for the world\nbut for those you have given me,\nbecause they belong to you:\nall I have is yours\nand all you have is mine,\nand in them I am glorified.\nI am not in the world any longer,\nbut they are in the world,\nand I am coming to you.’",
+      "citation": "John 16:29-33",
+      "text": "His disciples said to Jesus, ‘Now you are speaking plainly and not using metaphors! Now we see that you know everything, and do not have to wait for questions to be put into words; because of this we believe that you came from God.’ Jesus answered them:\n‘Do you believe at last?\nListen; the time will come – in fact it has come already –\nwhen you will be scattered,\neach going his own way and leaving me alone.\nAnd yet I am not alone,\nbecause the Father is with me.\nI have told you all this\nso that you may find peace in me.\nIn the world you will have trouble,\nbut be brave: I have conquered the world.’",
       "translation": "Universalis (US)",
       "exegesis": {
-        "summary": "Jesus' High Priestly Prayer at the Last Supper is the heart of this Sunday before Pentecost. Lifting His eyes to heaven, the Son asks to be glorified—through the Cross—that He might glorify the Father by giving eternal life, which is to know the Father and the Son He has sent. He prays for those the Father has given Him out of the world, sanctifying them as His own and entrusting them to the Father's keeping as He returns to His pre-existent glory.",
+        "summary": "At the close of the Last Supper Discourse, the disciples claim a clarity of faith they do not yet possess. Jesus gently warns that they will scatter and leave Him alone, yet He is never alone because the Father is with Him. He concludes with the words that resound on this Solemnity: 'In the world you will have trouble, but be brave: I have conquered the world.'",
         "patristicQuotes": [
           {
             "father": "St. Augustine",
-            "work": "Tractate 105 on John",
-            "quote": "Glorify Thy Son, that Thy Son also may glorify Thee, that is, Raise Me from the dead, that by Me Thou mayest be known to the whole world."
+            "work": "Tractates on John 77",
+            "quote": "He left no peace in this world; in which we conquer the enemy, and have love one to another: He will give us peace in the world to come, when we shall reign without an enemy. This peace is Himself, both when we believe that He is, and when we shall see Him as He is."
           },
           {
-            "father": "Origen",
-            "work": "Commentary on John, Book 32",
-            "quote": "Christ cannot be glorified except the Father be glorified with Him. By His death He spoiled principalities and powers, making peace by the blood of His cross, to reconcile all things unto Himself."
-          },
-          {
-            "father": "St. Augustine",
-            "work": "Tractate 106 on John",
-            "quote": "As the Maker of the world, He was known among all nations; but as the Father of that Christ, by whom He took away the sins of the world, His name was unknown—which name Christ now manifests to those whom the Father had given Him out of the world."
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John 74",
+            "quote": "He says this to console His disciples, who were now troubled at the prospect of the hatred and opposition which awaited them after His departure."
           }
         ],
         "cccReferences": [
           {
-            "paragraph": 2605,
-            "title": "Jesus' filial prayer in His hour"
-          },
-          {
             "paragraph": 2825,
-            "title": "Christ learned obedience"
+            "title": "United to Christ's will, we share His victory"
           },
           {
-            "paragraph": 606,
-            "title": "The Son embraces the Father's will"
+            "paragraph": 2605,
+            "title": "Christ's filial prayer in the hour of self-gift"
+          },
+          {
+            "paragraph": 550,
+            "title": "The Kingdom defeats the powers of evil"
           }
         ],
-        "thematicConnection": "This is the prayer Jesus continues to offer at the right hand of the Father after the Ascension. The disciples in the Upper Room are precisely 'those you have given me,' kept safe in the Father's name; their suffering for the Name (Peter) is the very means by which the Son still glorifies the Father in them."
+        "thematicConnection": "On the Solemnity of the Ascension, Christ's farewell words become the charter of the Church He leaves behind. He goes to the Father not to abandon us but to send the Spirit (the First Reading) and to reign as the conquering King the psalm extols."
       }
     }
   ],
   "synthesis": {
-    "title": "Kept in the Father's Name: the Church at Prayer between Ascension and Pentecost",
-    "body": "On this Seventh Sunday of Easter, the Church stands in the holy interval between the Ascension and Pentecost, and every reading shows us what to do in that interval: pray, and let ourselves be prayed for. In the Gospel, Jesus lifts His eyes to heaven and offers His High Priestly Prayer—glorifying the Father by the Cross, asking eternal life for those the Father has given Him, and entrusting them to the Father's keeping as He returns to glory. Acts shows that prayer answered visibly on earth: the Eleven, persevering with one accord, together with Mary the Mother of Jesus, become the first cell of the praying Church, the obedient house built on the side of Mount Olivet, awaiting the Spirit. The Psalm gives us the single desire that should animate every Christian heart in this novena of expectation: to dwell in the house of the Lord, to seek His face, to see His goodness in the land of the living. And St. Peter completes the picture: because the Spirit of glory rests upon us, even insult and suffering for the Name become the place where the Father is glorified in the Son and the Son in His members. To be a Christian is to be one whom Jesus is praying for, right now."
+    "title": "The Conqueror Ascends and Pours Out His Spirit",
+    "body": "Today the Church lifts her eyes to the Lord who is taken up in glory. The Ascension is not Christ's absence but His enthronement: 'Let God arise, let His foes be scattered.' The psalm's triumphal procession is fulfilled as the Risen Jesus, having conquered sin and death, ascends to the right hand of the Father and from there leads captives into freedom. \n\nIn the Gospel, on the eve of His Passion, Jesus already speaks as the Victor: 'I have conquered the world.' He warns His disciples that they will scatter — and the Ascension itself could feel like such a scattering — yet He is never alone, for the Father is with Him, and through the Spirit He will be with them always. The peace He gives is His own peace, the peace of the One enthroned above every power. \n\nThe reading from Acts shows that promise unfolding. The Ascended Lord does not leave His Church orphaned: through Paul's hands at Ephesus, the Holy Spirit descends upon those baptized into Jesus' name. What John's baptism could only foreshadow, the glorified Christ now accomplishes. So we who wait in these days before Pentecost take courage: our King reigns, His Spirit is poured forth, and in Him we find peace."
   },
   "generation": {
     "model": "anthropic/claude-opus-4-7",
-    "promptTokens": 11998,
-    "completionTokens": 2780,
-    "generatedAt": "2026-05-17T22:07:07.747034+00:00",
+    "promptTokens": 8044,
+    "completionTokens": 2284,
+    "generatedAt": "2026-05-18T01:16:42.889268+00:00",
     "corpusVersion": "v1.0"
   }
 }
