@@ -1,13 +1,26 @@
-name: Daily Readings Generation
+name: Daily Readings Generation (fallback)
+
+# Hybrid model: a local Windows machine (Dell or Alienware) runs the daily
+# generation at ~4am local time using Claude Code CLI under the user's
+# subscription auth (zero API cost). This GitHub Action runs at 09:00 UTC
+# as a safety net — only generates if today's file isn't already in the
+# repo (i.e., the local machines were both off when the schedule fired).
+#
+# Cost on a normal day: $0 (this workflow no-ops because local already pushed).
+# Cost on a "machines off" day: ~$0.25 OpenRouter Opus 4.7.
 
 on:
   schedule:
-    - cron: '0 4 * * *'   # 04:00 UTC daily
+    - cron: '0 9 * * *'   # 09:00 UTC = giving local machines a 5+ hour window first
   workflow_dispatch:
     inputs:
       date:
         description: 'Date in YYYY-MM-DD (default: today UTC)'
         required: false
+      force:
+        description: 'Force regenerate even if file exists'
+        required: false
+        default: 'false'
 
 jobs:
   generate:
@@ -17,32 +30,49 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
       - name: Determine date
         id: date
         run: |
           DATE="${{ inputs.date }}"
           if [ -z "$DATE" ]; then DATE=$(date -u +%Y-%m-%d); fi
           echo "value=$DATE" >> "$GITHUB_OUTPUT"
-          echo "Generating reading for $DATE"
+          echo "Target date: $DATE"
 
-      - name: Generate exegesis
+      - name: Skip if already generated (hybrid fallback)
+        id: skip_check
+        run: |
+          FILE="output/${{ steps.date.outputs.value }}.json"
+          FORCE="${{ inputs.force }}"
+          if [ -f "$FILE" ] && [ "$FORCE" != "true" ]; then
+            echo "  → $FILE already exists; local machine handled it. Skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "  → $FILE not present (or force=true); generating via OpenRouter."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python 3.11
+        if: steps.skip_check.outputs.skip != 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        if: steps.skip_check.outputs.skip != 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate exegesis via OpenRouter (fallback path)
+        if: steps.skip_check.outputs.skip != 'true'
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           python -m scripts.generate --date "${{ steps.date.outputs.value }}"
 
       - name: Commit + push
+        if: steps.skip_check.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -50,6 +80,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No new output to commit"
           else
-            git commit -m "daily: ${{ steps.date.outputs.value }}"
+            git commit -m "daily (fallback): ${{ steps.date.outputs.value }}"
             git push
           fi

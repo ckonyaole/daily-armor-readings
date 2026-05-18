@@ -11,6 +11,7 @@ from scripts.scrape_readings import fetch_day, parse_readings, ScrapeError
 from scripts.retrieve import Retriever
 from scripts.prompt_template import SYSTEM_PROMPT, build_user_prompt
 from scripts.call_openrouter import call_chat, OpenRouterError
+from scripts.call_claude_cli import call_cli as call_claude_cli, ClaudeCliError
 from scripts.validate_output import validate, ValidationError
 from scripts.liturgical import season_for, lectionary_cycle, weekday_cycle
 from scripts.fetch_bible_passage import fetch as fetch_passage, PassageFetchError
@@ -38,6 +39,9 @@ def main(argv: list[str] | None = None) -> int:
                         help="skip OpenRouter call; write debug stub")
     parser.add_argument("--fixture", default=None,
                         help="Path to fixture HTML to use instead of live fetch")
+    parser.add_argument("--use-claude-cli", action="store_true",
+                        help="Use local `claude` CLI (subscription auth) instead "
+                             "of OpenRouter API. Requires `claude` on PATH + interactive sign-in.")
     args = parser.parse_args(argv)
 
     d = date.fromisoformat(args.date)
@@ -141,13 +145,23 @@ def main(argv: list[str] | None = None) -> int:
             "synthesis": {"title": "Dry run", "body": "[dry-run output]"},
         }
         usage = {"prompt_tokens": 0, "completion_tokens": 0}
+        model_label = "dry-run"
     else:
-        try:
-            res = call_chat(model=MODEL, system=SYSTEM_PROMPT,
-                            user=user_prompt, max_tokens=5000)
-        except OpenRouterError as e:
-            print(f"OPENROUTER FAILED: {e}", file=sys.stderr)
-            return 2
+        if args.use_claude_cli:
+            try:
+                res = call_claude_cli(system=SYSTEM_PROMPT, user=user_prompt)
+                model_label = "claude-code-cli/subscription"
+            except ClaudeCliError as e:
+                print(f"CLAUDE CLI FAILED: {e}", file=sys.stderr)
+                return 2
+        else:
+            try:
+                res = call_chat(model=MODEL, system=SYSTEM_PROMPT,
+                                user=user_prompt, max_tokens=5000)
+                model_label = MODEL
+            except OpenRouterError as e:
+                print(f"OPENROUTER FAILED: {e}", file=sys.stderr)
+                return 2
         content = res["content"].strip()
         if content.startswith("```"):
             content = content.split("```", 2)[1]
@@ -174,7 +188,7 @@ def main(argv: list[str] | None = None) -> int:
         ],
         "synthesis": ai_json.get("synthesis", {"title": "", "body": ""}),
         "generation": {
-            "model": MODEL,
+            "model": model_label,
             "promptTokens": usage.get("prompt_tokens", 0),
             "completionTokens": usage.get("completion_tokens", 0),
             "generatedAt": datetime.now(timezone.utc).isoformat(),
