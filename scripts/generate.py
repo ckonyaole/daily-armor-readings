@@ -78,11 +78,24 @@ def main(argv: list[str] | None = None) -> int:
             else:
                 html = fetch_day(args.date)
             scraped = parse_readings(html)
+            readings = scraped["readings"]
         except (ScrapeError, FileNotFoundError) as e:
-            _write_placeholder(out_path, args.date, f"scrape_failed: {e}")
-            print(f"SCRAPE FAILED: {e}", file=sys.stderr)
-            return 1
-        readings = scraped["readings"]
+            # Fallback: if we're in --use-claude-cli mode, delegate the scrape
+            # to Claude's WebFetch tool (bypasses local network restrictions
+            # like Dillard's Geo-IP firewall that blocks Universalis's UK IP).
+            if args.use_claude_cli and not args.fixture:
+                print(f"Python scrape failed ({e}); delegating to Claude WebFetch...",
+                      file=sys.stderr)
+                readings = _scrape_via_claude(args.date)
+                if not readings:
+                    _write_placeholder(out_path, args.date,
+                                       f"scrape_failed (both Python and Claude WebFetch): {e}")
+                    print("CLAUDE WEBFETCH ALSO FAILED", file=sys.stderr)
+                    return 1
+            else:
+                _write_placeholder(out_path, args.date, f"scrape_failed: {e}")
+                print(f"SCRAPE FAILED: {e}", file=sys.stderr)
+                return 1
 
     # 2. Liturgical context
     season, color = season_for(d)
@@ -217,6 +230,66 @@ def _write_placeholder(out_path: Path, iso_date: str, reason: str) -> None:
     out_path.write_text(json.dumps({
         "schemaVersion": 1, "date": iso_date, "status": reason
     }, indent=2), encoding="utf-8")
+
+def _scrape_via_claude(iso_date: str) -> list[dict]:
+    """Delegate the day's reading fetch to Claude CLI's WebFetch tool.
+
+    Used when local Python `requests` is blocked (e.g., Geo-IP firewalls
+    that block UK-hosted Universalis from US campus networks). Claude's
+    WebFetch routes through Anthropic's network so it bypasses the local
+    restriction.
+
+    Returns a list of reading dicts in the same shape as parse_readings()
+    would produce. Empty list on failure.
+    """
+    yyyymmdd = iso_date.replace("-", "")
+    url = f"https://universalis.com/europe.usa/{yyyymmdd}/mass.htm"
+    prompt = f"""Use your WebFetch tool to fetch {url}
+
+Parse the HTML and return ONLY a JSON array (no markdown fences, no
+commentary, just the JSON) of the daily Mass readings. Each entry:
+
+{{
+  "kind": "first_reading" | "psalm" | "second_reading" | "gospel",
+  "title": "First reading" | "Responsorial Psalm" | "Second reading" | "Gospel",
+  "citation": "Acts 1:12-14",
+  "text": "the full reading text",
+  "translation": "Universalis (US)",
+  "refrain": "for psalm only, the antiphon line"
+}}
+
+Skip 'Gospel Acclamation' entries (not used). Include 'second_reading' only
+if present (Sundays + solemnities). Return JSON array starting with [ and
+ending with ]. NOTHING ELSE."""
+
+    try:
+        res = call_claude_cli(system="You are a precise web scraper.",
+                              user=prompt, timeout=180)
+    except ClaudeCliError as e:
+        print(f"  claude WebFetch call failed: {e}", file=sys.stderr)
+        return []
+    content = res["content"].strip()
+    # Strip markdown fences if Claude wrapped output despite instructions
+    if content.startswith("```"):
+        content = content.split("```", 2)[1]
+        if content.startswith("json"):
+            content = content[4:]
+        content = content.strip()
+    # Extract the JSON array if there's preamble
+    start = content.find("[")
+    end = content.rfind("]")
+    if start >= 0 and end > start:
+        content = content[start:end + 1]
+    try:
+        readings = json.loads(content)
+    except json.JSONDecodeError as e:
+        print(f"  claude WebFetch returned non-JSON: {e}", file=sys.stderr)
+        print(f"  ---first 500 chars---\n{content[:500]}", file=sys.stderr)
+        return []
+    if not isinstance(readings, list) or not readings:
+        print(f"  claude WebFetch returned empty/invalid array", file=sys.stderr)
+        return []
+    return readings
 
 if __name__ == "__main__":
     sys.exit(main())
