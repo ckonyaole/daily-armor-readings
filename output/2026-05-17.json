@@ -16,121 +16,170 @@
     {
       "kind": "first_reading",
       "title": "First reading",
-      "citation": "Acts 19:1-8",
-      "text": "While Apollos was in Corinth, Paul made his way overland as far as Ephesus, where he found a number of disciples. When he asked, ‘Did you receive the Holy Spirit when you became believers?’ they answered, ‘No, we were never even told there was such a thing as a Holy Spirit.’ ‘Then how were you baptised?’ he asked. ‘With John’s baptism’ they replied. ‘John’s baptism’ said Paul ‘was a baptism of repentance; but he insisted that the people should believe in the one who was to come after him – in other words, Jesus.’ When they heard this, they were baptised in the name of the Lord Jesus, and the moment Paul had laid hands on them the Holy Spirit came down on them, and they began to speak with tongues and to prophesy. There were about twelve of these men.",
-      "translation": "Universalis (US)",
+      "citation": "Acts 1:1-11",
+      "text": "The Promise of the Holy Spirit\nIn the first book,\nO Theoph′ilus, I have dealt with all that Jesus began to do and teach,\nuntil the day when he was taken up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen.\nTo them he presented himself alive after his passion by many proofs, appearing to them during forty days, and speaking of the kingdom of God.\nAnd while staying\nwith them he charged them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, “you heard from me,\nfor John baptized with water, but before many days you shall be baptized with the Holy Spirit.”\nThe Ascension of Jesus\nSo when they had come together, they asked him, “Lord, will you at this time restore the kingdom to Israel?”\nHe said to them, “It is not for you to know times or seasons which the Father has fixed by his own authority.\nBut you shall receive power when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and in all Judea and Samar′ia and to the end of the earth.”\nAnd when he had said this, as they were looking on, he was lifted up, and a cloud took him out of their sight.\nAnd while they were gazing into heaven as he went, behold, two men stood by them in white robes,\nand said, “Men of Galilee, why do you stand looking into heaven? This Jesus, who was taken up from you into heaven, will come in the same way as you saw him go into heaven.”\nRead full chapter",
+      "translation": "RSVCE",
       "exegesis": {
-        "summary": "Paul arrives in Ephesus and discovers disciples who knew only the baptism of John. After explaining that John pointed forward to Christ, Paul baptizes them in the name of the Lord Jesus and lays hands on them, and the Holy Spirit descends with the gifts of tongues and prophecy. The episode shows that the baptism of repentance must be completed by the Sacrament instituted by Christ, which alone confers the Holy Spirit.",
+        "summary": "Luke opens the Acts of the Apostles by recalling the forty days of the Risen Christ's appearances and recounting his Ascension from the Mount of Olives. Jesus charges the apostles to wait in Jerusalem for the promised Holy Spirit, who will empower them to be his witnesses to the ends of the earth. As he is taken up in a cloud, two angels promise that he will return in the same way he departed.",
         "patristicQuotes": [
           {
-            "father": "Pseudo-Chrysostom",
-            "work": "Catena Aurea on Matthew",
-            "quote": "The Apostle, having found certain Ephesians baptized with John's baptism, baptized them again in the name of Christ, because they had not been baptized in the Spirit. As the baptism of Christ was more than that of John, it was a new one given, not the same repeated."
+            "father": "St. John Chrysostom",
+            "work": "Homilies on Acts",
+            "quote": "Why did not the Spirit come while Christ was present, or immediately on His departure? Because it was fitting that they should become desirous of grace, and then at length receive it. It was necessary that our nature should appear in Heaven, and the covenants be completed, and that then the Spirit should come, and pure joys be experienced."
           },
           {
-            "father": "St. Augustine",
-            "work": "Tractates on John IV-VI",
-            "quote": "So then we baptize again after John's baptism; after a homicide's we baptize not: because John gave his own baptism, the homicide gives Christ's; which is so holy a sacrament, that not even a homicide's ministration can pollute it."
+            "father": "St. Ambrose",
+            "work": "Commentary on Luke (Catena Aurea)",
+            "quote": "There are diversities of graces. One operation He breathed into them there, another He promised here. For there the grace of remitting sins was given, which is breathed into them by Christ, that you may believe the Holy Spirit to be of Christ, to be from God. But Luke describes the pouring forth of the grace of speaking with tongues."
+          },
+          {
+            "father": "Alcuin",
+            "work": "Catena Aurea on John",
+            "quote": "He promised the Holy Spirit to the Apostles before the Ascension; He gave it to them in fiery tongues, after the Ascension."
           }
         ],
         "cccReferences": [
           {
-            "paragraph": 1227,
-            "title": "Baptism unites us to Christ's death and resurrection"
+            "paragraph": 659,
+            "title": "The Ascension"
           },
           {
-            "paragraph": 1315,
-            "title": "Laying on of hands and the gift of the Spirit"
+            "paragraph": 729,
+            "title": "Promise of the Paraclete after glorification"
           },
           {
-            "paragraph": 1226,
-            "title": "Baptism from the day of Pentecost"
+            "paragraph": 1287,
+            "title": "Pentecost fulfills the promise"
+          },
+          {
+            "paragraph": 244,
+            "title": "Spirit sent by Father and Son"
           }
         ],
-        "thematicConnection": "On the threshold of Pentecost, this reading shows what the Ascended Christ pours out on His Church: not merely a baptism of repentance but the Holy Spirit Himself, the Gift of the glorified Lord who now reigns at the Father's right hand."
+        "thematicConnection": "This reading narrates the very event today's Solemnity celebrates, framing the Ascension as both an ending and a beginning: the end of Christ's visible earthly mission and the beginning of the Church's apostolic mission — the same mission Matthew's Gospel will spell out in the Great Commission."
       }
     },
     {
       "kind": "psalm",
       "title": "Responsorial Psalm",
-      "citation": "Psalm 67(68):2-7",
-      "text": "Kingdoms of the earth, sing to God.\nor\nAlleluia!\nLet God arise, let his foes be scattered.\nLet those who hate him flee before him.\nAs smoke is blown away so will they be blown away;\nlike wax that melts before the fire,\nso the wicked shall perish at the presence of God.\nKingdoms of the earth, sing to God.\nor\nAlleluia!\nBut the just shall rejoice at the presence of God,\nthey shall exult and dance for joy.\nO sing to the Lord, make music to his name;\nrejoice in the Lord, exult at his presence.\nKingdoms of the earth, sing to God.\nor\nAlleluia!\nFather of the orphan, defender of the widow,\nsuch is God in his holy place.\nGod gives the lonely a home to live in;\nhe leads the prisoners forth into freedom.\nKingdoms of the earth, sing to God.\nor\nAlleluia!",
-      "translation": "Universalis (US)",
-      "refrain": "Kingdoms of the earth, sing to God.",
+      "citation": "Psalm 47:2-3, 6-7, 8-9",
+      "text": "For the\n, the Most High, is terrible,\na great king over all the earth.\nHe subdued peoples under us,\nand nations under our feet.\nRead full chapter",
+      "translation": "RSVCE",
       "exegesis": {
-        "summary": "The psalm sings of God's triumphal procession: His enemies scatter like smoke before Him, while the just exult and dance for joy. He is the Father of orphans and defender of widows, leading prisoners into freedom. The Church hears this psalm as a prophecy of Christ's Ascension, when the King takes His throne and the kingdoms of the earth are summoned to praise.",
+        "summary": "Psalm 47 is one of the great enthronement psalms, sung as God ascends his holy throne amid shouts of joy and the blast of the trumpet. The Church places it on the lips of the faithful today as Christ, the eternal King, ascends to take his place at the Father's right hand. The Lord most high reigns over all the nations.",
         "patristicQuotes": [
           {
-            "father": "St. Cyprian",
-            "work": "On the Lord's Prayer",
-            "quote": "The kingdom of God may stand for Christ Himself, whom we day by day wish to come… As He is our resurrection, because in Him we rise again, so may He be called the kingdom of God, because we are to reign in Him."
-          },
-          {
-            "father": "St. Bede",
-            "work": "Catena Aurea on Luke",
-            "quote": "The kingdom of God means that He Himself is placed in the midst of them, that is, reigning in their hearts by faith."
+            "father": "St. Ambrose",
+            "work": "Commentary on Luke (Catena Aurea)",
+            "quote": "Observe how He both ascends with His Apostles and descends to the multitude; for how could the multitude see Christ but in a lowly place. It follows him not to the lofty places, it ascends not the heights."
           }
         ],
         "cccReferences": [
           {
-            "paragraph": 671,
-            "title": "Christ reigns yet awaits final fulfillment"
-          },
-          {
-            "paragraph": 2855,
-            "title": "Kingdom, power, and glory restored to the Father"
+            "paragraph": 908,
+            "title": "Royal freedom of Christ shared with disciples"
           }
         ],
-        "thematicConnection": "The psalm provides the soundtrack of the Ascension: 'Kingdoms of the earth, sing to God.' What the apostles witness in Acts and what Jesus promises in the Gospel — His victory and the gift of the Spirit — the psalm proclaims in song."
+        "thematicConnection": "The Psalm sings what the first reading narrates and what the second reading proclaims theologically: God mounts his throne amid shouts of joy. Christ's Ascension is his enthronement as King over every nation — the very nations the Gospel will send the apostles to disciple."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Ephesians 1:17-23",
+      "text": "that the God of our Lord Jesus Christ, the Father of glory, may give you a spirit of wisdom and of revelation in the knowledge of him,\nhaving the eyes of your hearts enlightened, that you may know what is the hope to which he has called you, what are the riches of his glorious inheritance in the saints,\nand what is the immeasurable greatness of his power in us who believe, according to the working of his great might\nwhich he accomplished in Christ when he raised him from the dead and made him sit at his right hand in the heavenly places,\nfar above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in that which is to come;\nand he has put all things under his feet and has made him the head over all things for the church,\nwhich is his body, the fulness of him who fills all in all.\nRead full chapter",
+      "translation": "RSVCE",
+      "exegesis": {
+        "summary": "St. Paul prays that the Ephesians may receive a spirit of wisdom to grasp the hope of their calling and the immeasurable power of God at work in believers. That power is the same power by which the Father raised Christ from the dead and seated him at his right hand, far above every rule and authority. The exalted Christ has been made head of the Church, his Body, the fullness of him who fills all in all.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "That he may reign with Christ, to whom the Father has committed all that is His. And as the son of a good father set over all that is his, He shall communicate of His dignity and glory to His faithful and wise stewards, that they also may be above the whole creation."
+          },
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Commentary on Luke (Catena Aurea)",
+            "quote": "The people were astonished at the greatness of God, because of the gift of Christ, who conferred on the holy Apostles also the power of working divine miracles, and having the mastery over evil spirits."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1083,
+            "title": "The Church blesses the Father for inexpressible gifts"
+          },
+          {
+            "paragraph": 1695,
+            "title": "Christians as temple of the Spirit"
+          },
+          {
+            "paragraph": 124,
+            "title": "Christ's glorification at center of New Testament"
+          }
+        ],
+        "thematicConnection": "Paul gives the theological meaning of what Acts narrates and the Psalm celebrates: the ascended Christ is enthroned in heavenly glory and rules as Head of his Body, the Church. This is the 'hope of our calling' that empowers the missionary mandate Jesus gives in the Gospel."
       }
     },
     {
       "kind": "gospel",
       "title": "Gospel",
-      "citation": "John 16:29-33",
-      "text": "His disciples said to Jesus, ‘Now you are speaking plainly and not using metaphors! Now we see that you know everything, and do not have to wait for questions to be put into words; because of this we believe that you came from God.’ Jesus answered them:\n‘Do you believe at last?\nListen; the time will come – in fact it has come already –\nwhen you will be scattered,\neach going his own way and leaving me alone.\nAnd yet I am not alone,\nbecause the Father is with me.\nI have told you all this\nso that you may find peace in me.\nIn the world you will have trouble,\nbut be brave: I have conquered the world.’",
-      "translation": "Universalis (US)",
+      "citation": "Matthew 28:16-20",
+      "text": "The Commissioning of the Disciples\nNow the eleven disciples went to Galilee, to the mountain to which Jesus had directed them.\nAnd when they saw him they worshiped him; but some doubted.\nAnd Jesus came and said to them, “All authority in heaven and on earth has been given to me.\nGo therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,\nteaching them to observe all that I have commanded you; and lo, I am with you always, to the close of the age.”\nRead full chapter",
+      "translation": "RSVCE",
       "exegesis": {
-        "summary": "At the close of the Last Supper Discourse, the disciples claim a clarity of faith they do not yet possess. Jesus gently warns that they will scatter and leave Him alone, yet He is never alone because the Father is with Him. He concludes with the words that resound on this Solemnity: 'In the world you will have trouble, but be brave: I have conquered the world.'",
+        "summary": "On a mountain in Galilee, the Risen Jesus appears to the Eleven, who worship him though some still doubt. He declares that all authority in heaven and on earth has been given to him and sends them to make disciples of all nations, baptizing them in the name of the Father, Son, and Holy Spirit. He promises his abiding presence to the end of the age — the Great Commission with which Matthew's Gospel closes.",
         "patristicQuotes": [
           {
-            "father": "St. Augustine",
-            "work": "Tractates on John 77",
-            "quote": "He left no peace in this world; in which we conquer the enemy, and have love one to another: He will give us peace in the world to come, when we shall reign without an enemy. This peace is Himself, both when we believe that He is, and when we shall see Him as He is."
+            "father": "St. Bede",
+            "work": "Homilies (Catena Aurea)",
+            "quote": "When coming to His Passion the Lord had said to His disciples, 'After I am risen I will go before you into Galilee'; and the Angel said the same to the women. Therefore the disciples obey the command of their Master. Eleven only go, for one had already perished."
           },
           {
-            "father": "St. John Chrysostom",
-            "work": "Homilies on John 74",
-            "quote": "He says this to console His disciples, who were now troubled at the prospect of the hatred and opposition which awaited them after His departure."
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The disciples, when they saw Him, knew the Lord, and worshipped Him, bowing their faces to the ground. And He, their affectionate and merciful Master, that He might take away all doubtfulness from their hearts, coming to them, strengthened them in their belief, saying, All power is given unto me in heaven and in earth."
+          },
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Catena Aurea on Matthew",
+            "quote": "That the disciples may ever remember that they are the children of one parent, and that by their new birth they have passed the limits of their earthly origin."
           }
         ],
         "cccReferences": [
           {
-            "paragraph": 2825,
-            "title": "United to Christ's will, we share His victory"
+            "paragraph": 2,
+            "title": "The call resounds throughout the world"
           },
           {
-            "paragraph": 2605,
-            "title": "Christ's filial prayer in the hour of self-gift"
+            "paragraph": 849,
+            "title": "Missionary mandate"
           },
           {
-            "paragraph": 550,
-            "title": "The Kingdom defeats the powers of evil"
+            "paragraph": 858,
+            "title": "Apostles continue Christ's mission"
+          },
+          {
+            "paragraph": 1122,
+            "title": "Sacramental mission of evangelization"
+          },
+          {
+            "paragraph": 1276,
+            "title": "Baptism in the Triune name"
           }
         ],
-        "thematicConnection": "On the Solemnity of the Ascension, Christ's farewell words become the charter of the Church He leaves behind. He goes to the Father not to abandon us but to send the Spirit (the First Reading) and to reign as the conquering King the psalm extols."
+        "thematicConnection": "Matthew's commission is the hinge of the entire Solemnity: the Lord enthroned (Psalm), exalted as Head of the Church (Ephesians), and lifted into heaven (Acts) does not abandon his own. His Ascension is the inauguration of the Church's mission, sealed with his promise: 'I am with you always.'"
       }
     }
   ],
   "synthesis": {
-    "title": "The Conqueror Ascends and Pours Out His Spirit",
-    "body": "Today the Church lifts her eyes to the Lord who is taken up in glory. The Ascension is not Christ's absence but His enthronement: 'Let God arise, let His foes be scattered.' The psalm's triumphal procession is fulfilled as the Risen Jesus, having conquered sin and death, ascends to the right hand of the Father and from there leads captives into freedom. \n\nIn the Gospel, on the eve of His Passion, Jesus already speaks as the Victor: 'I have conquered the world.' He warns His disciples that they will scatter — and the Ascension itself could feel like such a scattering — yet He is never alone, for the Father is with Him, and through the Spirit He will be with them always. The peace He gives is His own peace, the peace of the One enthroned above every power. \n\nThe reading from Acts shows that promise unfolding. The Ascended Lord does not leave His Church orphaned: through Paul's hands at Ephesus, the Holy Spirit descends upon those baptized into Jesus' name. What John's baptism could only foreshadow, the glorified Christ now accomplishes. So we who wait in these days before Pentecost take courage: our King reigns, His Spirit is poured forth, and in Him we find peace."
+    "title": "He ascends as King — and sends his Church",
+    "body": "On this Solemnity of the Ascension, the Church does not mourn a departure; she celebrates an enthronement. Psalm 47 supplies the soundtrack — 'God mounts his throne amid shouts of joy' — while Acts narrates the historical event: Jesus is lifted up before the apostles' eyes, taken from sight by a cloud, the same cloud that veiled God's glory on Sinai and at the Transfiguration. St. Paul, writing to the Ephesians, unveils the meaning: the Father has seated Christ at his right hand, far above every power, and has made him Head of the Church, his Body, 'the fullness of him who fills all in all.' This is no absence. It is presence in a new and greater mode. The Lord who ascends is the same Lord who, in Matthew's Gospel, gathers the Eleven on the mountain and declares, 'All authority in heaven and on earth has been given to me.' From that authority flows the mission of the Church: 'Go therefore and make disciples of all nations.' The Ascension and the Great Commission are one mystery — Christ goes to the Father precisely so that, through the Spirit he will pour out at Pentecost, he may be with his Church always, to the close of the age. We stand, then, not gazing into heaven, but sent."
   },
   "generation": {
     "model": "anthropic/claude-opus-4-7",
-    "promptTokens": 8044,
-    "completionTokens": 2284,
-    "generatedAt": "2026-05-18T01:16:42.889268+00:00",
+    "promptTokens": 9216,
+    "completionTokens": 3106,
+    "generatedAt": "2026-05-18T03:44:15.247956+00:00",
     "corpusVersion": "v1.0"
   }
 }
