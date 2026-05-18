@@ -1,0 +1,24 @@
+name: Debug Universalis fetch
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'YYYYMMDD'
+        required: true
+      edition:
+        description: 'edition path (default europe.usa)'
+        required: false
+        default: 'europe.usa'
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: install minimal deps
+        run: pip install requests beautifulsoup4
+      - name: fetch + inspect
+        run: python scripts/debug_universalis.py --date "${{ inputs.date }}" --edition "${{ inputs.edition }}"
