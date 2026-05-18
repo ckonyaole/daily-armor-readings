@@ -75,8 +75,21 @@ try {
     try {
         Write-Log "Invoking generate.py with --use-claude-cli..."
         $args = @("-m", "scripts.generate", "--date", $today, "--use-claude-cli")
-        & $PythonPath @args 2>&1 | ForEach-Object { Write-Log $_ }
-        $exitCode = $LASTEXITCODE
+        # PS 5.1 treats native-command stderr as ErrorRecords under
+        # ErrorActionPreference=Stop. Wrap in a temporary "Continue" so
+        # Python's informational stderr (e.g. "delegating to Claude
+        # WebFetch...") doesn't kill the pipeline.
+        $prevPref = $ErrorActionPreference
+        $ErrorActionPreference = "Continue"
+        try {
+            $pyOutput = & $PythonPath @args 2>&1
+            $exitCode = $LASTEXITCODE
+        } finally {
+            $ErrorActionPreference = $prevPref
+        }
+        foreach ($line in $pyOutput) {
+            Write-Log ([string]$line)
+        }
     } finally {
         Pop-Location
     }
