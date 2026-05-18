@@ -15,130 +15,155 @@
   "readings": [
     {
       "kind": "first_reading",
-      "title": "First reading",
+      "title": "Reading 1",
       "citation": "Acts 19:1-8",
-      "text": "While Apollos was in Corinth, Paul made his way overland as far as Ephesus, where he found a number of disciples. When he asked, ‘Did you receive the Holy Spirit when you became believers?’ they answered, ‘No, we were never even told there was such a thing as a Holy Spirit.’ ‘Then how were you baptised?’ he asked. ‘With John’s baptism’ they replied. ‘John’s baptism’ said Paul ‘was a baptism of repentance; but he insisted that the people should believe in the one who was to come after him – in other words, Jesus.’ When they heard this, they were baptised in the name of the Lord Jesus, and the moment Paul had laid hands on them the Holy Spirit came down on them, and they began to speak with tongues and to prophesy. There were about twelve of these men.",
-      "translation": "Universalis (US)",
+      "text": "It happened that while Apollos was in Corinth, Paul made his way overland as far as Ephesus, where he found a number of disciples.\nWhen he asked, 'Did you receive the Holy Spirit when you became believers?' they answered, 'No, we were never even told there was such a thing as a Holy Spirit.'\nHe asked, 'Then how were you baptised?' They replied, 'With John's baptism.'\nPaul said, 'John's baptism was a baptism of repentance; but he insisted that the people should believe in the one who was to come after him -- namely Jesus.'\nWhen they heard this, they were baptised in the name of the Lord Jesus,\nand the moment Paul had laid hands on them the Holy Spirit came down on them, and they began to speak with tongues and to prophesy.\nThere were about twelve of these men in all.\nHe began by going to the synagogue, where he spoke out fearlessly and argued persuasively about the kingdom of God. He did this for three months,",
+      "translation": "Catholic.org (NJB-based)",
       "exegesis": {
-        "summary": "St. Paul arrives in Ephesus and discovers disciples who had received only John's baptism of repentance. He completes their initiation by baptizing them in the name of the Lord Jesus and laying hands upon them, whereupon the Holy Spirit descends visibly in tongues and prophecy. The passage shows the irreplaceable necessity of Christian Baptism and the apostolic gesture by which the Spirit is poured out in fullness.",
+        "summary": "Paul, arriving in Ephesus, discovers disciples who have received only John's baptism of repentance and have never even heard of the Holy Spirit. After teaching them that John pointed forward to Jesus, Paul baptizes them in the name of the Lord Jesus and lays hands upon them; the Spirit descends, and they prophesy and speak in tongues. The episode unveils the difference between the preparatory baptism of John and the full sacramental baptism of Christ, which alone confers the Holy Spirit and incorporates the believer into the Risen Lord.",
         "patristicQuotes": [
           {
             "father": "Pseudo-Chrysostom",
             "work": "Catena Aurea on Matthew",
-            "quote": "The baptism of Christ does not undo the baptism of John, but includes it in itself; he who is baptized in Christ's name has both baptisms, that of water and that of the Spirit. The Apostle, having found certain Ephesians baptized with John's baptism, baptized them again in the name of Christ, because they had not been baptized in the Spirit."
+            "quote": "The baptism of Christ does not undo the baptism of John, but includes it in itself; he who is baptized in Christ's name has both baptisms, that of water and that of the Spirit. Thus the Apostle, having found certain Ephesians baptized with John's baptism, baptized them again in the name of Christ, because they had not been baptized in the Spirit; for as the baptism of Christ was more than that of John, it was a new one given, not the same repeated."
           },
           {
-            "father": "St. Augustine",
+            "father": "Augustine",
             "work": "Tractates on John IV-VI",
-            "quote": "Christ retains in His own possession exclusively the power of baptism, that the hope of the baptized might be directed to Him who had baptized them. It is by this power that the unity of the Church is established; of which it is said, 'My dove is one.'"
+            "quote": "We baptize again after John's baptism; after a homicide's we baptize not: because John gave his own baptism, the homicide gives Christ's; which is so holy a sacrament, that not even a homicide's ministration can pollute it. It is by this power which Christ retains in His own possession exclusively that the unity of the Church is established."
           }
         ],
         "cccReferences": [
           {
+            "paragraph": 720,
+            "title": "John's baptism prepares; baptism in water and the Spirit gives new birth"
+          },
+          {
             "paragraph": 1226,
-            "title": "Baptism from Pentecost onward"
+            "title": "Baptism in the name of Jesus brings the gift of the Holy Spirit"
           },
           {
             "paragraph": 1227,
-            "title": "Buried and risen with Christ"
+            "title": "Baptism incorporates the believer into Christ's death and resurrection"
           },
           {
             "paragraph": 1315,
-            "title": "Apostles laying hands for the Spirit"
+            "title": "Apostolic laying on of hands confers the Holy Spirit"
           },
           {
             "paragraph": 1286,
-            "title": "The Spirit on the Messiah"
+            "title": "The Spirit who rested on the Messiah is given through Christ's sacraments"
           }
         ],
-        "thematicConnection": "The Ephesian disciples pass from a baptism of mere repentance into the full life of the Risen Christ — they receive the Spirit who is the very gift of the conquering Lord proclaimed in today's Gospel, and they become the kind of believers the Psalm describes: rejoicing at the presence of God."
+        "thematicConnection": "Easter weekday readings prepare the Church for Pentecost. Acts shows the Spirit completing what John's baptism could only foreshadow; the Psalm sings of God arising in power among His people; the Gospel records Christ's pledge that, though He depart, the Father remains with Him and His victory will not abandon the scattered disciples. The Spirit poured out at Ephesus is the same Spirit Christ promises to send."
       }
     },
     {
       "kind": "psalm",
       "title": "Responsorial Psalm",
-      "citation": "Psalm 67(68):2-7",
-      "text": "Kingdoms of the earth, sing to God.\nor\nAlleluia!\nLet God arise, let his foes be scattered.\nLet those who hate him flee before him.\nAs smoke is blown away so will they be blown away;\nlike wax that melts before the fire,\nso the wicked shall perish at the presence of God.\nKingdoms of the earth, sing to God.\nor\nAlleluia!\nBut the just shall rejoice at the presence of God,\nthey shall exult and dance for joy.\nO sing to the Lord, make music to his name;\nrejoice in the Lord, exult at his presence.\nKingdoms of the earth, sing to God.\nor\nAlleluia!\nFather of the orphan, defender of the widow,\nsuch is God in his holy place.\nGod gives the lonely a home to live in;\nhe leads the prisoners forth into freedom.\nKingdoms of the earth, sing to God.\nor\nAlleluia!",
-      "translation": "Universalis (US)",
-      "refrain": "Kingdoms of the earth, sing to God.",
+      "citation": "Psalms 68:2-3, 4-5, 6-7",
+      "text": "You disperse them like smoke; as wax melts in the presence of a fire, so the wicked melt at the presence of God.\nThe upright rejoice in the presence of God, delighted and crying out for joy.\nSing to God, play music to his name, build a road for the Rider of the Clouds, rejoice in Yahweh, dance before him.\nFather of orphans, defender of widows, such is God in his holy dwelling.\nGod gives the lonely a home to live in, leads prisoners out into prosperity, but rebels must live in the bare wastelands.\nGod, when you set out at the head of your people, when you strode over the desert,",
+      "translation": "Catholic.org (NJB-based)",
+      "refrain": "You disperse them like smoke; as wax melts in the presence of a fire, so the wicked melt at the presence of God.",
       "exegesis": {
-        "summary": "The psalm is a triumphal hymn: God arises, His enemies scatter like smoke before fire, and the just leap for joy at His presence. He is named Father of orphans, defender of widows, the One who frees prisoners and gives the lonely a home. In Easter light, this is the song of Christ's Pasch, His victory drawing all kingdoms into His praise.",
+        "summary": "Psalm 68 is a triumphal hymn celebrating God's arising in power: the wicked melt like wax before His face, but the righteous exult and dance. He is named Father of orphans, defender of widows, the One who brings the lonely into a home and prisoners into freedom. The Church places this royal Easter psalm on the lips of the disciples awaiting the Spirit, for the Risen Christ has ascended on high, leading captivity captive, and now establishes His dwelling among the poor and the abandoned.",
         "patristicQuotes": [
           {
-            "father": "St. Cyprian",
-            "work": "On the Lord's Prayer",
-            "quote": "The kingdom of God may stand for Christ Himself, whom we day by day wish to come, and for whose advent we pray. As He is our resurrection, because in Him we rise again, so may He be called the kingdom of God, because we are to reign in Him."
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "God ever appears in a cloud, according to the Psalms, 'clouds and darkness are round about Him.' Therefore shall the Son of Man come in the clouds as God and the Lord, not secretly, but in glory worthy of God, with great power and majesty."
           },
           {
-            "father": "St. Bede",
-            "work": "Catena Aurea on Luke",
-            "quote": "The kingdom of God means that He Himself is placed in the midst of them, that is, reigning in their hearts by faith."
+            "father": "Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Word of God entered the ship, that is, the Church; the multitude follows the Lord out of the city into the desert, going from the Synagogue to the Church. The Lord sees them, has compassion upon them, and heals all sickness and infirmity, cleansing their obstructed minds and unbelieving hearts for the understanding of the new preaching."
           }
         ],
         "cccReferences": [
           {
-            "paragraph": 550,
-            "title": "The kingdom defeats Satan's reign"
+            "paragraph": 697,
+            "title": "The cloud both veils and reveals the saving presence of God"
           },
           {
-            "paragraph": 671,
-            "title": "Christ's reign already and not yet"
+            "paragraph": 2578,
+            "title": "God's people learn to pray in the shadow of His dwelling"
           },
           {
-            "paragraph": 2819,
-            "title": "Kingdom: righteousness, peace, joy in the Spirit"
+            "paragraph": 2594,
+            "title": "Prayer flourishes under the guidance of shepherds and prophets"
+          },
+          {
+            "paragraph": 1090,
+            "title": "The earthly liturgy is a foretaste of the heavenly"
+          },
+          {
+            "paragraph": 1,
+            "title": "God draws scattered humanity into the unity of His family"
           }
         ],
-        "thematicConnection": "If the Lord has 'conquered the world' (Gospel) and pours out His Spirit on the Ephesians (First Reading), then the wicked must indeed scatter and the kingdoms of the earth must sing. The Psalm is the Church's Easter response to a Christ who has already overcome."
+        "thematicConnection": "The Psalm voices the joy of those whom God gathers and indwells — the very experience of the Ephesian twelve, who pass from being uninstructed strangers to Spirit-filled members of Christ's Body. It also answers the Gospel's warning of scattering: even when disciples scatter, God remains 'Father of orphans,' giving the lonely a home. The Spirit who rises within them is the answer to the Psalmist's plea."
       }
     },
     {
       "kind": "gospel",
       "title": "Gospel",
       "citation": "John 16:29-33",
-      "text": "His disciples said to Jesus, ‘Now you are speaking plainly and not using metaphors! Now we see that you know everything, and do not have to wait for questions to be put into words; because of this we believe that you came from God.’ Jesus answered them:\n‘Do you believe at last?\nListen; the time will come – in fact it has come already –\nwhen you will be scattered,\neach going his own way and leaving me alone.\nAnd yet I am not alone,\nbecause the Father is with me.\nI have told you all this\nso that you may find peace in me.\nIn the world you will have trouble,\nbut be brave: I have conquered the world.’",
-      "translation": "Universalis (US)",
+      "text": "His disciples said, 'Now you are speaking plainly and not using veiled language.\nNow we see that you know everything and need not wait for questions to be put into words; because of this we believe that you came from God.'\nJesus answered them: Do you believe at last?\nListen; the time will come -- indeed it has come already -- when you are going to be scattered, each going his own way and leaving me alone. And yet I am not alone, because the Father is with me.\nI have told you all this so that you may find peace in me. In the world you will have hardship, but be courageous: I have conquered the world.",
+      "translation": "Catholic.org (NJB-based)",
       "exegesis": {
-        "summary": "At the close of the Last Supper discourse, the disciples profess belief, but Jesus gently warns that their faith is still fragile: they will scatter and leave Him alone. Yet He is not alone, for the Father is with Him. He speaks all this to give them His peace, a peace that holds even in tribulation, because He has already conquered the world.",
+        "summary": "At the close of the Last Supper Discourse the disciples claim, at last, to understand Jesus plainly and to believe He came from God. Christ replies with sober love: their belief is real but fragile, for the hour is upon them when they will be scattered, each fleeing his own way and leaving Him alone. Yet He is not alone, because the Father is with Him. He speaks all this so they may find peace in Him, for though the world brings tribulation, He has already conquered the world.",
         "patristicQuotes": [
           {
-            "father": "St. John Chrysostom",
-            "work": "Homilies on John 74",
-            "quote": "'Peace I leave with you, My peace I give unto you': He says this to console His disciples, who were now troubled at the prospect of the hatred and opposition which awaited them after His departure."
+            "father": "Augustine",
+            "work": "Tractates on John CVII",
+            "quote": "When He says 'I am no more in the world,' He means that He was soon going away. As man He prays God for His disciples; as God He is one with Him to Whom He prays. He commends to His Father those whom He was about to leave: 'Holy Father, keep through Thine own name those whom Thou hast given Me.'"
           },
           {
-            "father": "St. Augustine",
-            "work": "Tractates on John 77",
-            "quote": "He left no peace in this world; in which we conquer the enemy, and have love one to another. He will give us peace in the world to come, when we shall reign without an enemy. This peace is Himself, both when we believe that He is, and when we shall see Him as He is."
+            "father": "Chrysostom",
+            "work": "Homilies on John LXXXI",
+            "quote": "He speaks as man: 'While I was with them in the world, I kept them in Thy name'; that is, by Thy help. He speaks in condescension to the minds of His disciples, who thought they were more safe in His presence."
+          },
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on John",
+            "quote": "The disciples, having heard Him say 'I go to the Father' and being troubled at the thought of it, are taught that to love Him is not to be troubled, but to keep His commandments; this is love, to obey and believe in Him who is loved. And as they had expressed a strong desire for His bodily presence, He assures them that His absence will be supplied to them in another way: He will pray the Father, and the Father will give them another Comforter."
           }
         ],
         "cccReferences": [
           {
             "paragraph": 2602,
-            "title": "Jesus' prayer embraces His brethren"
+            "title": "Jesus carries His disciples to the Father in His own prayer"
           },
           {
             "paragraph": 2605,
-            "title": "Filial prayer in the hour of trial"
+            "title": "On the Cross, prayer and the gift of self are one"
           },
           {
-            "paragraph": 520,
-            "title": "Christ our model in persecution"
+            "paragraph": 607,
+            "title": "The Father's plan of redeeming love inspires Christ's whole life"
+          },
+          {
+            "paragraph": 516,
+            "title": "Christ's words and silences reveal the Father"
+          },
+          {
+            "paragraph": 687,
+            "title": "The Spirit unveils Christ to those who believe"
           }
         ],
-        "thematicConnection": "Jesus' promise of peace and victory is what makes the Ephesian disciples' fearless reception of the Spirit possible, and it is what tunes every Christian heart to sing the Psalm's refrain: 'Kingdoms of the earth, sing to God.'"
+        "thematicConnection": "The Lord's word, 'I have conquered the world,' is the very ground on which the Spirit-baptism at Ephesus stands and on which the Psalmist's confidence rests. The disciples who will scatter in the Passion will be re-gathered by the Spirit at Pentecost; the lonely will be brought into a home. The Gospel supplies the source of courage that the other two readings already celebrate as accomplished."
       }
     }
   ],
   "synthesis": {
-    "title": "Peace in the Conqueror, Power in the Spirit",
-    "body": "Today the Church gathers three notes into one Easter chord. In the Gospel, Jesus stands at the threshold of His Passion and tells trembling disciples the truth: they will scatter, the world will harass them, but in Him they will have peace because He has conquered the world. In Acts, we see what that conquest looks like when it touches real lives — twelve men in Ephesus who knew only John's baptism of repentance are brought into the fullness of Christ's Baptism, and the Holy Spirit, poured out through apostolic hands, opens their lips in tongues and prophecy. The promise of the Upper Room is fulfilled in a back street of Asia Minor. And so the Psalm bursts forth as the only fitting response: 'Let God arise, let his foes be scattered… Kingdoms of the earth, sing to God!' The risen Christ is no distant memory; He is the Father of orphans and defender of widows, leading prisoners into freedom — into the freedom of the children of God. The Catechism reminds us that Baptism plunges us into His death and Resurrection, and that the Spirit makes His kingdom of righteousness, peace, and joy already present within us. In a world still full of trouble, the Church proclaims today: take courage, for He has overcome."
+    "title": "He has conquered the world, and now He fills it with His Spirit",
+    "body": "Today's Easter weekday readings stand on the edge of Pentecost and proclaim a single mystery: the Risen Christ, having conquered the world, pours out His Holy Spirit to gather a scattered people into His Body. In the Gospel, Jesus tells His disciples that their hour of scattering is upon them, yet He is not alone, for the Father is with Him, and His victory is already won. The Acts of the Apostles shows what that victory looks like in time: in Ephesus, twelve men know only John's baptism of repentance, but Paul completes their preparation by baptizing them into the Lord Jesus and laying hands upon them, and the Spirit descends. What John could only foreshadow, Christ accomplishes; what was scattered in the Passion is now being gathered by the Spirit in the Church. Psalm 68 sings the meaning of it all: God arises, the wicked melt away, the upright rejoice, and the Father of orphans gives the lonely a home. The Church recognizes herself there. Once scattered, abandoned, ignorant even of the Spirit's name, we have been baptized into Christ's death and resurrection, made the dwelling place of the Spirit, and brought into the household of the Father. Therefore the Lord's last word at the Supper becomes our peace today: in the world we will have hardship, but be courageous — He has conquered the world."
   },
   "generation": {
-    "model": "anthropic/claude-opus-4-7",
-    "promptTokens": 8044,
-    "completionTokens": 2338,
-    "generatedAt": "2026-05-17T22:11:32.959438+00:00",
+    "model": "claude-code-cli/subscription",
+    "promptTokens": 0,
+    "completionTokens": 0,
+    "generatedAt": "2026-05-18T05:55:07.399185+00:00",
     "corpusVersion": "v1.0"
   }
 }
