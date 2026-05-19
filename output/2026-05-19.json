@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-05-19",
+  "liturgical": {
+    "season": "Easter",
+    "week": "Week of 2026-05-19",
+    "color": "white",
+    "rank": "Weekday",
+    "title": "Tuesday - May 19, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-19"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "Reading 1",
+      "citation": "Acts 20:17-27",
+      "text": "From Miletus he sent for the elders of the church of Ephesus.\nWhen they arrived he addressed these words to them: 'You know what my way of life has been ever since the first day I set foot among you in Asia,\nhow I have served the Lord in all humility, with all the sorrows and trials that came to me through the plots of the Jews.\nI have not hesitated to do anything that would be helpful to you; I have preached to you and instructed you both in public and in your homes,\nurging both Jews and Greeks to turn to God and to believe in our Lord Jesus.\n'And now you see me on my way to Jerusalem in captivity to the Spirit; I have no idea what will happen to me there,\nexcept that the Holy Spirit, in town after town, has made it clear to me that imprisonment and persecution await me.\nBut I do not place any value on my own life, provided that I complete the mission the Lord Jesus gave me -- to bear witness to the good news of God's grace.\n'I now feel sure that none of you among whom I have gone about proclaiming the kingdom will ever see my face again.\nAnd so on this very day I swear that my conscience is clear as far as all of you are concerned,\nfor I have without faltering put before you the whole of God's purpose.",
+      "translation": "Catholic.org (NJB-based)",
+      "exegesis": {
+        "summary": "Paul gathers the elders of Ephesus at Miletus for a farewell that is also a testament. He recounts a ministry marked by humility, tears, and faithful proclamation, and now turns toward Jerusalem 'in captivity to the Spirit,' knowing chains and persecution await. His one ambition is to finish the course and bear witness to the gospel of God's grace, having held nothing back from the whole counsel of God.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily lix on John",
+            "quote": "Those who suffer for the truth's sake, and confession of Christ, come to greatest honour. The Lord cares for one thing only — that we may believe; and better is he that doeth the will of God than ten thousand of the wicked."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Sermon on the Passion",
+            "quote": "Christ came from the bosom of the Father to take upon Him our bondage, that He might confer on us His freedom; to take upon Him our death, that we might be set free by His death. By despising death He exalted us mortals into Gods."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2474,
+            "title": "The witness of the martyrs"
+          },
+          {
+            "paragraph": 1020,
+            "title": "Christian death united to Christ"
+          }
+        ],
+        "thematicConnection": "Paul's readiness to lay down his life to 'complete the mission the Lord Jesus gave me' is the apostolic echo of the Gospel, where Jesus declares to the Father, 'I have glorified you on earth by finishing the work that you gave me to do.' The disciple's farewell mirrors the Master's High Priestly Prayer."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalms 68:10-11, 20-21",
+      "text": "Your family found a home, which you in your generosity provided for the humble.\nThe Lord gave a command, the good news of a countless army.\nThis God of ours is a God who saves; from Lord Yahweh comes escape from death;\nbut God smashes the head of his enemies, the long-haired skull of the prowling criminal.",
+      "translation": "Catholic.org (NJB-based)",
+      "refrain": "The Lord gave a command, the good news of a countless army.",
+      "exegesis": {
+        "summary": "The psalm proclaims the Lord as the God who saves, the strong refuge of the humble, the conqueror who 'gave a command' and raised up a countless army of heralds. From Lord Yahweh comes escape from death — a confession the Church places on the lips of Easter, when the risen Christ has indeed conquered the last enemy.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "As soon as the Word of the Most High God, the Giver of all strength, and the Lord of Hosts, was made man, He attacked him, and took away his arms."
+          },
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Thus beating down the efforts of the Devil, He professes Himself both God and Lord."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 269,
+            "title": "The almighty Lord of hosts"
+          },
+          {
+            "paragraph": 306,
+            "title": "God uses creatures to accomplish His plan"
+          }
+        ],
+        "thematicConnection": "The Psalm supplies the theological ground for both other readings: it is THIS God — the God who saves, who gives the command, who shatters the head of the enemy — who sends Paul to Jerusalem and who hears the Son's prayer in the Gospel. The 'countless army' anticipates the apostles and martyrs whose witness flows from the Father's victory."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 17:1-11",
+      "text": "After saying this, Jesus raised his eyes to heaven and said: Father, the hour has come: glorify your Son so that your Son may glorify you;\nso that, just as you have given him power over all humanity, he may give eternal life to all those you have entrusted to him.\nAnd eternal life is this: to know you, the only true God, and Jesus Christ whom you have sent.\nI have glorified you on earth by finishing the work that you gave me to do.\nNow, Father, glorify me with that glory I had with you before ever the world existed.\nI have revealed your name to those whom you took from the world to give me. They were yours and you gave them to me, and they have kept your word.\nNow at last they have recognised that all you have given me comes from you\nfor I have given them the teaching you gave to me, and they have indeed accepted it and know for certain that I came from you, and have believed that it was you who sent me.\nIt is for them that I pray. I am not praying for the world but for those you have given me, because they belong to you.\nAll I have is yours and all you have is mine, and in them I am glorified.\nI am no longer in the world, but they are in the world, and I am coming to you. Holy Father, keep those you have given me true to your name, so that they may be one like us.",
+      "translation": "Catholic.org (NJB-based)",
+      "exegesis": {
+        "summary": "Jesus lifts His eyes to heaven and opens His High Priestly Prayer. The hour has come: He asks to be glorified that He may glorify the Father, having finished the work entrusted to Him. He defines eternal life not as a future reward only but as a present knowledge — 'to know you, the only true God, and Jesus Christ whom you have sent' — and He prays for those the Father has given Him, that they may be kept one in the Father's name.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractate cvi on John",
+            "quote": "'I have manifested Thy name' is the same as 'I have glorified Thee.' As Maker of the world, God was known among all nations; but as the Father of that Christ by whom He took away the sins of the world, His name was unknown — and this name Christ now manifests to those whom the Father had given Him."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily lxxxii on John",
+            "quote": "When they have learned what Thou art, they will know that I am not separate from Thee, but Thine own Son greatly beloved, and joined to Thee. That the love wherewith Thou hast loved Me may be in them, and I in them."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2605,
+            "title": "The filial prayer of Jesus in His hour"
+          },
+          {
+            "paragraph": 606,
+            "title": "The Son embraces the Father's plan"
+          },
+          {
+            "paragraph": 2825,
+            "title": "United to the Son's obedient will"
+          },
+          {
+            "paragraph": 2783,
+            "title": "The Father revealed in Christ"
+          }
+        ],
+        "thematicConnection": "The Gospel reveals the inner heart of Paul's farewell: every apostle who 'completes the mission' is conformed to the Son who first prayed, 'I have finished the work.' The Psalm's saving God is precisely the Father whose name Jesus has made known and to whom He now returns."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Finishing the Work the Father Has Given",
+    "body": "Today the Church places before us two farewells that are really one prayer. In the Cenacle, Jesus lifts His eyes and declares, 'I have glorified you on earth by finishing the work that you gave me to do.' In Miletus, Paul gathers the Ephesian elders and tells them he no longer values his own life, provided he completes the mission the Lord Jesus gave him. The disciple has learned to pray as the Master prayed. Between them stands the Psalm, naming the God who makes such a life possible: the Lord of hosts who gives the command, who provides a home for the humble, from whom alone comes escape from death. Easter does not retire the cross; it reveals what the cross was always for — a life poured out into the Father's hands. Eternal life, Jesus says, is not first a place but a Person known: 'to know you, the only true God, and Jesus Christ whom you have sent.' To know Him is to be drawn into His finishing. Today the Church asks each of us, in the small Miletus of our own day, whether we too can say without flinching: I have not held back the whole counsel of God; my conscience is clear; let me complete what He has given me."
+  },
+  "generation": {
+    "model": "claude-code-cli/subscription",
+    "promptTokens": 0,
+    "completionTokens": 0,
+    "generatedAt": "2026-05-19T09:02:00.578294+00:00",
+    "corpusVersion": "v1.0"
+  },
+  "bibleEntry": {
+    "_source": "bible-entry-icb skill",
+    "questions": [
+      "Where is Jesus standing or sitting as He lifts His eyes to heaven — is the Upper Room still warm with the bread and wine, or has He already stepped into the night air on the way to Gethsemane?",
+      "Who is in the room with Him as He prays — and notice that He is praying OUT LOUD in front of them; what does it feel like to overhear the Son speaking to His Father?",
+      "What emotion do you hear in His voice when He says, 'Father, the hour has come' — is it dread, surrender, longing, peace, or all of these at once?",
+      "Where is the tension in this scene — between the glory He is asking for and the cross that is the only road to it?",
+      "What might Jesus be feeling as He looks at the men the Father gave Him, knowing one has already left and the others will scatter before dawn?",
+      "What does this prayer reveal about the Father's heart — that the Son's deepest request is not to be spared, but to be glorified so that He can glorify the Father?",
+      "Where do you locate yourself in this scene — are you one of the eleven listening, or are you one of those 'who will believe through their word,' for whom He has not yet begun to pray?",
+      "Which single line catches your attention and will not let you go — 'eternal life is to know you,' or 'I have finished the work,' or 'keep them true to your name'?",
+      "How does this prayer connect to Gethsemane only a few hours later, when the same Son will say, 'not my will but yours' — is John 17 the prayer behind the prayer?",
+      "What one truth will you carry into today: that eternal life has already begun in you the moment you began to know Him?"
+    ]
+  },
+  "gospelImmersion": {
+    "_source": "step-2-reading-bible skill (Fr. Mike Schmitz Ignatian method)",
+    "icbParaphrase": "Jesus looked up to heaven. He said, 'Father, the time is here. Show how great your Son is, so your Son can show how great you are. Eternal life is this: to know you, the only true God, and to know Jesus Christ, the one you sent. I finished the work you gave me. I told these men your name. They are yours. You gave them to me. Keep them safe. Keep them one, like you and me are one.'",
+    "senses": {
+      "sight": "You see the low light of oil lamps on the table, bread crumbs and a stained cup still sitting there. Jesus is standing now. His face is lifted up. His eyes are not closed — they are open, looking past the ceiling into the Father. The other men have gone quiet. Their faces are tired, confused, lit from below by the lamps. Shadows move on the walls. Outside the window the city is dark.",
+      "sound": "You hear His voice — not loud, but steady, the way someone speaks when every word costs them. You hear the men breathing carefully, trying not to interrupt. A bench creaks. Somewhere in Jerusalem a dog barks. The wind moves through the doorway. And underneath everything, you hear a stillness — as if the room itself is leaning in to listen to a Son speak to His Father.",
+      "touch": "You feel the wooden bench hard under you. The night air is cool on your arms. Your hands are folded in your lap and they are warm. The hair on the back of your neck stands up a little — not from fear, but because you know you are hearing something you were never meant to overhear, and the Son is letting you anyway.",
+      "smell": "You smell the wax of the lamps, the smoke of the small wick. There is the warm yeast smell of broken bread still on the table, and a trace of wine. Under it all is the smell of the stones of the city — dust, old wood, the faint smell of olive oil from the lampstands. Outside, somewhere down the slope, the wind brings up the smell of the Kidron and the trees of Gethsemane.",
+      "taste": "You can still taste the bread and the cup on your tongue from the supper. The bread is dry now in your mouth. The wine has left a warmth at the back of your throat. As He prays, you swallow, and the taste reminds you that He has just said, 'This is my Body. This is my Blood.' The taste is no longer ordinary."
+    },
+    "jesusMoment": "From your seat at the corner of the table you can see His face from the side. He is not posed; He is praying. His head is tilted up, His throat exposed, and the lamplight catches the line of His jaw. His eyes are open — wide open, the way someone looks at a person they love and have not seen for a long time. His hands are not clasped; they are slightly raised, palms turned upward, like a priest already. His shoulders are not tense; they are set, the way a man's shoulders are set when he has decided. And then, in the middle of the prayer, He turns His head slightly and looks at the eleven — and at you — and you realize He is praying ABOUT you, by name, to the Father. He sees you. And He keeps praying."
+  },
+  "rosaryTieIn": {
+    "_source": "rosary-mysteries-guide skill",
+    "mysterySet": "Sorrowful",
+    "reasonForToday": "Tuesday's traditional set is the Sorrowful Mysteries, and today's Gospel is the prayer Jesus prayed just before Gethsemane — the threshold of His Passion that the Sorrowful Mysteries walk through.",
+    "spiritualFruit": "Sorrow for sin and conformity to the suffering Christ.",
+    "connectionToGospel": "The High Priestly Prayer is the doorway into the Agony in the Garden — same night, same Son, same Father. When you pray the first Sorrowful Mystery today, you are simply continuing the conversation Jesus begins in John 17, watching Him kneel from words into blood."
+  },
+  "walkWithHim": {
+    "_source": "with-him skill (Catholic companionship mode)",
+    "modeDetected": "morning",
+    "companionPrompt": "Lord, before this Tuesday opens its mouth at me, You have already lifted Your eyes to the Father — let me borrow that gaze. I do not know what is waiting for me at my own Miletus today, but I do not want to hold anything back. Pray for me the way You prayed for them: keep me true to Your name, keep me one with You, finish in me what You started in me. I will not ask to be spared the small crosses; I will ask only to be glorified in the only way that matters — by glorifying You. Stay close. I want to know You today, not just know about You. That, You said, is already eternal life.",
+    "oneTruthToCarry": "Eternal life is not later — it is knowing Him, beginning now."
+  }
+}
