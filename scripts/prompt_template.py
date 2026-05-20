@@ -203,3 +203,84 @@ IMPORTANT:
   reason, omit that key. The app gracefully handles missing fields.
 - Return ONE JSON object with EVERYTHING. No markdown fences, no commentary.
 """
+
+
+def build_examen_prompt(today: dict, yesterday: dict | None = None) -> str:
+    """Build the Claude Opus prompt for tonight's Evening Examen.
+
+    today: the morning's already-generated TODAY payload dict (must include
+           date, liturgical, readings, optionally walkWithHim).
+    yesterday: optional dict with keys 'resolution' and 'mood' from
+               yesterday's completed Examen. When None, continuity is
+               omitted (sync-OFF tier or first night).
+
+    Returns a single prompt string designed to invoke the `with-him` skill
+    (Evening Examen mode) and the `bible-entry-icb` skill on today's gospel,
+    producing a JSON object matching the ExamenScaffold schema.
+    """
+    gospel = next((r for r in today.get('readings', [])
+                   if r.get('kind') == 'gospel'), None)
+    gospel_citation = gospel.get('citation', "today's Gospel") if gospel else ''
+    walk = today.get('walkWithHim') or {}
+    one_truth = walk.get('oneTruthToCarry', '')
+
+    continuity_block = ''
+    if yesterday and yesterday.get('resolution'):
+        resolution = yesterday['resolution']
+        mood = yesterday.get('mood', 'neutral')
+        continuity_block = f"""
+CONTINUITY (last night):
+Yesterday you resolved: "{resolution}"
+Yesterday's mood was: {mood}
+
+In Station 3 (Review) and Station 4 (Sorrow), gently reference how this
+resolution may have lived in today. Never preach. Never shame.
+"""
+
+    return f"""You are guiding a faithful Catholic into tonight's Examination of
+Conscience using the with-him skill (Evening Examen mode) and the
+bible-entry-icb skill anchored on {gospel_citation}.
+
+TODAY'S LITURGICAL CONTEXT:
+- Date: {today['date']}
+- Title: {today['liturgical']['title']}
+- Season: {today['liturgical']['season']}
+- Rank: {today['liturgical']['rank']}
+- Color: {today['liturgical']['color']}
+
+TODAY'S GOSPEL:
+{gospel['text'] if gospel else '(no gospel)'}
+
+WALK-WITH-HIM CARRY:
+{one_truth or '(none generated)'}
+{continuity_block}
+TASK:
+Generate the 5-station Examen scaffold as a single JSON object. Each
+station is a personalized prompt grounded in today's gospel and the
+with-him companion text. Use the bible-entry-icb skill internally to
+ensure the gospel anchor is alive in the prompts.
+
+Required JSON shape:
+{{
+  "openingPrayer": "<one-paragraph prayer to begin>",
+  "stations": [
+    {{"kind": "gratitude", "title": "Gratitude",
+      "prompt": "<80-150 word personalized prompt>",
+      "scriptureAnchor": "<optional verse>",
+      "silenceSeconds": 60}},
+    {{"kind": "petition", "title": "Petition",
+      "prompt": "<80-150 words>", "silenceSeconds": 30}},
+    {{"kind": "review", "title": "Review the Day",
+      "prompt": "<120-200 words - longest station>",
+      "silenceSeconds": 90}},
+    {{"kind": "sorrow", "title": "Sorrow",
+      "prompt": "<80-150 words, gentle, never shaming>",
+      "silenceSeconds": 60}},
+    {{"kind": "renewal", "title": "Renewal",
+      "prompt": "<80-150 words pointing toward tomorrow>",
+      "silenceSeconds": 60}}
+  ],
+  "closing": "<one-paragraph closing, ~60 words, 'carry this into sleep' tone>"
+}}
+
+Output ONLY the JSON object, no markdown fences, no preamble."""
