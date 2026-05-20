@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 3,
+  "date": "2026-05-20",
+  "liturgical": {
+    "season": "Easter",
+    "week": "Week of 2026-05-20",
+    "color": "white",
+    "rank": "Weekday",
+    "title": "Wednesday - May 20, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-20"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "Reading 1",
+      "citation": "Acts 20:28-38",
+      "text": "'Be on your guard for yourselves and for all the flock of which the Holy Spirit has made you the guardians, to feed the Church of God which he bought with the blood of his own Son.\n'I know quite well that when I have gone fierce wolves will invade you and will have no mercy on the flock.\nEven from your own ranks there will be men coming forward with a travesty of the truth on their lips to induce the disciples to follow them.\nSo be on your guard, remembering how night and day for three years I never slackened in counselling each one of you with tears.\nAnd now I commend you to God and to the word of his grace that has power to build you up and to give you your inheritance among all the sanctified.\n'I have never asked anyone for money or clothes;\nyou know for yourselves that these hands of mine earned enough to meet my needs and those of my companions.\nBy every means I have shown you that we must exert ourselves in this way to support the weak, remembering the words of the Lord Jesus, who himself said, \"There is more happiness in giving than in receiving.\" '\nWhen he had finished speaking he knelt down with them all and prayed.\nBy now they were all in tears; they put their arms round Paul's neck and kissed him;\nwhat saddened them most was his saying they would never see his face again. Then they escorted him to the ship.",
+      "translation": "Catholic.org (NJB-based)",
+      "exegesis": {
+        "summary": "At Miletus, Paul says farewell to the elders of Ephesus. He charges them to shepherd the Church of God, which He bought with the blood of His own Son, and warns that fierce wolves will rise even from within their own ranks. Having sought nothing for himself but earned his keep with his own hands, he kneels, prays, and commends them to God and to the word of His grace.",
+        "patristicQuotes": [
+          {
+            "father": "John Chrysostom",
+            "work": "Homily on Romans 16 (Catena Aurea)",
+            "quote": "Now God might even to the end have kept them in plenty, but for many reasons He was unwilling to do so. First, that they might impute nothing to themselves, but acknowledge that everything flowed from God; secondly, that they might learn moderation; thirdly, that they might not think too highly of themselves."
+          },
+          {
+            "father": "Origen",
+            "work": "Commentary on Matthew 35 (Catena Aurea)",
+            "quote": "We always have with us, as long as we remain in this life, the poor who have need of the care of those who have made progress in the word, and are enriched in the wisdom of God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1586,
+            "title": "The bishop's grace to shepherd and defend the flock"
+          },
+          {
+            "paragraph": 175,
+            "title": "Guarding the deposit of faith received from the Church"
+          }
+        ],
+        "thematicConnection": "Paul's tearful farewell to the Ephesian elders mirrors the Gospel, where Jesus prepares to leave His own disciples. Both shepherds face a flock threatened by enemies — 'fierce wolves' for Paul, 'the Evil One' for Jesus — and both respond not by clinging to their people but by entrusting them to God."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalms 68:29-30, 33-35, 35-36",
+      "text": "from your temple high above Jerusalem. Kings will come to you bearing tribute.\nRebuke the Beast of the Reeds, that herd of bulls, that people of calves, who bow down with ingots of silver. Scatter the people who delight in war.\nthe Rider of the Heavens, the primeval heavens. There he speaks, with a voice of power!\nAcknowledge the power of God. Over Israel his splendour, in the clouds his power.\nAwesome is God in his sanctuary. He, the God of Israel, gives strength and power to his people. Blessed be God.",
+      "translation": "Catholic.org (NJB-based)",
+      "refrain": "the Rider of the Heavens, the primeval heavens. There he speaks, with a voice of power!",
+      "exegesis": {
+        "summary": "Psalm 68 sings of God enthroned in power — the Rider of the Heavens who speaks with a voice of strength from His sanctuary. Kings bring tribute, the proud who delight in war are scattered, and the God of Israel gives strength and power to His people. It is a hymn to the God who reigns over all creation and guards His own.",
+        "patristicQuotes": [
+          {
+            "father": "Pope St. Leo the Great",
+            "work": "Sermon 72.3",
+            "quote": "For by ascending into heaven He does not desert His adopted; but from above strengthens to endurance those whom He invites upwards to glory."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1090,
+            "title": "Sharing in the heavenly liturgy"
+          },
+          {
+            "paragraph": 2855,
+            "title": "The kingdom, the power, and the glory are God's"
+          }
+        ],
+        "thematicConnection": "The psalm answers the anxiety of both the first reading and the Gospel. As Paul departs and as Jesus returns to the Father, Psalm 68 proclaims the God who 'gives strength and power to his people' — the Rider of the Heavens whose ascent does not abandon those below but reigns over them in protecting power."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 17:11-19",
+      "text": "I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, keep those you have given me true to your name, so that they may be one like us.\nWhile I was with them, I kept those you had given me true to your name. I have watched over them and not one is lost except one who was destined to be lost, and this was to fulfil the scriptures.\nBut now I am coming to you and I say these things in the world to share my joy with them to the full.\nI passed your word on to them, and the world hated them, because they belong to the world no more than I belong to the world.\nI am not asking you to remove them from the world, but to protect them from the Evil One.\nThey do not belong to the world any more than I belong to the world.\nConsecrate them in the truth; your word is truth.\nAs you sent me into the world, I have sent them into the world,\nand for their sake I consecrate myself so that they too may be consecrated in truth.",
+      "translation": "Catholic.org (NJB-based)",
+      "exegesis": {
+        "summary": "In the upper room, on the night before He dies, Jesus prays aloud for His disciples. He asks the Father to keep them one, to guard them from the Evil One while leaving them in the world, and to consecrate them in the truth. For their sake He consecrates Himself, so that they too may be made holy and sent as He was sent.",
+        "patristicQuotes": [
+          {
+            "father": "John Chrysostom",
+            "work": "Homily 82 on John",
+            "quote": "They are not of the world, because they have nothing in common with earth; they are made citizens of heaven. Keep them from the evil — that is, not from dangers only, but from falling away from the faith."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 107 on John",
+            "quote": "He does not say, That they may be one with Us, as We are one; but, that they may be one: that they may be one in their nature, as We are one in Ours."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on John",
+            "quote": "The time is now at hand, when I shall be taken out of the world; and therefore it is necessary that they should be still left in the world, in order to preach Me and Thee to the world."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 260,
+            "title": "Called into the unity of the Blessed Trinity"
+          },
+          {
+            "paragraph": 2825,
+            "title": "Uniting our will to the Son's"
+          }
+        ],
+        "thematicConnection": "Jesus' high priestly prayer is the divine pattern Paul follows at Miletus. Where Paul commends the elders to God's grace, Jesus directly asks the Father to keep, protect, and consecrate His disciples — showing that the Church's safety in a hostile world comes from being prayed for by Christ and made holy in the truth."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "What today's readings say together",
+    "body": "Today the Church sets a human farewell beside a divine prayer. At Miletus, Paul gathers the elders of Ephesus, knowing he will not see them again. He charges them to guard the flock, warns of wolves who will tear at it, and then does the only thing a departing shepherd can do — he commends them 'to God and to the word of his grace.' In the upper room, Jesus stands at His own departure. He too is leaving His flock in a world that will hate them, and He too entrusts them to the Father: 'Holy Father, keep those you have given me... protect them from the Evil One... consecrate them in the truth.' Both shepherds leave; neither abandons. The protection of the Church was never going to rest on human vigilance alone. Psalm 68 names the One into whose hands they are placed — the Rider of the Heavens, awesome in His sanctuary, who 'gives strength and power to his people.' This is the message of the day: pastors come and go, Christ ascends to the Father, but the flock is held by God Himself. We are kept not because we are strong, but because we have been prayed for, consecrated in truth, and handed into the grip of a Father who does not let go."
+  },
+  "generation": {
+    "model": "claude-code-cli/subscription",
+    "promptTokens": 0,
+    "completionTokens": 0,
+    "generatedAt": "2026-05-20T09:03:47.229537+00:00",
+    "corpusVersion": "v1.0"
+  },
+  "bibleEntry": {
+    "_source": "bible-entry-icb skill",
+    "questions": [
+      "It is the night of the Last Supper, in the upper room — what does that room feel like as the meal ends and the hour of betrayal draws near?",
+      "Who is gathered as Jesus lifts His eyes to pray — and who is He really speaking to while His disciples listen in?",
+      "What might the eleven disciples be feeling as they overhear Jesus pray for them, by name, to His Father?",
+      "Jesus says the world has hated His friends and that an Evil One threatens them — what is the danger He is naming here?",
+      "Jesus is only hours from the cross — what do you imagine is in His heart as He says, 'I am coming to you'?",
+      "What does this prayer reveal about the heart of the Father, who is asked to keep and guard those given to His Son?",
+      "Jesus prays for those who 'belong to the world no more' — where do you locate yourself in that prayer tonight?",
+      "Which line stops you and catches your attention — 'keep them one,' 'protect them from the Evil One,' or 'consecrate them in the truth'?",
+      "How does Jesus' words 'I have sent them into the world' connect to what He says to the disciples after the Resurrection in John 20:21?",
+      "If you could carry one phrase from this prayer with you into tomorrow, what would it be?"
+    ]
+  },
+  "gospelImmersion": {
+    "_source": "step-2-reading-bible skill (Fr. Mike Schmitz Ignatian method)",
+    "icbParaphrase": "Jesus lifted His eyes and prayed to His Father. He said, 'I am coming back to You now. I will not be in the world much longer, but my friends will still be here. Holy Father, keep them safe. Keep them close to Your name, so they can be one, the way You and I are one. The world hated them, because they do not belong to the world. I am not asking You to take them out of the world. I am asking You to protect them from the Evil One. Make them holy by Your truth. Your word is truth. I am sending them into the world, just as You sent me. And for them, I make myself holy, so they too can be made holy.'",
+    "senses": {
+      "sight": "The upper room is lit by small clay oil lamps. Their flames lean and flicker against the walls. The low table still holds broken bread and cups dark with wine. Eleven tired faces catch the gold light. Jesus stands among them, His eyes lifted upward, His face calm and full of love.",
+      "sound": "The room has gone quiet. The men have stopped asking their questions. You hear only Jesus' voice — low, steady, unhurried, like a father speaking over sleeping children. A lamp wick crackles. Outside, the night wind moves through the streets of Jerusalem. Someone beside you breathes deeply, trying hard not to weep.",
+      "touch": "The night air is cool, but the lamps give a small, close warmth. The wooden bench is hard beneath you. Your feet are still damp from being washed earlier in the evening. Shoulders press close together; you feel the warmth of the friend next to you. Your own chest is tight, holding something heavy.",
+      "smell": "The room smells of burning olive oil and warm lamp smoke. Underneath it lingers the roasted lamb and unleavened bread of the Passover meal just ended. There is the sharp sweetness of wine. Dust from the road still clings to the cloaks. Faintly, the cool night air slips in from outside.",
+      "taste": "Bread and wine are still on your lips from the supper just finished — the bread plain and dry, the wine warm and dark. Beneath that is the salt of tears you are holding back. Your mouth is a little dry from listening so hard, afraid to miss even a single word He says.",
+      "_tasteNote": "taste is present in this scene — the supper has just ended"
+    },
+    "jesusMoment": "From where you sit, you can see His face clearly. He is not looking at the disciples now — His eyes are raised, fixed on something past the ceiling, past the night sky. His hands are open, lifted a little from His sides. His voice never rises; it stays gentle and certain. He is hours from betrayal and the cross, yet there is no panic in Him — only a love that has already decided. Then, for one moment, He lowers His eyes, and they pass slowly over the room, over each face — and over you. He does not look away. You understand: your trouble is known, and He is praying for you. Then He lifts His eyes again and keeps praying."
+  },
+  "rosaryTieIn": {
+    "_source": "rosary-mysteries-guide skill",
+    "mysterySet": "Glorious",
+    "reasonForToday": "Wednesday is traditionally a day for the Glorious Mysteries. They also fit today's Gospel, where Jesus speaks of returning to the Father and sending His disciples out into the world.",
+    "spiritualFruit": "The Glorious Mysteries grow faith, hope, and love in the soul, with the confidence that Christ's victory and glory are now ours to share.",
+    "connectionToGospel": "In today's Gospel Jesus says, 'I am coming to you' — the very movement the Ascension completes when He returns to the Father's glory. His prayer to keep, consecrate, and send the disciples is answered at Pentecost, the Descent of the Holy Spirit, when the kept flock is clothed with power and sent into the world."
+  },
+  "walkWithHim": {
+    "_source": "with-him skill (Catholic companionship mode)",
+    "modeDetected": "evening",
+    "companionPrompt": "You were with me through this whole day, and now we sit together in the quiet. Tonight I heard You pray — not for Yourself, but for me, by name. You asked the Father to keep me, to guard me from the Evil One, to hold me close to Your name. So I do not carry this evening alone. Where the day was heavy, You were already holding it. Where I felt far from home or unwanted by the world, You called me Yours. Consecrate me in Your truth as I close my eyes. I hand You tomorrow. Stay close — I know You never sleep.",
+    "oneTruthToCarry": "He prayed for me by name tonight — I am kept, not by my grip on Him, but by His grip on me."
+  },
+  "examen": {
+    "openingPrayer": "Lord Jesus, before You went out into the garden, You lifted Your eyes and prayed — not for the world only, but for me, by name. Let me come quietly now and sit near You in that upper room, close enough to hear You ask the Father to keep me. I am tired tonight, and my grip on You has felt weak. Help me to stop measuring my own faithfulness and to rest instead in Yours. Holy Father, You have heard Your Son pray for me; here I am. Open my memory gently to this day, and let me see it the way You have already seen it — held.",
+    "stations": [
+      {
+        "kind": "gratitude",
+        "title": "Gratitude",
+        "prompt": "Stay still a moment and let this land: today, you were kept. Not because you held on well — you may not have held on at all — but because Jesus prayed, 'Holy Father, keep those you have given me,' and the Father heard Him. Look back over the hours. Where were you carried when you did not even notice? A small mercy, an unexpected steadiness, a flicker of quiet joy that He calls His own joy 'to the full.' Name three things His grip gave you today — not three things you achieved, but three places you were held. Let gratitude be the slow discovery that you were never holding yourself up at all.",
+        "scriptureAnchor": "John 17:12 — \"While I was with them, I kept those you had given me true to your name.\"",
+        "silenceSeconds": 60
+      },
+      {
+        "kind": "petition",
+        "title": "Petition",
+        "prompt": "Now ask, simply, for light. You cannot review this day honestly on your own strength — that striving is the very illusion Jesus came to break tonight. So pray: Holy Spirit, show me my day as the Father sees it. Jesus did not ask that you be taken out of the world, but that you be protected from the Evil One; ask for that protection now, over your memory, so the enemy cannot turn this gentle examination into accusation. Then ask one more grace: the truth. 'Consecrate them in the truth; your word is truth.' Let truth, not anxiety, be the light you read your day by.",
+        "silenceSeconds": 30
+      },
+      {
+        "kind": "review",
+        "title": "Review the Day",
+        "prompt": "Walk slowly back through the day, from waking to this moment. Do not rush, and do not grade yourself. Jesus said He was sent into the world, and that He sends you into it too — so move through the day as a place He sent you, not a test you sat. Where did you sense you were kept: protected, steadied, drawn back from an edge you barely saw? Pause there and thank Him. Then notice the other moments — where the world's noise pulled at you, where you felt its quiet hatred for the things that belong to God, where you forgot you were consecrated and lived as though the day were ordinary and unguarded. Do not flinch from these. Simply hold each one beside His prayer — 'keep them true to your name' — and ask honestly: was I living as one He prayed for by name, or as one who had to survive alone? Let the answer come without panic. He already knew it when He prayed for you.",
+        "silenceSeconds": 90
+      },
+      {
+        "kind": "sorrow",
+        "title": "Sorrow",
+        "prompt": "Bring forward the moments that ache — gently, the way you would lift something fragile. Perhaps today you tried to hold onto God by your own grip: anxious, striving, afraid that if you loosened your hand you would fall. That striving is not the sin to grieve; the sorrow is simply that you forgot you were already held. Or perhaps you let the world's voice matter more than His word of truth. Name it plainly, without dramatizing it and without explaining it away. Then hear Him, still praying over you: 'not one is lost.' This is contrition, not condemnation — the soft turning of a face back toward the One who never turned away. Say only: Lord, I am sorry. Keep me.",
+        "silenceSeconds": 60
+      },
+      {
+        "kind": "renewal",
+        "title": "Renewal",
+        "prompt": "Look toward tomorrow now, but lightly. Jesus is sending you back into the world — not to conquer it, not to be liked by it, but consecrated, set apart in truth, belonging to Him. Choose one small, concrete way to live tomorrow as someone who is kept. Perhaps a single sentence to pray on waking: 'I am kept, not by my grip on You, but by Yours on me.' Perhaps one moment you already dread, handed to Him now, in advance. Do not resolve to be stronger; resolve to be more held. Tomorrow does not depend on the firmness of your hand. It rests on the prayer Jesus is still praying for you, by name.",
+        "silenceSeconds": 60
+      }
+    ],
+    "closing": "Let your hands fall open as you lie down. You do not have to hold on through the night — He is holding you, and His prayer for you does not stop while you sleep. Rest in this one truth and carry it under with you: you are kept. Goodnight, soul. The Father has heard His Son. Sleep held."
+  }
+}
