@@ -19,6 +19,7 @@ from scripts.call_claude_cli import call_cli as call_claude_cli, ClaudeCliError
 from scripts.validate_output import validate, ValidationError
 from scripts.liturgical import season_for, lectionary_cycle, weekday_cycle
 from scripts.fetch_bible_passage import fetch as fetch_passage, PassageFetchError
+from scripts.generate_examen import generate as generate_examen_scaffold
 
 ROOT = Path(__file__).parent.parent
 MODEL = "anthropic/claude-opus-4-7"
@@ -33,6 +34,11 @@ def _load_overrides() -> dict:
         return {}
     data = _json.loads(OVERRIDES_PATH.read_text(encoding="utf-8"))
     return {k: v for k, v in data.items() if not k.startswith("_")}
+
+def _load_yesterday_for_continuity(today_iso: str) -> dict | None:
+    """MVP: continuity not yet implemented (Phase E). Always returns None."""
+    return None
+
 
 def main(argv: list[str] | None = None) -> int:
     load_dotenv()
@@ -223,6 +229,17 @@ def main(argv: list[str] | None = None) -> int:
     for skill_field in ("bibleEntry", "gospelImmersion", "rosaryTieIn", "walkWithHim"):
         if skill_field in ai_json and ai_json[skill_field]:
             payload[skill_field] = ai_json[skill_field]
+
+    # 5b. Generate tonight's Examen scaffold (only when use-claude-cli active)
+    if args.use_claude_cli and not args.dry_run:
+        try:
+            yesterday = _load_yesterday_for_continuity(args.date)
+            examen_result = generate_examen_scaffold(
+                today=payload, yesterday=yesterday)
+            payload['examen'] = examen_result['scaffold']
+            payload['schemaVersion'] = 3
+        except Exception as e:
+            print(f"EXAMEN GENERATION FAILED (non-fatal): {e}", file=sys.stderr)
 
     # 6. Validate (only in live mode - dry runs have empty CCC refs which is fine)
     if not args.dry_run:
