@@ -1,0 +1,21 @@
+{
+  "openingPrayer": "Lord, as the light fades, draw me into your presence.",
+  "stations": [
+    {"kind": "gratitude", "title": "Gratitude",
+     "prompt": "Today's gospel placed Christ at the threshold of his hour. Name three faces or graces the Father set in your path today.",
+     "scriptureAnchor": "John 16:33", "silenceSeconds": 60},
+    {"kind": "petition", "title": "Petition",
+     "prompt": "Ask the Spirit for light to see the day as Christ saw it.",
+     "silenceSeconds": 30},
+    {"kind": "review", "title": "Review the Day",
+     "prompt": "Walk the hours of today with Jesus beside you. Where did you sense his peace? Where did you feel resistance?",
+     "silenceSeconds": 90},
+    {"kind": "sorrow", "title": "Sorrow",
+     "prompt": "Where did you resist grace today? Speak gently. The Lord is gentle with returning souls.",
+     "silenceSeconds": 60},
+    {"kind": "renewal", "title": "Renewal",
+     "prompt": "Speak aloud one truth to carry into sleep. Tomorrow begins now.",
+     "silenceSeconds": 60}
+  ],
+  "closing": "Carry this into sleep. The Lord keeps watch."
+}
