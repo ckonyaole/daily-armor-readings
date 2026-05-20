@@ -3,12 +3,13 @@ from __future__ import annotations
 from pathlib import Path
 import pandas as pd
 
-SUPPORTED_SCHEMAS = {1, 2}
+SUPPORTED_SCHEMAS = {1, 2, 3}
 REQUIRED_TOP = {"schemaVersion", "date", "liturgical", "readings",
                 "synthesis", "generation"}
 VALID_KINDS = {"first_reading", "psalm", "second_reading", "gospel"}
 # v2 adds these OPTIONAL skill-augmented fields. App tolerates missing.
 OPTIONAL_V2_FIELDS = {"bibleEntry", "gospelImmersion", "rosaryTieIn", "walkWithHim"}
+OPTIONAL_V3_FIELDS = {"examen"}
 
 class ValidationError(Exception):
     pass
@@ -56,3 +57,10 @@ def validate(payload: dict, *, ccc_path) -> None:
             if not (q.get("father") or "").strip():
                 print(f"warning: readings[{i}].patristicQuotes[{j}] "
                        f"missing father attribution")
+    # v3: optional examen block
+    if 'examen' in payload and payload['examen']:
+        from scripts.validate_examen import validate_examen, ExamenValidationError
+        try:
+            validate_examen(payload['examen'])
+        except ExamenValidationError as e:
+            raise ValidationError(f"examen: {e}")
