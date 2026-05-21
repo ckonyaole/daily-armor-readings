@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 3,
+  "date": "2026-05-21",
+  "liturgical": {
+    "season": "Easter",
+    "week": "Week of 2026-05-21",
+    "color": "white",
+    "rank": "Weekday",
+    "title": "Thursday - May 21, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-21"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "Reading 1",
+      "citation": "Acts 22:30; 23:6-11",
+      "text": "The next day, since he wanted to know for sure what charge the Jews were bringing, he freed Paul and gave orders for a meeting of the chief priests and the entire Sanhedrin; then he brought Paul down and set him in front of them.\nNow Paul was well aware that one party was made up of Sadducees and the other of Pharisees, so he called out in the Sanhedrin, 'Brothers, I am a Pharisee and the son of Pharisees. It is for our hope in the resurrection of the dead that I am on trial.'\nAs soon as he said this, a dispute broke out between the Pharisees and Sadducees, and the assembly was split between the two parties.\nFor the Sadducees say there is neither resurrection, nor angel, nor spirit, while the Pharisees accept all three.\nThe shouting grew louder, and some of the scribes from the Pharisees' party stood up and protested strongly, 'We find nothing wrong with this man. Suppose a spirit has spoken to him, or an angel?'\nFeeling was running high, and the tribune, afraid that they would tear Paul to pieces, ordered his troops to go down and haul him out and bring him into the fortress.\nNext night, the Lord appeared to him and said, 'Courage! You have borne witness for me in Jerusalem, now you must do the same in Rome.'",
+      "translation": "Catholic.org (NJB-based)",
+      "exegesis": {
+        "summary": "Brought before the Sanhedrin, Paul declares that he stands trial for one thing: the hope of the resurrection of the dead. His words split the assembly, since the Pharisees confess resurrection, angels, and spirits while the Sadducees deny all three. Rescued from the uproar by Roman soldiers, Paul is visited that night by the Lord himself, who commands: 'Courage! ... now you must do the same in Rome.' The reading proclaims that the risen Christ stands beside his witnesses and commissions them even in the midst of danger.",
+        "patristicQuotes": [
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "There were two sects among the Jews, the Pharisees and the Sadducees. The first believed the resurrection of body and soul, and confessed both Angel and spirit; the Sadducees, according to the Acts of the Apostles, denied them all, saying that there is no resurrection."
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Sadducees came with intent to overcome him; and if by argument they should not be able, they might at least by perseverance wear out his understanding."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 595,
+            "title": "Believers among the religious authorities of Jerusalem"
+          },
+          {
+            "paragraph": 575,
+            "title": "Jesus endorses the resurrection of the dead"
+          },
+          {
+            "paragraph": 659,
+            "title": "The risen Lord's apparition that made Paul an apostle"
+          }
+        ],
+        "thematicConnection": "Paul's whole defense rests on 'the hope of the resurrection,' the same hope Psalm 16 voices when it trusts God not to abandon the soul to the abyss. And Paul, sent on from Jerusalem toward Rome, is exactly the kind of witness the Gospel envisions — one through whose teaching the world comes to believe in Christ (John 17:20)."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalms 16:1-2, 5, 7-8, 9-10, 11",
+      "text": "[In a quiet voice Of David] Protect me, O God, in you is my refuge.\nTo Yahweh I say, 'You are my Lord, my happiness is in none\nMy birthright, my cup is Yahweh; you, you alone, hold my lot secure.\nI bless Yahweh who is my counsellor, even at night my heart instructs me.\nI keep Yahweh before me always, for with him at my right hand, nothing can shake me.\nSo my heart rejoices, my soul delights, my body too will rest secure,\nfor you will not abandon me to Sheol, you cannot allow your faithful servant to see the abyss.\nYou will teach me the path of life, unbounded joy in your presence, at your right hand delight for ever.",
+      "translation": "Catholic.org (NJB-based)",
+      "refrain": "To Yahweh I say, 'You are my Lord, my happiness is in none",
+      "exegesis": {
+        "summary": "Psalm 16 is the prayer of a soul whose whole happiness rests in God alone: 'You are my Lord ... you alone hold my lot secure.' Keeping the Lord always before him, the psalmist is unshakeable, his heart glad and his body resting in hope. The psalm rises to its summit in the confidence that God 'will not abandon me to Sheol' but will teach 'the path of life.' The Church hears in these verses a prophecy of Christ's resurrection and a promise of our own.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Sorrow is begun in me, but not to endure for ever, only till the hour of death; so that when I shall die for sin, I shall die also to all sorrow."
+          },
+          {
+            "father": "Gregory the Great",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He who rests secure concerning his hope and works immediately opens to Him that knocks; for when he is aware of the time of death drawing near, he grows joyful, because of the glory of his reward."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "The restless heart that rests only in God"
+          },
+          {
+            "paragraph": 1020,
+            "title": "Death united to Christ as entrance to eternal life"
+          },
+          {
+            "paragraph": 214,
+            "title": "God abounding in steadfast love and faithfulness"
+          }
+        ],
+        "thematicConnection": "The psalm's confidence that God 'will not abandon me to Sheol' gives voice to Paul's hope in the resurrection as he stands trial before the Sanhedrin, and answers Jesus' desire in the Gospel that his own be with him where he is. The 'path of life' the psalm awaits is the eternal life Christ secures for those the Father has given him."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 17:20-26",
+      "text": "I pray not only for these but also for those who through their teaching will come to believe in me.\nMay they all be one, just as, Father, you are in me and I am in you, so that they also may be in us, so that the world may believe it was you who sent me.\nI have given them the glory you gave to me, that they may be one as we are one.\nWith me in them and you in me, may they be so perfected in unity that the world will recognise that it was you who sent me and that you have loved them as you have loved me.\nFather, I want those you have given me to be with me where I am, so that they may always see my glory which you have given me because you loved me before the foundation of the world.\nFather, Upright One, the world has not known you, but I have known you, and these have known that you have sent me.\nI have made your name known to them and will continue to make it known, so that the love with which you loved me may be in them, and so that I may be in them.",
+      "translation": "Catholic.org (NJB-based)",
+      "exegesis": {
+        "summary": "In the closing words of his high priestly prayer, Jesus prays not only for the apostles but for all who will come to believe through their preaching. He asks that they be one, as the Father and the Son are one, so that the world may believe the Father sent him. He longs for his disciples to be with him where he is, beholding his glory, and that the very love the Father has for him may dwell in them.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Tractates on John 110",
+            "quote": "They are in us, and we in them: they are in us as God is in his temple, we in them as the creature is in its Creator. He adds 'in Us' to show that our being made one by charity is to be attributed to the grace of God, not to ourselves."
+          },
+          {
+            "father": "John Chrysostom",
+            "work": "Homily 81 on John",
+            "quote": "As the disciples were still sad in spite of all our Lord's consolations, he addresses himself to the Father to show the love which he had for them. He not only gives them what is his own, but entreats another for them, as a still further proof of his love."
+          },
+          {
+            "father": "John Chrysostom",
+            "work": "Homily 82 on John",
+            "quote": "After he has said that many should believe on him through them, and that they should obtain great glory, he then speaks of the crowns in store for them: 'Father, I will that they also whom Thou hast given Me be with Me where I am.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2793,
+            "title": "Praying 'our' Father gathers God's children into one"
+          },
+          {
+            "paragraph": 2741,
+            "title": "Jesus ever interceding for us with the Father"
+          },
+          {
+            "paragraph": 2615,
+            "title": "Christian prayer as communion of love in the Spirit"
+          }
+        ],
+        "thematicConnection": "Jesus' prayer that the world believe through the disciples' word is being fulfilled in the first reading, as Paul bears witness from Jerusalem toward Rome. And his promise that his own will be 'with me where I am,' beholding his glory, is the very path of life and undimmed joy that Psalm 16 longs for."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "What today's readings say together",
+    "body": "Today the Church gathers three voices around a single hope: that those whom God loves will never be lost to him. In the upper room Jesus lifts his eyes and prays — not for the eleven only, but for everyone who will believe through their word, you included. He asks that we be one as he and the Father are one, that we be with him where he is, and that the Father's own love be poured into us. This is the destiny given to the disciple. Paul has staked his life on it. Dragged before the Sanhedrin, he names the heart of the matter: he is on trial 'for the hope of the resurrection.' That night the risen Lord stands beside him — 'Courage!' — and sends him onward to Rome. The witness Jesus prayed for is already walking the roads of the empire. And Psalm 16 puts the words of that hope into our mouths: 'You will not abandon me to Sheol ... you will teach me the path of life.' The Church proclaims today that the unity Christ prays for, the courage Christ gives, and the everlasting life Christ promises are one single gift. We are held — not by our grip on God, but by his grip on us — and the love that bound the Father to the Son before the foundation of the world is now our home."
+  },
+  "generation": {
+    "model": "claude-code-cli/subscription",
+    "promptTokens": 0,
+    "completionTokens": 0,
+    "generatedAt": "2026-05-21T08:10:44.296814+00:00",
+    "corpusVersion": "v1.0"
+  },
+  "bibleEntry": {
+    "_source": "bible-entry-icb skill",
+    "questions": [
+      "Where and when is Jesus praying these words, and what is about to happen to him before the night is over?",
+      "Who is in the room as Jesus prays — and who is he praying for who has not yet been born?",
+      "What is the emotional weather of this upper room on the night before Jesus dies?",
+      "What is the problem Jesus prays against — what threatens to scatter the people he loves?",
+      "As Jesus says, 'Father, I want those you have given me to be with me where I am,' what do you hear in his heart?",
+      "What does this prayer reveal about how the Father has loved the Son 'before the foundation of the world' — and how he loves you?",
+      "Jesus prays 'for those who through their teaching will come to believe in me' — can you hear yourself named in that line?",
+      "Which phrase stops you tonight: 'may they all be one,' 'with me where I am,' or 'the love with which you loved me may be in them'?",
+      "How does this prayer for unity echo Jesus washing the disciples' feet earlier that same evening?",
+      "What is the one sentence from Jesus' prayer you want to carry into tomorrow?"
+    ]
+  },
+  "gospelImmersion": {
+    "_source": "step-2-reading-bible skill (Fr. Mike Schmitz Ignatian method)",
+    "icbParaphrase": "Jesus prayed to his Father. He said: 'I am not praying only for these men. I am also praying for everyone who will believe in me because of their teaching. Father, make them all one, just as you are in me and I am in you. Then the world will believe that you sent me. I have loved them the way you loved me. Father, I want them to be with me where I am, to see my glory. I have shown them who you are, and I will keep showing them, so your love will live in them.'",
+    "senses": {
+      "sight": "A low upper room, lit by a few oil lamps. Eleven men sit close in the flickering light — tired faces, some still puzzled, some near tears. The remains of the Passover meal are on the table. Jesus stands among them, his eyes lifted upward, his face calm and luminous in the lamplight.",
+      "sound": "Jesus' voice, low and unhurried, is the only sound — steady and warm, the voice of a man speaking to someone he loves and trusts. Beneath it: the soft hiss of a lamp wick, the breathing of tired men, the muffled night sounds of Jerusalem beyond the walls.",
+      "touch": "The night air is cool against your skin, the floor hard beneath you. The lamps give a little warmth where you sit. You feel the closeness of shoulders pressed near in the small room, and a tightness rising in your chest as you realize this prayer includes you.",
+      "smell": "Lamp oil and a thin thread of smoke. The lingering smell of roasted lamb, unleavened bread, and wine from the table. Dust carried in on sandals. Under it all, the cool, stony scent of a Jerusalem night drifting through the doorway.",
+      "taste": "The bread and wine of the supper still linger on your lips — the unleavened bread dry and plain, the wine warm and faintly sweet. It is the taste of a meal that has just become something far greater than a meal."
+    },
+    "jesusMoment": "From where you sit, just behind the disciples, you watch Jesus pray. He does not look at the eleven; his eyes are lifted, his face open and unguarded before his Father. His voice never rises, never pleads anxiously — it is sure, the voice of a Son who knows he is heard. Then he says, 'I pray also for those who will believe in me through their word,' and for a moment it is as if he pauses. You understand, with a quiet shock, that he is praying for you — naming you to the Father across two thousand years, on the night before he dies."
+  },
+  "rosaryTieIn": {
+    "_source": "rosary-mysteries-guide skill",
+    "mysterySet": "Luminous",
+    "reasonForToday": "Thursday is the Church's appointed day for the Luminous Mysteries; with no feast overriding this Easter weekday, the light-filled mysteries of Christ's public life are prayed today.",
+    "spiritualFruit": "A soul docile to the light of Christ — open to the Spirit, hungry for holiness, and drawn to adore him.",
+    "connectionToGospel": "In John 17 Jesus prays that the world may believe and that the Father's name be known — the very work the Luminous Mysteries display, from the Proclamation of the Kingdom to the Father's voice at the Jordan. His longing that his disciples 'see my glory' is given a foretaste in the Transfiguration, where the light hidden in his humanity breaks through."
+  },
+  "walkWithHim": {
+    "_source": "with-him skill (Catholic companionship mode)",
+    "modeDetected": "evening",
+    "companionPrompt": "Jesus, You were here all day, and now we sit together while the house goes quiet. Tonight I heard You pray for me — not for the apostles only, but for everyone who would believe through their word. You wanted me. You asked the Father that I be with You where You are, and that His love be poured into me. So before I sleep, let me stop praying to You from across a room. You are not elsewhere. You are here, in this quiet, closer than my own breath. Whatever I carried today I hand to You now. Stay with me; I am not alone.",
+    "oneTruthToCarry": "Jesus prayed for me by name before I was born — and He wants me with Him."
+  },
+  "examen": {
+    "openingPrayer": "Jesus, the night You first prayed these words the room was small and the dark was close, and still You lifted Your eyes and spoke my name to the Father before I had a name to speak. You are here now — in this room, in this hour. I am here too. The day is behind us and we sit together. Quiet my heart, Lord. I am not reporting to a distant judge; I am telling the day to a Friend who has not left my side since morning. Stay with me as we look back, and let me see this Thursday the way You saw it.",
+    "stations": [
+      {
+        "kind": "gratitude",
+        "title": "Gratitude",
+        "prompt": "Before you name anything, breathe. Today held good things, and not one of them arrived by accident. Jesus said the love the Father had for Him 'before the foundation of the world' was meant to live in you — so every small mercy today was a thread of that ancient love reaching you on an ordinary Thursday. Where did you see something good? A face that softened. Light through a window. Work that went quietly right. A moment you laughed without deciding to. Do not fish or perform — let one or two real things rise on their own. Hold each one, and say simply: thank You. You were already with me when it happened.",
+        "scriptureAnchor": "John 17:24 — 'you loved me before the foundation of the world.'",
+        "silenceSeconds": 60
+      },
+      {
+        "kind": "petition",
+        "title": "Petition",
+        "prompt": "Jesus prayed one thing over and over that night: 'may they all be one.' He wants no distance — not between you and the Father, and not between you and the people He has given you. So before you walk back through the day, ask. Name the one bond that feels frayed or far: a person you carry, someone you have lost touch with, someone hard to love right now. Hand that relationship to Him. Ask for the grace to be one with that person the way He is one with the Father — not perfectly, not by tomorrow, but truly. He is already praying this over you. Tonight you simply pray it with Him.",
+        "silenceSeconds": 30
+      },
+      {
+        "kind": "review",
+        "title": "Review the Day",
+        "prompt": "Now tell Him about today — not as a report, but the way you would tell someone you love. Start in the morning and walk slowly. This happened. This was hard. This made me laugh. Here I felt You close; here I forgot You were in the room. Do not rank the day or score it. Just narrate it to the Friend who was beside you for every hour of it. When you reach a moment that still stings — a conversation, a worry, a failure — do not rush past it. Set it down between you and let Him look at it with you. When you reach a moment of grace, linger there a little longer. Remember tonight's carry: He prayed for you by name before you were born. That means the person who walked through this whole day was already known, already wanted, already prayed for. You were never reviewing the day alone. Tell Him even the parts you would only tell someone safe.",
+        "silenceSeconds": 90
+      },
+      {
+        "kind": "sorrow",
+        "title": "Sorrow",
+        "prompt": "If something today pulled you away from love — a sharp word, a turning inward, a good thing left undone, an hour spent hiding from God or from someone who needed you — bring it here gently. This is not a courtroom. Jesus said He has made the Father's name known so that the Father's own love could be in you. Sorrow is simply that love arriving at the place that resisted it. You do not need to shame yourself; He never does. Name the thing plainly, the way you would tell a friend who already forgives you. Then let it rest in His hands. He is not surprised, and He is not leaving. Tomorrow He absolves; tonight He simply holds it with you.",
+        "silenceSeconds": 60
+      },
+      {
+        "kind": "renewal",
+        "title": "Renewal",
+        "prompt": "Look toward tomorrow now, but do not grip it. Choose one thing to hand to Jesus for the day ahead — a fear, an outcome, a person, a first hard hour. Not a goal to achieve; a trust to give. Jesus said, 'Father, I want those you have given me to be with me where I am.' That is His desire for your tomorrow — not your performance, your presence. So pray with Him three times, slowly: O Jesus, I surrender myself to You; take care of everything. Let the words grow quieter each time. Tomorrow you will wake already prayed for, already wanted, already with Him. You only have to step into a day He has already entered ahead of you.",
+        "silenceSeconds": 60
+      }
+    ],
+    "closing": "Rest now. The same Jesus who prayed for you by name before the foundation of the world is praying for you still, into the dark, while you sleep. You do not have to hold tonight together — He does. Let the day go. Let the carry stay: He wants you with Him. Sleep well. He stays awake."
+  }
+}
