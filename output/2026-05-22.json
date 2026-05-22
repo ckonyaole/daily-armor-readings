@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-22",
+  "liturgical": {
+    "season": "Easter",
+    "week": "Week of 2026-05-22",
+    "color": "white",
+    "rank": "Weekday",
+    "title": "Friday - May 22, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-22"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Acts 25:13-21",
+      "text": "King Agrippa and Bernice arrived in Caesarea and paid their respects to Festus. Their visit lasted several days, and Festus put Paul’s case before the king. ‘There is a man here’ he said ‘whom Felix left behind in custody, and while I was in Jerusalem the chief priests and elders of the Jews laid information against him, demanding his condemnation. But I told them that Romans are not in the habit of surrendering any man, until the accused confronts his accusers and is given an opportunity to defend himself against the charge. So they came here with me, and I wasted no time but took my seat on the tribunal the very next day and had the man brought in. When confronted with him, his accusers did not charge him with any of the crimes I had expected; but they had some argument or other with him about their own religion and about a dead man called Jesus whom Paul alleged to be alive. Not feeling qualified to deal with questions of this sort, I asked him if he would be willing to go to Jerusalem to be tried there on this issue. But Paul put in an appeal for his case to be reserved for the judgement of the august emperor, so I ordered him to be remanded until I could send him to Caesar.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Festus recounts to King Agrippa the strange case of Paul, whose accusers brought no political crime but only a dispute about 'a dead man called Jesus whom Paul alleged to be alive.' At the heart of the Roman judicial machinery, the Resurrection stands as the true matter on trial. Paul, exercising his Roman citizenship, appeals to Caesar, and so the Gospel begins its providential journey to the heart of the empire.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "Before Jerusalem should be taken by the Romans, the disciples, having suffered persecution from the Jews, were imprisoned and brought before rulers; Paul was sent to Rome to Caesar, and stood before Festus and Agrippa. And it shall turn to you for a testimony — in the Greek, for the glory of martyrdom."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "De Consensu Evangelistarum III.8",
+            "quote": "The Jews seem to have been unwilling to bring actual charges, in order that Pilate might condemn Him simply on their authority, asking no questions, but taking it for granted that if He was delivered up to him, He was certainly guilty."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 596,
+            "title": "Jewish authorities hand Jesus to Rome"
+          },
+          {
+            "paragraph": 597,
+            "title": "Responsibility for the trial of Jesus"
+          },
+          {
+            "paragraph": 674,
+            "title": "Israel's eventual recognition of the Messiah"
+          }
+        ],
+        "thematicConnection": "Paul stands before earthly kings because of 'a dead man whom Paul alleged to be alive' — the very Risen Lord who, in today's Gospel, commissioned Peter to feed the flock and foretold the death by which he too would glorify God."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 102(103):1-2,11-12,19-20",
+      "text": "The Lord has set his sway in heaven.\nor\nAlleluia!\nMy soul, give thanks to the Lord\nall my being, bless his holy name.\nMy soul, give thanks to the Lord\nand never forget all his blessings.\nThe Lord has set his sway in heaven.\nor\nAlleluia!\nFor as the heavens are high above the earth\nso strong is his love for those who fear him.\nAs far as the east is from the west\nso far does he remove our sins.\nThe Lord has set his sway in heaven.\nor\nAlleluia!\nThe Lord has set his sway in heaven\nand his kingdom is ruling over all.\nGive thanks to the Lord, all his angels,\nmighty in power, fulfilling his word.\nThe Lord has set his sway in heaven.\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord has set his sway in heaven.",
+      "exegesis": {
+        "summary": "Psalm 103 lifts the soul to bless the Lord whose throne is set in heaven and whose kingdom rules over all. His mercy is as vast as the heavens are high, and he removes our sins as far as the east is from the west. The angels, mighty in power, fulfill his word — the same word now committed to apostolic hands.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "The kingdom of God is within you; that is, it rests with you and your own hearts to receive it. For every man who is justified by faith and the grace of God, and adorned with virtues, may obtain the kingdom of heaven."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homiliae in Evangelia 20.14",
+            "quote": "By the kingdom of heaven is meant the heavenly throne, whither when sinners defiled with any evil deed return in penitence, and amend themselves, they enter as sinners into the place of another, and take by violence the kingdom of heaven."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1026,
+            "title": "Heaven opened by Christ"
+          },
+          {
+            "paragraph": 2855,
+            "title": "The kingdom, power, and glory are the Father's"
+          },
+          {
+            "paragraph": 1029,
+            "title": "The blessed reign with Christ"
+          }
+        ],
+        "thematicConnection": "While earthly tribunals judge Paul and weigh Peter's destiny, the psalm reminds the Church that the true throne is in heaven. Caesar's seat is provisional; the Lord's kingdom rules over all, and the angels — not earthly powers — fulfill his word."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 21:15-19",
+      "text": "Jesus showed himself to his disciples, and after they had eaten he said to Simon Peter, ‘Simon son of John, do you love me more than these others do?’ He answered, ‘Yes Lord, you know I love you.’ Jesus said to him, ‘Feed my lambs.’ A second time he said to him, ‘Simon son of John, do you love me?’ He replied, ‘Yes, Lord, you know I love you.’ Jesus said to him, ‘Look after my sheep.’ Then he said to him a third time, ‘Simon son of John, do you love me?’ Peter was upset that he asked him the third time, ‘Do you love me?’ and said, ‘Lord, you know everything; you know I love you.’ Jesus said to him, ‘Feed my sheep.\n‘I tell you most solemnly,\nwhen you were young\nyou put on your own belt\nand walked where you liked;\nbut when you grow old\nyou will stretch out your hands,\nand somebody else will put a belt round you\nand take you where you would rather not go.’\nIn these words he indicated the kind of death by which Peter would give glory to God. After this he said, ‘Follow me.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "By the shore of the Sea of Tiberias, the Risen Lord undoes Peter's threefold denial with a threefold confession of love, and entrusts to him the whole flock — lambs and sheep alike. This is the constitution of the Petrine office: pastoral authority rooted not in self-confidence but in love for Christ. Then Jesus foretells the martyrdom by which Peter will glorify God, and seals the call with the same word that began it all: 'Follow me.'",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John 88.1",
+            "quote": "Our Lord, passing by the rest, addresses this command to Peter: he being the chief of the Apostles, the mouth of the disciples, and head of the college. Our Lord remembers no more his sin in denying Him, but commits to him at once the superintendence over his brethren. If thou lovest Me, have rule over thy brethren; that life which thou saidst thou wouldest lay down for Me, lay down for the sheep."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on John",
+            "quote": "The dinner being ended, He commits to Peter the superintendence over the sheep of the world, not to the others."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 442,
+            "title": "Peter's confession as foundation"
+          },
+          {
+            "paragraph": 443,
+            "title": "Peter recognizes the Son"
+          },
+          {
+            "paragraph": 605,
+            "title": "Christ the Shepherd died for all"
+          }
+        ],
+        "thematicConnection": "Peter's call to feed the sheep and to stretch out his hands in martyrdom is the pattern that Paul, in the first reading, is now living — handed over to rulers, journeying toward Rome, glorifying God by his witness to the One who is alive."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Love that feeds the flock, witness that reaches Caesar",
+    "body": "Today the Church places before us two apostles bound by one love. By the Sea of Tiberias, the Risen Christ heals Peter's denial with three confessions of love and entrusts him with the whole flock, foretelling the day when other hands would stretch out his own and lead him where he would rather not go — the death by which he would glorify God. In the Acts of the Apostles, that same pattern unfolds in Paul: standing before Festus and Agrippa, his case reduced by Rome to a question 'about a dead man called Jesus whom Paul alleged to be alive.' That 'dead man' is the very Lord who walked the shore with Peter. The Resurrection, dismissed by Festus as obscure religion, is in fact the only matter on trial — and it carries the Gospel to Caesar himself. Psalm 103 lifts our eyes above the tribunals of men: the Lord has set his throne in heaven, his kingdom rules over all, and his mercy casts our sins as far as east from west. The Church today calls us to the apostolic vocation hidden in our own lives: to answer Christ's question, 'Do you love me?', to feed whatever lambs he entrusts to us, and to bear witness — even before unwilling ears — that Jesus lives."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8828,
+    "completionTokens": 2430,
+    "generatedAt": "2026-05-22T10:08:30.847548+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
