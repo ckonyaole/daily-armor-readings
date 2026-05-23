@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 3,
+  "date": "2026-05-23",
+  "liturgical": {
+    "season": "Easter",
+    "week": "Week of 2026-05-23",
+    "color": "white",
+    "rank": "Weekday",
+    "title": "Saturday - May 23, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-23"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "Reading 1",
+      "citation": "Acts 28:16-20, 30-31",
+      "text": "On our arrival in Rome Paul was allowed to stay in lodgings of his own with the soldier who guarded him.\nAfter three days he called together the leading Jews. When they had assembled, he said to them, 'Brothers, although I have done nothing against our people or the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans.\nThey examined me and would have set me free, since they found me guilty of nothing involving the death penalty;\nbut the Jews lodged an objection, and I was forced to appeal to Caesar, though not because I had any accusation to make against my own nation.\nThat is why I have urged you to see me and have a discussion with me, for it is on account of the hope of Israel that I wear this chain.'\nHe spent the whole of the two years in his own rented lodging. He welcomed all who came to visit him,\nproclaiming the kingdom of God and teaching the truth about the Lord Jesus Christ with complete fearlessness and without any hindrance from anyone.",
+      "translation": "Catholic.org (NJB-based)",
+      "exegesis": {
+        "summary": "The Acts of the Apostles closes not with Paul's death but with the Gospel arriving in Rome, the heart of the empire. Paul, in chains for 'the hope of Israel,' welcomes all who come and proclaims the Kingdom of God 'with complete fearlessness and without any hindrance.' Luke ends his narrative open-ended on purpose: the Word that began in a Galilean synagogue is now preached at the world's capital, and the mission continues through the Church.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "Before Jerusalem should be taken by the Romans, the disciples, having suffered persecution from the Jews, were imprisoned and brought before rulers. Paul was sent to Rome to Caesar and stood before Festus and Agrippa. And it shall turn to you for a testimony — in the Greek, eis martyrion, that is, for the glory of martyrdom."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Wherein admire Christ's power, and the courage of the disciples, who preached through those times in which all things Jewish were the object of attack. The Apostles, being Jews, introduced new laws in opposition to the Roman authority. The Romans conquered countless thousands of Jews, but could not overcome twelve unarmed unprotected men."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 674,
+            "title": "The full inclusion of Israel and the Church's hope"
+          },
+          {
+            "paragraph": 597,
+            "title": "Responsibility for Christ's Passion not laid on the Jews as a whole"
+          },
+          {
+            "paragraph": 659,
+            "title": "Paul as apostle 'as to one untimely born'"
+          }
+        ],
+        "thematicConnection": "Paul preaches the Kingdom in Rome while in chains; the Psalm answers that the true throne is not Caesar's but Yahweh's in heaven; the Gospel closes John's testimony with the Word so vast the world cannot contain its books. All three readings — on the eve of Pentecost — are about the Word breaking past every boundary that tried to hold it."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalms 11:4, 5, 7",
+      "text": "Yahweh in his holy temple! Yahweh, his throne is in heaven; his eyes watch over the world, his gaze scrutinises the children of Adam.\nYahweh examines the upright and the wicked, the lover of violence he detests.\nFor Yahweh is upright and loves uprightness, the honest will ever see his face.",
+      "translation": "Catholic.org (NJB-based)",
+      "refrain": "Yahweh in his holy temple!",
+      "exegesis": {
+        "summary": "Psalm 11 places God's throne above every earthly tribunal: 'Yahweh in his holy temple! Yahweh, his throne is in heaven.' His gaze scrutinizes both upright and wicked, and 'the honest will ever see his face.' The psalm is the answer to Paul in chains before Caesar — the real verdict belongs to the One enthroned in heaven, who loves uprightness and grants the beatific vision to those who seek Him.",
+        "patristicQuotes": [
+          {
+            "father": "Rabanus Maurus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He sat down there to show that rest is not to be sought but in heavenly things. And as He sits on the mountain, that is, in the heavenly height, there come unto Him multitudes of the faithful, drawing near to Him with devoted mind."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 21",
+            "quote": "It shall be afterwards that He shall be seen in the form of God, for which all the believers long."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2794,
+            "title": "'Our Father in heaven' — God's majesty, not a place"
+          },
+          {
+            "paragraph": 1028,
+            "title": "The beatific vision — seeing God face to face"
+          },
+          {
+            "paragraph": 269,
+            "title": "God is master of history, governing hearts and events"
+          }
+        ],
+        "thematicConnection": "When Paul says 'I was forced to appeal to Caesar,' the psalmist replies: but Yahweh's throne is in heaven, and His gaze is the true tribunal. The Gospel will then show that even the deaths of Peter and the beloved disciple are held in that gaze: 'If I want him to stay behind till I come — what does it matter to you?' Heaven holds every story."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 21:20-25",
+      "text": "Peter turned and saw the disciple whom Jesus loved following them -- the one who had leant back close to his chest at the supper and had said to him, 'Lord, who is it that will betray you?'\nSeeing him, Peter said to Jesus, 'What about him, Lord?'\nJesus answered, 'If I want him to stay behind till I come, what does it matter to you? You are to follow me.'\nThe rumour then went out among the brothers that this disciple would not die. Yet Jesus had not said to Peter, 'He will not die,' but, 'If I want him to stay behind till I come.'\nThis disciple is the one who vouches for these things and has written them down, and we know that his testimony is true.\nThere was much else that Jesus did; if it were written down in detail, I do not suppose the world itself would hold all the books that would be written.",
+      "translation": "Catholic.org (NJB-based)",
+      "exegesis": {
+        "summary": "John's Gospel ends with Peter, freshly restored and freshly told how he will die, looking back at the beloved disciple and asking, 'What about him, Lord?' Jesus refuses comparison: 'You are to follow me.' Each disciple's path is from the Lord alone. The Gospel then closes with John's eyewitness signature and the great hyperbole — the world itself could not hold the books that would be written about Jesus.",
+        "patristicQuotes": [
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on John",
+            "quote": "Peter, hearing that he was to suffer death for Christ, asks whether John was to die. Peter, seeing him, said to Jesus, 'Lord, and what shall this man do?'"
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John 88.2",
+            "quote": "It is not without meaning that that circumstance of leaning on His breast is mentioned, but to show what confidence Peter had after his denial. He who at the supper dared not ask himself, but gave his question to John to put, has the superintendence over his brethren committed to him; and whereas before he gave a question which concerned himself to another to put, he now asks questions himself of his Master concerning others."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 124 on John",
+            "quote": "Why does He say, 'Follow Me,' to Peter, and not to the others who were present, who as disciples were following their Master? Or if we understand it of his martyrdom — was Peter the only one who died for the Christian truth? Peter not only died, but suffered the death of the cross, as Christ did."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 440,
+            "title": "Peter's profession and Jesus' redemptive kingship"
+          },
+          {
+            "paragraph": 554,
+            "title": "Peter's confession and the prediction of the Passion"
+          },
+          {
+            "paragraph": 1816,
+            "title": "The disciple must confess and bear witness to the faith"
+          },
+          {
+            "paragraph": 2233,
+            "title": "Becoming a disciple means belonging to God's family"
+          }
+        ],
+        "thematicConnection": "Paul writes from chains in Rome; the beloved disciple writes from old age in Ephesus; the psalm declares heaven the true throne. The Church places these three voices side by side on the vigil of Pentecost to say: the testimony of Christ has no last page. Every disciple has a unique call ('what is that to thee?'), and the Spirit who descends tomorrow is the One who keeps writing the unfinished book."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Word the World Cannot Contain",
+    "body": "On the last weekday of Easter, the Church lets two great books end — Acts and John — and then turns the page to Pentecost. Acts closes with Paul in Rome, in chains but unhindered, preaching the Kingdom 'with complete fearlessness.' John closes with Peter, restored from his denial, asking about another disciple's path, and being told to mind his own following. Between them, Psalm 11 lifts every gaze upward: Yahweh in his holy temple, his throne in heaven, his eyes watching over the world. The Church proclaims today that the Word of God is not bound — not by Roman chains, not by death, not by the limits of any one disciple's vocation, not even by the size of the world itself, which 'could not hold the books that would be written.' Paul's chain and John's pen are both servants of the same Word. And this is the perfect threshold for Pentecost: tomorrow the Spirit will descend, and the testimony that began with twelve unarmed men in Jerusalem will pour out through every disciple to the ends of the earth. Today we stand at the end of the book that is never finished, ready for the Spirit who keeps writing it through us."
+  },
+  "generation": {
+    "model": "claude-code-cli/subscription",
+    "promptTokens": 0,
+    "completionTokens": 0,
+    "generatedAt": "2026-05-23T09:13:06.707740+00:00",
+    "corpusVersion": "v1.0"
+  },
+  "bibleEntry": {
+    "_source": "bible-entry-icb skill",
+    "questions": [
+      "Picture the lakeshore in the early morning — the fire still burning, the bread eaten, the smell of fish in the air. Where are you standing as Peter, Jesus, and John walk along the sand?",
+      "Look at Peter. He has just been forgiven three times for his three denials, and just been told how he will die. What is his face doing as he turns around and sees John following them?",
+      "Look at John — 'the disciple Jesus loved' — the one who leaned on Jesus' chest at the Last Supper. What is his expression as he walks quietly behind?",
+      "What does Peter's voice sound like when he asks, 'Lord, what about him?' Is it jealous, anxious, curious, protective?",
+      "Why do you think Peter, in the very moment of his commissioning, looks back at someone else's path instead of forward at his own?",
+      "What might Jesus be feeling when He answers, 'What does it matter to you? You are to follow me.' Is His voice sharp, patient, tender, firm?",
+      "God's heart in this scene: He gives each disciple a unique path and refuses to let them compare. What does this tell you about how the Father sees you, specifically, by name?",
+      "Where do you locate yourself in this story? Are you Peter glancing sideways at someone else's journey? Are you John, quietly walking, content not to be the headline? Are you on the shore watching?",
+      "John's Gospel ends with: 'The world itself could not hold all the books.' How does it feel to know that Jesus did more than any page can record, and that your life is part of the unwritten pages?",
+      "One truth to carry: 'You are to follow Me.' Not him, not her, not them. Me. Today."
+    ]
+  },
+  "gospelImmersion": {
+    "_source": "step-2-reading-bible skill (Fr. Mike Schmitz Ignatian method)",
+    "icbParaphrase": "Peter turned around and saw John walking behind them. John was the one Jesus loved very much. Peter pointed at him and asked Jesus, 'Lord, what about him?' Jesus said, 'If I want him to stay alive until I come back, that is not your concern. You follow Me.' People started a rumor that John would never die. But Jesus did not say that. He only said, 'If I want him to stay.' This is the disciple who saw all these things and wrote them down. Jesus did many more things too. If every one of them was written down, the whole world could not hold all the books.",
+    "senses": {
+      "sight": "Wet sand under your sandals. Three figures walking slowly along the Sea of Tiberias in early morning light — Jesus in front, Peter beside Him, John a few steps behind. The charcoal fire from breakfast is still smoking in the distance. The water is glassy and pink with sunrise. Peter twists his whole body around to look back at John. You see his shoulders tense.",
+      "sound": "The soft slap of small waves on the shore. The crunch of footsteps in wet sand. Gulls crying overhead. The crackle of the dying fire behind you. Then Peter's voice, low and uncertain — 'Lord, what about him?' And Jesus' answer, quiet but unmistakably firm: 'What is that to you? You follow Me.' The other disciples nearby fall silent.",
+      "touch": "The morning chill on your arms before the sun is fully up. Damp linen tunic against your skin from the lake spray. Sand between your toes. The warmth of Peter's bare arm as he turns and brushes past you. If you reach out, the rough sleeve of Jesus' garment is within touching distance — He has not gone far.",
+      "smell": "Charcoal smoke and grilled fish still hanging in the air from the breakfast Jesus cooked. Salt from the lake. Damp wool from the disciples' tunics, wet from working the nets. The clean, cold smell of dawn over open water. Faintly, the wild herbs of the Galilean hills carried on the breeze.",
+      "taste": "The lingering taste of bread and fish on your tongue from breakfast — the meal the Risen Jesus cooked for you Himself. Salt on your lips from the lake spray. A dryness in your mouth as you realize Jesus has just told Peter how he will die, and now Peter is asking about someone else, and Jesus is gently turning him back."
+    },
+    "jesusMoment": "Jesus does not stop walking. He keeps moving forward along the shore, and Peter has to catch up to hear Him. His face is calm but His eyes are direct — there is no irritation, only a refusal to let Peter look sideways. When He says 'What is that to you?' His voice is not a rebuke; it is the voice of a father gently turning a child's chin back to the road ahead. Then He says 'You — follow Me,' and the 'you' is so personal, so singular, that Peter feels seen all the way through. Jesus glances briefly at John, who is still walking quietly behind, and a small smile passes over His lips — He knows exactly what each one will become. Then He turns His eyes to you. The same words land in your heart: You. Follow Me."
+  },
+  "rosaryTieIn": {
+    "_source": "rosary-mysteries-guide skill",
+    "mysterySet": "Joyful",
+    "reasonForToday": "Saturday is traditionally Marian — the Joyful Mysteries are prayed today, and on the vigil of Pentecost we remember Mary at the heart of every beginning, including the upper room where the Spirit will fall tomorrow.",
+    "spiritualFruit": "Humility, love of neighbor, poverty of spirit, obedience, joy in finding Jesus — and above all, the grace to say a personal 'yes' to God's unique call on your life.",
+    "connectionToGospel": "Today's Gospel ends with Jesus telling Peter to stop comparing his path to John's: 'You are to follow Me.' Mary, in the Joyful Mysteries, models exactly this — she does not ask what Elizabeth's call is, what Joseph's call is, what Anna or Simeon are doing. She simply says 'Let it be done unto me according to your word' and walks her own path. The Rosary today teaches you to say a personal yes without sideways glances."
+  },
+  "walkWithHim": {
+    "_source": "with-him skill (Catholic companionship mode)",
+    "modeDetected": "morning",
+    "companionPrompt": "Good morning, Lord. You are already here — at the shore of this Saturday, with the fire still warm. Tomorrow is Pentecost, and the Church is holding her breath. I want to hold my breath with You. Quiet me from the noise of comparing my life to anyone else's. Don't let me ask today, 'What about him? What about her? Why does she have that and I have this?' Just turn my face back to Yours and say it again: 'You are to follow Me.' I will. One step. One conversation. One small kindness. One whispered yes when no one is watching. Walk this Saturday with me — chain and freedom both — and let the Spirit find me ready tomorrow.",
+    "oneTruthToCarry": "He is not asking me to be anyone else's disciple — only His, today, one step at a time."
+  },
+  "examen": {
+    "openingPrayer": "Lord Jesus, the day is folding into evening and I come to You as I am — tired, grateful, a little scattered. You sat at table tonight with Peter and John, You looked each of them in the eye, and You called each one to his own path. Do the same for me now. Quiet the comparisons. Hush the worries about tomorrow and about anyone else's road. Holy Spirit, walk back through these past hours with me, gently, as a friend retraces a shoreline. Show me where You were. Show me what I missed. Show me the one thing You want me to carry into sleep tonight. Amen.",
+    "stations": [
+      {
+        "kind": "gratitude",
+        "title": "Gratitude",
+        "prompt": "Settle into your chair. Breathe slowly. Now picture the lakeshore at dawn — Peter walking with Jesus, John following a few steps behind, the smell of fish and charcoal still in the air. That scene is your day too: Jesus was walking with you, and gifts were following you the whole time. Name them now, slowly, one at a time. The cup of coffee that was warm at the right moment. The text you didn't expect. The work that got finished. The light on a wall. The person who smiled at you. Don't rush past any of them. For each one whisper, 'Thank You, Lord — that was You.' Especially thank Him for the small ordinary mercies — the ones you almost didn't notice. Stay here until your chest softens.",
+        "scriptureAnchor": "John 21:20 — 'the disciple whom Jesus loved following them'",
+        "silenceSeconds": 60
+      },
+      {
+        "kind": "petition",
+        "title": "Petition",
+        "prompt": "Before you look back at the day honestly, ask for the light to see it as Jesus sees it — not harsher than He sees it, not softer. Pray simply: 'Holy Spirit, show me what You want to show me. Hide nothing. Magnify nothing. Just the truth, held in Your love.' Peter wanted to know about another man's road tonight in the gospel, and Jesus turned him gently back to his own. Ask the Spirit for that same gentle turning — back to your own heart, your own steps, your own day. Not anyone else's.",
+        "silenceSeconds": 30
+      },
+      {
+        "kind": "review",
+        "title": "Review the Day",
+        "prompt": "Walk through today hour by hour with Jesus beside you, the way John walked behind Peter on that shore. Start from when you opened your eyes this morning. What was the first thought? Was He there? Move forward slowly — the morning, the work, the meals, the conversations, the empty pockets of time, the screens, the silences. Don't grade yourself. Just notice. Where did you feel most alive, most yourself, most loved? That was the Holy Spirit. Where did you feel pulled down, defensive, restless, comparing yourself to someone else, wondering about someone else's path instead of walking your own? That was a place Jesus wants to meet you. Notice especially the moments when you looked sideways at another disciple's road — at someone else's success, marriage, money, holiness, ease — and forgot Jesus was saying to you, 'You are to follow Me.' Sit with what surfaces. Don't push it away. Don't dramatize it. Let Him show you the day as it really was.",
+        "silenceSeconds": 90
+      },
+      {
+        "kind": "sorrow",
+        "title": "Sorrow",
+        "prompt": "Now, gently, name the places where you turned away from Him today — or simply forgot He was there. Maybe a sharp word. Maybe a long scroll. Maybe a comparison that stole your peace. Maybe a worry you refused to hand over. There is no shaming here. Jesus is not standing over you with a list. He is sitting across from you the way He sat across from Peter on that shore — already knowing, already loving, already feeding you. Say each thing simply: 'Lord, I'm sorry for that.' Then let Him answer. Hear Him say what He said to Peter: 'It doesn't matter. You are to follow Me.' Receive His mercy. Don't argue with it.",
+        "silenceSeconds": 60
+      },
+      {
+        "kind": "renewal",
+        "title": "Renewal",
+        "prompt": "Tomorrow is its own road, and He will walk it with you one step at a time. Ask Him now: 'Lord, what is the one thing You want me to carry into tomorrow?' Wait for it. It will be small. It usually is. Maybe a person to call. Maybe a temptation to leave behind. Maybe a single posture — 'just follow Me, don't look sideways.' Tonight's carry is already in your hands: He is not asking you to be anyone else's disciple — only His, today, one step at a time. Hold that close. Place tomorrow in His pierced hands. You don't have to figure it out tonight. You only have to sleep, and rise, and follow.",
+        "silenceSeconds": 60
+      }
+    ],
+    "closing": "Lord Jesus, the day is finished and it is enough. You walked every hour of it with me, even the ones I forgot. Tonight I lay down Peter's question — 'what about him?' — and I take up Yours: 'follow Me.' Keep me close while I sleep. Wake me tomorrow ready for one more step, with You, and no one else's road on my mind. Amen."
+  }
+}
