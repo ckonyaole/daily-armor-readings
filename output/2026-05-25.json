@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-25",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-05-25",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - May 25, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-25"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Genesis 3:9-15,20",
+      "text": "After Adam had eaten of the tree the Lord God called to him. ‘Where are you?’ he asked. ‘I heard the sound of you in the garden;’ he replied ‘I was afraid because I was naked, so I hid.’ ‘Who told you that you were naked?’ he asked ‘Have you been eating of the tree I forbade you to eat?’ The man replied, ‘It was the woman you put with me; she gave me the fruit, and I ate it.’ Then the Lord God asked the woman, ‘What is this you have done?’ The woman replied, ‘The serpent tempted me and I ate.’\n‘Be accursed beyond all cattle,\nall wild beasts.\nYou shall crawl on your belly and eat dust\nevery day of your life.\nI will make you enemies of each other:\nyou and the woman,\nyour offspring and her offspring.\nIt will crush your head\nand you will strike its heel.’\nThe man named his wife ‘Eve’ because she was the mother of all those who live.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Genesis recounts the tragic aftermath of the first sin: Adam and Eve hide from God, deflect blame, and hear the consequences of their disobedience. Yet woven into the curse upon the serpent is the first whisper of the Gospel — the Protoevangelium — promising a woman whose offspring will crush the serpent's head. The naming of Eve as 'mother of all the living' points beyond herself to a deeper motherhood yet to come.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "This was the voice of the Devil. This was the first word the Serpent uttered to Eve: 'Yea hath God said, Ye shall not eat.' So they diffuse the poison of their father."
+          },
+          {
+            "father": "Pseudo-Jerome",
+            "work": "Catena Aurea on Mark",
+            "quote": "Adam, our forefather according to the flesh, is clothed with the skins of dead beasts; but now, having put off the old man with his deeds, following the new man we are clothed with those skins of Solomon, with which the bride rejoices that she has been made beautiful."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 396,
+            "title": "The limits of creaturely freedom"
+          },
+          {
+            "paragraph": 399,
+            "title": "Consequences of the first disobedience"
+          },
+          {
+            "paragraph": 405,
+            "title": "Original sin and concupiscence"
+          },
+          {
+            "paragraph": 371,
+            "title": "Woman as helper and partner"
+          }
+        ],
+        "thematicConnection": "The 'woman' and her 'offspring' in Genesis 3:15 find their fulfillment in the Gospel scene at Calvary, where the New Eve stands beneath the New Adam as His heel is struck and the serpent's head is crushed."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 86(87)",
+      "text": "Of you are told glorious things, O city of God!\nOn the holy mountain is his city\ncherished by the Lord.\nThe Lord prefers the gates of Zion\nto all Jacob’s dwellings.\nOf you are told glorious things, O city of God!\nOf you are told glorious things,\nO city of God!\n‘Zion shall be called “Mother”\nfor all shall be her children.’\nOf you are told glorious things, O city of God!\nIt is he, the Lord Most High,\nwho gives each his place.\nIn his register of peoples he writes:\n‘These are her children,’\nand while they dance they will sing:\n‘In you all find their home.’\nOf you are told glorious things, O city of God!",
+      "translation": "Universalis (US)",
+      "refrain": "Of you are told glorious things, O city of God!",
+      "exegesis": {
+        "summary": "Psalm 87 celebrates Zion as the mother-city of all peoples, the dwelling place of God where every nation finds its true home. The Lord Himself inscribes each one in the register of her children. This maternal image of the holy city anticipates the Church, our spiritual mother.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This city is the Church of which it is said, 'Glorious things are spoken of thee, thou city of God.' Its citizens are all the faithful, of whom the Apostle speaks, 'Ye are fellow-citizens of the saints.' It is built upon Christ the hill."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "Our city and country is the resting-place of the blessed, to which we ought to be travelling with daily increasing virtues. Holy Church, after the example of the blessed Virgin Mary, a Virgin has conceived us of the Spirit."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 756,
+            "title": "The Church as the holy city"
+          },
+          {
+            "paragraph": 2016,
+            "title": "The new Jerusalem, our mother"
+          },
+          {
+            "paragraph": 1198,
+            "title": "Our churches as images of the heavenly Jerusalem"
+          }
+        ],
+        "thematicConnection": "Zion called 'Mother' bridges Eve, the mother of all the living, and Mary, the Mother of the Church. All three reveal God's design that His people be gathered into one maternal embrace."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 19:25-34",
+      "text": "Near the cross of Jesus stood his mother and his mother’s sister, Mary the wife of Clopas, and Mary of Magdala. Seeing his mother and the disciple he loved standing near her, Jesus said to his mother, ‘Woman, this is your son.’ Then to the disciple he said, ‘This is your mother.’ And from that moment the disciple made a place for her in his home.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "At the foot of the Cross, Jesus addresses His mother not by name but as 'Woman' — the same title Genesis gave to Eve — and entrusts her to the beloved disciple as his mother. In this solemn act, Mary's motherhood is extended to every disciple of Christ. The hour of redemption is also the hour of the Church's birth from the pierced side of the New Adam.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 85 on John",
+            "quote": "Though there were other women by, He makes no mention of any of them, but only of His mother, to show us that we should specially honour our mothers, and honour them above all the world beside."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 119 on John",
+            "quote": "He does this to provide as it were another son for His mother in his place. He took her to his own — not to his farm, for he had none, but to his care, for of this he was master."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 501,
+            "title": "Mary's spiritual motherhood of all"
+          },
+          {
+            "paragraph": 964,
+            "title": "Mary's union with the Son at the hour of the Passion"
+          },
+          {
+            "paragraph": 2618,
+            "title": "Mary the New Eve at the foot of the Cross"
+          },
+          {
+            "paragraph": 618,
+            "title": "Mary's unique association with the redemptive sacrifice"
+          },
+          {
+            "paragraph": 2674,
+            "title": "Mary's motherhood extended to Christ's brethren"
+          }
+        ],
+        "thematicConnection": "The 'Woman' of Genesis whose offspring would crush the serpent stands here at Calvary as the New Eve, given as Mother to all the faithful — the living citizens of the city of God praised in the Psalm."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "From Eve to Mary: The Woman and the City of God",
+    "body": "Today the Church traces a single golden thread from Eden to Calvary. In Genesis, sin shatters the original communion of Adam and Eve with God, yet from within the curse God speaks the first Gospel: a Woman is coming, and her offspring will crush the serpent. Eve is named 'mother of all the living' — but only in foreshadowing. Psalm 87 lifts our eyes to Zion, the holy city called 'Mother,' in whose register God writes the name of every nation: glorious things are spoken of her, for in her all find their home. Then at the Cross, the prophecy ripens. Jesus, the New Adam, looks upon His Mother and calls her 'Woman' — the very title of Eden — and entrusts her to the beloved disciple as the Mother of all who will be reborn through His pierced side. The serpent's head is crushed precisely as his heel is struck. What was lost in the garden is restored on Calvary: a Mother, a family, a city. The wounds of original sin remain in us as concupiscence, but Baptism plants us as living stones in this new Jerusalem, and Mary, the New Eve, mothers us into Christ. Today we go home, like the beloved disciple, taking her into our own."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8008,
+    "completionTokens": 2289,
+    "generatedAt": "2026-05-25T10:35:11.400946+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
