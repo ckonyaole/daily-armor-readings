@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-26",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-05-26",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - May 26, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-26"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Peter 1:10-16",
+      "text": "It was this salvation that the prophets were looking and searching so hard for; their prophecies were about the grace which was to come to you. The Spirit of Christ which was in them foretold the sufferings of Christ and the glories that would come after them, and they tried to find out at what time and in what circumstances all this was to be expected. It was revealed to them that the news they brought of all the things which have now been announced to you, by those who preached to you the Good News through the Holy Spirit sent from heaven, was for you and not for themselves. Even the angels long to catch a glimpse of these things.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Peter marvels that the prophets of old searched diligently for the grace now revealed in Christ — the sufferings and glories foretold by the Spirit. The apostle reminds the baptized that they are the privileged recipients of what angels themselves long to glimpse, and therefore he calls them to lives of holiness and sober vigilance, conformed to the Holy One who has called them.",
+        "patristicQuotes": [
+          {
+            "father": "Didymus",
+            "work": "Catena Aurea",
+            "quote": "By the Spirit of truth the knowledge of future events has been granted to holy men. Prophets filled with this Spirit foretold and saw things to come as if they were present."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on John",
+            "quote": "Many filled with the grace of the Holy Spirit have foreknown future events; the Lord did inform the Apostles of what was to come, the evils they would suffer for Christ's sake and the good things they would receive in recompense."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 702,
+            "title": "The Spirit speaks through the prophets toward Christ"
+          },
+          {
+            "paragraph": 711,
+            "title": "Two prophetic lines converge in the Remnant"
+          },
+          {
+            "paragraph": 1286,
+            "title": "The Spirit promised rests upon the Messiah"
+          },
+          {
+            "paragraph": 332,
+            "title": "Angels serve the divine plan of salvation"
+          }
+        ],
+        "thematicConnection": "Peter shows that the salvation prophesied of old has now been made known — exactly what the Psalm sings: 'The Lord has made known his salvation.' This salvation, revealed first to the prophets, is the very thing the disciples in the Gospel have left everything to follow."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 97(98):1-4",
+      "text": "The Lord has made known his salvation.\nSing a new song to the Lord\nfor he has worked wonders.\nHis right hand and his holy arm\nhave brought salvation.\nThe Lord has made known his salvation.\nThe Lord has made known his salvation;\nhas shown his justice to the nations.\nHe has remembered his truth and love\nfor the house of Israel.\nThe Lord has made known his salvation.\nAll the ends of the earth have seen\nthe salvation of our God.\nShout to the Lord, all the earth,\nring out your joy.\nThe Lord has made known his salvation.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord has made known his salvation.",
+      "exegesis": {
+        "summary": "Psalm 98 is a coronation hymn celebrating the saving 'right hand' of the Lord. What was once Israel's hidden hope has now been unveiled to the ends of the earth, and all creation is summoned to a new song. The refrain anchors the Church's joy: the salvation prophets sought has been disclosed in Christ.",
+        "patristicQuotes": [
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Luke",
+            "quote": "The Lord Jesus is salvation, but the knowledge of salvation, that is, of Christ, was given in John, who bore witness of Christ."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "By 'Hosanna,' that is, Salvation in the highest, it is clearly shown that the coming of Christ is not the salvation of man only, but of the whole world, joining earthly things to things heavenly."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 74,
+            "title": "God wills the salvation of all"
+          },
+          {
+            "paragraph": 620,
+            "title": "Salvation flows from God's initiative of love"
+          },
+          {
+            "paragraph": 124,
+            "title": "The Word of God is the power of God for salvation"
+          }
+        ],
+        "thematicConnection": "The Psalm proclaims publicly what the First Reading says was once hidden in prophecy: God's saving arm revealed. It also frames the Gospel's promise of a hundredfold reward — the salvation that meets those who leave all for Christ."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Mark 10:28-31",
+      "text": "At that time Peter began to tell Jesus, ‘What about us? We have left everything and followed you.’ Jesus said, ‘I tell you solemnly, there is no one who has left house, brothers, sisters, father, children or land for my sake and for the sake of the gospel who will not be repaid a hundred times over, houses, brothers, sisters, mothers, children and land – not without persecutions – now in this present time and, in the world to come, eternal life.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "After the rich young man walks away sorrowful, Peter speaks for the Twelve: 'We have left everything.' Jesus answers with a solemn promise: every renunciation made for him and for the Gospel will be repaid a hundredfold even now — in a new family, the Church — together with persecutions, and in the age to come, eternal life. The discipleship of detachment is not loss but exchange.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Mark",
+            "quote": "It is not sufficient to have left all; he adds that which makes up perfection: 'and have followed thee.' Our Lord does not mean that we should leave our fathers without helping them, but that we should prefer the glory of God to the things of this world."
+          },
+          {
+            "father": "Glossa",
+            "work": "Catena Aurea",
+            "quote": "Because the youth had gone away sorrowful at the advice of our Saviour concerning the casting away of his goods, the disciples, who had already fulfilled the foregoing precept, began to question Him concerning their reward."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 552,
+            "title": "Peter, foundation rock of the Church"
+          },
+          {
+            "paragraph": 554,
+            "title": "The Cross belongs to discipleship"
+          },
+          {
+            "paragraph": 556,
+            "title": "Through many persecutions we enter the Kingdom"
+          },
+          {
+            "paragraph": 2642,
+            "title": "Faith hopes through tribulation"
+          }
+        ],
+        "thematicConnection": "The reward Peter is promised is precisely the 'salvation made known' that the Psalm celebrates and the prophets sought (1 Peter). The 'persecutions' belong to those 'sufferings of Christ' foretold by the Spirit — and the 'glories that would come after them' are the hundredfold and eternal life."
+      }
+    },
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Philippians 4:4-9",
+      "text": "I want you to be happy, always happy in the Lord; I repeat, what I want is your happiness. Let your tolerance be evident to everyone: the Lord is very near.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul commands a paradoxical joy — 'rejoice always' — grounded not in circumstance but in the nearness of the Lord. He calls the Philippians to gentleness, to prayer with thanksgiving that yields the peace 'which surpasses understanding,' and to fix the mind on whatever is true, noble, and pure. Christian happiness is the fruit of a heart anchored in Christ and trained to dwell on what is good.",
+        "patristicQuotes": [
+          {
+            "father": "St. Basil",
+            "work": "Catena Aurea",
+            "quote": "If at any time light shall have crept into his heart, and loving God and despising bodily things he shall have gained the perfect standing of the just, without any difficulty shall he obtain joy in the Lord."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on John",
+            "quote": "To know what is good and not to do it tends not to happiness but to condemnation. Wherefore He adds: 'If ye know these things, happy are ye if ye do them.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1718,
+            "title": "The natural desire for happiness is of divine origin"
+          },
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in God"
+          },
+          {
+            "paragraph": 2548,
+            "title": "True happiness is the vision of God"
+          }
+        ],
+        "thematicConnection": "Paul's exhortation to joy and peace is the lived experience of Jesus' high-priestly prayer in the Gospel: that the love of the Father may be in us. The Psalm answers in kind — 'Taste and see that the Lord is good' — for the one who seeks refuge in him lacks no blessing."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 33(34):2-11",
+      "text": "I will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nI will bless the Lord at all times,\nhis praise always on my lips;\nin the Lord my soul shall make its boast.\nThe humble shall hear and be glad.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nGlorify the Lord with me.\nTogether let us praise his name.\nI sought the Lord and he answered me;\nfrom all my terrors he set me free.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nLook towards him and be radiant;\nlet your faces not be abashed.\nThis poor man called, the Lord heard him\nand rescued him from all his distress.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nThe angel of the Lord is encamped\naround those who revere him, to rescue them.\nTaste and see that the Lord is good.\nHe is happy who seeks refuge in him.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nRevere the Lord, you his saints.\nThey lack nothing, those who revere him.\nStrong lions suffer want and go hungry\nbut those who seek the Lord lack no blessing.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.",
+      "translation": "Universalis (US)",
+      "refrain": "I will bless the Lord at all times.",
+      "exegesis": {
+        "summary": "Psalm 34 is the song of the rescued poor man. 'I sought the Lord and he answered me' is the testimony of every soul that has cast itself upon God's goodness. The Church places this psalm on our lips as the truest response to Paul's call to rejoice — and as the deepest taste of the unity for which Christ prays in the Gospel.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "He never refuses His blessings to them that pray, but rather stirs men up by His mercy not to faint in praying. Consider what a blessed privilege is granted thee, to talk with God in thy prayers."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "As often as any of the brethren shall sound forth the word of sacred learning, we should with our whole heart, our mouths and hands, return praise to God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2639,
+            "title": "Praise recognizes that God is God"
+          },
+          {
+            "paragraph": 2649,
+            "title": "Praise is entirely disinterested"
+          },
+          {
+            "paragraph": 30,
+            "title": "Let the hearts of those who seek the Lord rejoice"
+          }
+        ],
+        "thematicConnection": "'Taste and see' is the sacramental echo of Christ's prayer that we be one in him: communion known by experience. The psalm makes Paul's 'rejoice always' concrete — blessing the Lord at all times, in every distress from which he sets us free."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 17:20-26",
+      "text": "Jesus raised his eyes to heaven and said:\n‘Holy Father,\nI pray not only for these,\nbut for those also\nwho through their words will believe in me.\nMay they all be one.\nFather, may they be one in us,\nas you are in me and I am in you,\nso that the world may believe it was you who sent me.\nI have given them the glory you gave to me,\nthat they may be one as we are one.\nWith me in them and you in me,\nmay they be so completely one\nthat the world will realise that it was you who sent me\nand that I have loved them as much as you loved me.\nFather, I want those you have given me\nto be with me where I am,\nso that they may always see the glory you have given me\nbecause you loved me before the foundation of the world.\nFather, Righteous One,\nthe world has not known you,\nbut I have known you,\nand these have known that you have sent me.\nI have made your name known to them\nand will continue to make it known,\nso that the love with which you loved me may be in them,\nand so that I may be in them.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "On the night before he died, Jesus prays not only for the apostles but for all who will believe through their word — including us. His petition is staggering: that we be one as the Father and Son are one, drawn into the very communion of the Trinity, so that the world may believe. He desires that those the Father has given him be with him to behold his glory, and that the Father's love itself dwell in them.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 81 on John",
+            "quote": "As the disciples were still sad, henceforth He addresses Himself to the Father to show the love which He had for them. He not only gives them what He has of His own, but entreats another for them, as a still further proof of His love."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 107 on John",
+            "quote": "He does not say, 'That they may be one with Us, as We are one,' but 'that they may be one' — that they may be one in their nature, as We are one in Ours."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 82 on John",
+            "quote": "After He has said that many should believe on Him through them, He speaks of the crowns in store for them: 'Father, I will that they also whom Thou hast given Me, be with Me where I am.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2658,
+            "title": "God's love poured into our hearts"
+          },
+          {
+            "paragraph": 1698,
+            "title": "Christ longs to live in his members"
+          },
+          {
+            "paragraph": 1077,
+            "title": "Chosen in him before the foundation of the world"
+          },
+          {
+            "paragraph": 2605,
+            "title": "The filial prayer of Jesus"
+          }
+        ],
+        "thematicConnection": "Jesus' prayer for unity is the answer to Paul's appeal for joy and peace: both flow from indwelling love. The 'glory the Father gave' Christ is the same salvation the Psalm sings of, now poured into his Body, the Church."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Salvation the Prophets Longed For Is Now Our Joy",
+    "body": "Today the Church gathers up the great arc of salvation history. St. Peter tells us that the prophets searched and the angels long to glimpse what we now possess: the sufferings and glories of Christ revealed in our midst. The Psalm responds with the new song of a world that has at last seen God's saving arm. Then in the Gospel from Mark, Peter himself stands at the threshold of that mystery, and Jesus assures him — and us — that nothing surrendered for the Gospel is lost; everything is multiplied a hundredfold, even amid persecutions, and crowned with eternal life. The second set of readings deepens this same promise from within. Paul commands a joy that does not depend on circumstances because 'the Lord is near,' and Psalm 34 invites us to taste and see the goodness of the One who rescues the poor man. In John 17, we overhear Christ's own priestly prayer: that we be drawn into the very oneness of Father and Son, that the love with which the Father loved him before the foundation of the world might dwell in us. To leave all for Christ is not deprivation — it is to be folded into the Trinity's own life, the salvation prophets sought and angels still adore."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 14013,
+    "completionTokens": 4076,
+    "generatedAt": "2026-05-26T10:27:27.492614+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
