@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-27",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-05-27",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - May 27, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-27"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Peter 1:18-25",
+      "text": "Remember, the ransom that was paid to free you from the useless way of life your ancestors handed down was not paid in anything corruptible, neither in silver nor gold, but in the precious blood of a lamb without spot or stain, namely Christ; who, though known since before the world was made, has been revealed only in our time, the end of the ages, for your sake. Through him you now have faith in God, who raised him from the dead and gave him glory for that very reason – so that you would have faith and hope in God.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Peter reminds the baptized that their freedom was purchased not with silver or gold but with the precious Blood of Christ, the spotless Lamb foreknown before the foundation of the world. This ransom shatters the futile patterns of life inherited from a fallen ancestry and grounds the believer's faith and hope in the God who raised Jesus from the dead. The enduring Word of the Lord, which is the Gospel preached to us, becomes the seed of imperishable life.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Jerome",
+            "work": "Catena Aurea on Mark",
+            "quote": "How much more wonderful is it that a dead man should arise, than that one yet living should choose to come down from the cross. You asked but small things, till greater should have come to pass."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 622,
+            "title": "Redemption as ransom from futile ways"
+          },
+          {
+            "paragraph": 517,
+            "title": "Christ's whole life is redemption"
+          },
+          {
+            "paragraph": 162,
+            "title": "Faith nourished and persevering"
+          }
+        ],
+        "thematicConnection": "Peter's announcement of the ransom paid in Christ's Blood directly prepares us for the Gospel, in which Jesus declares that the Son of Man came 'to give his life as a ransom for many.'"
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 147:12-15,19-20",
+      "text": "O praise the Lord, Jerusalem!\nor\nAlleluia!\nO praise the Lord, Jerusalem!\nZion, praise your God!\nHe has strengthened the bars of your gates\nhe has blessed the children within you.\nO praise the Lord, Jerusalem!\nor\nAlleluia!\nHe established peace on your borders,\nhe feeds you with finest wheat.\nHe sends out his word to the earth\nand swiftly runs his command.\nO praise the Lord, Jerusalem!\nor\nAlleluia!\nHe makes his word known to Jacob,\nto Israel his laws and decrees.\nHe has not dealt thus with other nations;\nhe has not taught them his decrees.\nO praise the Lord, Jerusalem!\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "O praise the Lord, Jerusalem!",
+      "exegesis": {
+        "summary": "Psalm 147 calls Jerusalem to praise the God who fortifies her gates, blesses her children, gives peace within her borders, and feeds her with the finest wheat. This is the God who sends forth his swift Word and reveals his statutes to Israel alone, a privilege granted to no other nation. The psalm is a hymn of covenantal gratitude for divine nearness.",
+        "patristicQuotes": [
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Lord turns to address the city, desiring to instruct His hearers. O Jerusalem, Jerusalem: this repetition of the name is a mark of compassion and intense love."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2589,
+            "title": "The Psalms as praise and prayer of the Church"
+          },
+          {
+            "paragraph": 559,
+            "title": "Jerusalem welcomes her Messiah"
+          },
+          {
+            "paragraph": 2580,
+            "title": "The Temple and the prayer of God's people"
+          }
+        ],
+        "thematicConnection": "Jerusalem, praised here as the city blessed by God's Word and bread, is the same city to which Jesus now resolutely ascends to fulfill his Passion in the Gospel, where the true 'finest wheat' is the Body broken for many."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Mark 10:32-45",
+      "text": "The disciples were on the road, going up to Jerusalem; Jesus was walking on ahead of them; they were in a daze, and those who followed were apprehensive. Once more taking the Twelve aside he began to tell them what was going to happen to him: ‘Now we are going up to Jerusalem, and the Son of Man is about to be handed over to the chief priests and the scribes. They will condemn him to death and will hand him over to the pagans, who will mock him and spit at him and scourge him and put him to death; and after three days he will rise again.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus walks ahead of his amazed and frightened disciples on the road to Jerusalem and, for the third time, foretells in stark detail his betrayal, mockery, scourging, death, and resurrection on the third day. He goes freely, knowingly, and as the Master who leads his flock into the mystery of the Cross. His steady stride before them embodies the courage of love that refuses to turn back.",
+        "patristicQuotes": [
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Mark",
+            "quote": "The Lord, foreseeing that the minds of His disciples would be troubled by His Passion, foretells to them both the pain of His Passion, and the glory of His resurrection."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on John",
+            "quote": "I rejoice for your sakes; since in My absence he has died, you will now see that I can raise even the dead putrefying body; and your faith will be strengthened."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 569,
+            "title": "Jesus goes up to Jerusalem voluntarily"
+          },
+          {
+            "paragraph": 557,
+            "title": "Setting his face to Jerusalem"
+          },
+          {
+            "paragraph": 554,
+            "title": "The Passion foretold"
+          },
+          {
+            "paragraph": 643,
+            "title": "Disciples shaken by the Passion"
+          }
+        ],
+        "thematicConnection": "The Passion that Jesus foretells is precisely the ransom Peter proclaims in the first reading, and the destination of his journey is the Jerusalem that the psalm bids us bless."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Lamb walks ahead toward Jerusalem",
+    "body": "Today the Church sets before us a single image: Christ walking ahead of his disciples on the road to Jerusalem, resolute and unafraid, while those who follow are bewildered and apprehensive. St. Peter unveils for us the meaning of that journey—he goes to pay a ransom not in silver or gold but in his own precious Blood, the Blood of the Lamb without spot, foreknown before the world began. The futile ways inherited from our ancestors—our fear, our grasping, our love of riches—are broken open only by this costly love. Psalm 147 places us inside the city that awaits him: Jerusalem, fed with the finest wheat, blessed in her children, taught the swift and living Word. We see now that the Word she has been given is a Person, and the finest wheat is the Body that will be broken on her hill. The Lord goes ahead so that we might dare to follow. To be Christian is to walk this road behind him, amazed but not turning back, our faith and hope anchored in the God who raised him from the dead. Today, ask for the courage simply to keep walking after the One who has already paid for your freedom."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6780,
+    "completionTokens": 1966,
+    "generatedAt": "2026-05-27T10:27:21.683096+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
