@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-28",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-05-28",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - May 28, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-28"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Peter 2:2-5,9-12",
+      "text": "You are new born, and, like babies, you should be hungry for nothing but milk – the spiritual honesty which will help you to grow up to salvation – now that you have tasted the goodness of the Lord.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Saint Peter exhorts the newly baptized to crave the 'pure spiritual milk' of the word so that they may grow into salvation, having tasted that the Lord is good. Built upon Christ the living stone, the faithful become themselves living stones, a holy priesthood, a chosen race, called out of darkness into God's marvelous light. Their dignity is matched by a mission: to live such honorable lives among the Gentiles that their very conduct glorifies God.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Commentary on John, tom. xiii",
+            "quote": "Souls require food as well as bodies, and as bodies require different kinds of nourishment, so do souls. Infants just born need the milk of the word; the grown up, solid meat."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Homilies (on Luke)",
+            "quote": "Blessed are ye who chasten your body and subject it to bondage, who in hunger and thirst give heed to the word, for then shall ye receive the fulness of heavenly joys."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1250,
+            "title": "Baptism as new birth"
+          },
+          {
+            "paragraph": 1392,
+            "title": "Eucharist nourishes baptismal life"
+          },
+          {
+            "paragraph": 1355,
+            "title": "The bread of heaven for God's people"
+          }
+        ],
+        "thematicConnection": "The 'royal priesthood' that has 'tasted the goodness of the Lord' is the same flock the Psalm calls to enter God's courts with praise, and the same people who, like Bartimaeus, were once in darkness and have been called into Christ's marvelous light."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 99(100):2-5",
+      "text": "Come before the Lord, singing for joy.\nCry out to the Lord, all the earth.\nServe the Lord with gladness.\nCome before him, singing for joy.\nCome before the Lord, singing for joy.\nKnow that he, the Lord, is God.\nHe made us, we belong to him,\nwe are his people, the sheep of his flock.\nCome before the Lord, singing for joy.\nGo within his gates, giving thanks.\nEnter his courts with songs of praise.\nGive thanks to him and bless his name.\nCome before the Lord, singing for joy.\nIndeed, how good is the Lord,\neternal his merciful love.\nHe is faithful from age to age.\nCome before the Lord, singing for joy.",
+      "translation": "Universalis (US)",
+      "refrain": "Come before the Lord, singing for joy.",
+      "exegesis": {
+        "summary": "Psalm 100 is the great invitation to enter God's presence with joyful song. It confesses that the Lord alone is God, that He has made us and we belong to Him as sheep of His flock, and that His merciful love endures forever. It is the song of a people who know to whom they belong.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Homily on the Vigil of St. Andrew",
+            "quote": "This is truly to find the Lord: to have fervent love for Him, together with a care for our brother's salvation."
+          },
+          {
+            "father": "Alcuin",
+            "work": "Catena Aurea on John",
+            "quote": "This speech of our Lord is applicable to all believers who strive through present tears and afflictions to attain to the joys eternal."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our hearts restless until they rest in God"
+          },
+          {
+            "paragraph": 1090,
+            "title": "Earthly liturgy shares heaven's hymn"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Love as source of joyful prayer"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the 'people God has made his own' from the first reading and anticipates Bartimaeus's response in the Gospel, who, once healed, follows Jesus along the road in grateful joy."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Mark 10:46-52",
+      "text": "As Jesus left Jericho with his disciples and a large crowd, Bartimaeus (that is, the son of Timaeus), a blind beggar, was sitting at the side of the road. When he heard that it was Jesus of Nazareth, he began to shout and to say, ‘Son of David, Jesus, have pity on me.’ And many of them scolded him and told him to keep quiet, but he only shouted all the louder, ‘Son of David, have pity on me.’ Jesus stopped and said, ‘Call him here.’ So they called the blind man. ‘Courage,’ they said ‘get up; he is calling you.’ So throwing off his cloak, he jumped up and went to Jesus. Then Jesus spoke, ‘What do you want me to do for you?’ ‘Rabbuni,’ the blind man said to him ‘Master, let me see again.’ Jesus said to him, ‘Go; your faith has saved you.’ And immediately his sight returned and he followed him along the road.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "As Jesus leaves Jericho on the road that will lead Him to His Passion in Jerusalem, the blind beggar Bartimaeus refuses to be silenced and cries out the messianic confession, 'Son of David, have pity on me.' Jesus calls him; he throws aside his cloak and comes. His prayer—'Master, let me see'—is answered: 'Your faith has saved you.' Restored to sight, he becomes a disciple, following Jesus on the way.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Commentary on Matthew, tom. xvi",
+            "quote": "Perhaps the garment of the blind man means the veil of blindness and poverty with which he was surrounded, which he cast away and came to Jesus."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Mark",
+            "quote": "The Gentile people began to have hope of its own illumination; for it now sits begging by the wayside, because it has not yet entered upon and reached the path of truth."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Mark",
+            "quote": "The mind of the blind man is grateful, for when he was made whole, he did not leave Jesus, but followed Him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 557,
+            "title": "Jesus sets His face toward Jerusalem"
+          },
+          {
+            "paragraph": 554,
+            "title": "Confessing Jesus as Messiah"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Persistent prayer of love"
+          }
+        ],
+        "thematicConnection": "Bartimaeus enacts what Peter describes: one called 'out of darkness into his marvelous light,' tasting the goodness of the Lord, and rising to join the procession of those who 'come before the Lord, singing for joy.'"
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Called out of darkness, following on the road",
+    "body": "Today the Church places before us the whole arc of Christian existence. In the first reading, Saint Peter tells the baptized who they are: newborns nursed on the pure milk of the word, living stones in God's temple, a royal priesthood and a holy nation called out of darkness into His marvelous light. Psalm 100 is the song that such a people cannot help but sing: we are His, the sheep of His flock; let us enter His courts with thanksgiving. And in the Gospel, the Church shows us in living color what this looks like in a single human life. Bartimaeus sits in darkness by the road. He hears that Jesus is passing and refuses to be silenced, crying out the great confession—'Son of David'—until the Lord stops, calls him, and restores his sight. He throws off his old cloak, the veil of his blindness, and follows Jesus on the road that leads to the Cross. Each of us was Bartimaeus at the font. Each of us has tasted that the Lord is good. The question today is whether, having received our sight, we are still walking the road behind Him—singing for joy, living honorably among the nations, so that others may glorify God on the day of His visitation."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7628,
+    "completionTokens": 2192,
+    "generatedAt": "2026-05-28T10:29:54.181103+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
