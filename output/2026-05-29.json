@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-29",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-05-29",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - May 29, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-29"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Peter 4:7-13",
+      "text": "Everything will soon come to an end, so, to pray better, keep a calm and sober mind. Above all, never let your love for each other grow insincere, since love covers over many a sin. Welcome each other into your houses without grumbling. Each one of you has received a special grace, so, like good stewards responsible for all these different graces of God, put yourselves at the service of others. If you are a speaker, speak in words which seem to come from God; if you are a helper, help as though every action was done at God’s orders; so that in everything God may receive the glory, through Jesus Christ, since to him alone belong all glory and power for ever and ever. Amen.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Peter, writing under the shadow of approaching persecution, urges Christians to live with sober vigilance because 'the end of all things is at hand.' The marks of this end-times living are intense mutual love, hospitality without grumbling, and the faithful stewardship of every charism for the building up of the Body. Whatever we do—whether speaking or serving—we do as instruments through whom God Himself acts, so that He alone receives glory through Jesus Christ.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John, lxiv.2",
+            "quote": "He who loves God cannot despise His commandment that he should love his neighbour; and he who loves his neighbour in a heavenly spiritual way, in the neighbour loves God. For what did He, in loving us, love, but God in us? Wherefore let each of us so love the other, as that by this working of love, we make each other the habitations of God."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John, lxxxvi.1",
+            "quote": "As Christ laid down His life for us, so we should lay down our lives for the brethren. This the martyrs have done with ardent love."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2742,
+            "title": "Persevering prayer flows from love"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Love is the source of prayer"
+          },
+          {
+            "paragraph": 1821,
+            "title": "Hope of perseverance to the end"
+          }
+        ],
+        "thematicConnection": "Peter's call to sober watchfulness 'because the end is near' opens onto the Psalm's proclamation that the Lord truly comes to judge, and onto the Gospel where Jesus enters Jerusalem to inaugurate the final hour of His Passion."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 95(96):10-13",
+      "text": "The Lord comes to rule the earth.\nProclaim to the nations: ‘God is king.’\nThe world he made firm in its place;\nhe will judge the peoples in fairness.\nThe Lord comes to rule the earth.\nLet the heavens rejoice and earth be glad,\nlet the sea and all within it thunder praise,\nlet the land and all it bears rejoice,\nall the trees of the wood shout for joy\nat the presence of the Lord for he comes,\nhe comes to rule the earth.\nThe Lord comes to rule the earth.\nWith justice he will rule the world,\nhe will judge the peoples with his truth.\nThe Lord comes to rule the earth.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord comes to rule the earth.",
+      "exegesis": {
+        "summary": "The psalm is a cosmic hymn announcing that the Lord comes as King and Judge of all the earth. Heavens, sea, fields, and forests are summoned to rejoice, because His judgment is not menace but the establishment of righteousness and truth. All creation longs for the just rule of its Maker.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Power is given in heaven and in earth, that He who before reigned in heaven, should now reign on earth by the faith of the believers."
+          },
+          {
+            "father": "Rabanus Maurus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "After the parables concerning the end of the world the Lord proceeds to describe the manner of the judgment to come."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 541,
+            "title": "The Kingdom of God is at hand"
+          },
+          {
+            "paragraph": 2818,
+            "title": "Thy kingdom come"
+          },
+          {
+            "paragraph": 319,
+            "title": "Creation shows forth God's glory"
+          }
+        ],
+        "thematicConnection": "The psalm joins Peter's eschatological urgency to the Gospel's royal entry: the King whose advent creation awaits is the very Jesus who now enters Jerusalem and its Temple."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Mark 11:11-26",
+      "text": "After he had been acclaimed by the crowds, Jesus entered Jerusalem and went into the Temple. He looked all round him, but as it was now late, he went out to Bethany with the Twelve.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "After His acclamation by the crowds, Jesus enters Jerusalem and goes straight to the Temple, surveying it with a king's discerning gaze before withdrawing with the Twelve to Bethany. The brevity of the scene is laden with meaning: the Messiah inspects His Father's house on the eve of His Passion, identifying Himself as the true and definitive Temple. His coming is voluntary, deliberate, and judicial—He comes both to worship and to purify.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Commentary on Mark",
+            "quote": "As the time of His Passion approached, the Lord wished to approach to the place of His Passion, in order to intimate that He underwent death of His own accord. By His going to the temple on first entering the city, He shews us beforehand a form of religion, which we are to follow, that if we enter a place where there is a house of prayer, we should first turn aside to it."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Mark",
+            "quote": "That thus, if they were willing, they might recognise His glory, and by the prophecies which were fulfilled concerning Him, know that He is very God; and that if they would not, they might receive a greater judgment, for not having believed so many wonderful miracles."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 569,
+            "title": "Jesus goes up to Jerusalem voluntarily"
+          },
+          {
+            "paragraph": 570,
+            "title": "The entry manifests the Kingdom"
+          },
+          {
+            "paragraph": 583,
+            "title": "Jesus' reverence for the Temple"
+          },
+          {
+            "paragraph": 586,
+            "title": "Jesus the definitive Temple"
+          }
+        ],
+        "thematicConnection": "Mark's understated entry shows the King whose coming the Psalm celebrates and for whom Peter says we must be sober and vigilant: He arrives at His Temple to judge, to purify, and to lay down His life in love."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The King Enters His House: Watch, Love, Rejoice",
+    "body": "Today the Church places before us a single drama in three movements. St. Peter says the end of all things is at hand and calls us to sober prayer, intense mutual love, ungrudging hospitality, and faithful stewardship of every grace, so that 'in all things God may be glorified through Jesus Christ.' The Psalm answers with creation's joy: heavens, seas, and forests exult because the Lord comes to rule the earth with justice and truth. The Gospel then shows us how He comes—not in spectacle, but in the quiet, deliberate steps of Jesus entering Jerusalem and looking around the Temple as its rightful Lord on the eve of His Passion. The Fathers see in this gaze both a judgment and an invitation: He inspects His house to purify it, and He instructs us, as Bede teaches, that wherever we enter a city we should first turn into the house of prayer. The same Jesus who walks into the Temple walks into our hearts, which St. Augustine says are made by charity into habitations of God. So today we live the end-times now: watching in prayer (CCC 2725), loving without insincerity, serving with our charisms, and welcoming with joy the King who comes—through His Cross—to rule the earth."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6319,
+    "completionTokens": 2292,
+    "generatedAt": "2026-05-29T10:23:18.803021+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
