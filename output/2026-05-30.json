@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-30",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-05-30",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - May 30, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-05-30"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jude 1:17,20-25",
+      "text": "Remember, my dear friends, what the apostles of our Lord Jesus Christ told you to expect. You must use your most holy faith as your foundation and build on that, praying in the Holy Spirit; keep yourselves within the love of God and wait for the mercy of our Lord Jesus Christ to give you eternal life. When there are some who have doubts reassure them; when there are some to be saved from the fire, pull them out; but there are others to whom you must be kind with great caution, keeping your distance even from outside clothing which is contaminated by vice.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jude closes his short letter with a pastoral exhortation: build on the foundation of the apostolic faith, pray in the Holy Spirit, abide in God's love, and await Christ's mercy. The faithful are called not only to persevere themselves but to rescue others—reassuring doubters, snatching some from the fire, and showing mercy with prudent caution toward those still entangled in vice. The passage ends in one of Scripture's great doxologies to the God who can keep us from falling.",
+        "patristicQuotes": [
+          {
+            "father": "Titus of Bostra",
+            "work": "Catena Aurea on Luke",
+            "quote": "Beware lest the eyes of your mind wax heavy. For the cares of this life, and surfeiting, and drunkenness, scare away prudence, shatter and make shipwreck of faith."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "It belongs to the wise in Christ to judge when the season requires that he shun, and when that he go to meet dangers."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1816,
+            "title": "Witness to the faith"
+          },
+          {
+            "paragraph": 2742,
+            "title": "Pray constantly in the Spirit"
+          },
+          {
+            "paragraph": 1014,
+            "title": "Preparing for the hour of death"
+          }
+        ],
+        "thematicConnection": "Jude's call to be 'built up' on the apostolic faith and to await Christ's mercy sets up the Gospel's confrontation over authority: the apostles received from Christ the very authority the chief priests refused to recognize. The psalm's thirsting soul is the interior posture of one 'praying in the Holy Spirit.'"
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 62(63):2-6",
+      "text": "For you my soul is thirsting, O Lord, my God.\nO God, you are my God, for you I long;\nfor you my soul is thirsting.\nMy body pines for you\nlike a dry, weary land without water.\nFor you my soul is thirsting, O Lord, my God.\nSo I gaze on you in the sanctuary\nto see your strength and your glory.\nFor your love is better than life,\nmy lips will speak your praise.\nFor you my soul is thirsting, O Lord, my God.\nSo I will bless you all my life,\nin your name I will lift up my hands.\nMy soul shall be filled as with a banquet,\nmy mouth shall praise you with joy.\nFor you my soul is thirsting, O Lord, my God.",
+      "translation": "Universalis (US)",
+      "refrain": "For you my soul is thirsting, O Lord, my God.",
+      "exegesis": {
+        "summary": "Psalm 63 is the song of a soul athirst for God as a parched land thirsts for water. The psalmist gazes upon God's strength and glory in the sanctuary and proclaims that God's merciful love is better than life itself. It is the prayer of one who has tasted that the Lord is the only true banquet of the heart.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 32 on John",
+            "quote": "As a man who had a spring within him would never feel thirst, so will not he who has this water which I shall give him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in You"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Love is the source of prayer"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the inner life Jude describes: to 'keep yourselves within the love of God' is to thirst for Him alone. It also reveals the heart-disposition the chief priests of the Gospel lacked—they sought to trap Jesus rather than to gaze on His glory."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Mark 11:27-33",
+      "text": "Jesus and his disciples came to Jerusalem, and as Jesus was walking in the Temple, the chief priests and the scribes and the elders came to him, and they said to him, ‘What authority have you for acting like this? Or who gave you authority to do these things?’ Jesus said to them, ‘I will ask you a question, only one; answer me and I will tell you my authority for acting like this. John’s baptism: did it come from heaven, or from man? Answer me that.’ And they argued it out this way among themselves: ‘If we say from heaven, he will say, “Then why did you refuse to believe him?” But dare we say from man?’ – they had the people to fear, for everyone held that John was a real prophet. So their reply to Jesus was, ‘We do not know.’ And Jesus said to them, ‘Nor will I tell you my authority for acting like this.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "In the Temple courts, the religious authorities demand to know by what authority Jesus acts—particularly His cleansing of the Temple the day before. Rather than refuse outright, Jesus exposes the bad faith of His questioners by asking about John's baptism: heaven or man? Their calculating non-answer reveals that they are not seekers of truth but guardians of their own position; therefore Jesus withholds from them the answer their hardened hearts cannot receive.",
+        "patristicQuotes": [
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Mark",
+            "quote": "They said this, thinking to bring Him to judgment, so that if He said 'by mine own power,' they might lay hold upon Him; but if He said 'by the power of another,' they might make the people leave Him. But the Lord asks them concerning John because John had borne witness of Him."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Mark",
+            "quote": "John proclaims the Lord not yet as God or the Son of God, but only as a man mightier than himself. Gradually, by the acknowledgment of His glorified lowliness, his hearers were to be introduced to the belief of His Divine Eternity."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 575,
+            "title": "Jesus as sign of contradiction to authorities"
+          },
+          {
+            "paragraph": 595,
+            "title": "Dissension among the Jerusalem authorities"
+          },
+          {
+            "paragraph": 438,
+            "title": "Jesus' messianic anointing"
+          }
+        ],
+        "thematicConnection": "Jude warned of those whose faith makes shipwreck through duplicity; the chief priests embody it. The psalmist gazes openly on God's glory in the sanctuary; the priests stand in the same sanctuary blind to it. Jesus' authority is precisely the authority Jude tells the Church to build upon."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Built on Christ's Authority, Thirsting for His Mercy",
+    "body": "Today the Church places before us a stark contrast between two ways of standing before God. In the Gospel, the chief priests come to Jesus in the Temple with a question about authority, but they do not actually want the answer—they want a verdict to convict Him. Their refusal to acknowledge what they already know about John's baptism shows that calculation has replaced reverence. Jesus, who is Himself the Temple's Lord, will not cast pearls before such cunning. Against this hardened sanctuary, Psalm 63 lifts up the prayer the priests should have been praying: 'For you my soul is thirsting.' The true worshiper does not interrogate God; he gazes on Him, blesses Him, finds His love better than life. Jude then gives the practical shape of this thirst: build yourselves up on the apostolic faith, pray in the Holy Spirit, abide in God's love, await Christ's mercy. And do not keep this treasure to yourselves—reassure the doubting, rescue the perishing, show mercy with holy caution. The same authority Jesus refused to disclose to the scheming priests He has entrusted to His Church through the apostles. To receive it, we must come not as inquisitors but as parched souls, ready to be filled at the banquet of His glory and kept, by His power, from falling."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7945,
+    "completionTokens": 2186,
+    "generatedAt": "2026-05-30T09:39:59.972251+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
