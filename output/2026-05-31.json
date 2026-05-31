@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-31",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-05-31",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - May 31, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-05-31"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Exodus 34:4-6,8-9",
+      "text": "With the two tablets of stone in his hands, Moses went up the mountain of Sinai in the early morning as the Lord had commanded him. And the Lord descended in the form of a cloud, and Moses stood with him there.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "On Sinai, Moses encounters the LORD who descends in a cloud and proclaims His own name: 'The LORD, the LORD, a God merciful and gracious, slow to anger, rich in kindness and fidelity.' This is the heart of Old Testament revelation — God discloses not merely His power but His inner character of mercy. Moses, having interceded for a sinful people who worshipped the golden calf, bows down and begs the LORD to come along in their midst and claim them as His own inheritance.",
+        "patristicQuotes": [
+          {
+            "father": "Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "The cloud was not black from condensed air, overcasting the sky with gloom, but a shining cloud, from which we were not moistened with rain, but as the voice of Almighty God came forth, the dew of faith was shed upon the hearts of men."
+          },
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "God has ordinarily shown Himself in a cloud, as it is written, 'Clouds and darkness are round about Him.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 210,
+            "title": "God reveals His name as merciful"
+          },
+          {
+            "paragraph": 2576,
+            "title": "Moses speaks with God face to face"
+          },
+          {
+            "paragraph": 697,
+            "title": "The cloud as theophany of the Spirit"
+          },
+          {
+            "paragraph": 62,
+            "title": "The Sinai covenant"
+          }
+        ],
+        "thematicConnection": "On this Trinity Sunday, the first Person reveals Himself by name to Moses as merciful love — the very love that will later send the Son (Gospel) and pour out the Spirit who unites the Church (Second Reading)."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Daniel 3:52-56",
+      "text": "To you glory and praise for evermore.\nYou are blest, Lord God of our fathers.\nTo you glory and praise for evermore.\nBlest your glorious holy name.\nTo you glory and praise for evermore.\nYou are blest in the temple of your glory.\nTo you glory and praise for evermore.\nYou are blest on the throne of your kingdom.\nTo you glory and praise for evermore.\nYou are blest who gaze into the depths.\nTo you glory and praise for evermore.\nYou are blest in the firmament of heaven.\nTo you glory and praise for evermore.",
+      "translation": "Universalis (US)",
+      "refrain": "To you glory and praise for evermore.",
+      "exegesis": {
+        "summary": "The canticle from Daniel, sung by the three young men in the fiery furnace, blesses God in His temple, on the throne of His kingdom, and in the firmament of heaven. It is creation's own doxology — every realm of being praising the one God 'for evermore.' On Trinity Sunday it becomes our response to the God who has just disclosed His name.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Augustine",
+            "work": "Catena Aurea",
+            "quote": "Hallowed be Thy name; that is, let Thy holiness be known to all the world, and let it worthily praise Thee. For praise becomes the upright."
+          },
+          {
+            "father": "Gregory Nazianzen",
+            "work": "Oration 22",
+            "quote": "Peace is peculiarly of God, who binds all things together in one, to whom nothing so much belongs as the unity of nature."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1077,
+            "title": "Blessed be the God and Father"
+          },
+          {
+            "paragraph": 1090,
+            "title": "Earthly liturgy joined to heavenly"
+          },
+          {
+            "paragraph": 2855,
+            "title": "Glory belongs to the Father forever"
+          }
+        ],
+        "thematicConnection": "Where Moses bowed in worship on Sinai, the whole Church now bows with the three youths, blessing the Triune name with the unending refrain that belongs to the heavenly liturgy."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "2 Corinthians 13:11-13",
+      "text": "Brothers, we wish you happiness; try to grow perfect; help one another. Be united; live in peace, and the God of love and peace will be with you.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul closes his most personal letter with a Trinitarian benediction that has shaped the Church's liturgy ever since: 'The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.' Before pronouncing it, he urges peace, mutual encouragement, and unity — because the Triune God of love and peace dwells only where His own life of communion is mirrored among His people.",
+        "patristicQuotes": [
+          {
+            "father": "Gregory Nazianzen",
+            "work": "Oration 22",
+            "quote": "Let us reverence the gift of peace, which Christ when He departed left to us. Peace is peculiarly of God, who binds all things together in one, to whom nothing so much belongs as the unity of nature."
+          },
+          {
+            "father": "Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The blessedness of the peacemakers is the reward of adoption: they shall be called the sons of God. For God is our common parent, and no other way can we pass into His family than by living in brotherly love together."
+          },
+          {
+            "father": "Bede",
+            "work": "Homily on the Vigil of St. Andrew",
+            "quote": "This is truly to find the Lord — to have fervent love for Him, together with a care for our brother's salvation."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1766,
+            "title": "To love is to will the good of another"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Love is the source of prayer"
+          },
+          {
+            "paragraph": 1818,
+            "title": "Hope orders us to the Kingdom"
+          }
+        ],
+        "thematicConnection": "Paul names all three Persons explicitly, drawing the Church into the very communion the first reading and Gospel reveal: the merciful Father, the Son who saves, the Spirit who unites."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 3:16-18",
+      "text": "Jesus said to Nicodemus:\n‘God loved the world so much that he gave his only Son,\nso that everyone who believes in him may not be lost\nbut may have eternal life.\nFor God sent his Son into the world\nnot to condemn the world,\nbut so that through him the world might be saved.\nNo one who believes in him will be condemned;\nbut whoever refuses to believe is condemned already,\nbecause he has refused to believe in the name of God’s only Son.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "To Nicodemus, the cautious Pharisee who came by night, Jesus discloses the ultimate motive of the Incarnation: 'God so loved the world that he gave his only Son.' The Father's sending of the Son is not for condemnation but for salvation; judgment falls only on those who refuse to believe in the name of the Only-Begotten. Here the mercy revealed on Sinai reaches its fullness — the name of God is now spoken as 'Father, Son, and Holy Spirit.'",
+        "patristicQuotes": [
+          {
+            "father": "Alcuin",
+            "work": "Catena Aurea on John",
+            "quote": "Truly through the Son of God shall the world have life; for for no other cause came He into the world, except to save the world."
+          },
+          {
+            "father": "Chrysostom",
+            "work": "Homily 24 on John",
+            "quote": "It being Christ's design for the present not so much to reveal His dignity as to prove that He did nothing contrary to the Father, in words He is often humble, while His acts ever testify His power."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 604,
+            "title": "God gave His Son out of love"
+          },
+          {
+            "paragraph": 606,
+            "title": "The Son does the Father's will"
+          },
+          {
+            "paragraph": 679,
+            "title": "Christ judges by being rejected"
+          },
+          {
+            "paragraph": 1019,
+            "title": "Jesus freely suffered for us"
+          }
+        ],
+        "thematicConnection": "The 'merciful and gracious' name proclaimed at Sinai is now revealed to have always been a name of self-giving love between Father and Son — a love poured out to draw the world into the communion Paul names in the benediction."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Name of God Is Love Poured Out",
+    "body": "On this Solemnity of the Most Holy Trinity, the Church gathers every reading around a single astonishing truth: the God who is One has revealed Himself as a communion of love that wills to draw us in. On Sinai, the LORD descends in a shining cloud and pronounces His own name — not abstract power, but 'merciful and gracious, slow to anger, rich in kindness and fidelity.' Moses bows down and pleads, 'Come along in our company.' That plea is answered with infinite generosity in the Gospel: 'God so loved the world that he gave his only Son.' The mercy spoken on the mountain takes flesh in Jesus, who comes not to condemn but to save. And Paul shows us how this Triune love reaches us now — through 'the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit.' This is why he begs the Corinthians to live in peace and mutual encouragement: only a people who love as the Trinity loves can host the God of love and peace. So with the three young men in the furnace, we lift the only fitting response — endless blessing of the Name now fully revealed: Father, Son, and Holy Spirit, to whom be glory and praise forevermore."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8489,
+    "completionTokens": 2799,
+    "generatedAt": "2026-05-31T09:55:39.497540+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
