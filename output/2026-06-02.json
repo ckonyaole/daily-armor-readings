@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-02",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-02",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - June 02, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-02"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Peter 3:11-15,17-18",
+      "text": "You should be living holy and saintly lives while you wait and long for the Day of God to come, when the sky will dissolve in flames and the elements melt in the heat. What we are waiting for is what he promised: the new heavens and new earth, the place where righteousness will be at home. So then, my friends, while you are waiting, do your best to live lives without spot or stain so that he will find you at peace. Think of our Lord’s patience as your opportunity to be saved. You have been warned about this, my friends; be careful not to get carried away by the errors of unprincipled people, from the firm ground that you are standing on. Instead, go on growing in the grace and in the knowledge of our Lord and saviour Jesus Christ. To him be glory, in time and in eternity. Amen.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Saint Peter exhorts the faithful to live holy and blameless lives as they await the Day of the Lord and the promised new heavens and new earth. He reframes the Lord's apparent delay as patience that opens the door to salvation, urging believers not to be carried off by error but to grow in grace and knowledge of Christ.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Epistle 199 (Catena Aurea)",
+            "quote": "Let us set before our eyes those good servants who anxiously expect their Lord's coming. He who confesses his ignorance which is true wishes for the one, is resigned to the other, but errs in neither, because he hears the Gospel say: 'Watch, because you know not the hour in which the Lord shall come.'"
+          },
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This is not said that you should sit supinely, and let alone what may seem impossibilities; but considering the greatness of righteousness, you should strive to enter in with entreaty to God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1821,
+            "title": "Hope in the glory of heaven"
+          },
+          {
+            "paragraph": 2046,
+            "title": "Christians hasten the Reign of God"
+          },
+          {
+            "paragraph": 1014,
+            "title": "Preparing for the hour of death"
+          }
+        ],
+        "thematicConnection": "Peter's call to vigilant holiness in light of the world's passing sets the frame for the Psalm's meditation on the brevity of human life and the Gospel's demand that what belongs to God be rendered wholly to Him."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 89(90):2-4,10,14,16",
+      "text": "O Lord, you have been our refuge from one generation to the next.\nBefore the mountains were born\nor the earth or the world brought forth,\nyou are God, without beginning or end.\nO Lord, you have been our refuge from one generation to the next.\nYou turn men back to dust\nand say: ‘Go back, sons of men.’\nTo your eyes a thousand years\nare like yesterday, come and gone,\nno more than a watch in the night.\nO Lord, you have been our refuge from one generation to the next.\nOur span is seventy years,\nor eighty for those who are strong.\nAnd most of these are emptiness and pain.\nThey pass swiftly and we are gone.\nO Lord, you have been our refuge from one generation to the next.\nIn the morning, fill us with your love;\nwe shall exult and rejoice all our days.\nShow forth your work to your servants;\nlet your glory shine on their children.\nO Lord, you have been our refuge from one generation to the next.",
+      "translation": "Universalis (US)",
+      "refrain": "O Lord, you have been our refuge from one generation to the next.",
+      "exegesis": {
+        "summary": "Psalm 90 contemplates the eternity of God against the fleeting span of human life. Our years pass like a watch in the night, yet the Lord is our refuge from age to age, and the psalmist begs that the morning of divine love would fill us with joy through all our days.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Luke",
+            "quote": "The mercy of God is not upon one generation, but extends to eternity from generation to generation."
+          },
+          {
+            "father": "Augustine",
+            "work": "Catena Aurea",
+            "quote": "In tribulations we must beware of coming down from the spiritual heights, and yielding ourselves to the carnal life; or of failing and looking behind us, after having made some progress forwards."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in You"
+          },
+          {
+            "paragraph": 1020,
+            "title": "Death as entrance into everlasting life"
+          }
+        ],
+        "thematicConnection": "Echoing Peter's reminder that earth and sky will dissolve, the Psalm anchors the believer's brief life in God's eternal refuge, preparing us to hear in the Gospel that only what is rendered to God endures."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Mark 12:13-17",
+      "text": "The chief priests and the scribes and the elders sent to Jesus some Pharisees and some Herodians to catch him out in what he said. These came and said to him, ‘Master, we know you are an honest man, that you are not afraid of anyone, because a man’s rank means nothing to you, and that you teach the way of God in all honesty. Is it permissible to pay taxes to Caesar or not? Should we pay, yes or no?’ Seeing through their hypocrisy he said to them, ‘Why do you set this trap for me? Hand me a denarius and let me see it.’ They handed him one and he said, ‘Whose head is this? Whose name?’ ‘Caesar’s’ they told him. Jesus said to them, ‘Give back to Caesar what belongs to Caesar – and to God what belongs to God.’ This reply took them completely by surprise.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Pharisees and Herodians collude to trap Jesus with a politically charged question about Roman taxation. Seeing through their hypocrisy, the Lord asks for a denarius and gives the famous answer: render to Caesar what is Caesar's, and to God what is God's — establishing both legitimate civil authority and the absolute primacy of God's claim upon the human person made in His image.",
+        "patristicQuotes": [
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Mark",
+            "quote": "This bland and crafty question was intended to induce Him in His answer rather to fear God than Caesar, and to say that tribute should not be paid, so that the Herodians might hold Him to be an author of sedition against the Romans."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Mark",
+            "quote": "Their actions are a sign of their judgment, for they sought a witness that they might seem to condemn and destroy Jesus with justice."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2240,
+            "title": "The duty to pay taxes and honor authority"
+          },
+          {
+            "paragraph": 2242,
+            "title": "Conscience and the limits of civil obedience"
+          },
+          {
+            "paragraph": 450,
+            "title": "Caesar is not the Lord"
+          }
+        ],
+        "thematicConnection": "Jesus' saying gives the practical shape of the holiness Peter commands and the eternal perspective the Psalm proclaims: while we live as citizens within passing earthly orders, our deepest belonging — body, soul, and conscience — is owed to God alone."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Render to God What Bears His Image",
+    "body": "Today's readings converge on a single question: to whom do we ultimately belong, and how shall we live in the brief span of our days? Saint Peter looks to the dissolution of the present heavens and earth and draws not despair but a summons — live holy and saintly lives, without spot or stain, growing in the grace and knowledge of Christ, treating the Lord's patience as our opportunity for salvation. Psalm 90 widens the lens: our seventy or eighty years are a watch in the night before the God who is without beginning or end, who alone can fill our mornings with the love that makes the day bright. Then in the Gospel, Jesus places a denarius into the hands of his enemies and into ours. Caesar's image is stamped on the coin, and so the coin returns to Caesar; but God's image is stamped on the human person, and so the person — heart, conscience, eternity — belongs wholly to God. The Catechism reminds us that legitimate civic duties are real (CCC 2240), yet Caesar is not the Lord (CCC 450). Today the Church teaches us to walk through this passing world with sober hands and a watchful heart, paying every debt, but reserving the depths of the soul for the One whose image we bear and whose coming we await."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9022,
+    "completionTokens": 2034,
+    "generatedAt": "2026-06-02T10:35:54.204757+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
