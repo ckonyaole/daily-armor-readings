@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-03",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-03",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - June 03, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-03"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Timothy 1:1-3,6-12",
+      "text": "From Paul, appointed by God to be an apostle of Christ Jesus in his design to promise life in Christ Jesus; to Timothy, dear child of mine, wishing you grace, mercy and peace from God the Father and from Christ Jesus our Lord.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul writes to Timothy, his beloved spiritual son, reminding him to stir into flame the gift of God conferred through the laying on of hands. Paul testifies that he is unashamed of the Gospel for which he suffers, because he knows the One in whom he has believed. This is the apostolic Church passing on her mission: from Christ to Paul to Timothy, and so to every bishop who succeeds them.",
+        "patristicQuotes": [
+          {
+            "father": "Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He has a Mediator's office, and since He came from God, when He is received by us, through Him God is transfused into us; and by this disposition of grace to have received the Apostles is no other than to have received God; for Christ dwells in them, and God in Christ."
+          },
+          {
+            "father": "Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "The Almighty Lord is bountiful, yet He does not grant heavenly and divine gifts to every one absolutely, but to those who are worthy to receive them, who free their souls from the stains of wickedness. As Paul says, 'No one taketh the honour to himself but he that is called of God.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1590,
+            "title": "Rekindle the gift of God"
+          },
+          {
+            "paragraph": 1575,
+            "title": "Christ acts through the bishops"
+          },
+          {
+            "paragraph": 858,
+            "title": "The apostles' ministry continues Christ's mission"
+          },
+          {
+            "paragraph": 859,
+            "title": "Apostles as ambassadors for Christ"
+          }
+        ],
+        "thematicConnection": "Paul, facing death for the Gospel, is unashamed because he believes in the One who 'abolished death and brought life and immortality to light' — the very Resurrection the Sadducees deny in today's Gospel, and the hope that armed the Maccabean brothers."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 122(123):1-2",
+      "text": "To you, O Lord, I lift up my eyes.\nTo you have I lifted up my eyes,\nyou who dwell in the heavens;\nmy eyes, like the eyes of slaves\non the hand of their lords.\nTo you, O Lord, I lift up my eyes.\nLike the eyes of a servant\non the hand of her mistress,\nso our eyes are on the Lord our God\ntill he show us his mercy.\nTo you, O Lord, I lift up my eyes.",
+      "translation": "Universalis (US)",
+      "refrain": "To you, O Lord, I lift up my eyes.",
+      "exegesis": {
+        "summary": "The psalmist lifts his eyes to the Lord enthroned in heaven, watching the Master's hand like a servant attentive to every gesture of mercy. This is the posture of every disciple: humble, expectant, dependent. It is also the posture of Paul in chains, of Timothy receiving his charge, and of the Christian waiting for the resurrection.",
+        "patristicQuotes": [
+          {
+            "father": "Chrysostom",
+            "work": "Homily lxxx on John",
+            "quote": "He lifted up His eyes to heaven to teach us intentness in our prayers: that we should stand with uplifted eyes, not of the body only, but of the mind."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Luke",
+            "quote": "If we will, our eyes can look upon the Saviour. For when you direct your whole heart to wisdom, truth, and the contemplation of the only-begotten Son of God, your eyes behold Jesus."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2557,
+            "title": "I want to see God"
+          },
+          {
+            "paragraph": 2783,
+            "title": "Raise your eyes to the Father"
+          },
+          {
+            "paragraph": 30,
+            "title": "Restless until it rests in You"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to those who endure persecution (the Maccabees, Paul, the martyrs blessed in the Beatitudes): their eyes are fixed not on the tormentor's hand but on the Lord who will show mercy in the resurrection."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Mark 12:18-27",
+      "text": "Some Sadducees – who deny that there is a resurrection – came to him and they put this question to him, ‘Master, we have it from Moses in writing, if a man’s brother dies leaving a wife but no child, the man must marry the widow to raise up children for his brother. Now there were seven brothers. The first married a wife and then died leaving no children. The second married the widow, and he too died leaving no children; with the third it was the same, and none of the seven left any children. Last of all the woman herself died. Now at the resurrection, when they rise again, whose wife will she be, since she had been married to all seven?’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The Sadducees, who deny the resurrection, try to ridicule it with a contrived case about seven brothers. Jesus rebukes them sharply: they understand neither the Scriptures nor the power of God. In the resurrection, life will not be a mere continuation of earthly conditions; the redeemed will be 'like the angels,' and the God of Abraham, Isaac, and Jacob is the God of the living, not of the dead.",
+        "patristicQuotes": [
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Mark",
+            "quote": "Ye understand not what sort of a resurrection the Scriptures announce; for ye believe that there will be a restoration of our bodies such as they are now, but it shall not be so. There will be a certain heavenly and angelic restoration to life, when there shall be no more decay. Marriage now exists on account of our decay, that we may be carried on by succession; but then we shall be as the Angels, who never come to an end."
+          },
+          {
+            "father": "Pseudo-Jerome",
+            "work": "Catena Aurea on Mark",
+            "quote": "In a mystical sense, this woman, leaving no seed of seven brothers, signifies the Jewish synagogue, deserted by the seven-fold Spirit who filled the patriarchs. By the number seven is meant the whole company of the faithful, the seven Churches which the Lord loves and chastises, adoring Him with one faith."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 993,
+            "title": "Jesus' answer to the Sadducees"
+          },
+          {
+            "paragraph": 992,
+            "title": "Resurrection revealed progressively"
+          },
+          {
+            "paragraph": 1038,
+            "title": "Resurrection of all the dead"
+          },
+          {
+            "paragraph": 1044,
+            "title": "God will dwell among men"
+          }
+        ],
+        "thematicConnection": "Christ's defense of the resurrection is the very faith for which Paul suffers in the first reading and for which the seven Maccabean brothers willingly die. The God of the living vindicates those who entrust themselves to Him."
+      }
+    },
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Maccabees 7:1-2,9-14",
+      "text": "There were seven brothers who were arrested with their mother. The king tried to force them to taste pig’s flesh, which the Law forbids, by torturing them with whips and scourges. One of them, acting as spokesman for the others, said, ‘What are you trying to find out from us? We are prepared to die rather than break the laws of our ancestors.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Under the persecution of Antiochus, seven brothers and their mother choose torture and death rather than violate the Law of God. Each in turn confesses faith in the resurrection: 'The King of the universe will raise us up to an everlasting renewal of life.' Their witness is one of the Old Testament's clearest professions that God's covenant fidelity reaches beyond the grave.",
+        "patristicQuotes": [
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea",
+            "quote": "He permitted them to suffer such things, that the heirs of the kingdom yet living might be dismayed by the dangers of others. Nay, he is punished for his own crimes, and hence arises an opportunity of salvation to those who see it."
+          },
+          {
+            "father": "Augustine",
+            "work": "Contra Faustum xix",
+            "quote": "Even for them who were under grace, it was hard in this mortal life to fulfil the Law; He being made a Priest by the sacrifice of His flesh, obtained for us this indulgence, that where through our infirmity we could not, we should be strengthened through His perfection, of whom as our head we all are members."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 992,
+            "title": "Maccabean confession of resurrection"
+          },
+          {
+            "paragraph": 2267,
+            "title": "Dignity of the person inviolable"
+          },
+          {
+            "paragraph": 2298,
+            "title": "The Church's witness against torture"
+          }
+        ],
+        "thematicConnection": "The seven Maccabean brothers stand as the perfect counterpoint to the seven fictional brothers in the Sadducees' question: they actually died, and they died believing in the very resurrection the Sadducees mocked."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 123(124):2-5,7-8",
+      "text": "Our life, like a bird, has escaped from the snare of the fowler.\nIf the Lord had not been on our side\nwhen men rose up against us,\nthen would they have swallowed us alive\nwhen their anger was kindled.\nOur life, like a bird, has escaped from the snare of the fowler.\nThen would the waters have engulfed us,\nthe torrent gone over us;\nover our head would have swept\nthe raging waters.\nOur life, like a bird, has escaped from the snare of the fowler.\nIndeed the snare has been broken\nand we have escaped.\nOur help is in the name of the Lord,\nwho made heaven and earth.\nOur life, like a bird, has escaped from the snare of the fowler.",
+      "translation": "Universalis (US)",
+      "refrain": "Our life, like a bird, has escaped from the snare of the fowler.",
+      "exegesis": {
+        "summary": "Israel sings of deliverance: had the Lord not been on our side, the waters of persecution would have swept us away. Instead the snare is broken and we have escaped. Our help is in the name of the Lord who made heaven and earth — the same Creator who can also raise the dead.",
+        "patristicQuotes": [
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "The net is broken, but the fish escape not, for the Lord preserves His own amid the violence of persecutors."
+          },
+          {
+            "father": "Gregory",
+            "work": "Catena Aurea",
+            "quote": "The birds lodge in its branches, when holy souls that raise themselves aloft from thoughts of earth on the wings of the virtues, breathe again from the troubles of this life in their words and comfortings."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 301,
+            "title": "God upholds his creatures"
+          },
+          {
+            "paragraph": 1050,
+            "title": "Eternal life as true deliverance"
+          },
+          {
+            "paragraph": 845,
+            "title": "The Church as ark of salvation"
+          }
+        ],
+        "thematicConnection": "The Maccabean martyrs and the persecuted disciples of the Beatitudes alike sing this psalm: though killed in the body, their soul is the bird that escapes the fowler, snatched into the freedom of God who made heaven and earth."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 5:1-12",
+      "text": "Seeing the crowds, Jesus went up the hill. There he sat down and was joined by his disciples. Then he began to speak. This is what he taught them:\n‘How happy are the poor in spirit;\ntheirs is the kingdom of heaven.\nHappy the gentle:\nthey shall have the earth for their heritage.\nHappy those who mourn:\nthey shall be comforted.\nHappy those who hunger and thirst for what is right:\nthey shall be satisfied.\nHappy the merciful:\nthey shall have mercy shown them.\nHappy the pure in heart:\nthey shall see God.\nHappy the peacemakers:\nthey shall be called sons of God.\nHappy those who are persecuted in the cause of right:\ntheirs is the kingdom of heaven.\n‘Happy are you when people abuse you and persecute you and speak all kinds of calumny against you on my account. Rejoice and be glad, for your reward will be great in heaven: this is how they persecuted the prophets before you.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus ascends the mountain like a new Moses and proclaims the charter of the Kingdom. The Beatitudes overturn the world's accounting: blessed are the poor, the mourning, the meek, the merciful, the pure, the peacemakers, and most pointedly today, those persecuted for righteousness' sake. The reward is not earthly survival but the Kingdom of heaven and the vision of God.",
+        "patristicQuotes": [
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Blessed are they who suffer persecution for righteousness' sake, that is for virtue, for defending others, for piety, for all these things are spoken of under the title of righteousness. This follows the beatitude upon the peacemakers, that we may not be led to suppose that it is good to seek peace at all times."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "When by the manifestation of the Son of God all shall come to the knowledge of Him, then shall the Saviour sever the good from the evil; for then shall sinners see their sins, and the righteous shall see clearly to what end the seeds of righteousness in them have led."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1716,
+            "title": "The Beatitudes at the heart of preaching"
+          },
+          {
+            "paragraph": 544,
+            "title": "Kingdom belongs to the poor"
+          },
+          {
+            "paragraph": 2546,
+            "title": "Blessed are the poor in spirit"
+          },
+          {
+            "paragraph": 2046,
+            "title": "Hastening the Kingdom"
+          }
+        ],
+        "thematicConnection": "The Beatitudes are the inner life of the Maccabean brothers and of Paul in chains: poor, persecuted, hungering for righteousness — yet rejoicing because their reward is great in heaven."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The God of the Living and the Courage of His Witnesses",
+    "body": "Today the Church places before us the deepest reason a Christian can endure anything: God is the God of the living. To the Sadducees who reduce eternity to a riddle, Jesus replies that they know neither the Scriptures nor God's power; the dead in Christ will rise and be like the angels. This is the faith that nerves the seven Maccabean brothers to embrace torture rather than betray the Law, confident that the King of the universe will raise them to everlasting life. This is the faith for which St. Paul wears chains, urging Timothy to rekindle the gift of God laid upon him through ordination and never to be ashamed of the Gospel. This is the blessedness Jesus pronounces on the mountain: poverty, mourning, persecution — all turned inside out by the promise of the Kingdom and the vision of God. Between the seven brothers of 2 Maccabees who really died, and the seven imaginary brothers of the Sadducees' riddle, the Church sets us with eyes uplifted like servants awaiting the Master's hand. Our help is in the name of the Lord who made heaven and earth, who breaks the snare, who raised His Son, and who through the apostolic ministry continues to pour His life into us until we, too, see Him face to face."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 12940,
+    "completionTokens": 4124,
+    "generatedAt": "2026-06-03T10:37:32.740479+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
