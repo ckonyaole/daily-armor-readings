@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-04",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-04",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - June 04, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-04"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Deuteronomy 8:2-3,14-16",
+      "text": "Moses said to the people: ‘Remember how the Lord your God led you for forty years in the wilderness, to humble you, to test you and know your inmost heart – whether you would keep his commandments or not. He humbled you, he made you feel hunger, he fed you with manna which neither you nor your fathers had known, to make you understand that man does not live on bread alone but that man lives on everything that comes from the mouth of the Lord.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Moses bids Israel remember the wilderness years, when God humbled them with hunger and then fed them with manna they had never known. The lesson is not merely physical sustenance but a deeper truth: man does not live on bread alone, but on every word that comes from the mouth of God. The manna was a pedagogy, training Israel to depend on the Father's providence and to hunger for His Word.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Tractates on John, XXV.12",
+            "quote": "Our Lord sets Himself above Moses, who did not dare to say that He gave the meat which perisheth not. The multitude, remembering what Moses had done, wished for some greater miracle: Thou promisest the meat which perisheth not — Moses gave us not barley loaves, but manna from heaven."
+          },
+          {
+            "father": "Basil",
+            "work": "Catena Aurea",
+            "quote": "Christ, while He vanquishes temptation, banishes not hunger from our nature, as though that were the cause of evils; rather, confining nature within its proper bounds, He shews of what kind its true nourishment is: Man shall not live by bread alone."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2835,
+            "title": "Man does not live by bread alone — the Bread of Life"
+          },
+          {
+            "paragraph": 2830,
+            "title": "Filial trust in the Father's providence"
+          },
+          {
+            "paragraph": 2576,
+            "title": "Moses, the contemplative intercessor"
+          }
+        ],
+        "thematicConnection": "The manna in the desert is the Old Testament shadow of the true Bread from heaven that Jesus proclaims in the Gospel. What Israel received as a passing sign, the Church now receives as the very Body of Christ."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 147:12-15,19-20",
+      "text": "O praise the Lord, Jerusalem!\nor\nAlleluia!\nO praise the Lord, Jerusalem!\nZion, praise your God!\nHe has strengthened the bars of your gates\nhe has blessed the children within you.\nO praise the Lord, Jerusalem!\nor\nAlleluia!\nHe established peace on your borders,\nhe feeds you with finest wheat.\nHe sends out his word to the earth\nand swiftly runs his command.\nO praise the Lord, Jerusalem!\nor\nAlleluia!\nHe makes his word known to Jacob,\nto Israel his laws and decrees.\nHe has not dealt thus with other nations;\nhe has not taught them his decrees.\nO praise the Lord, Jerusalem!\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "O praise the Lord, Jerusalem!",
+      "exegesis": {
+        "summary": "The psalmist calls Jerusalem and Zion to praise the Lord who strengthens her gates, blesses her children, and feeds her with the finest wheat. God sends out His word, which runs swiftly to accomplish His will. Israel alone has been entrusted with His laws — a singular privilege of revelation.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Augustine",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Hallowed be Thy name; that is, let Thy holiness be known to all the world, and let it worthily praise Thee. For praise becometh the upright, and therefore He bids them pray for the cleansing of the whole world."
+          },
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Lord turns to address the city, desiring to instruct His hearers thereby. O Jerusalem, Jerusalem: this repetition of the name is a mark of compassion and intense love."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2589,
+            "title": "The Psalter as the Church's praise"
+          },
+          {
+            "paragraph": 2580,
+            "title": "Jerusalem, house of God's name and presence"
+          },
+          {
+            "paragraph": 559,
+            "title": "Jerusalem welcomes her Messiah"
+          }
+        ],
+        "thematicConnection": "The 'finest wheat' with which the Lord feeds Jerusalem foreshadows the Eucharistic Bread. The 'word' He sends out is both the revealed Torah of Israel and the incarnate Word who gives His flesh as food for the world."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "1 Corinthians 10:16-17",
+      "text": "The blessing-cup that we bless is a communion with the blood of Christ, and the bread that we break is a communion with the body of Christ. The fact that there is only one loaf means that, though there are many of us, we form a single body because we all have a share in this one loaf.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul gives the Church her most concise definition of the Eucharist: the cup of blessing is a real communion (koinonia) with the Blood of Christ, and the broken bread a real communion with His Body. Because there is one Bread, the many become one Body. The Eucharist is therefore both communion with Christ and the source of the Church's unity.",
+        "patristicQuotes": [
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Lord, having given His disciples His Body under the element of bread, well gives the cup of His Blood to them likewise, shewing what joy He has in our salvation, seeing He even shed His Blood for us."
+          },
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "Our Lord's breaking the bread means the opening of mysteries; His giving of thanks shews how great a joy He feels in the salvation of the human race; His giving the loaves to His disciples signifies that He assigns the spiritual gifts of knowledge to the Apostles, and that by their ministry the food of life should be distributed to the Church."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1396,
+            "title": "The Eucharist makes the Church one Body"
+          },
+          {
+            "paragraph": 1391,
+            "title": "Holy Communion deepens union with Christ"
+          },
+          {
+            "paragraph": 1331,
+            "title": "Holy Communion — bread of angels, medicine of immortality"
+          }
+        ],
+        "thematicConnection": "Paul makes explicit what Moses prefigured and what Jesus promised: the bread we break is not symbolic memory but real participation. The 'one loaf' fulfills the 'finest wheat' of the Psalm by gathering the many into one Body."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 6:51-58",
+      "text": "Jesus said to the crowd:\n‘I am the living bread which has come down from heaven.\nAnyone who eats this bread will live for ever;\nand the bread that I shall give is my flesh,\nfor the life of the world.’\nThen the Jews started arguing with one another: ‘How can this man give us his flesh to eat?’ they said. Jesus replied:\n‘I tell you most solemnly,\nif you do not eat the flesh of the Son of Man and drink his blood,\nyou will not have life in you.\nAnyone who does eat my flesh and drink my blood\nhas eternal life,\nand I shall raise him up on the last day.\nFor my flesh is real food\nand my blood is real drink.\nHe who eats my flesh and drinks my blood\nlives in me\nand I live in him.\nAs I, who am sent by the living Father,\nmyself draw life from the Father,\nso whoever eats me will draw life from me.\nThis is the bread come down from heaven;\nnot like the bread our ancestors ate:\nthey are dead,\nbut anyone who eats this bread will live for ever.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus declares Himself the living Bread come down from heaven, and the bread He will give is His flesh for the life of the world. When His hearers recoil — 'How can this man give us his flesh to eat?' — He does not soften the saying but intensifies it: unless we eat His flesh and drink His blood, we have no life in us. His flesh is true food, His blood true drink, and those who receive Him abide in Him as He abides in the Father.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Tractates on John, XXVI.17",
+            "quote": "Our Lord has chosen for the types of His Body and Blood things which become one out of many. Bread is a quantity of grains united into one mass, wine a quantity of grapes squeezed together. To partake of that meat and that drink is to dwell in Christ and Christ in thee. He that dwelleth not in Christ neither eateth His Flesh nor drinketh His Blood, but rather eateth and drinketh the sacrament of it to his own damnation."
+          },
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on John",
+            "quote": "To shew the great difference between bodily meat and drink and the spiritual mystery of His Body and Blood, He adds, For My flesh is meat indeed, and My blood is drink indeed."
+          },
+          {
+            "father": "Alcuin",
+            "work": "Catena Aurea on John",
+            "quote": "Therefore I say, He that eateth this Bread dieth not: I am the living Bread which came down from heaven."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1406,
+            "title": "Christ's own words on the Bread of Life"
+          },
+          {
+            "paragraph": 1384,
+            "title": "The Lord's invitation to receive Him"
+          },
+          {
+            "paragraph": 1393,
+            "title": "Holy Communion separates us from sin"
+          }
+        ],
+        "thematicConnection": "Jesus completes what Moses began. The manna fed Israel for a day; this Bread gives eternal life. Paul's 'communion with the Body of Christ' is grounded here in Jesus' own words, refusing every merely symbolic reading."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "He fed you with manna — now He feeds you with Himself",
+    "body": "Today the Church gathers her great Eucharistic texts into a single proclamation. In Deuteronomy, Moses tells Israel to remember the manna, given so that they might learn that man does not live on bread alone but on every word from God's mouth. The Psalm sings of a Jerusalem fed with the finest wheat, whose God sends out His Word to run swiftly through the earth. Then Paul, with the calm precision of apostolic faith, declares that the cup we bless is a communion in the Blood of Christ and the bread we break a communion in His Body — and because there is one Bread, we who are many are one Body. Finally, in John 6, Jesus Himself names the mystery: 'I am the living Bread come down from heaven… my flesh is real food and my blood is real drink.' He refuses every metaphorical escape. The manna was a shadow; the Eucharist is the substance. The Word that Israel heard from afar now becomes the Word made flesh, placed upon our tongue. To eat this Bread is to abide in Christ as He abides in the Father — to be drawn into the very life of the Trinity, and to be made one with every brother and sister who shares the one Loaf."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8989,
+    "completionTokens": 2984,
+    "generatedAt": "2026-06-04T10:21:05.662205+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
