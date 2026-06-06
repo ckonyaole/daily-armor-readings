@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-06",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-06",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - June 06, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-06"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Timothy 4:1-8",
+      "text": "Before God and before Christ Jesus who is to be judge of the living and the dead, I put this duty to you, in the name of his Appearing and of his kingdom: proclaim the message and, welcome or unwelcome, insist on it. Refute falsehood, correct error, call to obedience – but do all with patience and with the intention of teaching. The time is sure to come when, far from being content with sound teaching, people will be avid for the latest novelty and collect themselves a whole series of teachers according to their own tastes; and then, instead of listening to the truth, they will turn to myths. Be careful always to choose the right course; be brave under trials; make the preaching of the Good News your life’s work, in thoroughgoing service.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul gives his final charge to Timothy: preach the Gospel in season and out of season, refuting falsehood with patience and sound teaching. He warns that an age is coming when people will reject the truth and gather teachers who suit their own desires, turning to myths. Paul then offers his own life as a libation, having fought the good fight and kept the faith, awaiting the crown of righteousness.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory the Great",
+            "work": "Pastoral Rule III, prologue",
+            "quote": "The words of teachers should be fitted to the quality of their hearers, so that in each particular they agree with themselves and yet never depart from the fortress of general edification."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "The word of the teacher is with power when he performs what he teaches. But he who by his actions belies what he preaches is despised."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 428,
+            "title": "To teach Christ is first to know Him"
+          },
+          {
+            "paragraph": 2145,
+            "title": "Witnessing without fear"
+          },
+          {
+            "paragraph": 2474,
+            "title": "The crown of the martyrs"
+          }
+        ],
+        "thematicConnection": "Paul, who poured himself out as a libation, anticipates the widow of the Gospel who gives all she has, while standing in stark contrast to the scribes who exploit their teaching office for honor."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 70(71):8-9,14-17,22",
+      "text": "My lips will tell of your justice, O Lord.\nMy lips are filled with your praise,\nwith your glory all the day long.\nDo not reject me now that I am old;\nwhen my strength fails do not forsake me.\nMy lips will tell of your justice, O Lord.\nBut as for me, I will always hope\nand praise you more and more.\nMy lips will tell of your justice\nand day by day of your help\n(though I can never tell it all).\nMy lips will tell of your justice, O Lord.\nI will declare the Lord’s mighty deeds\nproclaiming your justice, yours alone.\nO God, you have taught me from my youth\nand I proclaim your wonders still.\nMy lips will tell of your justice, O Lord.\nSo I will give you thanks on the lyre\nfor your faithful love, my God.\nTo you will I sing with the harp,\nto you, the Holy One of Israel.\nMy lips will tell of your justice, O Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "My lips will tell of your justice, O Lord.",
+      "exegesis": {
+        "summary": "The psalmist, grown old, asks God not to cast him off but pledges to keep proclaiming God's justice and mighty deeds without ceasing. Having been taught by God from his youth, he resolves to praise Him 'more and more,' singing to the Holy One of Israel with lyre and harp. It is the prayer of a lifelong disciple who refuses to fall silent.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "Thy mouth was given thee not to bite with, but to heal the wounds of others — to bless, to pray, to proclaim the praises of God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in You"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Love as the source of unceasing prayer"
+          },
+          {
+            "paragraph": 1157,
+            "title": "Song as the glory of God"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to Paul's aged confidence at the end of his race and prefigures the widow whose 'lips' of generosity proclaim God's justice more loudly than the scribes' long prayers."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Mark 12:38-44",
+      "text": "In his teaching Jesus said, ‘Beware of the scribes who like to walk about in long robes, to be greeted obsequiously in the market squares, to take the front seats in the synagogues and the places of honour at banquets; these are the men who swallow the property of widows, while making a show of lengthy prayers. The more severe will be the sentence they receive.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus warns the crowds against scribes who love long robes, public salutations, and places of honor, even while devouring widows' houses behind a façade of lengthy prayers. He pronounces a heavier judgment upon them. The Lord exposes a religion that is performance rather than substance, and He does so in the very hearing of the widows whom such hypocrisy has wronged.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Commentary on Mark",
+            "quote": "He does not forbid that those whose office requires it should be saluted or have honored seats, but teaches that those who love such things unduly are to be avoided. He blames the intention and not the office."
+          },
+          {
+            "father": "Glossa",
+            "work": "Catena Aurea on Mark",
+            "quote": "These shall receive greater damnation — for under the appearance of piety they made a trade of the holy things of God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 575,
+            "title": "Christ's correction of the religious elite"
+          },
+          {
+            "paragraph": 2038,
+            "title": "Pastors, theologians, and the faithful in moral teaching"
+          },
+          {
+            "paragraph": 913,
+            "title": "Every Christian a witness, not a performer"
+          }
+        ],
+        "thematicConnection": "The scribes Jesus condemns are the inverse of Paul: they preach for applause and devour the vulnerable; Paul preaches at the cost of his life. Both readings ask whether religious authority serves God or the self."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Preach with your life, not with your robes",
+    "body": "Today the Church places before us two portraits of those who speak in God's name. In the Gospel, the scribes wear long robes, recite long prayers, and devour widows' houses — religion has become a costume and a livelihood. In the first reading, Paul wears no robe at all: he is in chains, near death, and he proclaims that he has 'fought the good fight, finished the race, kept the faith.' His preaching has cost him everything; theirs has cost them nothing but earned them a heavier judgment. The Psalmist binds the two together. 'O God, you have taught me from my youth, and I proclaim your wonders still.' This is the voice of the true teacher: aged, faithful, refusing to be silent, singing God's justice to the very end. As St. Bede reminds us, 'The word of the teacher is with power when he performs what he teaches.' The Catechism echoes this: whoever is called to teach Christ must first seek 'the surpassing worth of knowing' Him (CCC 428), even to the loss of all things. Today's question is sharp and personal. When we stand to speak of God — in our homes, our parishes, our workplaces — are we performing for the marketplace, or are we, like Paul, pouring out our lives as a libation?"
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7415,
+    "completionTokens": 1930,
+    "generatedAt": "2026-06-06T09:43:36.027622+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
