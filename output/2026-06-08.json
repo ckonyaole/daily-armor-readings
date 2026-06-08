@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-08",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-08",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - June 08, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-08"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Kings 17:1-6",
+      "text": "Elijah the Tishbite, of Tishbe in Gilead, said to Ahab, ‘As the Lord lives, the God of Israel whom I serve, there shall be neither dew nor rain these years except at my order.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Elijah bursts onto the stage of salvation history with a word of judgment against the apostate king Ahab: no dew or rain shall fall except at his command. The prophet then withdraws to the Wadi Cherith, where ravens feed him and the brook gives him drink. God shows that the one who speaks His word is also sustained by His hand, even in a wilderness of his own making.",
+        "patristicQuotes": [
+          {
+            "father": "Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "Never is the spirit without power, nor power without the spirit. Holy Elijah had great power and grace — power to turn back the false hearts of the people to faith, power of abstinence and patience, and the spirit of prophecy. Elijah was in the wilderness, and in the wilderness also was John; the one sought not the favor of king Ahab, the other despised that of Herod."
+          },
+          {
+            "father": "Pseudo-Jerome",
+            "work": "Catena Aurea on Mark",
+            "quote": "Mystically, the Lord took apart those whom He chose, that though living among evil men, they might not apply their minds to evil things, as Lot in Sodom, Job in the land of Uz, and Obadiah in the house of Ahab."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2582,
+            "title": "Elijah, father of the prophets"
+          },
+          {
+            "paragraph": 2583,
+            "title": "Elijah's retreat and the school of mercy"
+          },
+          {
+            "paragraph": 696,
+            "title": "Elijah and the fire of the Spirit"
+          }
+        ],
+        "thematicConnection": "Elijah's confidence that the God of Israel lives — and will sustain His servant in the wilderness — embodies the trust the Psalm sings ('My help comes from the Lord') and the poverty of spirit Jesus blesses in the Beatitudes."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 120(121)",
+      "text": "Our help is in the name of the Lord, who made heaven and earth.\nI lift up my eyes to the mountains;\nfrom where shall come my help?\nMy help shall come from the Lord\nwho made heaven and earth.\nOur help is in the name of the Lord, who made heaven and earth.\nMay he never allow you to stumble!\nLet him sleep not, your guard.\nNo, he sleeps not nor slumbers,\nIsrael’s guard.\nOur help is in the name of the Lord, who made heaven and earth.\nThe Lord is your guard and your shade;\nat your right side he stands.\nBy day the sun shall not smite you\nnor the moon in the night.\nOur help is in the name of the Lord, who made heaven and earth.\nThe Lord will guard you from evil,\nhe will guard your soul.\nThe Lord will guard your going and coming\nboth now and for ever.\nOur help is in the name of the Lord, who made heaven and earth.",
+      "translation": "Universalis (US)",
+      "refrain": "Our help is in the name of the Lord, who made heaven and earth.",
+      "exegesis": {
+        "summary": "Psalm 121 is the pilgrim's song: the eyes lift from the threatening hills toward the Maker of heaven and earth, who never sleeps. He is shade and guard, protector of every coming and going. The Church places this psalm on Elijah's lips at the brook Cherith and on our own as we face every wilderness.",
+        "patristicQuotes": [
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Lord will be with thee to help thee, lulling to rest the perils of thy trials, and restoring the confidence of His protection. When human frailty, beset with difficulties, considers the weakness of its own powers, it looks upon itself as in darkness; when it raises its view to the protection of heaven, it straightway beholds the rise of the morning star."
+          },
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "As if He says: Enable us, O Lord, to follow the heavenly life, that whatever Thou willest, we may will also."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2001,
+            "title": "Grace goes before us and follows us"
+          },
+          {
+            "paragraph": 1949,
+            "title": "Divine help in Christ"
+          }
+        ],
+        "thematicConnection": "The psalm becomes the interior voice of Elijah fed by ravens and of the poor in spirit whom Christ calls blessed: every help comes from the Lord, not from kings, wealth, or our own strength."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 5:1-12",
+      "text": "Seeing the crowds, Jesus went up the hill. There he sat down and was joined by his disciples. Then he began to speak. This is what he taught them:\n‘How happy are the poor in spirit;\ntheirs is the kingdom of heaven.\nHappy the gentle:\nthey shall have the earth for their heritage.\nHappy those who mourn:\nthey shall be comforted.\nHappy those who hunger and thirst for what is right:\nthey shall be satisfied.\nHappy the merciful:\nthey shall have mercy shown them.\nHappy the pure in heart:\nthey shall see God.\nHappy the peacemakers:\nthey shall be called sons of God.\nHappy those who are persecuted in the cause of right:\ntheirs is the kingdom of heaven.\n‘Happy are you when people abuse you and persecute you and speak all kinds of calumny against you on my account. Rejoice and be glad, for your reward will be great in heaven: this is how they persecuted the prophets before you.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus ascends the mountain like a new Moses and inaugurates the law of the Kingdom. The Beatitudes are not eight detached counsels but a single portrait of Christ Himself — poor, meek, mourning, hungering for righteousness, merciful, pure, peacemaking, persecuted. To be His disciple is to grow into this likeness, and the reward is no earthly inheritance but the Kingdom of heaven.",
+        "patristicQuotes": [
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Blessed are they who suffer persecution for righteousness' sake — that is, for virtue, for defending others, for piety; all these are spoken of under the title of righteousness. This follows the beatitude upon the peacemakers, that we may not suppose it good to seek peace at all times."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "They that are saved are called sheep by reason of that mildness which they have learnt of Him who said, 'Learn of me, for I am meek and lowly,' and because they are ready to go even to death in imitation of Christ, who was led as a sheep to the slaughter."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1716,
+            "title": "The Beatitudes at the heart of Jesus' preaching"
+          },
+          {
+            "paragraph": 2546,
+            "title": "Poverty of spirit"
+          },
+          {
+            "paragraph": 544,
+            "title": "The Kingdom belongs to the poor"
+          },
+          {
+            "paragraph": 2046,
+            "title": "Living with the mind of Christ"
+          }
+        ],
+        "thematicConnection": "The Beatitudes show us what Elijah already lived — a prophet poor in worldly security, hungering for God's righteousness against Ahab, persecuted for his cause — and they vindicate the psalmist's trust that the Lord Himself is the disciple's reward."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Lifting our eyes from Ahab's court to the mountain of the Beatitudes",
+    "body": "Today the Church opens the cycle of Elijah and pairs it with the opening of the Sermon on the Mount, and the marriage is luminous. Elijah confronts a king whose throne is built on idolatry, speaks God's word without flinching, and then retreats to the Wadi Cherith, where ravens — unclean birds in the Law — become God's caterers. He is the original 'poor in spirit,' possessing nothing except the living God whom he serves. Psalm 121 puts words to his soul and ours: 'My help shall come from the Lord, who made heaven and earth.' Where Ahab trusts in storehouses and Baal, Elijah lifts his eyes to the mountains and finds a Guard who neither slumbers nor sleeps. Then Christ climbs His own mountain and reveals that this prophetic poverty is not exile but blessedness. The meek inherit the earth that Ahab thought he owned; those who mourn and hunger for righteousness are comforted and filled; the persecuted prophets — Elijah first among them — are already crowned in heaven. As the Catechism teaches (CCC 1716, 2546), the Beatitudes are the portrait of Christ into which the Spirit, who 'arose like fire' in Elijah (CCC 696), is even now conforming us. Today, take your stand at Cherith, lift your eyes, and let the Lord be your help."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8713,
+    "completionTokens": 2379,
+    "generatedAt": "2026-06-08T10:38:05.359934+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
