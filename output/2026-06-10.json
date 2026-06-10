@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-10",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-10",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - June 10, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-10"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Kings 18:20-39",
+      "text": "Ahab called all Israel together and assembled the prophets on Mount Carmel. Elijah stepped out in front of all the people. ‘How long’ he said ‘do you mean to hobble first on one leg then on the other? If the Lord is God, follow him; if Baal, follow him.’ But the people never said a word. Elijah then said to them, ‘I, I alone, am left as a prophet of the Lord, while the prophets of Baal are four hundred and fifty. Let two bulls be given us; let them choose one for themselves, dismember it and lay it on the wood, but not set fire to it. I in my turn will prepare the other bull, but not set fire to it. You must call on the name of your god, and I shall call on the name of mine; the god who answers with fire, is God indeed.’ The people all answered, ‘Agreed!’ Elijah then said to the prophets of Baal, ‘Choose one bull and begin, for there are more of you. Call on the name of your god but light no fire.’ They took the bull and prepared it, and from morning to midday they called on the name of Baal. ‘O Baal, answer us!’ they cried, but there was no voice, no answer, as they performed their hobbling dance round the altar they had made. Midday came, and Elijah mocked them. ‘Call louder,’ he said ‘for he is a god: he is preoccupied or he is busy, or he has gone on a journey; perhaps he is asleep and will wake up.’ So they shouted louder and gashed themselves, as their custom was, with swords and spears until the blood flowed down them. Midday passed, and they ranted on until the time the offering is presented; but there was no voice, no answer, no attention given to them.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "On Mount Carmel, Elijah confronts a divided Israel with a stark choice: the Lord or Baal. The silence of the people exposes their lukewarm hearts, while the impotence of Baal's prophets — for all their frenzy, self-mutilation, and shouting — proves that idols cannot answer. Elijah stands alone as the prophet of the living God, preparing the way for the divine fire that will vindicate the true faith of Israel.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "Never is the spirit without power, nor power without the spirit. Holy Elijah had great power and grace: power, so that he turned back the false hearts of the people to faith; power of abstinence, and patience, and the spirit of prophecy."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea",
+            "quote": "Although human things are not to be compared with divine, still the type is complete, because the Father of Christ works by fire and spirit."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2583,
+            "title": "Elijah's sacrifice on Carmel as decisive test of faith"
+          },
+          {
+            "paragraph": 696,
+            "title": "Fire as symbol of the Holy Spirit's transforming action"
+          },
+          {
+            "paragraph": 2595,
+            "title": "Prophets summon people to conversion of heart"
+          },
+          {
+            "paragraph": 2811,
+            "title": "Burning with passion for God's holy name"
+          }
+        ],
+        "thematicConnection": "Elijah refuses to let Israel 'hobble on one leg then on the other' between Yahweh and Baal — the same undivided fidelity to God's covenant that Jesus demands in the Gospel when He insists not one stroke of the Law shall pass away."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 15(16):1-2,4-5,8,11",
+      "text": "Save me, Lord, I take refuge in you.\nPreserve me, God, I take refuge in you.\nI say to the Lord: ‘You are my God.’\nSave me, Lord, I take refuge in you.\nThose who choose other gods increase their sorrows.\nNever will I offer their offerings of blood.\nNever will I take their name upon my lips.\nSave me, Lord, I take refuge in you.\nO Lord, it is you who are my portion and cup;\nit is you yourself who are my prize.\nI keep the Lord ever in my sight:\nsince he is at my right hand, I shall stand firm.\nSave me, Lord, I take refuge in you.\nYou will show me the path of life,\nthe fullness of joy in your presence,\nat your right hand happiness for ever.\nSave me, Lord, I take refuge in you.",
+      "translation": "Universalis (US)",
+      "refrain": "Save me, Lord, I take refuge in you.",
+      "exegesis": {
+        "summary": "The psalmist answers Elijah's challenge with the voice of the faithful remnant: 'You are my God.' He renounces every rival cult — 'never will I take their name upon my lips' — and clings to the Lord as his portion, his cup, his prize. To take refuge in God alone is the heart's true response to the choice set before Israel on Carmel.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 49 on John",
+            "quote": "He who aims at establishing some doctrine of his own, does so for no purpose, but to get glory. But I seek the glory of Him that sent me — and there is no unrighteousness in Him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in God"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Love as the source of prayer"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the choice Elijah demanded and the obedience Jesus commends: those who choose other gods 'multiply their sorrows,' but those who keep the Lord 'ever in their sight' stand firm — great in the kingdom of heaven."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 5:17-19",
+      "text": "Jesus said to his disciples: ‘Do not imagine that I have come to abolish the Law or the Prophets. I have come not to abolish but to complete them. I tell you solemnly, till heaven and earth disappear, not one dot, not one little stroke, shall disappear from the Law until its purpose is achieved. Therefore, the man who infringes even one of the least of these commandments and teaches others to do the same will be considered the least in the kingdom of heaven; but the man who keeps them and teaches them will be considered great in the kingdom of heaven.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus declares that He has come not to abolish but to fulfill the Law and the Prophets. Not the smallest stroke will pass away until all is accomplished — for in Christ, every commandment finds its perfection. Greatness in the kingdom belongs to those who both keep and teach even the least of God's commandments, while presumption to abolish what God has written brings the lowest place.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "De Civitate Dei, XX.9",
+            "quote": "The precepts of the Law are called 'the least' as opposed to Christ's precepts, which are great. He who breaks them and teaches men so shall be called least in the kingdom of heaven."
+          },
+          {
+            "father": "St. Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Beautiful entrance He here makes to a teaching beyond the works of the Law, declaring to the Apostles that they should have no admission to the kingdom of heaven without a righteousness beyond that of the Pharisees."
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Whosoever in addition to the commandments of the Law shall not fulfil My commandments, shall not enter into the kingdom of heaven. For those indeed save from punishment, but do not bring into the kingdom; but My commandments both deliver from punishment, and bring into the kingdom."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 577,
+            "title": "Jesus' solemn warning at the Sermon on the Mount"
+          },
+          {
+            "paragraph": 578,
+            "title": "Christ alone fulfills the Law in its entirety"
+          },
+          {
+            "paragraph": 1984,
+            "title": "The Law of the Gospel perfects the Old Law"
+          },
+          {
+            "paragraph": 2053,
+            "title": "Following Christ involves keeping the Commandments"
+          }
+        ],
+        "thematicConnection": "Just as Elijah refused to let one syllable of the covenant be compromised on Carmel, Jesus refuses to let one iota of the Law fall — but He goes further, fulfilling in Himself what prophets like Elijah could only defend."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Choose this day: the God who answers by fire",
+    "body": "Today the Church sets before us the same question Elijah hurled across Carmel: 'How long will you hobble between two opinions?' Baal's prophets shouted themselves into exhaustion, gashing their own flesh, while their god lay silent — for idols cannot answer. The faithful psalmist responds with the only sane reply: 'You are my God; never will I take the name of other gods upon my lips. You yourself are my portion and cup.' This is the undivided heart that Sacred Scripture calls righteousness. And then Jesus speaks. He does not come to dismantle the covenant Elijah died for, nor to erase the commandments the psalmist treasured. He comes to fulfill them — down to the smallest stroke — and to make the Law dwell in human hearts by His Spirit, the very fire that fell on Carmel and again at Pentecost (CCC 696). Greatness in the kingdom is therefore measured not by how cleverly we explain away the commandments, but by how faithfully we keep and teach them, united to Christ who alone kept the Law perfectly (CCC 578). To take refuge in the Lord today is to refuse every modern Baal, to let His fire consume what is false in us, and to walk the path of life He has shown."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9774,
+    "completionTokens": 2286,
+    "generatedAt": "2026-06-10T10:28:42.112550+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
