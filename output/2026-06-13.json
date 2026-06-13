@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-13",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-13",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - June 13, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-13"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Isaiah 61:1-3",
+      "text": "The spirit of the Lord has been given to me,\nfor the Lord has anointed me.\nHe has sent me to bring good news to the poor,\nto bind up hearts that are broken;\nto proclaim liberty to captives,\nfreedom to those in prison;\nto proclaim a year of favour from the Lord,\na day of vengeance for our God,\nto comfort all those who mourn and to give them\nfor ashes a garland;\nfor mourning robe the oil of gladness,\nfor despondency, praise.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Isaiah proclaims the anointing of the Servant by the Spirit of the Lord, sent to evangelize the poor, heal the brokenhearted, free captives, and announce the year of the Lord's favor. This is the very passage Jesus will read in the Nazareth synagogue and apply to Himself, revealing the messianic shape of His mission. The prophecy reverses every sorrow: ashes become a garland, mourning becomes oil of gladness, despondency becomes praise.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "He calls those broken hearted who are weak, of an infirm mind, and unable to resist the assaults of the passions, and to them He promises a healing remedy."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels",
+            "quote": "The very declarations of Scripture which excite our tears of love wipe away those very tears, by promising us the sight of our Redeemer again."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1082,
+            "title": "The Father pours out every blessing in Christ"
+          },
+          {
+            "paragraph": 2017,
+            "title": "The Spirit confers Christ's righteousness"
+          },
+          {
+            "paragraph": 1832,
+            "title": "The fruits of the Spirit"
+          }
+        ],
+        "thematicConnection": "The Servant's Spirit-anointed mission to the poor becomes, in the Gospel, the mission entrusted to the seventy-two: they too are sent to proclaim glad tidings, heal the broken, and announce the nearness of God's kingdom."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 88(89):2-5,21-22,25,27",
+      "text": "I will sing for ever of your love, O Lord.\nI will sing for ever of your love, O Lord;\nthrough all ages my mouth will proclaim your truth.\nOf this I am sure, that your love lasts for ever,\nthat your truth is firmly established as the heavens.\nI will sing for ever of your love, O Lord.\n‘I have made a covenant with my chosen one;\nI have sworn to David my servant:\nI will establish your dynasty for ever\nand set up your throne through all ages.\nI will sing for ever of your love, O Lord.\n‘I have found David my servant\nand with my holy oil anointed him.\nMy hand shall always be with him\nand my arm shall make him strong.\nI will sing for ever of your love, O Lord.\n‘My truth and my love shall be with him;\nby my name his might shall be exalted.\nHe will say to me: “You are my father,\nmy God, the rock who saves me.”’\nI will sing for ever of your love, O Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "I will sing for ever of your love, O Lord.",
+      "exegesis": {
+        "summary": "Psalm 88 sings of God's everlasting hesed and the covenant sworn to David, His chosen and anointed servant whose throne God will establish for all ages. The Church receives this as messianic prophecy fulfilled in Christ, the true Son of David, anointed with holy oil — the Holy Spirit — and called to address the Father as 'my God, the rock who saves me.'",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The words of their song of praise express His power of redemption; in calling Him the Son of David, they acknowledge His hereditary title to the kingdom."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Luke",
+            "quote": "Whom imitating, may we ever dwell in a holy life, praising and blessing God; to Whom be glory and blessing and power, for ever and ever."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2589,
+            "title": "The Psalms as sustained praise"
+          },
+          {
+            "paragraph": 1077,
+            "title": "Blessed be God who chose us in Christ"
+          },
+          {
+            "paragraph": 2642,
+            "title": "The Church sings with the heavenly liturgy"
+          }
+        ],
+        "thematicConnection": "The Davidic anointing in the Psalm bridges Isaiah's anointed Servant and the Gospel's sending of laborers: the same Lord who anointed David now anoints Christ, who in turn anoints His Church to extend His kingdom."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Luke 10:1-9",
+      "text": "The Lord appointed seventy-two others and sent them out ahead of him, in pairs, to all the towns and places he himself was to visit. He said to them, ‘The harvest is rich but the labourers are few, so ask the Lord of the harvest to send labourers to his harvest. Start off now, but remember, I am sending you out like lambs among wolves. Carry no purse, no haversack, no sandals. Salute no one on the road. Whatever house you go into, let your first words be, “Peace to this house!” And if a man of peace lives there, your peace will go and rest on him; if not, it will come back to you. Stay in the same house, taking what food and drink they have to offer, for the labourer deserves his wages; do not move from house to house. Whenever you go into a town where they make you welcome, eat what is set before you. Cure those in it who are sick, and say, “The kingdom of God is very near to you.”’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus appoints seventy-two disciples and sends them out two by two as forerunners of His own coming. They are to travel poor and unencumbered, bear peace into every house, accept hospitality as the workman's wage, heal the sick, and announce that the kingdom of God is at hand. The mission of Isaiah's Anointed One is now multiplied through the laborers of the harvest.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homily 17 on the Gospels",
+            "quote": "Not without deep sorrow can we add, 'but the labourers are few.' For although there are who would hear good things, they are wanting who should spread them. Behold the world is full of priests, but seldom is there found a labourer in God's harvest, because we undertake the priestly office but we perform not its works."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homily 17 on the Gospels",
+            "quote": "The peace which is offered by the mouth of the preacher shall either rest on the house, if there be any one in it predestined to life who follows the heavenly word; or if no one be willing to hear, the preacher himself shall not be without fruit, for the peace returns to him."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Luke",
+            "quote": "See how He taught His disciples to beg, and wished them to receive their nourishment as a reward. For the labourer is worthy of his hire."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2443,
+            "title": "Christ's presence in the poor evangelized"
+          },
+          {
+            "paragraph": 1351,
+            "title": "Sustaining laborers and the needy"
+          },
+          {
+            "paragraph": 1942,
+            "title": "Solidarity and the spread of the Gospel"
+          }
+        ],
+        "thematicConnection": "The Gospel reveals who the 'laborers' of Isaiah's harvest are: the apostolic Church, sent with the Spirit's anointing to bring the year of favor, peace, and healing announced by the prophet and sealed in the Davidic covenant."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Anointed, Sent, and Bearing Peace",
+    "body": "Today the Church sets before us a single arc that stretches from prophecy to mission. Isaiah hears the Anointed One say, 'The Spirit of the Lord is upon me; He has sent me to bring good news to the poor.' The Psalm answers by singing of the everlasting covenant with David, the chosen servant anointed with holy oil — a covenant fulfilled in Christ, the true Son of David. And in the Gospel, this anointed Christ in turn anoints and sends seventy-two laborers ahead of Him, multiplying His mission of healing, freedom, and glad tidings throughout the towns He intends to visit.\n\nThe Father's blessing, poured out through the Spirit in the Beloved Son (CCC 1077, 1082), is never meant to remain still. It overflows into a Church sent two by two, traveling lightly, depending on Providence, and speaking peace into every house. As St. Gregory warns, the harvest remains rich and laborers few; we must pray and we must go. As Cyril teaches, the brokenhearted whom Christ heals are not strangers — they are us, and they are our neighbors. The 'year of favor' is now: in every Eucharist we receive the oil of gladness for our mourning, and we are sent out again, in apostolic poverty and confidence, to announce that the kingdom of God is very near."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6765,
+    "completionTokens": 2414,
+    "generatedAt": "2026-06-13T10:02:55.979879+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
