@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-14",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-14",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - June 14, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-06-14"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Exodus 19:2-6",
+      "text": "From Rephidim the sons of Israel set out again; and when they reached the wilderness of Sinai, there in the wilderness they pitched their camp; there facing the mountain Israel pitched camp.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "At Sinai, God reveals the heart of the covenant: he has borne Israel on eagles' wings out of slavery, and now claims them as his 'special possession,' a 'kingdom of priests, a holy nation.' This is the moment when a delivered people becomes God's own family, called to belong to him in love and to mediate his presence to the world. The election is not earned; it flows from sheer gratuitous love.",
+        "patristicQuotes": [
+          {
+            "father": "Gloss",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Naasson was head of the tribe of Judah under Moses in the desert... and this Salmon it was who, as prince of the tribe of Judah, entered the land of promise with Joshua."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 62,
+            "title": "The covenant of Sinai"
+          },
+          {
+            "paragraph": 218,
+            "title": "Israel chosen out of sheer gratuitous love"
+          },
+          {
+            "paragraph": 697,
+            "title": "The cloud on Sinai veils God's glory"
+          }
+        ],
+        "thematicConnection": "Sinai establishes Israel as God's flock; today's Gospel reveals Christ extending that shepherding love to crowds without a shepherd, and sending the Twelve — the new princes of a new Israel — to gather a royal priestly people."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 99(100):2-3,5",
+      "text": "We are his people, the sheep of his flock.\nCry out with joy to the Lord, all the earth.\nServe the Lord with gladness.\nCome before him, singing for joy.\nWe are his people, the sheep of his flock.\nKnow that he, the Lord, is God.\nHe made us, we belong to him,\nwe are his people, the sheep of his flock.\nWe are his people, the sheep of his flock.\nIndeed, how good is the Lord,\neternal his merciful love.\nHe is faithful from age to age.\nWe are his people, the sheep of his flock.",
+      "translation": "Universalis (US)",
+      "refrain": "We are his people, the sheep of his flock.",
+      "exegesis": {
+        "summary": "The psalm answers Sinai with joyful acclamation: 'We are his people, the sheep of his flock.' It celebrates God's covenant fidelity — he made us, we belong to him — and calls all the earth to serve him with gladness. The refrain becomes the Church's self-understanding: a flock that knows its Shepherd.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 123",
+            "quote": "They who feed Christ's sheep, as if they were their own, not Christ's, show plainly that they love themselves, not Christ... Let us love therefore, not ourselves, but Him, and in feeding His sheep, seek not our own, but the things which are His."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 34",
+            "quote": "He placed the sheep upon his shoulders, for taking man's nature upon Him he bore our sins. But having found the sheep, he returns home; for our Shepherd having restored man, returns to his heavenly kingdom."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 754,
+            "title": "The Church as sheepfold"
+          },
+          {
+            "paragraph": 30,
+            "title": "Our hearts rest in God"
+          }
+        ],
+        "thematicConnection": "The psalm voices the covenant of the first reading and anticipates the Good Shepherd's compassion in the Gospel — we are the harassed sheep whom God himself has gathered."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 5:6-11",
+      "text": "We were still helpless when at his appointed moment Christ died for sinful men. It is not easy to die even for a good man – though of course for someone really worthy, a man might be prepared to die – but what proves that God loves us is that Christ died for us while we were still sinners. Having died to make us righteous, is it likely that he would now fail to save us from God’s anger? When we were reconciled to God by the death of his Son, we were still enemies; now that we have been reconciled, surely we may count on being saved by the life of his Son? Not merely because we have been reconciled but because we are filled with joyful trust in God, through our Lord Jesus Christ, through whom we have already gained our reconciliation.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul announces the staggering measure of God's love: 'while we were still sinners, Christ died for us.' Reconciliation is not the reward of our righteousness but its source. If God loved us when we were enemies, how much more shall the risen life of his Son save us now that we are friends? This is the new and definitive covenant that fulfills Sinai.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "For the salvation of men entirely rests upon Christ's death; nor is there any thing for which we are more bound to render thanks to God, than for His death."
+          },
+          {
+            "father": "Pseudo-Augustine",
+            "work": "Against Felicianus 14",
+            "quote": "Christ's Godhead experienced death through its partaking of humanity... but it lost not the properties of its nature by which it gives life to all things."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 604,
+            "title": "God's love revealed in Christ's death for sinners"
+          },
+          {
+            "paragraph": 603,
+            "title": "Reconciled by the death of his Son"
+          },
+          {
+            "paragraph": 605,
+            "title": "Christ died for all without exception"
+          },
+          {
+            "paragraph": 615,
+            "title": "Jesus' obedience makes many righteous"
+          }
+        ],
+        "thematicConnection": "Where Sinai sealed Israel as God's possession through the blood of sacrifice, Calvary seals all humanity as God's own through the blood of his Son — the harvest Jesus pities in the Gospel is precisely the harvest he died to redeem."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 9:36-10:8",
+      "text": "When Jesus saw the crowds he felt sorry for them because they were harassed and dejected, like sheep without a shepherd. Then he said to his disciples, ‘The harvest is rich but the labourers are few, so ask the Lord of the harvest to send labourers to his harvest.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus looks upon the crowds and is moved with the pity of a true Shepherd: they are 'harassed and dejected, like sheep without a shepherd.' Out of this compassion he calls and commissions the Twelve — a deliberate echo of the twelve tribes — giving them authority over unclean spirits and disease, and sending them to proclaim that the Kingdom is at hand. 'You received without cost; give without cost.' Apostleship is born from the heart of Christ.",
+        "patristicQuotes": [
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "When the Son of God looked down from heaven upon the earth, to hear the groans of the captives, straight a great harvest began to ripen; for the multitude of the human race would never have come near to the faith, had not the Author of human salvation looked down from heaven."
+          },
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Lord exhorts His preachers, that is, the Apostles and their followers, that they should daily desire an increase of their number."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2443,
+            "title": "Give without pay — the sign of Christ's presence"
+          },
+          {
+            "paragraph": 754,
+            "title": "The flock led by Christ through human shepherds"
+          }
+        ],
+        "thematicConnection": "Jesus completes Exodus 19: he forms the new kingdom of priests by sending the Twelve, and he embodies Romans 5 by acting out of compassion toward sinners. The flock of the psalm finally meets its Shepherd face to face."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "A shepherded people, sent to gather the harvest",
+    "body": "Today the Church traces a single golden thread from Sinai to Calvary to the streets of Galilee. At Sinai, God claims a freed people as his own treasured possession, a kingdom of priests — not because they deserved it, but out of sheer gratuitous love. The psalm answers in song: 'We are his people, the sheep of his flock.' But Paul reveals the price and depth of that belonging: while we were still sinners, still enemies, Christ died for us. The covenant of Sinai is sealed forever in the blood of God's own Son, and reconciliation becomes our boast. Then in the Gospel we see that same Shepherd-God walking among us. Jesus looks at the crowds — harassed, sheepless, dejected — and his heart breaks. The harvest is rich; the laborers are few. So he calls the Twelve, names them apostles, and sends them out with his own authority: 'You received without cost; give without cost.' What we celebrate today is this: we are not orphaned. We belong to a Shepherd who died for us, and who keeps calling laborers — bishops, priests, parents, catechists, every baptized soul — to gather his flock. To know we are his sheep is also to be sent on his harvest."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8374,
+    "completionTokens": 2593,
+    "generatedAt": "2026-06-14T10:12:42.970835+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
