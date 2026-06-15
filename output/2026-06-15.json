@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-15",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-15",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - June 15, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-15"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Kings 21:1-16",
+      "text": "Naboth of Jezreel had a vineyard close by the palace of Ahab king of Samaria, and Ahab said to Naboth, ‘Give me your vineyard to be my vegetable garden, since it adjoins my house; I will give you a better vineyard for it or, if you prefer, I will give you its worth in money.’ But Naboth answered Ahab, ‘The Lord forbid that I should give you the inheritance of my ancestors!’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "King Ahab covets the vineyard of Naboth, a poor man whose inheritance is sacred to him as a trust from his ancestors and ultimately from the Lord. Naboth's refusal — 'The Lord forbid that I should give you the inheritance of my ancestors!' — is an act of fidelity to God's covenant, which bound the land of Israel to the families to whom God had given it. The narrative begins a tragic descent: royal power, manipulated by Jezebel, will soon devour the innocent through perjury and judicial murder.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "The vineyard is also our type. For the husbandman is the Almighty Father, the vine is Christ, but we are the branches. Rightly are the people of Christ called a vine, because to all men, as to the equal rows of vines, poor as well as rich, servants as well as masters, there is an equal allotment in the Church without distinction of persons."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 19",
+            "quote": "The Master of the household, that is, our Maker, has a vineyard, that is, the Church universal, which has borne so many stocks, as many saints as it has put forth from righteous Abel to the very last saint who shall be born in the end of the world."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2449,
+            "title": "Justice for the poor in the Old Testament"
+          },
+          {
+            "paragraph": 2556,
+            "title": "Detachment from riches"
+          },
+          {
+            "paragraph": 755,
+            "title": "The Church as cultivated vineyard"
+          }
+        ],
+        "thematicConnection": "Naboth becomes a figure of the righteous sufferer who, like the disciples in the Gospel, does not return evil for evil but absorbs the violence of the wicked, while Ahab embodies the very 'bloodthirsty' man whom the Psalm says the Lord detests."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 5:2-3,5-7",
+      "text": "Give heed to my groaning, O Lord.\nTo my words give ear, O Lord,\ngive heed to my groaning.\nAttend to the sound of my cries,\nmy King and my God.\nGive heed to my groaning, O Lord.\nYou are no God who loves evil;\nno sinner is your guest.\nThe boastful shall not stand their ground\nbefore your face.\nGive heed to my groaning, O Lord.\nYou hate all who do evil;\nyou destroy all who lie.\nThe deceitful and bloodthirsty man\nthe Lord detests.\nGive heed to my groaning, O Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "Give heed to my groaning, O Lord.",
+      "exegesis": {
+        "summary": "The psalmist cries out in the morning to the God who loves no evil and who cannot abide the boastful, the deceitful, or the bloodthirsty. It is a prayer of the innocent under threat — fitting on the lips of Naboth, and indeed of every disciple who suffers injustice. The refrain 'Give heed to my groaning, O Lord' places the whole prayer into the hands of a Father who hears what oppressed lips can scarcely articulate.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 49",
+            "quote": "Faith groaneth, he that is displeased with himself groaneth, and accuseth his own evil deeds; that so the habit of sin may yield to the violence of repentance. In the voice of thy groaning appeareth the hope of thy rising again."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "When thou prayest to Him that He would hear thee cursing thy enemies, how is it possible for thee to be heard? It is a time of forgiveness, prayer, and mourning, not of rage."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2630,
+            "title": "Christian petition as groaning"
+          },
+          {
+            "paragraph": 2854,
+            "title": "Deliver us from evil"
+          },
+          {
+            "paragraph": 30,
+            "title": "The restless heart seeks the Lord"
+          }
+        ],
+        "thematicConnection": "The Psalm gives a voice to Naboth's silenced cry and prepares the heart of the disciple to whom Jesus will say: do not strike back, but groan to the Father, who alone is the judge of evil."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 5:38-42",
+      "text": "Jesus said to his disciples: ‘You have learnt how it was said: Eye for eye and tooth for tooth. But I say this to you: offer the wicked man no resistance. On the contrary, if anyone hits you on the right cheek, offer him the other as well; if a man takes you to law and would have your tunic, let him have your cloak as well. And if anyone orders you to go one mile, go two miles with him. Give to anyone who asks, and if anyone wants to borrow, do not turn away.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus overturns the lex talionis — 'eye for eye' — not by abolishing justice but by raising His disciples to the higher righteousness of love. To turn the other cheek, to surrender the cloak, to walk the second mile, to give freely to the borrower: this is the very pattern of the Crucified, who would Himself be struck, stripped, and dragged before unjust tribunals. The Lord teaches His Church to disarm evil not by mirroring it, but by absorbing it in love.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Jesus held his peace, for defence had availed nothing when none would listen to it. For here was only a mockery of justice, it was in truth nothing more than the anarchy of a den of robbers."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Contra Faustum 22.36",
+            "quote": "Not that the Saviour was unable to protect His disciples, does He here bid them fly, and Himself give them an example of it, but He instructed man's weakness, that he should not presume to tempt God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2262,
+            "title": "Turn the other cheek, love your enemies"
+          },
+          {
+            "paragraph": 2055,
+            "title": "Love as the fulfillment of the Law"
+          },
+          {
+            "paragraph": 615,
+            "title": "Christ's obedience makes many righteous"
+          }
+        ],
+        "thematicConnection": "Where Ahab seizes by violence and Jezebel kills to possess, the disciple of Christ relinquishes even his cloak; the Gospel reveals that Naboth's refusal to surrender what belongs to God, and his willingness to die rather than curse, is the very wisdom Jesus now writes into the new law of love."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Vineyard, the Groan, and the Other Cheek",
+    "body": "Today the Church sets before us two kings: Ahab, who covets a poor man's vineyard and lets murder be done in his name, and Christ, the true King, who refuses the sword and surrenders even His cloak. Naboth stands between them as a quiet prophet. He will not betray the inheritance of his fathers — the patch of earth God gave his family — and for that fidelity he is slandered, condemned by false witnesses, and stoned outside the city. He prefigures the One who will likewise be falsely accused and led outside the walls. The Psalm gives us the only weapon the innocent possess: a groan laid before a God who loves no evil and detests the bloodthirsty. It is the prayer of Naboth, the prayer of every persecuted Christian, and finally the prayer of the Spirit groaning within us. Then Jesus, in the Sermon on the Mount, takes this ancient cry and transfigures it. The disciple no longer answers eye for eye; he turns the cheek, walks the second mile, gives without calculation. This is not weakness but the strength of the Cross. The Church, the true vineyard of the Lord, bears fruit precisely where her members refuse to imitate Ahab and dare instead to imitate the silent, suffering Christ — trusting the Father to render justice in His time."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7855,
+    "completionTokens": 2411,
+    "generatedAt": "2026-06-15T11:06:04.866969+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
