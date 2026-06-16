@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-16",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-16",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - June 16, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-16"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Kings 21:17-29",
+      "text": "After the death of Naboth, the word of the Lord came to Elijah the Tishbite, ‘Up! Go down to meet Ahab king of Israel, in Samaria. You will find him in Naboth’s vineyard; he has gone down to take possession of it. You are to say this to him, “The Lord says this: You have committed murder; now you usurp as well. For this – and the Lord says this – in the place where the dogs licked the blood of Naboth, the dogs will lick your blood too.”’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The Lord sends Elijah to confront Ahab over the judicial murder of Naboth and the theft of his vineyard. The prophetic word pronounces a sentence of blood for blood, yet when Ahab humbles himself in sackcloth, the Lord mercifully defers the punishment. This reading reveals both the terrible justice of God against the powerful who crush the innocent and the astonishing readiness of His mercy toward any heart that turns back.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "They knew that at the prayer of Elijah fire came down from heaven, that the injuries of the prophet might be avenged."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Luke",
+            "quote": "Such a kid was Ahab to Elijah, who said, 'Lord, they have killed thy prophets.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2582,
+            "title": "Elijah, father of the prophets"
+          },
+          {
+            "paragraph": 2595,
+            "title": "Prophets summon to conversion"
+          },
+          {
+            "paragraph": 208,
+            "title": "Sinner before the Holy One"
+          }
+        ],
+        "thematicConnection": "Ahab's repentance after the prophet's rebuke prepares us for the Psalm's plea for mercy and for the Gospel's command to imitate the Father who lets His sun rise even on the wicked."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 50(51):3-6,11,16",
+      "text": "Have mercy on us, Lord, for we have sinned.\nHave mercy on me, God, in your kindness.\nIn your compassion blot out my offence.\nO wash me more and more from my guilt\nand cleanse me from my sin.\nHave mercy on us, Lord, for we have sinned.\nMy offences truly I know them;\nmy sin is always before me\nAgainst you, you alone, have I sinned;\nwhat is evil in your sight I have done.\nHave mercy on us, Lord, for we have sinned.\nFrom my sins turn away your face\nand blot out all my guilt.\nO rescue me, God, my helper,\nand my tongue shall ring out your goodness.\nHave mercy on us, Lord, for we have sinned.",
+      "translation": "Universalis (US)",
+      "refrain": "Have mercy on us, Lord, for we have sinned.",
+      "exegesis": {
+        "summary": "The Miserere is David's cry after his own sin of blood and covetousness, the very sins Ahab committed. The psalmist owns his guilt completely — 'against you, you alone, have I sinned' — and begs God to wash, blot out, and cleanse. This is the prayer the Church puts on Ahab's lips, on our own lips, and on the lips of every sinner who would be saved.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "Bring thou also repentance after sin. Confess thy sins with tears. Blessed tears, which can not only wash away our own sin, but also water the footsteps of the heavenly Word."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 34",
+            "quote": "True justice feels compassion, false justice scorn. The just, though without they spare not rebukes for the sake of discipline, within cherish sweetness from charity."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1450,
+            "title": "Contrition of heart"
+          },
+          {
+            "paragraph": 1458,
+            "title": "Confession of venial sins"
+          },
+          {
+            "paragraph": 1422,
+            "title": "Sacrament of Penance"
+          },
+          {
+            "paragraph": 2840,
+            "title": "Mercy received requires mercy given"
+          }
+        ],
+        "thematicConnection": "The psalm is the response God awaits from Ahab and from us, and it is precisely this self-knowledge of being a forgiven sinner that frees us to love enemies as the Gospel commands."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 5:43-48",
+      "text": "Jesus said to his disciples: ‘You have learnt how it was said: You must love your neighbour and hate your enemy. But I say this to you: love your enemies and pray for those who persecute you; in this way you will be sons of your Father in heaven, for he causes his sun to rise on bad men as well as good, and his rain to fall on honest and dishonest men alike. For if you love those who love you, what right have you to claim any credit? Even the tax collectors do as much, do they not? And if you save your greetings for your brothers, are you doing anything exceptional? Even the pagans do as much, do they not? You must therefore be perfect just as your heavenly Father is perfect.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus shatters the old measure of love-your-neighbor-and-hate-your-enemy and reveals the Father's own way: a love that pours sun and rain on the just and unjust alike. To love only those who love us is merely natural; to love enemies and pray for persecutors is to be a true son or daughter of the Father. The command culminates in the staggering call: 'Be perfect as your heavenly Father is perfect.'",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "When He has suffered blasphemy and contumely, He not only does not punish, but does not utter a hard speech, yea He shews kindness to them that did it. Herein He teaches us not to return accusations to them that accuse us, but kindness."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "On Christian Doctrine I, 30",
+            "quote": "Our neighbour is every one who may happen at any time to stand in need of our offices of mercy; and this must be denied to none, when the Lord says, 'Do good to them that hate you.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2196,
+            "title": "Love of neighbor fulfills the law"
+          },
+          {
+            "paragraph": 2052,
+            "title": "If you would enter life"
+          },
+          {
+            "paragraph": 1789,
+            "title": "The Golden Rule"
+          },
+          {
+            "paragraph": 2550,
+            "title": "The way of perfection"
+          }
+        ],
+        "thematicConnection": "The mercy God showed Ahab and David — sinners deserving wrath — is the very mercy Jesus now commands His disciples to extend toward their own enemies."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Mercy received, mercy given",
+    "body": "Today the Church draws a single line from Samaria to the Mount of Beatitudes. Ahab, a murderer and thief, hears the dreadful word of Elijah — and yet, the moment he tears his garments, the Lord relents and defers judgment. David, also guilty of blood and covetousness, prays the Miserere and is washed clean. The God of Israel is revealed as One who is fierce against injustice precisely because He is so eager to forgive the one who repents. Then Jesus opens the inner secret of that mercy: His Father lets the sun rise on the bad as well as the good, sends rain on honest and dishonest alike. This is not weakness; it is the divine perfection itself. And it is the standard for those who would be His sons and daughters. We cannot pray with Ahab and David for our own pardon and then withhold pardon from those who have wronged us — as the Catechism reminds us, the Father's mercy cannot penetrate a heart closed against a brother. To love enemies, to pray for persecutors, to bless those who curse: this is the perfection of the Father, and it is the only proof that the mercy we have received has truly reached the bottom of our hearts."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8378,
+    "completionTokens": 2154,
+    "generatedAt": "2026-06-16T10:39:29.045883+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
