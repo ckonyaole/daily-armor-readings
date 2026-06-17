@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-17",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-17",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - June 17, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-17"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Kings 2:1,6-14",
+      "text": "This is what happened when the Lord took Elijah up to heaven in the whirlwind: Elijah and Elisha set out from Gilgal, Elijah said, ‘Elisha, please stay here, the Lord is only sending me to the Jordan.’ But he replied, ‘As the Lord lives and as you yourself live, I will not leave you!’ And they went on together.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Elijah, the great prophet of fire and zeal, is taken up to heaven in a whirlwind, having first parted the Jordan with his mantle. Elisha, his faithful disciple, refuses to leave his master and inherits a double portion of his spirit, taking up the fallen mantle to part the waters in turn. The scene depicts a prophetic succession, the passing of the Spirit, and a foretaste of the heavenly ascent that will be fulfilled in Christ.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Commentary referenced in Catena Aurea on Luke",
+            "quote": "Never is the spirit without power, nor power without the spirit. Holy Elijah had great power and grace — power to turn back the false hearts of the people to faith, the power of abstinence and patience, and the spirit of prophecy. The one divided Jordan; the other brought men to the saving waters."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Luke",
+            "quote": "He says not, in the mind of Elijah, but in the spirit and power. For the spirit which was in Elijah came upon John, and in like manner his power."
+          },
+          {
+            "father": "St. Ambrose",
+            "work": "Sermon x.5 (Ambrosiaster)",
+            "quote": "As Elijah divided the waters of old, so Christ the Lord wrought in the same Jordan the separation of sin."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2582,
+            "title": "Elijah, father of the prophets"
+          },
+          {
+            "paragraph": 2583,
+            "title": "Elijah and the unveiled face of Christ"
+          },
+          {
+            "paragraph": 696,
+            "title": "Fire as figure of the Holy Spirit"
+          },
+          {
+            "paragraph": 554,
+            "title": "Elijah at the Transfiguration"
+          }
+        ],
+        "thematicConnection": "Elijah's hidden, fiery union with God — withdrawing into the wilderness, dividing waters in secret rather than in public spectacle — anticipates the Gospel's call to hidden righteousness whose only audience is the Father. The Psalm's refrain that the Lord 'hides' His faithful in the shelter of His presence is fulfilled in Elijah, hidden away in the whirlwind."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 30(31):20,21,24",
+      "text": "Let your heart take courage, all who hope in the Lord.\nHow great is the goodness, Lord,\nthat you keep for those who fear you,\nthat you show to those who trust you\nin the sight of men.\nLet your heart take courage, all who hope in the Lord.\nYou hide them in the shelter of your presence\nfrom the plotting of men;\nyou keep them safe within your tent\nfrom disputing tongues.\nLet your heart take courage, all who hope in the Lord.\nLove the Lord, all you saints.\nHe guards his faithful\nbut the Lord will repay to the full\nthose who act with pride.\nLet your heart take courage, all who hope in the Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "Let your heart take courage, all who hope in the Lord.",
+      "exegesis": {
+        "summary": "The psalmist marvels at the goodness God reserves for those who fear and trust Him. He hides His faithful in the shelter of His presence, safe from plots and slandering tongues, and the saints are summoned to love Him with confident hearts. It is a song of refuge for those whose reward is laid up not in human praise but in God Himself.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Luke",
+            "quote": "A way must be prepared in our heart for the Lord, for the heart of man is large and spacious if it has become clean. Prepare then in thy heart by good conversation a way for the Lord, that so the word of God may have free course in thee."
+          },
+          {
+            "father": "St. Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "We are to follow our Lord by taking up the cross of His passion; and if not in deed, yet in will, bear Him company."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Hearts that seek the Lord rejoice"
+          },
+          {
+            "paragraph": 1821,
+            "title": "Hope in the glory of heaven"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Hope does not disappoint"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the interior posture Jesus demands in the Gospel: a heart that hopes in the Lord alone, not in the admiring eyes of men. Elisha's stubborn fidelity — 'I will not leave you' — embodies this same hope, the courage of one whose treasure is God."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 6:1-6,16-18",
+      "text": "Jesus said to his disciples: ‘Be careful not to parade your good deeds before men to attract their notice; by doing this you will lose all reward from your Father in heaven. So when you give alms, do not have it trumpeted before you; this is what the hypocrites do in the synagogues and in the streets to win men’s admiration. I tell you solemnly, they have had their reward. But when you give alms, your left hand must not know what your right is doing; your almsgiving must be secret, and your Father who sees all that is done in secret will reward you.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "In this opening of Matthew 6, Jesus delivers the heart of His teaching on the three pillars of Jewish and Christian piety: almsgiving, prayer, and fasting. Each must be done in secret, seen only by the Father, lest the applause of men become our paltry and exhausted reward. The Lord does not abolish religious practice; He purifies its intention, demanding that righteousness flow from love of God rather than craving for human esteem.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily xx on Matthew",
+            "quote": "The contempt of men's praise is no small fruit, for thereby we are freed from the heavy slavery of human opinion, and become properly workers of virtue, loving it for itself and not for others. We ought not to follow virtue on the account of men, nor to obey God for men's sake but for His own."
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Lord proceeds to deliver a doctrine of three portions: a counsel that alms should be done; the benefit of almsgiving; and that the fear of poverty should be no hindrance to our purpose of almsgiving."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Why fear you that your wealth should be consumed, if you should give alms? Yea rather give alms, and they shall receive increase, for those treasures that are in Heaven shall be added to them."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2462,
+            "title": "Almsgiving as witness of charity"
+          },
+          {
+            "paragraph": 575,
+            "title": "Almsgiving, fasting, and prayer"
+          },
+          {
+            "paragraph": 1032,
+            "title": "Almsgiving and prayer for the dead"
+          },
+          {
+            "paragraph": 2099,
+            "title": "Sacrifice as adoration"
+          }
+        ],
+        "thematicConnection": "Just as Elijah was taken up in a hidden whirlwind and the psalmist is sheltered within the Lord's tent, so the disciple is called to a hidden righteousness whose only witness — and reward — is the Father who sees in secret."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Hidden in the Shelter of the Father's Face",
+    "body": "Today's readings converge on a single luminous truth: the life of grace is lived under the gaze of God, not the gaze of men. Elijah is taken up in a hidden whirlwind beyond the Jordan, witnessed only by his faithful disciple. His prophetic fire — which the Catechism calls a figure of the Holy Spirit (CCC 696) — is not a fire of self-promotion but of intercession and zeal for the Lord's face. Elisha receives a double portion of that Spirit because he refuses to part from his master; his loyalty is interior, persistent, and unobserved by crowds. The psalmist confesses the same hidden economy: 'You hide them in the shelter of your presence... let your heart take courage, all who hope in the Lord.' Then in the Gospel, Jesus draws this hidden logic into the three pillars of discipleship — almsgiving, prayer, fasting — each to be performed in secret, for 'your Father who sees in secret will reward you.' St. John Chrysostom warns that human praise is a heavy slavery; the saint, like Elijah and Elisha, is freed to love virtue for God's sake alone. The Church today summons us into that interior wilderness where the soul, sheltered in the Father's tent, becomes pure enough to bear the mantle of His Spirit and to walk, like Elisha, in the power of the prophets."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7305,
+    "completionTokens": 2628,
+    "generatedAt": "2026-06-17T10:36:02.475739+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
