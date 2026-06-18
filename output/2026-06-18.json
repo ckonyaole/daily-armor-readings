@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-18",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-18",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - June 18, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-18"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Ecclesiasticus 48:1-15",
+      "text": "The prophet Elijah arose like a fire,\nhis word flaring like a torch.\nIt was he who brought famine on the people,\nand who decimated them in his zeal.\nBy the word of the Lord, he shut up the heavens,\nhe also, three times, brought down fire.\nHow glorious you were in your miracles, Elijah!\nHas anyone reason to boast as you have? –\nrousing a corpse from death,\nfrom Sheol by the word of the Most High;\ndragging kings down to destruction,\nand high dignitaries from their beds;\nhearing reproof on Sinai,\nand decrees of punishment on Horeb;\nanointing kings as avengers,\nand prophets to succeed you;\ntaken up in the whirlwind of fire,\nin a chariot with fiery horses;\ndesignated in the prophecies of doom\nto allay God’s wrath before the fury breaks,\nto turn the hearts of fathers towards their children,\nand to restore the tribes of Jacob,\nHappy shall they be who see you,\nand those who have fallen asleep in love;\nfor we too will have life.\nElijah was shrouded in the whirlwind,\nand Elisha was filled with his spirit;\nthroughout his life no ruler could shake him,\nand no one could subdue him.\nNo task was too hard for him,\nand even in death his body prophesied.\nIn his lifetime he performed wonders,\nand in death his works were marvellous.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Sirach sings the praises of Elijah, the prophet who 'arose like a fire' and whose word 'flared like a torch,' recounting his miracles, his zeal for the Lord, and his fiery ascent in the whirlwind. The passage closes with the promise that Elijah will return to turn the hearts of fathers to their children and restore the tribes of Jacob. Elisha then inherits his master's spirit, continuing the prophetic mission with wonders that extend even beyond death.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "Never is the spirit without power, nor power without the spirit. Elijah had great power and grace — power to turn back the false hearts of the people to faith, power of abstinence, of patience, and the spirit of prophecy. Elijah was in the wilderness; in the wilderness also was John. Elijah divided the Jordan; John brought men to the saving waters. John was the forerunner of our Lord's first coming, Elijah of His latter."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Luke",
+            "quote": "He says not, in the mind of Elijah, but in the spirit and power. For the spirit which was in Elijah came upon John, and in like manner his power."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2582,
+            "title": "Elijah, father of the prophets"
+          },
+          {
+            "paragraph": 2583,
+            "title": "Elijah's prayer and the fire on Carmel"
+          },
+          {
+            "paragraph": 696,
+            "title": "Fire as symbol of the Holy Spirit"
+          },
+          {
+            "paragraph": 2595,
+            "title": "Prophets as intercessors"
+          }
+        ],
+        "thematicConnection": "Elijah's fiery prayer 'allayed God's wrath' and turned hearts back to the Father — the very intercessory work Jesus teaches His disciples to undertake in the Gospel through the Our Father. The Psalm's imagery of fire going before the Lord echoes Elijah's ministry as a 'figure' of the Holy Spirit who will later descend on the Church."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 96(97):1-7",
+      "text": "Rejoice, you just, in the Lord.\nThe Lord is king, let earth rejoice,\nlet all the coastlands be glad.\nCloud and darkness are his raiment;\nhis throne, justice and right.\nRejoice, you just, in the Lord.\nA fire prepares his path;\nit burns up his foes on every side.\nHis lightnings light up the world,\nthe earth trembles at the sight.\nRejoice, you just, in the Lord.\nThe mountains melt like wax\nbefore the Lord of all the earth.\nThe skies proclaim his justice;\nall peoples see his glory.\nRejoice, you just, in the Lord.\nLet those who serve idols be ashamed,\nthose who boast of their worthless gods.\nAll you spirits, worship him.\nRejoice, you just, in the Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "Rejoice, you just, in the Lord.",
+      "exegesis": {
+        "summary": "Psalm 96 proclaims the kingship of the Lord with cosmic imagery: cloud and darkness as His raiment, fire going before Him, mountains melting like wax. The just are summoned to rejoice while idolaters are put to shame, for the God of Israel alone is to be worshipped by every spirit.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "For God ever appears in a cloud, according to the Psalms: 'clouds and darkness are round about him.' Therefore shall the Son of Man come in the clouds as God, not secretly, but in glory worthy of God — with great power and majesty."
+          },
+          {
+            "father": "St. Leo the Great",
+            "work": "Sermon 72",
+            "quote": "By ascending into heaven He does not desert His adopted; but from above strengthens to endurance those whom He invites upwards to glory."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 671,
+            "title": "Christ's reign yet to be fulfilled in glory"
+          },
+          {
+            "paragraph": 555,
+            "title": "The cloud of divine presence"
+          },
+          {
+            "paragraph": 30,
+            "title": "Let the hearts who seek the Lord rejoice"
+          }
+        ],
+        "thematicConnection": "The Psalm's fire that prepares the Lord's path connects directly to the fire Elijah called down from heaven and to the prayer of the disciples who seek the coming of God's kingdom in the Our Father. The shaming of idols answers Elijah's confrontation on Carmel and Jesus' command not to pray like the pagans."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 6:7-15",
+      "text": "Jesus said to his disciples: ‘In your prayers do not babble as the pagans do, for they think that by using many words they will make themselves heard. Do not be like them; your Father knows what you need before you ask him. So you should pray like this:\n‘Our Father in heaven,\nmay your name be held holy,\nyour kingdom come,\nyour will be done,\non earth as in heaven.\nGive us today our daily bread.\nAnd forgive us our debts, as we have forgiven those who are in debt to us.\nAnd do not put us to the test,\nbut save us from the evil one.\n‘Yes, if you forgive others their failings, your heavenly Father will forgive you yours; but if you do not forgive others, your Father will not forgive your failings either.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus warns His disciples against pagan verbosity in prayer, for the Father already knows what we need, and then hands them the Our Father — the fundamental prayer of Christian life. He concludes with the sober condition that our forgiveness from God is bound to our forgiveness of others.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Christ's disciples pray for nothing that they ought not, and as confiding in their Master they pray only for things great and heavenly."
+          },
+          {
+            "father": "St. Cyprian",
+            "work": "On the Lord's Prayer",
+            "quote": "He who taught us to pray for our sins has promised us that His fatherly mercy and pardon shall ensue. But He has added a rule besides, binding us under the fixed condition that we are to ask for our sins to be forgiven in such sort as we forgive them that are in debt to us."
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "God knows how treacherous the heart of man is, and that though men should have received forgiveness themselves, yet they do not forgive their debtors; therefore He instructs us first to forgive, and we shall be forgiven after."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2773,
+            "title": "Lord, teach us to pray"
+          },
+          {
+            "paragraph": 2843,
+            "title": "Forgiveness from the heart"
+          },
+          {
+            "paragraph": 2844,
+            "title": "Forgiveness as the high-point of prayer"
+          },
+          {
+            "paragraph": 1425,
+            "title": "Forgive us our trespasses"
+          },
+          {
+            "paragraph": 2610,
+            "title": "Filial boldness in prayer"
+          }
+        ],
+        "thematicConnection": "Where Elijah's prayer brought down fire to vindicate God's name, Jesus teaches a deeper prayer that hallows the Father's name through trust and mercy. The contrast with pagan babbling recalls the false prophets of Baal whom Elijah confronted on Carmel."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Fire of True Prayer",
+    "body": "Today the Church places before us two images of prayer set ablaze. In Sirach we see Elijah, the prophet who 'arose like a fire,' whose intercession shut the heavens, raised the dead, and called down flame upon Carmel. The Psalmist takes up the same image: 'A fire prepares his path,' for the Lord is King and mountains melt before Him. This is no domesticated piety — it is the prayer of the righteous, powerful and effective, that turns hearts of fathers back to children and prepares the way of the Lord.\n\nThen in the Gospel, Jesus reveals what such fire looks like in His disciples. It is not the babbling of pagans heaping up words to compel a distant deity. It is the quiet, confident cry of a child: 'Our Father.' The same Spirit who came upon Elijah and John the Baptist now teaches us to hallow the Father's name, to await His kingdom, to ask for daily bread, and — most demandingly — to forgive as we have been forgiven. As the Catechism reminds us, forgiveness is the high-point of Christian prayer (CCC 2844). The fire that fell on Carmel longs now to fall within our hearts, transforming hurt into intercession and making us, like Elisha, heirs of a prophetic spirit that even death cannot silence."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7689,
+    "completionTokens": 2530,
+    "generatedAt": "2026-06-18T10:35:02.494827+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
