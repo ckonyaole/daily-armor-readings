@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-19",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-19",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - June 19, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-19"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Kings 11:1-4,9-18,20",
+      "text": "When Athaliah the mother of Ahaziah learned that her son was dead, she promptly did away with all those of royal stock. But Jehosheba, daughter of King Jehoram and sister of Ahaziah, secretly took away Jehoash, her brother’s son, from among the sons of the king who were being murdered, and put him with his nurse in the sleeping quarters; in this way she hid him from Athaliah, and he was not put to death. He stayed with her for six years, hidden in the Temple of the Lord, while Athaliah governed the country.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Athaliah, the daughter of Ahab and Jezebel, seizes the throne of Judah by murdering the royal heirs, but God preserves the Davidic line through the courage of Jehosheba, who hides the infant Jehoash in the Temple for six years. The Lord's covenant with David is threatened by the violence of an idolatrous queen, yet a single hidden child, sheltered in the house of God, becomes the seed of the promise. The narrative ends with the priest Jehoiada presenting the rightful king and tearing down the altar of Baal.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "As great a blessing as was given upon the house of Ahab when Jehu cut off Jezebel's line, so great a curse was given on the house of Joram because of the wicked daughter of Ahab and Jezebel, that his sons to the fourth generation should be cut out of the number of the Kings. Thus see how dangerous it is to marry with the seed of the ungodly."
+          },
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "John the Baptist came in the spirit and power of Elias, with the same authority that he had exerted over Ahab and Jezebel, and rebuked unlawful wedlock; he preferred to endanger himself with the King, than to be forgetful of the commandments of God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 489,
+            "title": "Holy women preparing the way of salvation"
+          },
+          {
+            "paragraph": 2580,
+            "title": "The Temple as house of covenant and refuge"
+          }
+        ],
+        "thematicConnection": "The hidden child preserved in the Temple guarantees the Davidic throne celebrated in the Psalm, and reveals that the true treasure of Israel — the messianic line — is kept safe not in palaces but in the house of God."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 131(132):11-14,17-18",
+      "text": "The Lord has chosen Zion; he has desired it for his dwelling.\nThe Lord swore an oath to David;\nhe will not go back on this word:\n‘A son, the fruit of your body,\nwill I set upon your throne.\nThe Lord has chosen Zion; he has desired it for his dwelling.\nIf they keep my covenant in truth\nand my laws that I have taught them,\ntheir sons also shall rule\non your throne from age to age.’\nThe Lord has chosen Zion; he has desired it for his dwelling.\nFor the Lord has chosen Zion;\nhe has desired it for his dwelling:\n‘This is my resting-place for ever;\nhere have I chosen to live.\nThe Lord has chosen Zion; he has desired it for his dwelling.\nThere David’s stock will flower;\nI will prepare a lamp for my anointed.\nI will cover his enemies with shame\nbut on him my crown shall shine.’\nThe Lord has chosen Zion; he has desired it for his dwelling.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord has chosen Zion; he has desired it for his dwelling.",
+      "exegesis": {
+        "summary": "The psalm sings the Lord's irrevocable oath to David: a son from his body will sit on his throne, and Zion will be God's chosen dwelling forever. Even when wicked queens like Athaliah try to extinguish the line, the Lord himself has sworn to prepare a lamp for his anointed. This lamp burns through every crisis of history until it shines fully in Christ, the true Son of David.",
+        "patristicQuotes": [
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "This is the fruit which is promised to David, 'Of the fruit of thy body will I set upon thy throne.' To David it was told that from him Christ was to be born."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 709,
+            "title": "The Kingdom promised to David is the work of the Spirit"
+          },
+          {
+            "paragraph": 559,
+            "title": "Christ the Son of David enters Zion"
+          }
+        ],
+        "thematicConnection": "The psalm names explicitly what the first reading dramatizes in narrative: the Lord guards the lamp of David even when human treachery would snuff it out. It also exposes the question of the Gospel — where is our true treasure? — by locating God's treasure in Zion and in the promised King."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 6:19-23",
+      "text": "Jesus said to his disciples: ‘Do not store up treasures for yourselves on earth, where moths and woodworms destroy them and thieves can break in and steal. But store up treasures for yourselves in heaven, where neither moth nor woodworms destroy them and thieves cannot break in and steal. For where your treasure is, there will your heart be also.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus instructs his disciples not to hoard earthly treasures, which moth, rust, and thieves consume, but to lay up treasure in heaven, which is incorruptible. He then unveils the deeper law of the soul: 'Where your treasure is, there will your heart be also.' What we love shapes who we become; an attachment to passing things drags the heart downward, while heavenly desire lifts it toward God.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Sermon on the Mount, II.13",
+            "quote": "By heaven in this place I understand not the material heavens, for every thing that has a body is earthly. Heaven and earth shall pass away; but we ought not to place our treasure in that which passes away, but in that which abides for ever."
+          },
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Though none of these former losses should befall you, you will yet sustain no small loss by attaching your affections to things beneath, and becoming a slave to them, and in falling from Heaven, and being unable to think of any lofty thing."
+          },
+          {
+            "father": "Gregory the Great",
+            "work": "Homilies on the Gospels XI.1",
+            "quote": "For zeal and affections heavenward it is not enough that we protect from evil spirits, if we do not protect from human praises. Those who carry their treasure openly, robbers seek to plunder in the way."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2551,
+            "title": "Where your treasure is, there your heart will be"
+          },
+          {
+            "paragraph": 2544,
+            "title": "Detachment from riches required for the Kingdom"
+          },
+          {
+            "paragraph": 2556,
+            "title": "Poverty of spirit"
+          },
+          {
+            "paragraph": 1729,
+            "title": "Heaven sets the measure of earthly goods"
+          }
+        ],
+        "thematicConnection": "Athaliah grasped at the earthly throne and lost everything; Jehosheba treasured the child of the promise and so guarded the lamp of David. The Gospel names the inner law their lives illustrate: the heart follows whatever it treasures."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Guarding the Lamp: Where Our Treasure Truly Lies",
+    "body": "Today the Church sets before us two queens of the heart. Athaliah treasured power and so murdered her own grandchildren to keep a throne that moth and rust would soon consume. Jehosheba treasured the promise of God and so hid a baby in the Temple for six years, becoming, in the words of the Catechism, one of those holy women whose mission prepared for Mary herself (CCC 489). The Psalm reveals what was really at stake in that nursery: the Lord had sworn to David that a lamp would never be extinguished in Zion, and that lamp is finally Christ, the Son of David who enters Jerusalem in humility (CCC 559, 709). The Gospel then turns the lesson inward. 'Where your treasure is, there will your heart be also.' Augustine reminds us that everything bodily is earthly; only what abides in God endures. Gregory warns that even our heavenly desires must be hidden from the robbery of vanity, just as the child Jehoash was hidden in the house of the Lord. The question today is simple and searching: what are we sheltering in the temple of our hearts? If it is the fragile gold of Athaliah, it will be stolen. If it is the lamp of the Anointed One, it will shine forever."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7623,
+    "completionTokens": 2380,
+    "generatedAt": "2026-06-19T10:33:51.015170+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
