@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-20",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-20",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - June 20, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-20"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Chronicles 24:17-25",
+      "text": "After the death of Jehoiada, the officials of Judah came to pay court to the king, and the king now turned to them for advice. The Judaeans abandoned the Temple of the Lord, the God of their ancestors, for the worship of sacred poles and idols. Because of their guilt, God’s anger fell on Judah and Jerusalem. He sent them prophets to bring them back to the Lord, but when these gave their message, they would not listen. The spirit of God took possession of Zechariah son of Jehoiada the priest. He stood up before the people and said, ‘God says this, “Why do you transgress the commandments of the Lord to no good purpose? You have deserted the Lord, now he deserts you.”’ They then plotted against him and by order of the king stoned him in the court of the Temple of the Lord. King Joash, forgetful of the kindness that Jehoiada, the father of Zechariah, had shown him, killed Jehoiada’s son who cried out as he died, ‘The Lord sees and he will avenge!’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "After the death of the righteous priest Jehoiada, King Joash abandons the Lord, ignores the prophets, and orders the stoning of Zechariah son of Jehoiada in the very court of the Temple. Forgetful of mercy received, Joash repays kindness with murder, and Zechariah dies invoking divine justice: 'The Lord sees and he will avenge!' The passage reveals how quickly the human heart turns from covenant fidelity to idolatry when it is not anchored in a holy mentor and a love for God's house.",
+        "patristicQuotes": [
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "That Zacharias was the son of Jehoiada the Priest, killed by Joash king of Judah between the temple and the altar, that is, in the court of the temple. Barachias in our language is interpreted 'Blessed of the Lord,' so that the righteousness of Jehoiada the Priest is expressed by this Hebrew word."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Luke",
+            "quote": "Our Lord shows that the Jews have inherited the malice of Cain, when he adds, 'From the blood of Abel, to the blood of Zacharias' — Abel slain by Cain, and Zacharias whom they slew between the temple and the altar."
+          },
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "These three successions of servants our Lord elsewhere shows to comprehend under a figure all the teachers under the law, when He says, 'For all those things must be fulfilled which were written in the law of Moses, and the Prophets, and the Psalms, concerning me.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 591,
+            "title": "Sanhedrin's tragic unbelief"
+          },
+          {
+            "paragraph": 584,
+            "title": "Zeal for the Father's house"
+          },
+          {
+            "paragraph": 709,
+            "title": "Israel's failure to keep the covenant"
+          }
+        ],
+        "thematicConnection": "Zechariah, the faithful witness murdered in the Temple court, prefigures every prophet rejected by those who serve two masters — and ultimately the Just One whose blood would also cry from the ground. His martyrdom anticipates the Gospel's warning that one cannot serve both God and mammon."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 88(89):4-5,29-34",
+      "text": "I will keep my love for him always.\n‘With my chosen one I have made a covenant;\nI have sworn to David my servant:\nI will establish your dynasty for ever\nand set up your throne through all ages.\nI will keep my love for him always.\n‘I will keep my love for him always;\nwith him my covenant shall last.\nI will establish his dynasty for ever,\nmake his throne endure as the heavens.\nI will keep my love for him always.\n‘If his sons forsake my law\nand refuse to walk as I decree\nand if ever they violate my statutes,\nrefusing to keep my commands;\nthen I will punish their offences with the rod,\nthen I will scourge them on account of their guilt.\nI will keep my love for him always.\n‘But I will never take back my love,\nmy truth will never fail.’\nI will keep my love for him always.",
+      "translation": "Universalis (US)",
+      "refrain": "I will keep my love for him always.",
+      "exegesis": {
+        "summary": "Psalm 89 sings of God's unwavering covenant with David: even when David's sons forsake the law and are chastised, the Lord's hesed — his merciful, faithful love — will never be taken back. The refrain, 'I will keep my love for him always,' answers the betrayal of the first reading. God's fidelity outlasts human infidelity.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Tractates on John 82",
+            "quote": "It is not that we keep His commandments first, and that then He loves; but that He loves us, and then we keep His commandments. This is that grace, which is revealed to the humble, but hidden from the proud."
+          },
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "By the other servant is meant David, who was sent after the commandment of the law, that he by the music of his psalmody might stir up the husbandmen to the exercise of good works."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 220,
+            "title": "God's everlasting love"
+          },
+          {
+            "paragraph": 709,
+            "title": "The kingdom promised to David"
+          }
+        ],
+        "thematicConnection": "Where Joash forgets the kindness shown him, the Lord refuses to forget. The psalm assures us that the covenant which Judah broke is held intact by God himself, whose enduring love will finally be sealed in Christ the Son of David."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 6:24-34",
+      "text": "Jesus said to his disciples: ‘No one can be the slave of two masters: he will either hate the first and love the second, or treat the first with respect and the second with scorn. You cannot be the slave both of God and of money.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus declares with stark clarity that the human heart cannot be divided: no one can serve both God and mammon. Either we will love and cling to one and despise the other, for their commands run in opposite directions. The Lord calls his disciples to a freedom of heart that refuses to become a slave of riches, anxiety, or any rival lord.",
+        "patristicQuotes": [
+          {
+            "father": "John Chrysostom",
+            "work": "Homilies on Matthew 21",
+            "quote": "Riches do not only harm us in that they arm robbers against us, and that they cloud our understanding, but they moreover turn us away from God's service. No man can serve two masters whose orders are contrary; for concord makes one of many."
+          },
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He said not, he who has riches, but, he who is the servant of riches. For he who is the slave of money, guards his money as a slave; but he who has thrown off the yoke of his slavery, dispenses them as a master."
+          },
+          {
+            "father": "Glossa Ordinaria",
+            "work": "Catena Aurea on Matthew",
+            "quote": "As the world or God predominate in a man's heart, he must be drawn contrary ways; for God draws him who serves Him to things above; the earth draws to things beneath; therefore He concludes, Ye cannot serve God and mammon."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2544,
+            "title": "Detachment from riches"
+          },
+          {
+            "paragraph": 2545,
+            "title": "Affections rightly ordered"
+          },
+          {
+            "paragraph": 2445,
+            "title": "Love of the poor versus love of riches"
+          }
+        ],
+        "thematicConnection": "Joash served mammon and the favor of his princes rather than the Lord, and the Temple itself became the place of Zechariah's blood. Jesus warns his disciples against that same fatal division of heart, calling us instead to abide in the covenant love the psalm proclaims."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Undivided Heart and the Unbreakable Covenant",
+    "body": "Today the Church sets before us the tragedy of a divided heart and the wonder of an undivided God. King Joash, once formed by the holy priest Jehoiada, turns to flattering officials, abandons the Lord's Temple, and orders the stoning of the prophet Zechariah in the very court where God was worshipped. He chose another master — the approval of princes, the comfort of idols, the security of power — and so was 'forgetful of the kindness' he had received. Jesus names this disease with surgical precision in the Gospel: 'You cannot be the slave both of God and of money.' What killed Zechariah was not merely cruelty but the refusal of a man's heart to choose one Lord. Yet the Responsorial Psalm answers this human treachery with the astonishing fidelity of God: 'I will keep my love for him always; my truth will never fail.' Even when David's sons forsake the law, the covenant holds — because it is finally held by God himself, fulfilled in Christ, the true Son of David, the Prophet greater than Zechariah, whose blood was also poured out for an unfaithful people. The Church today invites us to repent of every secret servitude, to seek first the Kingdom, and to rest in the love that never takes itself back."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7740,
+    "completionTokens": 2527,
+    "generatedAt": "2026-06-20T10:04:44.399469+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
