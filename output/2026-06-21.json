@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-21",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-21",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - June 21, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-06-21"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jeremiah 20:10-13",
+      "text": "Jeremiah said:\nI hear so many disparaging me,\n‘“Terror from every side!”\nDenounce him! Let us denounce him!’\nAll those who used to be my friends\nwatched for my downfall,\n‘Perhaps he will be seduced into error.\nThen we will master him\nand take our revenge!’\nBut the Lord is at my side, a mighty hero;\nmy opponents will stumble, mastered,\nconfounded by their failure;\neverlasting, unforgettable disgrace will be theirs.\nBut you, O Lord of Hosts, you who probe with justice,\nwho scrutinise the loins and heart,\nlet me see the vengeance you will take on them,\nfor I have committed my cause to you.\nSing to the Lord,\npraise the Lord,\nfor he has delivered the soul of the needy\nfrom the hands of evil men.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jeremiah pours out his anguish under persecution: those who once called him friend now plot his ruin because he speaks God's word. Yet in the very midst of the threat he confesses that 'the Lord is at my side, a mighty hero,' and breaks into praise because God delivers the soul of the needy. The prophet thus becomes a living foreshadowing of Christ, the rejected Word who entrusts His cause to the Father.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Commentary on Jeremiah",
+            "quote": "The Evangelists and Apostles did not follow any one translation, but according to the Hebrew manner expressed in their own words what they had read in Hebrew — so Jeremiah's witness lives on the Apostles' lips."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 32",
+            "quote": "The holy Church has one time of persecution, another time of peace; at the time of persecution we must lay down our life, but in time of peace those earthly desires that have most power to subdue us must be vanquished."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 220,
+            "title": "God's everlasting love through Jeremiah"
+          },
+          {
+            "paragraph": 312,
+            "title": "God draws good even from the malice of His enemies"
+          }
+        ],
+        "thematicConnection": "Jeremiah's experience of being denounced by friends prefigures the Gospel's call to fearless witness in the face of persecution, and his confidence in the Lord echoes the psalmist's cry for an answer in the midst of taunts."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 68(69):8-10,14,17,33-35",
+      "text": "In your great love, answer me, O Lord.\nIt is for you that I suffer taunts,\nthat shame covers my face,\nthat I have become a stranger to my brothers,\nan alien to my own mother’s sons.\nI burn with zeal for your house\nand taunts against you fall on me.\nIn your great love, answer me, O Lord.\nThis is my prayer to you,\nmy prayer for your favour.\nIn your great love, answer me, O God,\nwith your help that never fails:\nLord, answer, for your love is kind;\nin your compassion, turn towards me.\nIn your great love, answer me, O Lord.\nThe poor when they see it will be glad\nand God-seeking hearts will revive;\nfor the Lord listens to the needy\nand does not spurn his servants in their chains.\nLet the heavens and the earth give him praise,\nthe sea and all its living creatures.\nIn your great love, answer me, O Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "In your great love, answer me, O Lord.",
+      "exegesis": {
+        "summary": "Psalm 68(69) is the prayer of the righteous sufferer who bears insult for God's sake: 'It is for you that I suffer taunts… I burn with zeal for your house.' The Church reads this psalm Christologically — it is the voice of Jesus on the Cross — and gives it to every disciple who shares in His reproach. The refrain pleads with confidence in God's steadfast love, and ends in praise because 'the Lord listens to the needy.'",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 86",
+            "quote": "As Christ laid down His life for us, so we should lay down our lives for the brethren. This the martyrs have done with ardent love; in commemorating them we pray that we may follow their steps."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Commentary on John",
+            "quote": "He cheers them with the promise that help will be given them from above in their temptations: at that day the Father Himself will love you, because you have loved Me."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2605,
+            "title": "Jesus' filial prayer in the hour of suffering"
+          },
+          {
+            "paragraph": 2616,
+            "title": "Prayer of the needy answered by Jesus"
+          }
+        ],
+        "thematicConnection": "The psalm gives prophetic voice to Jeremiah's lament and to the disciple Jesus describes in the Gospel — the one mocked, shamed, and yet sustained by zeal for the Father's house and confidence in His love."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 5:12-15",
+      "text": "Sin entered the world through one man, and through sin death, and thus death has spread through the whole human race because everyone has sinned. Sin existed in the world long before the Law was given. There was no law and so no one could be accused of the sin of ‘law-breaking’, yet death reigned over all from Adam to Moses, even though their sin, unlike that of Adam, was not a matter of breaking a law.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul lifts our gaze from individual struggle to cosmic drama: through one man, Adam, sin and death entered the world and spread to all. But this somber diagnosis sets up the greater proclamation — the free gift of grace in Jesus Christ, the new Adam, far surpasses the trespass. The reading reminds us that the persecution Christians endure is set against the deeper backdrop of humanity's deliverance from death.",
+        "patristicQuotes": [
+          {
+            "father": "Theophylact",
+            "work": "Commentary on Luke",
+            "quote": "In that Adam had sinned death entered the world; in the righteousness of Christ death was to be destroyed."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 49",
+            "quote": "The dead under the stone is the guilty under the Law. Groan in thyself, if thou wouldest rise to new life — for the grace of Christ remits both the sin of the world and the sins of every one individually."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 402,
+            "title": "Sin and death through Adam; salvation in Christ"
+          },
+          {
+            "paragraph": 404,
+            "title": "How Adam's sin became the sin of all"
+          },
+          {
+            "paragraph": 1008,
+            "title": "Death entered the world as a consequence of sin"
+          }
+        ],
+        "thematicConnection": "Paul explains why the world resists the Gospel — humanity is wounded by Adam's sin — and why the disciple need not fear: in Christ a grace 'much more' powerful than sin is at work, justifying the fearless preaching Jesus commands in the Gospel."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 10:26-33",
+      "text": "Jesus instructed the Twelve as follows: ‘Do not be afraid. For everything that is now covered will be uncovered, and everything now hidden will be made clear. What I say to you in the dark, tell in the daylight; what you hear in whispers, proclaim from the housetops.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus sends out the Twelve with a triple 'Do not be afraid.' What He has whispered to them in private must now be shouted from the rooftops; the body can be killed, but the soul is in the Father's hand, and not even a sparrow falls without Him. To acknowledge Christ before men is to be acknowledged by Him before the Father — the fundamental law of Christian witness.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He instructs them what should be the boldness of their preaching, that as Apostles they should not be hidden through fear, like lamps under a corn-measure, but should stand forth with all confidence."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Having delivered them from all fear, and set them above all calumny, He follows this up by commanding that their preaching should be free and unreserved."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 551,
+            "title": "Jesus chooses the Twelve to share His mission"
+          },
+          {
+            "paragraph": 765,
+            "title": "The Twelve as foundation of the Church"
+          },
+          {
+            "paragraph": 2849,
+            "title": "Vigilance and final perseverance through prayer"
+          }
+        ],
+        "thematicConnection": "The Gospel gathers up Jeremiah's persecuted boldness and the psalmist's zealous suffering into a direct command from the Lord: fear not those who can only kill the body, for the Father who counts sparrows counts you infinitely more."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Do not be afraid: the courage of those who belong to the Father",
+    "body": "Today the Church places before us the cost — and the confidence — of belonging to God. Jeremiah feels the knife of betrayal from his closest friends, yet sings because 'the Lord is at my side, a mighty hero.' The psalmist makes that suffering prayer our own: 'It is for you that I suffer taunts… in your great love, answer me, O Lord.' The same voice, the Fathers tell us, is finally the voice of Christ Himself, whose zeal for the Father's house consumed Him on the Cross. Against this, St. Paul opens the wider horizon: yes, sin and death have flooded the world through Adam, but the grace of Christ, the new Adam, abounds far more. That is why Jesus can say to the Twelve — and to us — three times: 'Do not be afraid.' What was whispered in the upper room must be proclaimed from the rooftops; the worst the world can do is kill the body, but the Father numbers every hair and every sparrow. To acknowledge Him before men, even at the cost of disgrace, is to be acknowledged by Him before the Father. The Christian is the one who, like Jeremiah and like Christ, commits his cause to God and preaches without fear."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9152,
+    "completionTokens": 2751,
+    "generatedAt": "2026-06-21T10:17:30.275812+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
