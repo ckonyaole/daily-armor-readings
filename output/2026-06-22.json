@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-22",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-22",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - June 22, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-22"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Kings 17:5-8,13-15,18",
+      "text": "The king of Assyria invaded the whole country and, coming to Samaria, laid siege to it for three years. In the ninth year of Hoshea, the king of Assyria captured Samaria and deported the Israelites to Assyria. He settled them in Halah on the Habor, a river of Gozan, and in the cities of the Medes.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The northern kingdom of Israel falls to Assyria, and the people are deported. The sacred author makes clear this catastrophe is not a failure of God's power but the consequence of Israel's idolatry and persistent refusal to heed the prophets sent to call them back to the covenant. God had warned through every prophet and seer, 'Turn from your wicked ways,' but they would not listen.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John, xxxi.2",
+            "quote": "God, to show that it was not for want of power on His part that He delivered up the Jews, but for the sins of the people themselves, sent lions to afflict the barbarians. This was told the king, and he sent a priest to instruct them in God's law. But not even then did they wholly cease from their iniquity, but only half changed."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on John",
+            "quote": "Samaria was the principal city of a province of Palestine, and gave its name to the whole district connected with it."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 62,
+            "title": "The covenant with Israel"
+          },
+          {
+            "paragraph": 431,
+            "title": "God saves Israel from sin"
+          }
+        ],
+        "thematicConnection": "The fall of Samaria stands as a sobering judgment on a people who would not see their own sin — precisely the blindness Jesus exposes in the Gospel's image of the plank in one's own eye."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 59(60):3-5,12-13",
+      "text": "Hear us, O Lord, and help us.\nO God, you have rejected us and broken us.\nYou have been angry; come back to us.\nHear us, O Lord, and help us.\nYou have made the earth quake, torn it open.\nRepair what is shattered for it sways.\nYou have inflicted hardships on your people\nand made us drink a wine that dazed us.\nHear us, O Lord, and help us.\nWill you utterly reject us, O God,\nand no longer march with our armies?\nGive us help against the foe:\nfor the help of man is vain.\nHear us, O Lord, and help us.",
+      "translation": "Universalis (US)",
+      "refrain": "Hear us, O Lord, and help us.",
+      "exegesis": {
+        "summary": "The psalmist cries out from defeat: God has rejected, broken, and shaken his people. Yet even in lamenting the consequences of sin, Israel turns back to the Lord, knowing 'the help of man is vain.' This is the prayer Israel should have prayed before Samaria fell — and the prayer the Church places on our lips today.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "On the Sermon on the Mount, ii.11",
+            "quote": "Let us pray to be delivered from evil; for that very deliverance will make us free as sons of God."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies, xlvi.1",
+            "quote": "Our Lord's words do not destroy our free agency, but only show that we need Divine assistance."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in God"
+          },
+          {
+            "paragraph": 2728,
+            "title": "Battling in prayer with humility and perseverance"
+          },
+          {
+            "paragraph": 2864,
+            "title": "Deliver us from evil"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the exiled people of the first reading — and to every sinner who must first acknowledge his own brokenness before he can pray honestly, as the Gospel demands."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 7:1-5",
+      "text": "Jesus said to his disciples: ‘Do not judge, and you will not be judged; because the judgements you give are the judgements you will get, and the amount you measure out is the amount you will be given. Why do you observe the splinter in your brother’s eye and never notice the plank in your own? How dare you say to your brother, “Let me take the splinter out of your eye,” when all the time there is a plank in your own? Hypocrite! Take the plank out of your own eye first, and then you will see clearly enough to take the splinter out of your brother’s eye.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus warns against rash judgment: the measure we use against others will be measured back against us. The vivid image of the splinter and the plank is not a prohibition of moral discernment but a command of humility — we cannot serve our brother's healing until we have first faced our own sin. Only the purified eye sees clearly enough to help.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "On the Sermon on the Mount, ii.18",
+            "quote": "The Lord admonishes us concerning hasty and unjust judgment; for they are most given to rash judgment who judge concerning things uncertain, and they most readily find fault who love rather to speak evil and to condemn than to cure and to correct — a fault springing either from pride or jealousy."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "On the Sermon on the Mount",
+            "quote": "Having removed from our own eye the beam of envy, of malice, or hypocrisy, we shall see clearly to cast the beam out of our brother's eye."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2478,
+            "title": "Favorable interpretation of neighbor"
+          },
+          {
+            "paragraph": 588,
+            "title": "Those who pretend not to need salvation are blind"
+          },
+          {
+            "paragraph": 2843,
+            "title": "Forgiveness from the heart"
+          }
+        ],
+        "thematicConnection": "Where Israel of old refused to see its own idolatry and so was destroyed, the disciple of Christ is called to the opposite movement: ruthless honesty about one's own beam, and only then gentle care for the brother."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Remove the plank: the mercy that begins with self-knowledge",
+    "body": "Today the Church holds two mirrors before us. In the first, Samaria falls. Israel's kings and people had spent generations pointing fingers at pagan nations while quietly serving idols themselves; when the prophets came, 'they would not listen.' The northern kingdom is dragged into exile not because God was weak but because his people would not look honestly at their own hearts. The psalm then becomes the prayer they should have prayed sooner: 'O God, you have rejected us… come back to us.' It is the cry of a soul finally willing to see itself. Then in the Gospel, Jesus diagnoses the very disease that destroyed Samaria — the hypocrite's eye, sharp on the splinter in another, blind to the plank in itself. St. Augustine reminds us that only when envy, malice, and hypocrisy are pulled from our own sight can we 'see clearly to cast the beam out of our brother's eye.' Fraternal correction is not abolished; it is purified by humility. The Catechism calls this giving a 'favorable interpretation' to our neighbor (CCC 2478) and admits that 'those who pretend not to need salvation are blind to themselves' (CCC 588). The path away from Samaria's ruin is simple and severe: judge yourself first, then love your brother enough to help him see."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6725,
+    "completionTokens": 2099,
+    "generatedAt": "2026-06-22T10:56:26.380274+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
