@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-23",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-23",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - June 23, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-23"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Kings 19:9-11,14-21,31-36",
+      "text": "Sennacherib, King of the Assyrians, sent messengers to Hezekiah saying, ‘Tell this to Hezekiah king of Judah, “Do not let your God on whom you are relying deceive you, when he says: Jerusalem shall not fall into the power of the king of Assyria. You have learnt by now what the kings of Assyria have done to every country, putting them all under the ban. Are you likely to be spared?”’\n‘Give ear, Lord, and listen.\nOpen your eyes, Lord, and see.\nHear the words of Sennacherib\nwho has sent to insult the living God.\n‘It is true, O Lord, that the kings of Assyria have exterminated all the nations, they have thrown their gods on the fire, for these were not gods but the work of men’s hands, wood and stone, and hence they have destroyed them. But now, O Lord our God, save us from his hand, I pray you, and let all the kingdoms of the earth know that you alone are God, Lord.’\n‘“She despises you, she scorns you,\nthe virgin, daughter of Zion;\nshe tosses her head behind you,\nthe daughter of Jerusalem.\nA remnant shall go out from Jerusalem,\nand survivors from Mount Zion.\nThe jealous love of the Lord of Hosts shall accomplish this.”\n‘This, then, is what the Lord says about the king of Assyria:\n‘“He will not enter this city,\nhe will let fly no arrow against it,\nconfront it with no shield,\nthrow up no earthwork against it.\nBy the road that he came on he will return;\nhe shall not enter this city. It is the Lord who speaks.\nI will protect this city and save it\nfor my own sake and for the sake of my servant David.”’\nThat same night the angel of the Lord went out and struck down a hundred and eighty-five thousand men in the Assyrian camp. Sennacherib struck camp and left; he returned home and stayed in Nineveh.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "King Hezekiah, threatened by the mighty Assyrian Sennacherib, brings the blasphemous letter into the Temple and spreads it before the Lord, pleading not chiefly for his own deliverance but that all the kingdoms of the earth may know that the Lord alone is God. Through Isaiah, God promises to defend Jerusalem for His own sake and for David's sake, and that very night the angel of the Lord shatters the Assyrian army. The passage proclaims the impotence of idols and the sovereign power of the one living God who hears the prayer of His humbled servant.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This city is the Church, of which it is said, 'Glorious things are spoken of thee, thou city of God.' Its citizens are all the faithful, and it is built upon Christ the hill, of whom Daniel speaks: 'A stone hewed without hands became a great mountain.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 201,
+            "title": "The Lord alone is God"
+          },
+          {
+            "paragraph": 205,
+            "title": "The God who saves His people"
+          },
+          {
+            "paragraph": 2583,
+            "title": "Prayer of the prophets and kings"
+          }
+        ],
+        "thematicConnection": "Hezekiah's confidence that God upholds Jerusalem against every assault is the historical seed of the Psalm's praise of Mount Zion as the Great King's city, and prefigures the narrow gate of the Gospel: the city is saved not by armies but by humble trust in the Lord."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 47(48):2-4,10-11",
+      "text": "God upholds his city for ever.\nThe Lord is great and worthy to be praised\nin the city of our God.\nHis holy mountain rises in beauty,\nthe joy of all the earth.\nGod upholds his city for ever.\nMount Zion, true pole of the earth,\nthe Great King’s city!\nGod, in the midst of its citadels,\nhas shown himself its stronghold.\nGod upholds his city for ever.\nO God, we ponder your love\nwithin your temple.\nYour praise, O God, like your name\nreaches the ends of the earth.\nGod upholds his city for ever.",
+      "translation": "Universalis (US)",
+      "refrain": "God upholds his city for ever.",
+      "exegesis": {
+        "summary": "Psalm 48 sings of Jerusalem, the city of the Great King, whose holy mountain is the joy of all the earth. God Himself is her stronghold in the midst of her citadels, and His praise reaches the ends of the earth. The refrain — 'God upholds his city for ever' — is the very promise fulfilled in Hezekiah's deliverance and ultimately in the Church, the new Jerusalem.",
+        "patristicQuotes": [
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "Our city and country is the resting-place of the blessed, to which we ought to be travelling with daily increasing virtues. Day by day Holy Church waits upon her Teacher, going up from the course of worldly business to the city of confession and praise, making returns of her devotion to the Eternal King."
+          },
+          {
+            "father": "Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "As Jerusalem is said to be built as a city, so are peace-making souls; and as angels have rule, so have they who have acquired the life of angels."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 756,
+            "title": "The Church as God's building"
+          },
+          {
+            "paragraph": 865,
+            "title": "The Church as the heavenly Jerusalem"
+          },
+          {
+            "paragraph": 1197,
+            "title": "Christ the true temple"
+          }
+        ],
+        "thematicConnection": "The Psalm is the chosen liturgical response because Hezekiah's saved Jerusalem becomes the perpetual song of the Church: God is the stronghold of His people, defending the city not by walls of stone but by His abiding presence."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 7:6,12-14",
+      "text": "Jesus said to his disciples: ‘Do not give dogs what is holy; and do not throw your pearls in front of pigs, or they may trample them and then turn on you and tear you to pieces.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus warns His disciples not to give what is holy to dogs nor cast pearls before swine — a counsel of discernment in handing on sacred truth. He then sets before them the Golden Rule as the summation of the Law and the Prophets, and bids them enter by the narrow gate, for the road that leads to life is hard and few find it. The Christian life is a deliberate journey on a steep way, guarded by reverence for what is holy and shaped by love of neighbor.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The dogs are those that assault the truth; the swine we may take for those that despise the truth. Dogs leap forth to rend in pieces what they rend; the swine, though they do not bite, defile by trampling. Therefore give not that which is holy to the dogs, nor cast your pearls before swine."
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The swine not only trample upon the pearls by their carnal life, but after a little turn and by disobedience rend those who offend them; and the dogs, having trode upon holy things by their impure actions, by their disputings rend the preacher of truth."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 787,
+            "title": "Communion with Christ on the narrow way"
+          },
+          {
+            "paragraph": 2544,
+            "title": "Detachment to enter the Kingdom"
+          }
+        ],
+        "thematicConnection": "Just as Hezekiah guarded the holy city against the blaspheming Assyrian, the disciple guards what is holy from contempt and walks the narrow road into the true Jerusalem of the Psalm. The Golden Rule is the law of the citizens whom God upholds for ever."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Lord upholds His city: the narrow road into the holy Jerusalem",
+    "body": "Today the Church sets before us a single luminous truth: the Lord alone is God, and He Himself is the stronghold of His people. Hezekiah, surrounded by a world-conquering empire and mocked by Sennacherib's letter, does not muster armies first but goes up into the Temple and lays the threat before the living God. His prayer is missionary — 'that all the kingdoms of the earth may know that you alone are God' — and that very night the angel of the Lord delivers Jerusalem. The Psalm gathers this deliverance into perpetual praise: 'God upholds his city for ever.' Mount Zion stands not by her walls but by the presence of the Great King within her citadels, a figure, as the Fathers teach, of the Church, the New Jerusalem built of living stones upon Christ the cornerstone. The Gospel then tells us how to live as her citizens. We guard what is holy with reverence, refusing to scatter the pearls of the faith before contempt; we treat others as we would be treated, fulfilling the Law and the Prophets; and we choose, deliberately and daily, the narrow gate. The road is hard and few find it — but at its end is the city God upholds for ever, where the praise of His name reaches the ends of the earth."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8162,
+    "completionTokens": 2304,
+    "generatedAt": "2026-06-23T10:18:51.099497+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
