@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-25",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-25",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - June 25, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-25"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Kings 24:8-17",
+      "text": "Jehoiachin was eighteen years old when he came to the throne, and he reigned for three months in Jerusalem. His mother’s name was Nehushta, daughter of Elnathan, from Jerusalem. He did what is displeasing to the Lord, just as his father had done.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The deportation of King Jehoiachin and the leading citizens of Judah to Babylon marks the beginning of the great Exile. Because the kings of Judah persistently did what was displeasing to the Lord, the protection of the covenant is withdrawn, and Jerusalem's treasures, leaders, and craftsmen are carried away. Nebuchadnezzar leaves behind only 'the poorest people of the land,' a remnant from whom God will yet bring forth salvation.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "As great a blessing as was given upon the house of Ahab, so great a curse was given on the house of Joram, because of the wicked daughter of Ahab and Jezebel, that his sons to the fourth generation should be cut out of the number of the Kings. Thus his sin descended on his posterity, as it had been written: 'I will visit the sins of the fathers upon the children unto the third and fourth generation.'"
+          },
+          {
+            "father": "Ambrose",
+            "work": "Catena Aurea on Matthew",
+            "quote": "History declares that there were two Joakims, that is, two Jeconiahs, father and son. The Evangelist has not passed over either of these, but has named them both."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 410,
+            "title": "God does not abandon fallen man"
+          },
+          {
+            "paragraph": 583,
+            "title": "The Temple as the Father's house"
+          }
+        ],
+        "thematicConnection": "The collapse of Jerusalem under faithless kings sets the stage for the psalm's lament and for the Gospel's warning: those who say 'Lord, Lord' but do not the will of the Father end as Jehoiachin did — stripped, exiled, undone."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 78(79):1-5,8-9",
+      "text": "Rescue us, O Lord, for the glory of your name.\nO God, the nations have invaded your land,\nthey have profaned your holy temple.\nThey have made Jerusalem a heap of ruins.\nThey have handed over the bodies of your servants\nas food to feed the birds of heaven\nand the flesh of your faithful to the beasts of the earth.\nRescue us, O Lord, for the glory of your name.\nThey have poured out blood like water in Jerusalem;\nno one is left to bury the dead.\nWe have become the taunt of our neighbours,\nthe mockery and scorn of those who surround us.\nHow long, O Lord? Will you be angry for ever;\nhow long will your anger burn like fire?\nRescue us, O Lord, for the glory of your name.\nDo not hold the guilt of our fathers against us.\nLet your compassion hasten to meet us;\nwe are left in the depths of distress.\nRescue us, O Lord, for the glory of your name.\nO God our saviour, come to our help.\nCome for the sake of the glory of your name.\nO Lord our God, forgive us our sins;\nrescue us for the sake of your name.\nRescue us, O Lord, for the glory of your name.",
+      "translation": "Universalis (US)",
+      "refrain": "Rescue us, O Lord, for the glory of your name.",
+      "exegesis": {
+        "summary": "Psalm 78(79) is Israel's anguished cry as she watches the Temple profaned and Jerusalem reduced to rubble — the very catastrophe announced in the first reading. The refrain pleads for rescue 'for the glory of your name,' acknowledging that any deliverance will be sheer mercy, not desert. The psalmist confesses 'the guilt of our fathers' and begs that compassion run swiftly to meet a people sunk in distress.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Commentary on John",
+            "quote": "It is possible even for the dweller in Jerusalem to incur guilt, and even the most richly endowed may stray. And unless these repent speedily, they lose the capacity wherewith they were endued."
+          },
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "O Jerusalem, Jerusalem: this repetition of the name is a mark of compassion and intense love."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2606,
+            "title": "The Psalter as the prayer of Christ"
+          },
+          {
+            "paragraph": 2817,
+            "title": "Marana tha — the cry for deliverance"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the exiles of 2 Kings and to every soul who has built upon sand: when the storm of judgment comes, only humble appeal to the Lord's own name can save."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 7:21-29",
+      "text": "Jesus said to his disciples: ‘It is not those who say to me, “Lord, Lord,” who will enter the kingdom of heaven, but the person who does the will of my Father in heaven. When the day comes many will say to me, “Lord, Lord, did we not prophesy in your name, cast out demons in your name, work many miracles in your name?” Then I shall tell them to their faces: I have never known you; away from me, you evil men!",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus concludes the Sermon on the Mount with a piercing warning: not the invocation 'Lord, Lord,' nor even prophecy or miracles in his name, can substitute for doing the Father's will. The wise man builds his house upon the rock by hearing Christ's words and acting on them; the fool hears and does nothing, and his ruin in the storm is total. The crowds are astonished, for he teaches with the authority of God himself.",
+        "patristicQuotes": [
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He says, 'I never knew you,' as it were, not at the day of judgment only, but not even then when you were working miracles. For there are many whom He has now in abhorrence, and yet turns away His wrath before their punishment."
+          },
+          {
+            "father": "Augustine",
+            "work": "On the Sermon on the Mount, II.24",
+            "quote": "Even in the very name of Christ we must be on our guard against heretics, and all that understand amiss and love this world, that we may not be deceived. He only properly says a thing who by the sound of his voice expresses his will and purpose; the Lord uses the word for him who neither wishes nor understands what he says."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 546,
+            "title": "Words are not enough; deeds are required"
+          },
+          {
+            "paragraph": 2681,
+            "title": "'Jesus is Lord' confessed in the Holy Spirit"
+          },
+          {
+            "paragraph": 545,
+            "title": "Conversion required to enter the kingdom"
+          }
+        ],
+        "thematicConnection": "Judah's kings invoked the Lord while doing evil, and their house fell. Jesus reveals that this pattern is universal: hearing the word without obeying it builds a Jerusalem destined to crumble; obedience to the Father's will is the only rock."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Lord, Lord — and the House That Falls",
+    "body": "Today the Church places before us the spectacle of Jerusalem dismantled. In 2 Kings, the young Jehoiachin and the leaders of Judah are marched to Babylon because king after king 'did what was displeasing to the Lord, just as his father had done.' The Temple's treasures are carried off, the city emptied, and only the poor remain. Psalm 79 sings from the rubble: 'Rescue us, O Lord, for the glory of your name.' It is the prayer of a people who learned too late that lips which praised God while hands worked evil could not hold the city together. Into this history Christ speaks his closing word of the Sermon on the Mount: 'Not those who say to me, Lord, Lord, but the one who does the will of my Father.' Even prophecies and miracles in his name are no substitute for obedience. The house built on the sand of mere profession will fall, and great will be its fall — Jerusalem itself bore witness. Yet the readings end not in despair but in hope: God leaves a remnant, hears the cry for the glory of his name, and sends his Son whose words are rock. To build on Christ is to do the Father's will today, in the small obediences that no exile can carry away."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8776,
+    "completionTokens": 2289,
+    "generatedAt": "2026-06-25T10:06:41.598446+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
