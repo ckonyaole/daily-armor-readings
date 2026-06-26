@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-26",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-26",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - June 26, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-26"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Kings 25:1-12",
+      "text": "In the ninth year of Zedekiah’s reign, in the tenth month, on the tenth day of the month, Nebuchadnezzar king of Babylon came with his whole army to attack Jerusalem; he pitched camp in front of the city and threw up earthworks round it. The city lay under siege till the eleventh year of King Zedekiah. In the fourth month, on the ninth day of the month, when famine was raging in the city and there was no food for the populace, a breach was made in the city wall. At once, the king made his escape under cover of dark, with all the fighting men, by way of the gate between the two walls, which is near the king’s garden – the Chaldaeans had surrounded the city – and made his way towards the Arabah. The Chaldaean troops pursued the king and caught up with him in the plains of Jericho, where all his troops deserted. The Chaldaeans captured the king and took him to the king of Babylon at Riblah, who passed sentence on him. He had the sons of Zedekiah slaughtered before his eyes, then put out Zedekiah’s eyes and, loading him with chains, carried him off to Babylon.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The reading recounts the catastrophic fall of Jerusalem to Nebuchadnezzar in 587 BC: the breaching of the walls, the flight and capture of Zedekiah, the slaughter of his sons before his eyes, and his blinding and exile in chains to Babylon. This is the bitter fruit of generations of covenant infidelity and the rejection of the prophets whom God sent. Yet even in this ruin, the chastisement is medicinal — Israel must lose the earthly city to long again for the true Zion.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "They beat the prophets, as Jeremiah; killed them, as Isaiah; stoned them, as Naboth and Zacharias, whom they slew between the temple and the altar."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Mark",
+            "quote": "By the servants whom the householder sent, understand the prophets — for Zedekiah the false prophet beat Micaiah; and at last, having one Son, His well-beloved, He sent Him also, saying, 'Perchance they will reverence my Son.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 558,
+            "title": "Jerusalem's rejection of the prophets"
+          },
+          {
+            "paragraph": 530,
+            "title": "Christ's life under the sign of persecution"
+          }
+        ],
+        "thematicConnection": "The fall of Jerusalem furnishes the historical setting for the lament of Psalm 137, and it stands in pointed contrast to the Gospel, where the true King descends not to destroy but to cleanse the leper, fulfilling the Law that the rejected prophets had proclaimed."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 136(137):1-6",
+      "text": "O let my tongue cleave to my mouth if I remember you not!\nBy the rivers of Babylon\nthere we sat and wept,\nremembering Zion;\non the poplars that grew there\nwe hung up our harps.\nO let my tongue cleave to my mouth if I remember you not!\nFor it was there that they asked us,\nour captors, for songs,\nour oppressors, for joy.\n‘Sing to us,’ they said,\n‘one of Zion’s songs.’\nO let my tongue cleave to my mouth if I remember you not!\nO how could we sing\nthe song of the Lord\non alien soil?\nIf I forget you, Jerusalem,\nlet my right hand wither!\nO let my tongue cleave to my mouth if I remember you not!\nO let my tongue\ncleave to my mouth\nif I remember you not,\nif I prize not Jerusalem\nabove all my joys!\nO let my tongue cleave to my mouth if I remember you not!",
+      "translation": "Universalis (US)",
+      "refrain": "O let my tongue cleave to my mouth if I remember you not!",
+      "exegesis": {
+        "summary": "From the rivers of Babylon, the exiles refuse to make a spectacle of the Lord's song for their captors. Their grief becomes a vow: to never forget Jerusalem, even at the cost of tongue and right hand. The psalm transforms loss into fidelity — the holy city, though destroyed in stone, lives on in the memory and longing of God's people.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "The songs were not sung in the market-place, nor in the streets, but in Jerusalem. For that is the Lord's forum, in which the laws of His heavenly precepts are framed."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1090,
+            "title": "The heavenly Jerusalem toward which we journey"
+          },
+          {
+            "paragraph": 2170,
+            "title": "Memorial of liberation from bondage"
+          }
+        ],
+        "thematicConnection": "The psalm is the prayer of those whose city has just fallen in the first reading. Its longing for Zion above all earthly joys points beyond the rubble of the earthly Jerusalem to the heavenly city, where Christ — the healer of the Gospel — reigns."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 8:1-4",
+      "text": "After Jesus had come down from the mountain large crowds followed him. A leper now came up and bowed low in front of him. ‘Sir,’ he said ‘if you want to, you can cure me.’ Jesus stretched out his hand, touched him and said, ‘Of course I want to! Be cured!’ And his leprosy was cured at once. Then Jesus said to him, ‘Mind you do not tell anyone, but go and show yourself to the priest and make the offering prescribed by Moses, as evidence for them.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Descending from the mountain of the Beatitudes, Jesus meets a leper who kneels and confesses faith in His power: 'If you want to, you can cure me.' Jesus does what the Law forbade — He stretches out His hand and touches the unclean — and instantly heals him, then sends him to the priest with the offering Moses commanded. Christ honors the Law even as He surpasses it, manifesting Himself as both the Lawgiver and the merciful Healer who makes the unclean clean by a touch.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Lord came down from the height of heaven, as from a mountain, that He might purge the leprosy of our sin; and so the leper as already prepared meets Him as He came down."
+          },
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "By the leper is signified the sinner; for sin makes an unclean and impure soul. He falls down before Christ when he is confounded concerning his former sins; yet he ought to confess and seek the remedy of penitence. The Lord stretches out His hand when He affords the aid of Divine mercy; nor ought the Church to be reconciled to the same, but on the sentence of the Priest."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1504,
+            "title": "Christ touches us to heal us"
+          },
+          {
+            "paragraph": 1505,
+            "title": "He took our infirmities"
+          },
+          {
+            "paragraph": 1506,
+            "title": "The Church continues Christ's healing ministry"
+          }
+        ],
+        "thematicConnection": "Where Zedekiah's Jerusalem fell because it would not be healed by the prophets' word, the leper humbly kneels and is made whole by the Word made flesh. The exiles' longing for Zion finds its answer in this descent of God to touch what is unclean."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "From the Ruins of Zion to the Touch of the Healer",
+    "body": "Today the Church sets before us the deepest wound of the Old Covenant and the deepest mercy of the New. In Second Kings, Jerusalem — the city of the Temple, the city of David — is breached, burned, and its blinded king dragged in chains to Babylon. This is what comes of refusing the prophets, of preferring idols to the living God. From that ruin rises the lament of Psalm 137: by the rivers of Babylon the exiles weep, vowing that their tongue will wither before they forget Zion. Their grief teaches us that the heart can lose every earthly comfort and still cling to God. Then the Gospel descends like grace itself. Jesus comes down from the mountain, and a leper — the very image of the soul disfigured by sin and exile — kneels before Him. The hand that Israel's kings would not take is stretched out by the true King: 'Of course I want to! Be cured!' What the prophets foretold and the priests of Moses could only declare, Christ accomplishes by a touch. The Church today invites us to recognize ourselves in the leper, to grieve our exile as the psalmist did, and to come down from our self-built Zions into the humble adoration where the Lord cleanses, restores, and sends us, like the healed leper, to His priests."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7876,
+    "completionTokens": 2249,
+    "generatedAt": "2026-06-26T10:08:08.457133+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
