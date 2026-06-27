@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-27",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-27",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - June 27, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-27"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Lamentations 2:2,10-14,18-19",
+      "text": "The Lord has pitilessly destroyed\nall the homes of Jacob;\nin his displeasure he has shattered\nthe strongholds of the daughter of Judah;\nhe has thrown to the ground,\nhe has left accursed the kingdom and its rulers.\nMutely they sit on the ground,\nthe elders of the daughter of Zion;\nthey have put dust on their heads,\nand wrapped themselves in sackcloth.\nThe virgins of Jerusalem hang their heads\ndown to the ground.\nMy eyes wasted away with weeping,\nmy entrails shuddered,\nmy liver spilled on the ground\nat the ruin of the daughters of my people,\nas children, mere infants, fainted\nin the squares of the Citadel.\nThey kept saying to their mothers,\n‘Where is the bread?’\nas they fainted like wounded men\nin the squares of the City,\nas they poured out their souls\non their mothers’ breasts.\nHow can I describe you, to what compare you,\ndaughter of Jerusalem?\nWho can rescue and comfort you,\nvirgin daughter of Zion?\nFor huge as the sea is your affliction;\nwho can possibly cure you?\nThe visions your prophets had on your behalf\nwere delusive, tinsel things,\nthey never pointed out your sin,\nto ward off your exile.\nThe visions they proffered you were false,\nfallacious, misleading.\nCry aloud, then, to the Lord,\ngroan, daughter of Zion;\nlet your tears flow like a torrent,\nday and night;\ngive yourself no relief,\ngrant your eyes no rest.\nUp, cry out in the night-time,\nin the early hours of darkness;\npour your heart out like water\nbefore the Lord.\nStretch out your hands to him\nfor the lives of your children\nwho faint with hunger\nat the entrance to every street.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jeremiah's lament surveys the rubble of Jerusalem: temple razed, elders silent in dust, infants dying for want of bread in their mothers' arms. The prophet does not soften the blow—he names false prophets who flattered the people instead of exposing their sin. Yet the lament ends not in despair but in command: pour out your heart like water before the Lord and stretch out your hands for the lives of your children.",
+        "patristicQuotes": [
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "By Jerusalem He means not the stones and buildings, but the dwellers there, over whom He laments with the feeling of a Father."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Luke",
+            "quote": "I do not deny that the former Jerusalem was destroyed because of the wickedness of its inhabitants, but the weeping might also concern this your spiritual Jerusalem. For if a man has sinned after receiving the mysteries of truth, he will be wept over."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 558,
+            "title": "Jesus weeps over Jerusalem"
+          },
+          {
+            "paragraph": 674,
+            "title": "Israel's eventual recognition of the Messiah"
+          }
+        ],
+        "thematicConnection": "The ruined Daughter of Zion sets the stage for the Gospel, where the true King enters not Jerusalem but Capernaum, and where it is a Gentile soldier—not the chosen city—who shows the faith that could have spared Israel's downfall."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 73(74):1-7,20-21",
+      "text": "Do not forget your poor servants for ever.\nWhy, O God, have you cast us off for ever?\nWhy blaze with anger at the sheep of your pasture?\nRemember your people whom you chose long ago,\nthe tribe you redeemed to be your own possession,\nthe mountain of Zion where you made your dwelling.\nDo not forget your poor servants for ever.\nTurn your steps to these places that are utterly ruined!\nThe enemy has laid waste the whole of the sanctuary.\nYour foes have made uproar in your house of prayer:\nthey have set up their emblems, their foreign emblems,\nhigh above the entrance to the sanctuary.\nDo not forget your poor servants for ever.\nTheir axes have battered the wood of its doors.\nThey have struck together with hatchet and pickaxe.\nO God, they have set your sanctuary on fire:\nthey have razed and profaned the place where you dwell.\nDo not forget your poor servants for ever.\nRemember your covenant; every cave in the land\nis a place where violence makes its home.\nDo not let the oppressed return disappointed;\nlet the poor and the needy bless your name.\nDo not forget your poor servants for ever.",
+      "translation": "Universalis (US)",
+      "refrain": "Do not forget your poor servants for ever.",
+      "exegesis": {
+        "summary": "The psalmist takes Jeremiah's grief and turns it into prayer, naming the desecration of the sanctuary and pleading that God remember His covenant. The refrain anchors the whole cry: 'Do not forget your poor servants for ever.' Even amid ruin, the people refuse to let go of their identity as the flock of God's pasture.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Commentary on John, book 10",
+            "quote": "It is possible even for the dweller in Jerusalem to incur guilt, and even the most richly endowed may stray. And unless these repent speedily, they lose the capacity wherewith they were endued."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2594,
+            "title": "Prayer in the shadow of the Temple"
+          },
+          {
+            "paragraph": 2606,
+            "title": "All troubles summed up in the cry of the Word"
+          },
+          {
+            "paragraph": 2445,
+            "title": "God hears the cry of the poor"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the prayer Lamentations demands, and prepares us for the centurion who likewise pours out his heart for one who suffers—'do not forget your poor servant'—and is heard at once."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 8:5-17",
+      "text": "When Jesus went into Capernaum a centurion came up and pleaded with him. ‘Sir,’ he said ‘my servant is lying at home paralysed, and in great pain.’ ‘I will come myself and cure him’ said Jesus. The centurion replied, ‘Sir, I am not worthy to have you under my roof; just give the word and my servant will be cured. For I am under authority myself, and have soldiers under me; and I say to one man: Go, and he goes; to another: Come here, and he comes; to my servant: Do this, and he does it.’ When Jesus heard this he was astonished and said to those following him, ‘I tell you solemnly, nowhere in Israel have I found faith like this. And I tell you that many will come from east and west to take their places with Abraham and Isaac and Jacob at the feast in the kingdom of heaven; but the subjects of the kingdom will be turned out into the dark, where there will be weeping and grinding of teeth.’ And to the centurion Jesus said, ‘Go back, then; you have believed, so let this be done for you.’ And the servant was cured at that moment.\nHe took our sicknesses away and carried our diseases for us.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "A Roman centurion intercedes for his paralyzed servant with a faith so pure that Jesus marvels: 'Nowhere in Israel have I found faith like this.' His confession—'Lord, I am not worthy that you should enter under my roof; but only say the word'—becomes the Church's own prayer at every Mass. Jesus then warns that many will come from east and west to feast with the patriarchs while the heirs of the kingdom are cast out, and He fulfills Isaiah: 'He took our infirmities and bore our diseases.'",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This centurion was the first-fruits of the Gentiles, and in comparison of his faith all the faith of the Jews was unbelief; he neither heard Christ teaching nor saw the leper cleansed, but from hearing only that He had healed, he believed more than he heard."
+          },
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "As we commend the centurion's faith in that he believed the Saviour was able to heal the paralytic, so his humility is seen in his professing himself unworthy that the Lord should come under his roof."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1506,
+            "title": "Christ's ministry of compassion and healing"
+          },
+          {
+            "paragraph": 1339,
+            "title": "'Domine, non sum dignus' echoed in the Eucharist"
+          },
+          {
+            "paragraph": 674,
+            "title": "The full inclusion of nations in the Messiah"
+          }
+        ],
+        "thematicConnection": "Where Lamentations mourns a faithless Jerusalem fed by false visions, the Gospel reveals a pagan soldier whose true vision of Christ's authority secures the healing Israel forfeited—the very reversal the lament warned was coming."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "From the rubble of Zion to the Lord's table—faith finds its true home",
+    "body": "Today the Church holds together two scenes that, on the surface, could not be more different: Jerusalem reduced to ashes, mothers cradling fainting children in the streets, and a Roman officer in Capernaum kneeling before Jesus for a dying servant. But Lamentations and the Gospel tell one story. Jerusalem fell because her prophets gave her 'delusive, tinsel' visions instead of naming her sin; the centurion, with no Law and no Prophets, sees clearly who Jesus is and speaks the truth: 'Only say the word.' The psalmist's refrain—'Do not forget your poor servants for ever'—becomes flesh in the centurion's plea for his paralyzed slave, and Christ does not forget. He marvels at this Gentile faith and announces that many will come from east and west to recline at the feast of Abraham, while those who presumed on their inheritance may be cast out. The Church places the centurion's words on our lips before every Communion: Domine, non sum dignus. Today she invites us to choose which Jerusalem we will be—the city that trusted flattering visions, or the soul that, knowing its unworthiness, simply trusts the Word. Only the second will sit at the banquet that has no end."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 10587,
+    "completionTokens": 2179,
+    "generatedAt": "2026-06-27T09:45:54.977495+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
