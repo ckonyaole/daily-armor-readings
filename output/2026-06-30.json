@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-30",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-06-30",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - June 30, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-06-30"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Amos 3:1-8,4:11-12",
+      "text": "Listen, sons of Israel, to this oracle the Lord speaks against you, against the whole family I brought out of the land of Egypt:\nYou alone, of all the families of earth, have I acknowledged,\ntherefore it is for all your sins that I mean to punish you.\nDo two men take the road together\nif they have not planned to do so?\nDoes the lion roar in the jungle\nif no prey has been found?\nDoes the young lion growl in his lair\nif he has captured nothing?\nDoes the bird fall to the ground\nif no trap has been set?\nDoes the snare spring up from the ground\nif nothing has been caught?\nDoes the trumpet sound in the city\nwithout the populace becoming alarmed?\nDoes misfortune come to a city\nif the Lord has not sent it?\nNo more does the Lord do anything\nwithout revealing his plans to his servants the prophets.\nThe lion roars: who can help feeling afraid?\nThe Lord speaks: who can refuse to prophesy?\nI overthrew you as God overthrew Sodom and Gomorrah,\nand you were like a brand snatched from the blaze;\nand yet you never came back to me.\nIt is the Lord who speaks.\nThis therefore, Israel, is what I plan to do to you,\nand because I am going to do this to you,\nIsrael, prepare to meet your God!",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Amos confronts Israel with the sober logic of covenant love: precisely because the Lord acknowledged them alone among the families of the earth, their sins demand reckoning. Through a cascade of rhetorical images—lions, traps, trumpets—the prophet shows that nothing happens by chance; the Lord reveals his plans to his prophets, and disaster in the city is the Lord's summons. Israel, snatched like a brand from the fire, has failed to return, and so must now 'prepare to meet your God.'",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Epistle 199 (ad Hesychium)",
+            "quote": "These evils which are counted the greatest and most immoderate we see to be common to both the kingdoms of Christ and the Devil; for the good and the evil are alike afflicted with them. Let us understand the words of prophecy as warning us of the tribulation that shall belong to the Church when she is troubled by the whole world."
+          },
+          {
+            "father": "Rabanus Maurus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "For what desert so many evils are to be brought upon Jerusalem, and the whole Jewish province, the Lord shows when He adds, 'Then shall they deliver you up.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 762,
+            "title": "Israel's election and the prophets' accusation"
+          },
+          {
+            "paragraph": 1961,
+            "title": "Israel chosen and given the Law"
+          },
+          {
+            "paragraph": 210,
+            "title": "The Lord, merciful and slow to anger"
+          }
+        ],
+        "thematicConnection": "Amos's warning 'Prepare to meet your God' sets up the Psalm's plea to be led in God's justice and anticipates the Gospel's revelation of who this God is—the One whose word the very winds and sea obey."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 5:5-8",
+      "text": "Lead me, O Lord, in your justice.\nYou are no God who loves evil;\nno sinner is your guest.\nThe boastful shall not stand their ground\nbefore your face.\nLead me, O Lord, in your justice.\nYou hate all who do evil;\nyou destroy all who lie.\nThe deceitful and bloodthirsty man\nthe Lord detests.\nLead me, O Lord, in your justice.\nBut I through the greatness of your love\nhave access to your house.\nI bow down before your holy temple,\nfilled with awe.\nLead me, O Lord, in your justice.",
+      "translation": "Universalis (US)",
+      "refrain": "Lead me, O Lord, in your justice.",
+      "exegesis": {
+        "summary": "The psalmist contrasts the wickedness God cannot abide with the trust of the one who, by God's great love, enters his house. The refrain, 'Lead me, O Lord, in your justice,' becomes the appropriate response to Amos: rather than perish in our sin, we ask to be guided in the Lord's own righteousness. Awe before the holy temple replaces the boastful self-assurance God rejects.",
+        "patristicQuotes": [
+          {
+            "father": "Gregory the Great",
+            "work": "Moralia XXII.11",
+            "quote": "When the Almighty has struck any hardened sinner, we must at once magnify His justice as Judge, and feel with the other's suffering who perishes."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 201,
+            "title": "The Lord our God is one"
+          },
+          {
+            "paragraph": 545,
+            "title": "Jesus calls sinners to conversion"
+          }
+        ],
+        "thematicConnection": "The psalm bridges Amos and the Gospel: Israel must be led in God's justice rather than be consumed, and the disciples in the boat will discover that the One who can lead them safely is the very Lord asleep beside them."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 8:23-27",
+      "text": "Jesus got into the boat followed by his disciples. Without warning a storm broke over the lake, so violent that the waves were breaking right over the boat. But he was asleep. So they went to him and woke him saying, ‘Save us, Lord, we are going down!’ And he said to them, ‘Why are you so frightened, you men of little faith?’ And with that he stood up and rebuked the winds and the sea; and all was calm again. The men were astounded and said, ‘Whatever kind of man is this? Even the winds and the sea obey him.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "A sudden squall on the lake reveals both the disciples' fragile faith and Christ's hidden divinity. He sleeps as a man, then rises and rebukes wind and sea as God, leaving the disciples astonished: 'What kind of man is this?' The scene answers Amos's summons—'Prepare to meet your God'—by showing the God of Israel present in the flesh, master of the elements and Savior of those who cry out in fear.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "They knew that when wakened He could rebuke the waves, but they did not yet know that He could do it while sleeping. He takes His disciples apart to correct them, and first stills the raging of the waters."
+          },
+          {
+            "father": "Rabanus Maurus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The sea is the turmoil of the world; the boat in which Christ is embarked is the tree of the cross, by which the faithful, having passed the waves of the world, arrive in their heavenly country as on a safe shore. His sleep is death; the disciples awaken the Lord, seeking His resurrection with earnest prayers, and there was a great calm, because the minds of the disciples were calmed when they beheld His resurrection."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Jesus is in the midst of the waves; He is beaten to and fro by the waves, and, secure in His majesty, causes His vessel to come nigh the land."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 515,
+            "title": "Christ's humanity as sacrament of his divinity"
+          },
+          {
+            "paragraph": 2602,
+            "title": "Jesus shares his brethren's weaknesses"
+          },
+          {
+            "paragraph": 2621,
+            "title": "Jesus teaches faith and filial boldness in prayer"
+          }
+        ],
+        "thematicConnection": "Where Amos warned a hardened Israel that the lion's roar of the Lord should bring trembling, here the disciples meet that same Lord—now incarnate—whose rebuke calms creation. The Psalm's cry, 'Lead me, O Lord, in your justice,' becomes the boat's cry, 'Save us, Lord, we are going down.'"
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Prepare to meet your God—asleep in your boat",
+    "body": "Today the Church holds together a fearful summons and a tender revelation. Through Amos, the Lord roars over a people he himself chose: nothing in the city happens by chance, and even disaster is the trumpet of a God who refuses to lose his beloved. 'Prepare to meet your God,' the prophet cries to a people snatched like a brand from the blaze who still have not returned. The Psalm catches the trembling of that summons and turns it into prayer: not the boastful confidence of those whom God's holiness must reject, but the awed plea, 'Lead me, O Lord, in your justice,' from one who enters the temple only by the greatness of his love. In the Gospel, that God whom Israel was told to prepare to meet is met—asleep in a fishing boat. The lion's roar of Amos becomes the rebuke that stills wind and sea, and the disciples ask the question every prophet finally provokes: 'What kind of man is this?' He is the Lord, present now not to overthrow us like Sodom but to save us when we cry, 'We are going down.' As Rabanus saw, His sleep is His Passion, and His rising is our calm. To meet our God today is to wake Him in the boat of the Cross and trust His justice to lead us home."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8453,
+    "completionTokens": 2391,
+    "generatedAt": "2026-06-30T10:16:02.647323+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
