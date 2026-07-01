@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-01",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-01",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - July 01, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-01"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Amos 5:14-15,21-24",
+      "text": "Seek good and not evil\nso that you may live,\nand that the Lord, God of Hosts, may really be with you\nas you claim he is.\nHate evil, love good,\nmaintain justice at the city gate,\nand it may be that the Lord, God of Hosts, will take pity\non the remnant of Joseph.\nI hate and despise your feasts,\nI take no pleasure in your solemn festivals.\nWhen you offer me holocausts,\nI reject your oblations,\nand refuse to look at your sacrifices of fattened cattle.\nLet me have no more of the din of your chanting,\nno more of your strumming on harps.\nBut let justice flow like water,\nand integrity like an unfailing stream.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Amos indicts Israel for a religion of impressive liturgy but empty hearts: their feasts, songs, and sacrifices are loathsome to God because they are severed from justice and mercy. The Lord demands that worship overflow into righteous living—'let justice flow like water, and integrity like an unfailing stream.' To 'seek good and not evil' is the true condition for the Lord of Hosts to be truly, not merely nominally, with His people.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 17.4",
+            "quote": "He who undertakes the office of preacher ought not to do evil, but to suffer it, and by his meekness to mollify the wrath of the angry, and by his wounds to heal the wounds of sinners. His severity will be of love and not of cruelty, outwardly maintaining the rights of discipline, and inwardly loving those whom he corrects."
+          },
+          {
+            "father": "Origen",
+            "work": "Commentary on John, book X",
+            "quote": "Our Saviour finds in the temple—that is, in sacred places—some who make His Father's house a house of merchandise; who expose to sale the oxen they ought to reserve for the plough, and prefer the unrighteous mammon to the sheep. Finding these in the holy house, He drives them out."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2573,
+            "title": "Prayer as a battle of faith and perseverance"
+          },
+          {
+            "paragraph": 210,
+            "title": "God merciful and gracious, abounding in steadfast love"
+          }
+        ],
+        "thematicConnection": "Amos's rejection of hollow sacrifice sets the theme picked up by the Psalm—God does not want bulls and goats but hearts that keep His covenant—and prepares us for the Gospel, where Gadara chooses commerce (its swine, its comfort) over the presence of the living God who has come to heal."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 49(50):7-13,16-17",
+      "text": "I will show God’s salvation to the upright.\n‘Listen, my people, I will speak;\nIsrael, I will testify against you,\nfor I am God, your God.\nI accuse you, lay the charge before you.\nI will show God’s salvation to the upright.\n‘I find no fault with your sacrifices,\nyour offerings are always before me.\nI do not ask more bullocks from your farms,\nnor goats from among your herds.\nI will show God’s salvation to the upright.\n‘I own all the beasts of the forest,\nbeasts in their thousands on my hills.\nI know all the birds in the sky,\nall that moves in the field belongs to me.\nI will show God’s salvation to the upright.\n‘Were I hungry, I would not tell you,\nfor I own the world and all it holds.\nDo you think I eat the flesh of bulls,\nor drink the blood of goats?\nI will show God’s salvation to the upright.\n‘How can you recite my commandments\nand take my covenant on your lips,\nyou who despise my law\nand throw my words to the winds?’\nI will show God’s salvation to the upright.",
+      "translation": "Universalis (US)",
+      "refrain": "I will show God’s salvation to the upright.",
+      "exegesis": {
+        "summary": "Psalm 49 is God's own courtroom speech against a people who mouth the covenant while trampling it. He needs no bull from their herds—the world already belongs to Him. What He requires is fidelity: lips that recite His commandments must be matched by lives that keep them, or else the words themselves become an accusation.",
+        "patristicQuotes": [
+          {
+            "father": "Rabanus Maurus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "I indeed am mighty to invite to repentance, He to forgive sins; I to preach the kingdom of heaven, He to bestow it; I to baptize with water, He with the Spirit."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 201,
+            "title": "The one God calls all to turn to Him"
+          },
+          {
+            "paragraph": 30,
+            "title": "Our restless heart seeks God with an upright heart"
+          }
+        ],
+        "thematicConnection": "The psalm is the perfect refrain to Amos: God is not fed by animal flesh but by the integrity of His people. It also anticipates the Gadarenes, who having 'seen God's salvation' worked before their eyes, refuse to receive it."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 8:28-34",
+      "text": "When Jesus reached the country of the Gadarenes on the other side of the lake, two demoniacs came towards him out of the tombs – creatures so fierce that no one could pass that way. They stood there shouting, ‘What do you want with us, Son of God? Have you come here to torture us before the time?’ Now some distance away there was a large herd of pigs feeding, and the devils pleaded with Jesus, ‘If you cast us out, send us into the herd of pigs.’ And he said to them, ‘Go then’, and they came out and made for the pigs; and at that the whole herd charged down the cliff into the lake and perished in the water. The swineherds ran off and made for the town, where they told the whole story, including what had happened to the demoniacs. At this the whole town set out to meet Jesus; and as soon as they saw him they implored him to leave the neighbourhood.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Crossing to pagan territory, Jesus is met by two demoniacs whose very existence has terrorized the region. The demons recognize Him as Son of God and beg to be sent into the swine; He permits it, and the herd plunges to destruction. But the townspeople, upon seeing the liberating power of God among them, prefer their lost livelihood to His presence and beg Him to leave. Christ, ever gentle, departs—leaving the healed men as His witnesses.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on Matthew",
+            "quote": "When they should have adored Him and wondered at His excellent power, they cast Him from them. Observe the clemency of Christ next to His excellent power: when those who had received favors from Him would drive Him away, He resisted not, but departed, giving them as teachers those who had been delivered from the demons."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Commentary on Matthew",
+            "quote": "The Saviour bade them go, not as yielding to their request, but that by the death of the swine an occasion of man's salvation might be offered. Let Manichaeus blush: if the souls of men and of beasts were of one substance, how should two thousand swine have perished for the sake of the salvation of two men?"
+          },
+          {
+            "father": "St. Bede the Venerable",
+            "work": "Commentary on Luke 8",
+            "quote": "The swine are they that delight in filthy manners; for unless one live as a swine, the devils do not receive power over him. When struck with terror they entreat Him to depart from them: they signify a great number who, well satisfied with their ancient life, show themselves willing to honor the Christian law while they declare themselves unable to perform it."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 394,
+            "title": "Christ came to destroy the works of the devil"
+          },
+          {
+            "paragraph": 1086,
+            "title": "By His death Christ freed us from the power of Satan"
+          },
+          {
+            "paragraph": 550,
+            "title": "Christ's exorcisms as inbreaking of the Kingdom"
+          }
+        ],
+        "thematicConnection": "The Gadarenes act out in narrative what Amos denounced and the Psalm indicted: a people who would rather keep their pigs than welcome the Holy One of God. Preferring possessions to the Presence, they choose the outward husk of their old life over the inbreaking justice and mercy of the Kingdom."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Welcoming the God Who Comes to Heal",
+    "body": "Today the Church sets before us a searing examination of what it means to receive God on His own terms. Through Amos, the Lord tears down the façade of religion divorced from righteousness: incense without integrity, hymns without mercy, are stench in His nostrils. The Psalm gives us God's own voice in court—He owns the cattle on a thousand hills; what He longs for is a covenant kept in the flesh of our daily choices. Then Matthew stages the drama on pagan soil. Jesus crosses the lake and, in a single stroke, shatters the tyranny of demons that had made a place uninhabitable. Two tormented men are restored; the Kingdom breaks in with unmistakable authority. And yet the townspeople, counting their drowned swine, ask the Savior to leave. Like Israel in Amos, they perform a kind of piety but cannot bear the cost of God's actual nearness. The question the liturgy places before us is uncomfortably plain: when Christ comes with power to cast out what enslaves us—our comfortable sins, our profitable compromises, our tidy religion—do we fall at His feet, or do we, politely, ask Him to move along? To 'seek good and not evil, that you may live,' is to let justice flow, to let the swine drown, and to keep the Lord of Hosts in our midst."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9180,
+    "completionTokens": 2466,
+    "generatedAt": "2026-07-01T10:24:29.000727+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
