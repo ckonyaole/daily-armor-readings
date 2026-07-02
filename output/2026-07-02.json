@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-02",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-02",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - July 02, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-02"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Amos 7:10-17",
+      "text": "Amaziah the priest of Bethel sent word to Jeroboam king of Israel as follows. ‘Amos is plotting against you in the heart of the House of Israel; the country can no longer tolerate what he keeps saying. For this is what he says, “Jeroboam is going to die by the sword, and Israel go into exile far from its country.”’ To Amos, Amaziah said, ‘Go away, seer;’ get back to the land of Judah; earn your bread there, do your prophesying there. We want no more prophesying in Bethel; this is the royal sanctuary, the national temple.’ ‘I was no prophet, neither did I belong to any of the brotherhoods of prophets,’ Amos replied to Amaziah ‘I was a shepherd, and looked after sycamores: but it was the Lord who took me from herding the flock, and the Lord who said, “Go, prophesy to my people Israel.” So listen to the word of the Lord.\n‘You say:\n‘“Do not prophesy against Israel,\nutter no oracles against the House of Isaac.”\n‘Very well, this is what the Lord says,\n‘“Your wife will be forced to go on the streets,\nyour sons and daughters will fall by the sword,\nyour land be parcelled out by measuring line,\nand you yourself die on unclean soil\nand Israel will go into exile far distant from its own land.”’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Amos, a humble shepherd from Judah, is confronted by Amaziah, the establishment priest of Bethel, who tries to silence him by expelling him from the 'royal sanctuary.' Amos answers that he did not choose this office: the Lord took him from his flock and sent him to prophesy. Because Amaziah has resisted God's word, judgment now falls specifically upon him and, through his rejection, upon Israel itself. The reading exposes what happens when religious authority becomes an instrument of political comfort rather than a servant of God's truth.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Matthew (Mk 6)",
+            "quote": "Not only Christ Himself, who is Lord of prophets, but also Elias, Jeremiah, and the lesser prophets, were worse received in their own country than in strange cities, for it is almost natural for men to envy their fellow-townsmen; they do not consider the present works of the man, but remember the weakness of his infancy."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 709,
+            "title": "Israel's temptation to be a kingdom like others"
+          },
+          {
+            "paragraph": 2580,
+            "title": "The Temple, God's name, and the people's fidelity"
+          }
+        ],
+        "thematicConnection": "Like the paralytic's healing in the Gospel, Amos's mission reveals that God's authority breaks in from outside the institutional gatekeepers. The scribes in Matthew and Amaziah in Amos both resist the divine word because it threatens their claim to control the sacred."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 18(19):8-11",
+      "text": "The decrees of the Lord are truth and all of them just.\nThe law of the Lord is perfect,\nit revives the soul.\nThe rule of the Lord is to be trusted,\nit gives wisdom to the simple.\nThe decrees of the Lord are truth and all of them just.\nThe precepts of the Lord are right,\nthey gladden the heart.\nThe command of the Lord is clear,\nit gives light to the eyes.\nThe decrees of the Lord are truth and all of them just.\nThe fear of the Lord is holy,\nabiding for ever.\nThe decrees of the Lord are truth\nand all of them just.\nThe decrees of the Lord are truth and all of them just.\nThey are more to be desired than gold,\nthan the purest of gold\nand sweeter are they than honey,\nthan honey from the comb.\nThe decrees of the Lord are truth and all of them just.",
+      "translation": "Universalis (US)",
+      "refrain": "The decrees of the Lord are truth and all of them just.",
+      "exegesis": {
+        "summary": "Psalm 19 sings that the Lord's law is perfect, trustworthy, right, clear, and pure — reviving the soul, giving wisdom, gladdening the heart, and enlightening the eyes. It is more desirable than gold and sweeter than honey. Placed after Amos and before the Gospel, the psalm reminds us that the true 'royal sanctuary' is the word of God written on the heart, not the shrine at Bethel.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 13 to the People of Antioch",
+            "quote": "We have a natural law implanted in us, by which we distinguish between what is virtue, and what is vice… Christ has ordained nothing surpassing our nature, but what He had long before implanted in our conscience, so that thy own will is the law to thee."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1975,
+            "title": "The Law as fatherly instruction"
+          },
+          {
+            "paragraph": 1968,
+            "title": "The Law of the Gospel reforms the heart"
+          },
+          {
+            "paragraph": 1972,
+            "title": "The New Law as a law of love and freedom"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to what Amaziah refused and what the paralytic received: delight in the Lord's decree. God's word both wounds (the oracle against Amaziah) and heals (the paralytic raised up), because it is 'truth and all of them just.'"
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 9:1-8",
+      "text": "Jesus got in the boat, crossed the water and came to his own town. Then some people appeared, bringing him a paralytic stretched out on a bed. Seeing their faith, Jesus said to the paralytic, ‘Courage, my child, your sins are forgiven.’ And at this some scribes said to themselves, ‘This man is blaspheming.’ Knowing what was in their minds Jesus said, ‘Why do you have such wicked thoughts in your hearts? Now, which of these is easier to say, “Your sins are forgiven,” or to say, “Get up and walk”? But to prove to you that the Son of Man has authority on earth to forgive sins,’ – he said to the paralytic – ‘get up, and pick up your bed and go off home.’ And the man got up and went home. A feeling of awe came over the crowd when they saw this, and they praised God for giving such power to men.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus returns to Capernaum and is brought a paralytic. Seeing the faith of those who carried him, Jesus first forgives the man's sins, then, to prove His divine authority, commands him to rise and walk. The scribes correctly perceive that only God can forgive sins — and so, by acting with that authority, Jesus reveals Himself as God the Son made flesh. The crowd glorifies God for giving 'such power to men,' a phrase the Church hears as an anticipation of the sacrament of Penance entrusted to the apostles.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Scribes, regarding Him as a man and not understanding the words of God, charged Him with blasphemy. But He, seeing their thoughts, thus showed Himself to be God, who alone knows the heart; as if to say, By the same power by which I see your thoughts, I can forgive men their sins."
+          },
+          {
+            "father": "Rabanus Maurus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "I indeed am mighty to invite to repentance, He to forgive sins; I to preach the kingdom of heaven, He to bestow it; I to baptize with water, He with the Spirit."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 589,
+            "title": "Jesus forgives sins as God"
+          },
+          {
+            "paragraph": 1443,
+            "title": "Jesus restores sinners to the People of God"
+          },
+          {
+            "paragraph": 1425,
+            "title": "The gift of forgiveness in Christ"
+          }
+        ],
+        "thematicConnection": "Where Amaziah demanded that the prophet leave his sanctuary, Jesus establishes a new sanctuary in His own person — one where sins are forgiven and the broken rise up. The scribes' silent accusation echoes Amaziah's public one: both resist the God who speaks and heals outside their control."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Word that Heals Overturns the Word that Silences",
+    "body": "Today the Church sets before us two confrontations between God's authority and human gatekeeping. Amaziah, the priest of a compromised sanctuary, tells Amos to take his prophecy elsewhere: 'this is the royal sanctuary, the national temple.' The scribes in Capernaum, standing guard over the divine prerogative to forgive, silently accuse Jesus of blasphemy. In both scenes, religious authority tries to muzzle the living voice of God — and in both, God speaks anyway. Between these confrontations, Psalm 19 sings the reason: the Lord's decrees are 'truth and all of them just,' sweeter than honey, reviving the soul. This is the word Amaziah rejected and the word the paralytic received when Jesus said, 'Courage, my child, your sins are forgiven.' As St. Jerome teaches, by reading the scribes' hearts Jesus revealed Himself as God, and by forgiving sins He proved that the Son of Man has authority on earth to do what only God can do. The Catechism reminds us that Jesus 'reintegrated forgiven sinners into the community of the People of God' (CCC 1443) — and entrusted this same power to His Church in the sacrament of Penance. Today, then, we are asked which voice we will be: Amaziah, who defends his territory, or the friends of the paralytic, whose faith carried a broken man to the feet of Mercy."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8697,
+    "completionTokens": 2326,
+    "generatedAt": "2026-07-02T10:05:08.548802+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
