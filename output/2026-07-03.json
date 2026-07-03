@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-03",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-03",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - July 03, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-03"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Ephesians 2:19-22",
+      "text": "You are no longer aliens or foreign visitors: you are citizens like all the saints, and part of God’s household. You are part of a building that has the apostles and prophets for its foundations, and Christ Jesus himself for its main cornerstone. As every structure is aligned on him, all grow into one holy temple in the Lord; and you too, in him, are being built into a house where God lives, in the Spirit.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul proclaims that the Gentiles, once strangers to the covenant, are now fellow citizens with the saints and members of God's household. The Church is a living temple, built upon the foundation of the apostles and prophets, with Christ Jesus as the cornerstone who holds every stone in alignment. In him, the baptized are being built together into a dwelling place for God in the Spirit.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 44 on Matthew",
+            "quote": "We were aliens from God, and cast out as criminals and rebels to the king; but he who wishes to reconcile them goes out to them, speaks to them without, until, having become fit for the royal presence, he brings them within. So did Christ."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The righteous are buried with Christ in a new tomb hewn out of the rock, while those who remain aliens from God are buried in the field of the potter, bought with the price of blood."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 756,
+            "title": "The Church as the building of God"
+          },
+          {
+            "paragraph": 1179,
+            "title": "The faithful as living stones"
+          },
+          {
+            "paragraph": 1197,
+            "title": "Christ the true temple"
+          },
+          {
+            "paragraph": 2796,
+            "title": "Citizens of heaven"
+          }
+        ],
+        "thematicConnection": "This reading is proclaimed on the Feast of St. Thomas the Apostle, whose confession established him as one of the very apostles who form the foundation of the household of God. What Thomas confessed—'My Lord and my God'—is the cornerstone truth upon which the whole temple rests."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 116(117):1-2",
+      "text": "Go out to the whole world; proclaim the Good News.\nor\nAlleluia!\nO praise the Lord, all you nations,\nacclaim him all you peoples!\nGo out to the whole world; proclaim the Good News.\nor\nAlleluia!\nStrong is his love for us;\nhe is faithful for ever.\nGo out to the whole world; proclaim the Good News.\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "Go out to the whole world; proclaim the Good News.",
+      "exegesis": {
+        "summary": "The shortest psalm in the Psalter is also the most universal, calling every nation and people to praise the Lord for his steadfast love and eternal faithfulness. The refrain, drawn from the missionary command of Christ, transforms this praise into a summons: the Good News is not to be hoarded but proclaimed to the ends of the earth. In it we hear the very heartbeat of the apostolic mission.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Augustine",
+            "work": "on the Our Father",
+            "quote": "Let Thy holiness be known to all the world, and let it worthily praise Thee. For praise becomes the upright, and therefore He bids us pray for the cleansing of the whole world."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2,
+            "title": "Christ's command to the apostles"
+          },
+          {
+            "paragraph": 3,
+            "title": "Called to proclaim the Good News"
+          },
+          {
+            "paragraph": 1,
+            "title": "God gathers all the scattered into his family"
+          }
+        ],
+        "thematicConnection": "The psalm bridges the Pauline vision of a temple built from every nation and the Gospel's proclamation of Thomas, an apostle whose journey—tradition tells us—carried the Gospel as far as India. The 'whole world' Christ addresses is precisely the world into which Thomas was sent."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 20:24-29",
+      "text": "Thomas, called the Twin, who was one of the Twelve, was not with them when Jesus came. When the disciples said, ‘We have seen the Lord’, he answered, ‘Unless I see the holes that the nails made in his hands and can put my finger into the holes they made, and unless I can put my hand into his side, I refuse to believe.’ Eight days later the disciples were in the house again and Thomas was with them. The doors were closed, but Jesus came in and stood among them. ‘Peace be with you’ he said. Then he spoke to Thomas, ‘Put your finger here; look, here are my hands. Give me your hand; put it into my side. Doubt no longer but believe.’ Thomas replied, ‘My Lord and my God!’ Jesus said to him:\n‘You believe because you can see me.\nHappy are those who have not seen and yet believe.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Thomas, absent from the first Easter appearance, refuses to believe on the testimony of the others until he can touch the wounds of the crucified Lord. Christ, in tender condescension, returns and offers Thomas his very body, drawing from him one of the most exalted confessions in all of Scripture: 'My Lord and my God.' Jesus then pronounces a beatitude for every generation to come: 'Happy are those who have not seen and yet believe.'",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 87 on John",
+            "quote": "We may wonder how an incorruptible body could retain the marks of the nails. But it was done in condescension, that they might be sure it was the very person who was crucified."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 121 on John",
+            "quote": "Thomas saw and touched the man, and confessed the God whom he neither saw nor touched. By means of the one he believed the other undoubtingly."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 644,
+            "title": "The disciples' initial doubt"
+          },
+          {
+            "paragraph": 645,
+            "title": "The reality of the risen body"
+          },
+          {
+            "paragraph": 643,
+            "title": "The Resurrection as historical fact"
+          }
+        ],
+        "thematicConnection": "Today's feast places Thomas at the center: the doubting apostle who becomes a cornerstone-witness. His confession 'My Lord and my God' is the very foundation stone Paul describes in Ephesians, and the faith he received impelled him to fulfill the psalm's refrain by carrying the Gospel to distant lands."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "From doubt to confession, from cornerstone to mission",
+    "body": "Today the Church celebrates the Feast of St. Thomas the Apostle, and the readings gather around him like light around a single flame. In the Gospel, Thomas moves from wounded skepticism to the highest Christological confession in the New Testament: 'My Lord and my God.' This is not a private moment. As St. Paul reminds the Ephesians, the whole household of God is built 'on the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone.' Thomas's faith, born from touching the wounds of the Risen One, becomes one of the very stones on which the Church stands. And once that faith was ignited, it could not be contained. The psalm's refrain—'Go out to the whole world; proclaim the Good News'—describes the trajectory of Thomas's own life, tradition holding that he carried the Gospel as far as India. So the Church today invites us into a threefold movement: to make Thomas's confession our own before the Eucharistic Lord, whose wounds we do not see but truly encounter; to know ourselves as living stones being built together into God's dwelling place; and to accept, as Thomas did, that faith is meant to travel. Blessed are we who have not seen, yet believe—and blessed still more when that belief becomes proclamation."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6343,
+    "completionTokens": 2184,
+    "generatedAt": "2026-07-03T11:30:22.167722+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
