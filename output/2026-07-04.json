@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-04",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-04",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - July 04, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-04"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Amos 9:11-15",
+      "text": "It is the Lord who speaks:\n‘That day I will re-erect the tottering hut of David,\nmake good the gaps in it, restore its ruins\nand rebuild it as it was in the days of old,\nso that they can conquer the remnant of Edom\nand all the nations that belonged to me.’\nIt is the Lord who speaks, and he will carry this out.\n‘The days are coming now – it is the Lord who speaks –\nwhen harvest will follow directly after ploughing,\nthe treading of grapes soon after sowing,\nwhen the mountains will run with new wine\nand the hills all flow with it.\nI mean to restore the fortunes of my people Israel;\nthey will rebuild the ruined cities and live in them,\nplant vineyards and drink their wine,\ndig gardens and eat their produce.\nI will plant them in their own country,\nnever to be rooted up again\nout of the land I have given them,\nsays the Lord, your God.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Amos closes his book of judgment with a startling promise of restoration: the fallen hut of David will be rebuilt, the nations will be gathered in, and the land will overflow with a superabundance of wine and grain. This messianic oracle looks beyond exile to the coming of Christ, the Son of David, whose Kingdom embraces all peoples. The imagery of new wine flowing from the mountains foreshadows the eschatological banquet and the fruitfulness of the Church.",
+        "patristicQuotes": [
+          {
+            "father": "Gregory the Great",
+            "work": "Homilies on the Gospels 19.1 (Catena Aurea)",
+            "quote": "The Master of the household, that is, our Maker, has a vineyard, that is, the Church universal, which has borne so many stocks, as many saints as it has put forth from righteous Abel to the very last saint who shall be born in the end of the world."
+          },
+          {
+            "father": "John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "He calls the Gospel a harvest; as if He says, All things are ready, I send you to a gathering of fruits already prepared. Ye can sow and reap the same day."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 543,
+            "title": "The Kingdom for all nations"
+          },
+          {
+            "paragraph": 559,
+            "title": "Jesus, Son of David, enters His City"
+          }
+        ],
+        "thematicConnection": "The promise of new wine bursting from the mountains sets up the Gospel's image of new wine that cannot be contained by old wineskins — the restored Israel is the Church of Christ the Bridegroom."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 84(85): 9,11-14",
+      "text": "The Lord speaks peace to his people.\nI will hear what the Lord God has to say,\na voice that speaks of peace,\npeace for his people and his friends\nand those who turn to him in their hearts.\nThe Lord speaks peace to his people.\nMercy and faithfulness have met;\njustice and peace have embraced.\nFaithfulness shall spring from the earth\nand justice look down from heaven.\nThe Lord speaks peace to his people.\nThe Lord will make us prosper\nand our earth shall yield its fruit.\nJustice shall march before him\nand peace shall follow his steps.\nThe Lord speaks peace to his people.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord speaks peace to his people.",
+      "exegesis": {
+        "summary": "The psalmist listens for God's voice, and what he hears is peace — a peace where mercy and faithfulness meet, where justice and peace embrace. This is not a truce brokered among men but a gift descending from heaven, blossoming in the earth's own fruitfulness. It answers Amos's promise and prepares us for Christ, the Prince of Peace.",
+        "patristicQuotes": [
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "For whom they ask peace is explained in the words, Of good will. For them, namely, who receive the new born Christ. For there is no peace to the ungodly, but much peace to them that love the name of God."
+          },
+          {
+            "father": "John Chrysostom",
+            "work": "Homily 35 on Matthew",
+            "quote": "Peace is the mother of all good things; without it all other things are vain. Our Lord therefore commanded His disciples on entering a house first to pronounce peace as a sign of good things."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2305,
+            "title": "Christ our Peace"
+          },
+          {
+            "paragraph": 2304,
+            "title": "Peace as tranquillity of order"
+          }
+        ],
+        "thematicConnection": "The 'earth yielding its fruit' echoes Amos's overflowing vineyards, while the meeting of mercy and faithfulness anticipates the Bridegroom whose presence brings joy that cannot mourn."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 9:14-17",
+      "text": "John’s disciples came to him and said, ‘Why is it that we and the Pharisees fast, but your disciples do not?’ Jesus replied, ‘Surely the bridegroom’s attendants would never think of mourning as long as the bridegroom is still with them? But the time will come for the bridegroom to be taken away from them, and then they will fast. No one puts a piece of unshrunken cloth on to an old cloak, because the patch pulls away from the cloak and the tear gets worse. Nor do people put new wine into old wineskins; if they do, the skins burst, the wine runs out, and the skins are lost. No; they put new wine into fresh skins and both are preserved.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "When John's disciples question the lack of fasting among Jesus' followers, the Lord unveils His identity as the Bridegroom whose presence transforms the meaning of every religious practice. His two parables — the unshrunken patch and the new wine in old skins — teach that the Gospel is not a repair job on the old covenant but a new creation that requires new hearts. Fasting will return, but only in light of the Cross, when the Bridegroom is taken away.",
+        "patristicQuotes": [
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "By the old skins He means His disciples, who were not yet perfectly renewed. The new wine is the fulness of the Holy Spirit, and the depths of the heavenly mysteries, which His disciples could not then bear; but after the resurrection they became as new skins, and were filled with new wine when they received the Holy Spirit into their hearts."
+          },
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "By the old garment, and old skins, we must understand the Scribes and Pharisees; and by the piece of new cloth, and new wine, the Gospel precepts, which the Jews were not able to bear... The word of the Gospel is therefore to be poured into the Apostles, rather than into the Scribes and Pharisees."
+          },
+          {
+            "father": "John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Before He had styled Himself Physician, now Bridegroom, calling to mind the words of John which he had said, He that hath the bride is the bridegroom."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1337,
+            "title": "The Bridegroom institutes the Eucharist"
+          },
+          {
+            "paragraph": 1430,
+            "title": "Interior conversion, not mere fasting"
+          },
+          {
+            "paragraph": 1336,
+            "title": "The Eucharist as stumbling block and gift"
+          }
+        ],
+        "thematicConnection": "Amos's promise of mountains running with new wine finds its literal fulfillment here: the New Wine is Christ Himself and the grace of the Spirit, which cannot be contained by the old skins of a legalistic religion."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "New Wine from the Restored House of David",
+    "body": "Today the Church draws a straight line from prophet to Bridegroom. Amos, at the end of a book heavy with judgment, suddenly speaks of a rebuilt house of David and mountains that run with new wine — a promise so extravagant it can only mean the Messiah. The psalmist, straining to hear what the Lord will say, catches the same music: mercy and faithfulness meeting, the earth yielding its fruit, peace kissing justice. Then Jesus stands in the Gospel and quietly claims the whole vision for Himself. He is the Bridegroom whose presence forbids mourning. He is the New Wine that the old wineskins of scribal religion cannot hold. He is the peace the psalmist heard and the harvest Amos foresaw. And yet He warns that the Bridegroom will be taken away — the Cross is already on the horizon, and fasting will return, now purified as longing for the One who has loved us to the end. On this Independence Day for American Catholics, the readings quietly correct any merely earthly hope: the true freedom, the true peace, the true harvest is Christ Himself, poured into hearts made new by the Holy Spirit, gathered into the restored house of David which is His Church."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7600,
+    "completionTokens": 2296,
+    "generatedAt": "2026-07-04T10:52:53.141562+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
