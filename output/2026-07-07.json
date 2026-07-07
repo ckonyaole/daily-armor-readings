@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-07",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-07",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - July 07, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-07"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Hosea 8:4-7,11-13",
+      "text": "Thus says the Lord:\nThey have set up kings, but not with my consent,\nand appointed princes, but without my knowledge.\nOut of their own silver and gold they have made idols,\nwhich are doomed to destruction.\nI spurn your calf, Samaria,\nmy anger blazes against it.\n(How long will it be before they purge themselves of this,\nthe sons of Israel?)\nA workman made the thing,\nthis cannot be God!\nYes, the calf of Samaria shall go up in flames.\nThey sow the wind, they will reap the whirlwind;\ntheir wheat will yield no ear,\nthe ear will yield no flour,\nor, if it does, foreigners will swallow it.\nEphraim has built altar after altar,\nthey have only served him as occasion for sin.\nWere I to write out the thousand precepts of my Law for him,\nthey would be paid no more attention than those of a stranger.\nThey love sacrificing; right, let them sacrifice!\nThey love meat; right, let them eat it!\nThe Lord takes no pleasure in these.\nHe is now going to remember their iniquity\nand punish their sins;\nthey will have to go back to Egypt.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Through Hosea, the Lord indicts the northern kingdom for a double idolatry: political self-will in choosing kings apart from Him, and religious self-will in fashioning the calf of Samaria from their own silver and gold. Their worship has become a mockery — multiplying altars while ignoring the Law — so their sowing of the wind will reap a whirlwind. God warns that empty ritual divorced from covenant fidelity cannot avert judgment; they will effectively return to Egypt, back into bondage.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "These are the usual thoughts of all worldly priests, who take no thought how the people shall live without sin, but look to how much is offered in the Church, and esteem that the profit of their ministry."
+          },
+          {
+            "father": "Origen",
+            "work": "Commentary on John, Book X",
+            "quote": "It is possible even for the dweller in Jerusalem to incur guilt, and even the most richly endowed may stray. Unless these repent speedily, they lose the capacity wherewith they were endued."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 210,
+            "title": "Israel's sin of the golden calf and God's mercy"
+          },
+          {
+            "paragraph": 2445,
+            "title": "Idolatrous love of silver and gold"
+          }
+        ],
+        "thematicConnection": "Hosea's diagnosis of Israel's spiritual blindness — worshiping the works of their own hands — sets up the Psalm's mockery of idols and prepares us for the Gospel, where Jesus finds a crowd 'harassed and helpless, like sheep without a shepherd,' the very fruit of Israel's long refusal of true worship."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 113B(115):3-10",
+      "text": "Sons of Israel, trust in the Lord.\nor\nAlleluia!\nOur God, he is in the heavens;\nhe does whatever he wills.\nThe idols of the heathen are silver and gold,\nthe work of human hands.\nSons of Israel, trust in the Lord.\nor\nAlleluia!\nThey have mouths but they cannot speak;\nthey have eyes but they cannot see;\nthey have ears but they cannot hear;\nthey have nostrils but they cannot smell.\nSons of Israel, trust in the Lord.\nor\nAlleluia!\nWith their hands they cannot feel;\nwith their feet they cannot walk.\nTheir makers will come to be like them\nand so will all who trust in them.\nSons of Israel, trust in the Lord.\nor\nAlleluia!\nSons of Israel, trust in the Lord;\nhe is their help and their shield.\nSons of Aaron, trust in the Lord;\nhe is their help and their shield.\nSons of Israel, trust in the Lord.\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "Sons of Israel, trust in the Lord.",
+      "exegesis": {
+        "summary": "The psalm sets the living God, who does whatever He wills in the heavens, against the lifeless idols of the nations — mouths that cannot speak, eyes that cannot see, ears that cannot hear. Its solemn warning is that idolaters become like what they worship: mute, blind, deaf. Against this the refrain calls Israel and the priestly house of Aaron alike to trust in the Lord, who alone is help and shield.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "They who hear the word of God and do it are called the mother of our Lord, because they daily in their actions or words bring Him forth as it were in their inmost hearts."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 205,
+            "title": "The living God — 'I AM WHO I AM'"
+          },
+          {
+            "paragraph": 2547,
+            "title": "Trust in God as preparation for blessedness"
+          },
+          {
+            "paragraph": 63,
+            "title": "Israel, the priestly people called by the Lord's name"
+          }
+        ],
+        "thematicConnection": "The psalm is the perfect response to Hosea: it names the very calf of Samaria as 'silver and gold, the work of human hands,' and turns Israel's gaze from the deaf idol to the God who hears. It also anticipates the Gospel, where the mute man finally speaks — a living rebuke to idols who cannot."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 9:32-37",
+      "text": "A man was brought to Jesus, a dumb demoniac. And when the devil was cast out, the dumb man spoke and the people were amazed. ‘Nothing like this has ever been seen in Israel’ they said. But the Pharisees said, ‘It is through the prince of devils that he casts out devils.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "A mute man possessed by a demon is brought to Jesus; when the demon is cast out, he speaks, and the crowds marvel that nothing like this has ever been seen in Israel. The Pharisees, unable to deny the sign, attribute it to the prince of demons — an early hardening that Matthew notes as the shape of things to come. Jesus then travels through towns and villages preaching the kingdom, moved with pity because the crowds are harassed and helpless; the harvest is abundant, but the laborers are few.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Devil comes against men to tempt them, but since he could not come against Christ, therefore Christ came against the Devil."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The temple of the Jews was empty, and had not Christ to dwell therein... it is one thing to have no belief that He should come, another not to receive Him when He is come."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 574,
+            "title": "Pharisees suspect Jesus of demonic possession"
+          },
+          {
+            "paragraph": 394,
+            "title": "Christ came to destroy the works of the devil"
+          },
+          {
+            "paragraph": 539,
+            "title": "Jesus binds the strong man"
+          },
+          {
+            "paragraph": 543,
+            "title": "The kingdom is intended for all nations"
+          }
+        ],
+        "thematicConnection": "Where Hosea's Israel refused the Word and grew mute before idols, Christ restores speech to a silenced man — the Kingdom breaking into the very people Hosea mourned. Yet the Pharisees' slander shows that the harvest of Israel is still scattered without shepherds, and Christ prays for laborers to gather what the false shepherds of Hosea's day had lost."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "From mute idols to the mouth that speaks: Christ gathers the scattered harvest",
+    "body": "Today the Church places before us a stark contrast between two kinds of religion. Hosea watches Israel pour out its own silver and gold to fashion a calf, multiply altars, and yet grow spiritually deaf to the thousand precepts of God's Law. The psalmist names the tragedy exactly: idols have mouths but cannot speak, eyes but cannot see — 'and their makers will come to be like them.' Israel's self-made worship has produced a self-made muteness. Then, in the Gospel, a mute and demon-possessed man is brought to Jesus, and the moment the demon is cast out, he speaks. What Israel could not do for itself — recover its voice, its sight, its covenant fidelity — Christ does by His mere presence. He is the true King whom the people never appointed for themselves, the Good Shepherd for crowds who are 'harassed and helpless.' Yet the Pharisees show that Hosea's warning still stands: even the miracle is blasphemed as demonic. So Jesus turns to us and asks for laborers, for a priestly people (as the psalm names the sons of Aaron) who will trust the Lord and gather His harvest. To resist idolatry today is simply this: to let Christ open our mouths in true worship, and then to be sent."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8713,
+    "completionTokens": 2318,
+    "generatedAt": "2026-07-07T11:45:17.424959+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
