@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-08",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-08",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - July 08, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-08"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Hosea 10:1-3,7-8,12",
+      "text": "Israel was a luxuriant vine\nyielding plenty of fruit.\nThe more his fruit increased,\nthe more altars he built;\nthe richer his land became,\nthe richer he made the sacred stones.\nTheir heart is a divided heart;\nvery well, they must pay for it:\nthe Lord is going to break their altars down\nand destroy their sacred stones.\nThen they will say,\n‘We have no king\nbecause we have not feared the Lord.’\nBut what can a king do for us?\nSamaria has had her day.\nHer king is like a straw drifting on the water.\nThe idolatrous high places shall be destroyed –\nthat sin of Israel;\nthorn and thistle will grow on their altars.\nThen they will say to the mountains, ‘Cover us!’\nand to the hills, ‘Fall on us!’\nSow integrity for yourselves,\nreap a harvest of kindness,\nbreak up your fallow ground:\nit is time to go seeking the Lord\nuntil he comes to rain salvation on you.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Hosea indicts Israel's divided heart: the more the nation prospered, the more altars it built to false gods, mistaking material abundance for divine favor. The Lord warns that idolatrous props will collapse—king, altars, and high places alike—and calls the people to sow integrity, break up their fallow ground, and seek the Lord until He comes to rain salvation upon them. It is a prophecy of judgment tempered by an urgent invitation to conversion.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "In Isaiah the people of the Jews is called the vineyard, and the threats of the householder are against the vineyard... a man's blameless life is the fruit of the vineyard."
+          },
+          {
+            "father": "Origen",
+            "work": "Commentary on John, tom. x. c. 16",
+            "quote": "It is possible even for the dweller in Jerusalem to incur guilt, and even the most richly endowed may stray. And unless these repent speedily, they lose the capacity wherewith they were endued."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 201,
+            "title": "God alone is to be adored"
+          },
+          {
+            "paragraph": 2445,
+            "title": "Riches misused become idols"
+          },
+          {
+            "paragraph": 2547,
+            "title": "Woe to those consoled by wealth"
+          },
+          {
+            "paragraph": 210,
+            "title": "God is merciful even to the unfaithful"
+          }
+        ],
+        "thematicConnection": "Hosea's divided-hearted Israel needs shepherds and healers; the Psalm answers with the summons to seek the Lord's face, and the Gospel shows Christ sending the Twelve to the 'lost sheep of the house of Israel' as the divine response to Israel's fallow ground."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 104(105):2-7",
+      "text": "Constantly seek the face of the Lord.\nor\nAlleluia!\nO sing to the Lord, sing his praise;\ntell all his wonderful works!\nBe proud of his holy name,\nlet the hearts that seek the Lord rejoice.\nConstantly seek the face of the Lord.\nor\nAlleluia!\nConsider the Lord and his strength;\nconstantly seek his face.\nRemember the wonders he has done,\nhis miracles, the judgements he spoke.\nConstantly seek the face of the Lord.\nor\nAlleluia!\nO children of Abraham, his servant,\nO sons of the Jacob he chose.\nHe, the Lord, is our God:\nhis judgements prevail in all the earth.\nConstantly seek the face of the Lord.\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "Constantly seek the face of the Lord.",
+      "exegesis": {
+        "summary": "The psalmist calls the covenant people to remember God's wonders, to sing His praise, and above all to seek His face constantly. Where Hosea diagnoses forgetfulness, this psalm prescribes the remedy: remembrance and unceasing prayer directed toward the one true God who judges the whole earth.",
+        "patristicQuotes": [
+          {
+            "father": "Bede",
+            "work": "Homily on the Vigil of St. Andrew",
+            "quote": "This is truly to find the Lord; viz. to have fervent love for Him, together with a care for our brother's salvation."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This that the Lord speaks of He ascribes to prayer and faith; all things whatsoever ye shall ask in prayer believing ye shall receive."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Let the hearts that seek the Lord rejoice"
+          },
+          {
+            "paragraph": 2742,
+            "title": "Pray constantly"
+          },
+          {
+            "paragraph": 2576,
+            "title": "Moses speaks with God face to face"
+          },
+          {
+            "paragraph": 214,
+            "title": "God's steadfast love and faithfulness"
+          }
+        ],
+        "thematicConnection": "The refrain 'Constantly seek the face of the Lord' is the very antidote to Hosea's divided heart and the interior disposition required of those the Gospel will send as apostles: a life turned wholly toward God."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 10:1-7",
+      "text": "Jesus summoned his twelve disciples, and gave them authority over unclean spirits with power to cast them out and to cure all kinds of diseases and sickness.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus summons the Twelve, names them, and communicates to them His own authority over unclean spirits and every sickness. He then sends them not yet to the Gentiles but to 'the lost sheep of the house of Israel'—precisely the wandering Israel of Hosea—with the proclamation, 'The kingdom of heaven is at hand.' The Church is born here in mission: chosen men sharing Christ's power to heal and to preach.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He makes them confident not only by calling their ministry a sending forth to the harvest, but by giving them strength for the ministry; He gave them power over all unclean spirits to cast them out, and to heal every sickness and every disease."
+          },
+          {
+            "father": "Glossa Ordinaria",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Because the manifestation of the Spirit is given for the profit of the Church, after bestowing His power on the Apostles, He sends them that they may exercise this power for the good of others."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 551,
+            "title": "The Twelve share Christ's authority"
+          },
+          {
+            "paragraph": 1506,
+            "title": "Christ shares His ministry of healing"
+          },
+          {
+            "paragraph": 935,
+            "title": "Christ sends the apostles and their successors"
+          },
+          {
+            "paragraph": 549,
+            "title": "Messianic signs of liberation"
+          }
+        ],
+        "thematicConnection": "Where Hosea foretold broken altars and a scattered flock, and the Psalm urged the people to seek the Lord's face, the Gospel reveals God's answer: He sends shepherds bearing His own authority to gather, heal, and announce the Kingdom to the very Israel whose heart had been divided."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "God Answers a Divided Heart by Sending Shepherds",
+    "body": "Today the Church sets before us the wound and the remedy. Hosea shows us Israel prosperous but spiritually hollow: the more her land yielded, the more altars she raised to idols, until king, sanctuary, and pride alike collapse. His verdict cuts to the bone—'Their heart is a divided heart'—yet his final word is invitation: 'Sow integrity, break up your fallow ground; it is time to seek the Lord until He comes to rain salvation on you.' The Psalm takes up that summons as a refrain the Church still sings: 'Constantly seek the face of the Lord.' Remembrance, praise, and unceasing prayer are the plow that breaks the fallow ground of the human heart. And in the Gospel we see how God Himself keeps His promise to rain salvation. He does not shout from a distance; He gathers Twelve men, gives them a share of His own authority over unclean spirits and every disease, and sends them precisely to 'the lost sheep of the house of Israel'—the very people Hosea mourned. The Kingdom is at hand because Christ places His healing power into apostolic hands. To seek the Lord's face today is to receive Him in His Church, in her sacraments, and in the mission He continues through the successors of the Twelve."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7686,
+    "completionTokens": 2330,
+    "generatedAt": "2026-07-08T11:01:24.201298+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
