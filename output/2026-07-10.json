@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-10",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-10",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - July 10, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-10"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Hosea 14:2-10",
+      "text": "The Lord says this:\nIsrael, come back to the Lord your God;\nyour iniquity was the cause of your downfall.\nProvide yourself with words\nand come back to the Lord.\nSay to him, ‘Take all iniquity away\nso that we may have happiness again\nand offer you our words of praise.\nAssyria cannot save us,\nwe will not ride horses any more,\nor say, “Our God!” to what our own hands have made,\nfor you are the one in whom orphans find compassion.’\n– I will heal their disloyalty,\nI will love them with all my heart,\nfor my anger has turned from them.\nI will fall like dew on Israel.\nHe shall bloom like the lily,\nand thrust out roots like the poplar,\nhis shoots will spread far;\nhe will have the beauty of the olive\nand the fragrance of Lebanon.\nThey will come back to live in my shade;\nthey will grow corn that flourishes,\nthey will cultivate vines\nas renowned as the wine of Helbon.\nWhat has Ephraim to do with idols any more\nwhen it is I who hear his prayer and care for him?\nI am like a cypress ever green,\nall your fruitfulness comes from me.\nLet the wise man understand these words.\nLet the intelligent man grasp their meaning.\nFor the ways of the Lord are straight,\nand virtuous men walk in them,\nbut sinners stumble.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Hosea closes his prophecy with a tender call to conversion: Israel is to bring words of repentance, renouncing false alliances (Assyria), false securities (war-horses), and false gods (idols). The Lord responds not with punishment but with promises of healing, dew-like grace, and abundant fruitfulness. The wise will grasp that the Lord's ways are straight, though sinners stumble on them.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Commentary on the Gospels (Catena Aurea)",
+            "quote": "Ephraim signifies fertility. When the elder people were forgotten and passed over, there came an abundant harvest from the Gentiles. Our Lord left the Jews and went forth into a country—the whole world—near the wilderness, the deserted Church, to Ephraim, the fruitful city; and there continues with His disciples up to this day."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 755,
+            "title": "The Church as cultivated field and olive tree"
+          },
+          {
+            "paragraph": 1394,
+            "title": "Charity restored through conversion"
+          }
+        ],
+        "thematicConnection": "Hosea supplies the words of repentance that the Psalm will then pray, and his promise that Israel will bloom like the lily under God's dew prepares us to hear Jesus send out the Twelve as sheep among wolves—vulnerable, yet destined to bear the fruit of a converted world."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 50(51):3-4,8-9,12-14,17",
+      "text": "My mouth shall declare your praise.\nHave mercy on me, God, in your kindness.\nIn your compassion blot out my offence.\nO wash me more and more from my guilt\nand cleanse me from my sin.\nMy mouth shall declare your praise.\nIndeed you love truth in the heart;\nthen in the secret of my heart teach me wisdom.\nO purify me, then I shall be clean;\nO wash me, I shall be whiter than snow.\nMy mouth shall declare your praise.\nA pure heart create for me, O God,\nput a steadfast spirit within me.\nDo not cast me away from your presence,\nnor deprive me of your holy spirit.\nMy mouth shall declare your praise.\nGive me again the joy of your help;\nwith a spirit of fervour sustain me,\nO Lord, open my lips\nand my mouth shall declare your praise.\nMy mouth shall declare your praise.",
+      "translation": "Universalis (US)",
+      "refrain": "My mouth shall declare your praise.",
+      "exegesis": {
+        "summary": "Psalm 51, the great Miserere, gives voice to precisely what Hosea commanded: 'Provide yourself with words and come back to the Lord.' The psalmist begs for mercy, for a pure heart, for the joy of salvation, and asks that his opened lips might declare God's praise. Contrition and praise are joined in one movement of the soul.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Commentary on Luke (Catena Aurea)",
+            "quote": "Though God knows all things, He yet waits for the voice of thy confession. For with the mouth confession is made to salvation, since he lightens the load of error, who himself throweth the weight upon himself, and shuts out the hatred of accusation, who anticipates the accuser by confessing."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2639,
+            "title": "Praise as the summit of prayer"
+          },
+          {
+            "paragraph": 30,
+            "title": "The heart restless until it rests in God"
+          }
+        ],
+        "thematicConnection": "The psalm is the very 'words' Hosea told Israel to bring back to the Lord. Its plea for a steadfast spirit and unmuzzled lips also anticipates the Gospel, where the persecuted disciples are promised the Spirit of the Father speaking through them."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 10:16-23",
+      "text": "Jesus instructed the Twelve as follows: ‘Remember, I am sending you out like sheep among wolves; so be cunning as serpents and yet as harmless as doves.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus sends the Twelve into a hostile world as sheep among wolves, warning that they will face councils, floggings, governors, and even betrayal by kin. Yet He promises that the Spirit of their Father will speak in them, and that the one who endures to the end will be saved. Mission and martyrdom are woven together into a single apostolic vocation.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on Matthew 33 (Catena Aurea)",
+            "quote": "He does not say merely 'to wolves,' but in the midst of wolves, to show His excellent might therein, that the sheep would overcome the wolves though they were in the midst of them; and though they received many bites from them, yet were they not destroyed, but rather converted them. It is a much greater and more wonderful power that can change their hearts than that can kill them."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 858,
+            "title": "Apostles as Christ's emissaries"
+          },
+          {
+            "paragraph": 765,
+            "title": "The Twelve as foundation stones"
+          },
+          {
+            "paragraph": 2474,
+            "title": "The witness of the martyrs"
+          }
+        ],
+        "thematicConnection": "The Twelve are the new Israel Hosea prophesied—those in whom the Lord's healing and fruitfulness spread far. Sent as sheep among wolves, they will need the pure heart the Psalm begs for and the opened lips that declare God's praise even before governors and kings."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Return, and be sent: words of repentance become words of witness",
+    "body": "Today the Church teaches us the whole rhythm of the Christian life. Hosea calls Israel to come back to the Lord bringing not sacrifices but words—an honest confession that Assyria cannot save, that horses and hand-made idols are nothing, that only in God do orphans find compassion. The Miserere gives us those very words: 'A pure heart create for me, O God… O Lord, open my lips, and my mouth shall declare your praise.' What begins as repentance ends as praise, because the God who heals disloyalty pours out dew upon the soul and makes it bloom like the lily. Then, in the Gospel, Jesus takes these healed and praising disciples and sends them out. The sheep who once wandered are now sent among wolves—not defenseless, but clothed with the Spirit of the Father who will speak in them. As Chrysostom saw, their power is not to destroy their persecutors but to convert them, becoming the abundant harvest from the Gentiles of which Origen speaks. The Church today invites us to make Hosea's return, to pray the psalmist's plea, and to accept the Lord's mission: opened lips declaring His praise even to the ends of the earth, and, if He asks it, in letters of blood."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9305,
+    "completionTokens": 2001,
+    "generatedAt": "2026-07-10T11:47:51.416346+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
