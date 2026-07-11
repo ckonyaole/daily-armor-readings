@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-11",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-11",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - July 11, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-11"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Proverbs 2:1-9",
+      "text": "My son, if you take my words to heart,\nif you set store by my commandments,\ntuning your ear to wisdom,\nand applying your heart to truth:\nyes, if your plea is for clear perception,\nif you cry out for discernment,\nif you look for it as if it were silver,\nand search for it as for buried treasure,\nyou will then understand what the fear of the Lord is,\nand discover the knowledge of God.\nFor the Lord himself is giver of wisdom,\nfrom his mouth issue knowledge and discernment.\nHe keeps his help for honest men,\nhe is the shield of those whose ways are honourable;\nhe stands guard over the paths of justice,\nhe keeps watch on the way of his devoted ones.\nThen you will understand what virtue is, justice, and fair dealing,\nall paths that lead to happiness.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The Book of Proverbs teaches that wisdom is not casually acquired but must be sought with the intensity one would give to searching for buried treasure. When we tune our ears and apply our hearts to God's commandments, we come to know the fear of the Lord, which is the beginning of all true understanding. God himself is the giver of wisdom, and he shields those who walk in integrity along the paths of justice.",
+        "patristicQuotes": [
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Mark",
+            "quote": "If any man have a sense for understanding the word of God, let him not withdraw himself, let him not turn his ear to fables, but let him lend his ear to search those things which truth hath spoken, his hands for fulfilling them, his tongue for preaching them."
+          },
+          {
+            "father": "Augustine",
+            "work": "Catena Aurea",
+            "quote": "To this law we ought to agree quickly, by reading, hearing, and bestowing on it the summit of authority, and that when we understand it, we hate it not because it opposes our sins, but rather love it because it corrects them; and when it is obscure, pray that we may understand it."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1785,
+            "title": "The Word of God forms conscience"
+          },
+          {
+            "paragraph": 2466,
+            "title": "Christ is the Truth we must follow"
+          },
+          {
+            "paragraph": 37,
+            "title": "Reason needs help to know God"
+          }
+        ],
+        "thematicConnection": "Proverbs describes the seeker who forsakes lesser goods to dig for wisdom as for hidden treasure — the exact posture the psalmist celebrates in tasting the Lord's goodness, and the sacrifice the apostles make in the Gospel when they leave all to follow Christ, who is Wisdom incarnate."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 33(34):2-11",
+      "text": "I will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nI will bless the Lord at all times,\nhis praise always on my lips;\nin the Lord my soul shall make its boast.\nThe humble shall hear and be glad.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nGlorify the Lord with me.\nTogether let us praise his name.\nI sought the Lord and he answered me;\nfrom all my terrors he set me free.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nLook towards him and be radiant;\nlet your faces not be abashed.\nThis poor man called, the Lord heard him\nand rescued him from all his distress.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nThe angel of the Lord is encamped\naround those who revere him, to rescue them.\nTaste and see that the Lord is good.\nHe is happy who seeks refuge in him.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nRevere the Lord, you his saints.\nThey lack nothing, those who revere him.\nStrong lions suffer want and go hungry\nbut those who seek the Lord lack no blessing.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.",
+      "translation": "Universalis (US)",
+      "refrain": "I will bless the Lord at all times.",
+      "exegesis": {
+        "summary": "Psalm 34 is the song of the one who has found what Proverbs bids us seek. Having cried out to the Lord and been heard, the poor man now blesses God at all times and invites others to taste and see God's goodness. The angel of the Lord encamps around those who fear him, and those who seek him lack no blessing.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "He never refuses His blessings to them that pray, but rather stirs men up by His mercy not to faint in praying. Gladly accept the Lord's encouragement... consider what a blessed privilege is granted thee, to talk with God in thy prayers, and make known to Him all thy wants."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "As often as any of the brethren shall sound forth the word of sacred learning, or we ourselves shall have brought these holy things home to our minds, we should with our whole heart, our mouths and hands, return praise to God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our hearts are restless until they rest in God"
+          },
+          {
+            "paragraph": 2639,
+            "title": "Praise recognizes that God is God"
+          },
+          {
+            "paragraph": 2649,
+            "title": "Prayer of praise is disinterested"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the soul who has discovered the wisdom of Proverbs and now enjoys the hundredfold Christ promises in the Gospel. To 'taste and see' is to know experientially that following the Lord — even at the cost of everything — leaves us wanting nothing."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 19:27-29",
+      "text": "Peter spoke to Jesus. ‘What about us?’ he said. ‘We have left everything and followed you. What are we to have, then?’ Jesus said to him, ‘I tell you solemnly, when all is made new and the Son of Man sits on his throne of glory, you will yourselves sit on twelve thrones to judge the twelve tribes of Israel. And everyone who has left houses, brothers, sisters, father, mother, children or land for the sake of my name will be repaid a hundred times over, and also inherit eternal life.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Peter, speaking for the Twelve, asks what awaits those who have left everything for Christ. Jesus responds with a stunning promise: the apostles will share his royal judgment over the twelve tribes of Israel in the age of renewal, and everyone who renounces earthly ties for his name will receive a hundredfold and eternal life. This is the Kingdom's economy — the seeker of wisdom finds a treasure that infinitely exceeds what was surrendered.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 64 on Matthew",
+            "quote": "What was this all, O blessed Peter? The reeds, your net, and boat. But this he says, not to call to mind his own magnanimity, but in order to propose the case of the multitude of poor... that you, poor man, may learn that you are in nothing behind."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Though what he with his brother had left behind them were but little things, yet were they not esteemed as little with God, who considered that out of the fulness of their love they had so forsaken those least things, as they would have forsaken the greatest things if they had had them."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 551,
+            "title": "The Twelve share Christ's authority"
+          },
+          {
+            "paragraph": 765,
+            "title": "The Twelve as foundation stones"
+          },
+          {
+            "paragraph": 552,
+            "title": "Peter's primacy in the college"
+          }
+        ],
+        "thematicConnection": "The apostles are those who have done what Proverbs commanded — they sought wisdom as buried treasure and left even nets and family to find it. They have tasted and seen the Lord's goodness, and Christ ratifies that the exchange is not loss but a hundredfold inheritance."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Hundredfold Treasure of Those Who Seek",
+    "body": "Today the Church places before us a single arc: seek, taste, and receive. Proverbs opens by urging the disciple to hunt for wisdom as one would dig for buried silver, tuning the ear and applying the heart until the fear of the Lord is discovered. Psalm 34 then puts the song of the finder on our lips — 'Taste and see that the Lord is good' — the voice of the poor man who cried out and was rescued, who now lacks no blessing. Finally, Peter stands in the Gospel as the icon of every such seeker: 'We have left everything and followed you.' Chrysostom reminds us that Peter left only nets and a boat, yet in God's eyes this was everything, because it was given with the fullness of love. Christ's answer is staggering: thrones in the age of renewal, a hundredfold now, and life eternal. The wisdom Proverbs urged us to dig for turns out to be a Person, and the treasure hidden in the field is the Kingdom itself. For the ordinary Catholic in the pew this Saturday, the invitation is concrete: what small 'net' is Christ asking you to release today? Whatever it is, the exchange is never a loss — it is the beginning of tasting how good the Lord is."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9027,
+    "completionTokens": 2371,
+    "generatedAt": "2026-07-11T10:12:44.532246+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
