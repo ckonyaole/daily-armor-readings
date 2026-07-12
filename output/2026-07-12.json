@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-12",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-12",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - July 12, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-07-12"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Isaiah 55:10-11",
+      "text": "Thus says the Lord: ‘As the rain and the snow come down from the heavens and do not return without watering the earth, making it yield and giving growth to provide seed for the sower and bread for the eating, so the word that goes from my mouth does not return to me empty, without carrying out my will and succeeding in what it was sent to do.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Through Isaiah, God likens his word to rain and snow that never return to heaven fruitless but accomplish what he sends them to do. The divine Word is not empty speech but a living, effective power that waters the earth of the human heart and yields the harvest of salvation. What God speaks, God accomplishes.",
+        "patristicQuotes": [
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew (ap. Raban.)",
+            "quote": "Either the hearer, being predestined to eternal life, will follow the heavenly word when he hears it; or if there be none who will hear it, the preacher himself shall not be without fruit; for his peace returns to him when he receives of the Lord recompense for all his labour."
+          },
+          {
+            "father": "St. Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Obedient to his Lord's command, by the seasonableness of his teaching dispensing the word of life to a household which is to be nourished for the food of eternity."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2835,
+            "title": "Man lives by every word from God's mouth"
+          },
+          {
+            "paragraph": 2861,
+            "title": "The Bread of Life: Word and Eucharist"
+          },
+          {
+            "paragraph": 462,
+            "title": "'Behold, I have come to do your will'"
+          }
+        ],
+        "thematicConnection": "Isaiah announces the fruitfulness of God's word, setting the stage for the Gospel parable of the sower where that same word is sown into human hearts, and for the psalm's imagery of rain drenching furrows to bring forth grain."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 64(65):10-14",
+      "text": "Some seed fell into rich soil and produced its crop.\nYou care for the earth, give it water,\nyou fill it with riches.\nYour river in heaven brims over\nto provide its grain.\nSome seed fell into rich soil and produced its crop.\nAnd thus you provide for the earth;\nyou drench its furrows;\nyou level it, soften it with showers;\nyou bless its growth.\nSome seed fell into rich soil and produced its crop.\nYou crown the year with your goodness.\nAbundance flows in your steps,\nin the pastures of the wilderness it flows.\nSome seed fell into rich soil and produced its crop.\nThe hills are girded with joy,\nthe meadows covered with flocks,\nthe valleys are decked with wheat.\nThey shout for joy, yes, they sing.\nSome seed fell into rich soil and produced its crop.",
+      "translation": "Universalis (US)",
+      "refrain": "Some seed fell into rich soil and produced its crop.",
+      "exegesis": {
+        "summary": "The psalm sings of God as the divine farmer who visits the earth, waters its furrows, and crowns the year with his goodness. Creation itself responds with shouts of joy as valleys are decked with wheat. The refrain, drawn straight from today's Gospel, identifies the abundant harvest with the seed that falls into rich soil.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "The rich and fruitful ground is the honest and good hearts which receive deeply the seeds of the word, and retain them and cherish them... For when the divine word is poured into a soul free from all anxieties, then it strikes root deep, and sends forth as it were the ear, and in its due season comes to perfection."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "The preaching of the Gospel grew and was disseminated throughout the whole world. It grows also in the mind of every believer, for no one is suddenly made perfect."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 764,
+            "title": "The seed and beginning of the Kingdom"
+          },
+          {
+            "paragraph": 1218,
+            "title": "Water as source of life and fruitfulness"
+          },
+          {
+            "paragraph": 2731,
+            "title": "Dryness and rocky soil in prayer"
+          }
+        ],
+        "thematicConnection": "The psalm bridges Isaiah's rain-drenched earth and the Gospel's sown field, praising the God who makes both the material and spiritual harvest possible."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 8:18-23",
+      "text": "I think that what we suffer in this life can never be compared to the glory, as yet unrevealed, which is waiting for us. The whole creation is eagerly waiting for God to reveal his sons. It was not for any fault on the part of creation that it was made unable to attain its purpose, it was made so by God; but creation still retains the hope of being freed, like us, from its slavery to decadence, to enjoy the same freedom and glory as the children of God. From the beginning till now the entire creation, as we know, has been groaning in one great act of giving birth; and not only creation, but all of us who possess the first-fruits of the Spirit, we too groan inwardly as we wait for our bodies to be set free.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul declares that the sufferings of this age cannot be weighed against the glory to come. All creation, subjected to futility, groans like a woman in labor, and we who possess the first-fruits of the Spirit groan with it, awaiting the redemption of our bodies. Salvation is not merely spiritual; it embraces the cosmos itself.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John cxi.3",
+            "quote": "In Him He loved us before the foundation of the world, and then predestined what He should do at the end of the world."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on John",
+            "quote": "God gave not a servant, or an Angel, or an Archangel, but His Son... He who is without end, or beginning of existence, Infinite Greatness, loved those who were of earth and ashes, creatures laden with sins innumerable."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1046,
+            "title": "Creation groaning with us"
+          },
+          {
+            "paragraph": 400,
+            "title": "Creation subject to bondage through sin"
+          },
+          {
+            "paragraph": 294,
+            "title": "The glory of God is man fully alive"
+          },
+          {
+            "paragraph": 1048,
+            "title": "New heavens and a new earth"
+          }
+        ],
+        "thematicConnection": "Where Isaiah promises a word that will not fail and the Gospel warns that some seed falls in vain, Paul assures us that the final harvest—the glory to come—is worth every present groan of the sower and the soil alike."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 13:1-23",
+      "text": "Jesus left the house and sat by the lakeside, but such large crowds gathered round him that he got into a boat and sat there. The people all stood on the beach, and he told them many things in parables.\nYou will listen and listen again, but not understand,\nsee and see again, but not perceive.\nFor the heart of this nation has grown coarse,\ntheir ears are dull of hearing, and they have shut their eyes,\nfor fear they should see with their eyes,\nhear with their ears,\nunderstand with their heart,\nand be converted\nand be healed by me.\n‘But happy are your eyes because they see, your ears because they hear! I tell you solemnly, many prophets and holy men longed to see what you see, and never saw it; to hear what you hear, and never heard it.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus, seated in a boat while the crowds line the shore, tells the parable of the sower: the same seed falls on the path, on rocky ground, among thorns, and on rich soil, yielding thirty-, sixty-, and a hundredfold. He explains that the word is heard fruitlessly when hearts are hardened, shallow, or choked by worldly anxiety, but multiplies abundantly in a receptive heart. He calls his disciples blessed because they see and hear what prophets and holy men longed to behold.",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He is speaking of the blessedness of the Apostolic times, to whose eyes and ears it was permitted to see and to hear the salvation of God, many Prophets and just men having desired to see and to hear that which was destined to be in the fulness of times."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "They had taken away their own sight and hearing, shutting their eyes, and hardening their hearts. For not only did they not hear at all, but they heard obtusely."
+          },
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The seed or word of God, which is sown in the rock, that is, in the hard and untamed heart, can bring forth no fruit, inasmuch as its hardness is great, and its desire of heavenly things small."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 546,
+            "title": "Parables invite decision for the Kingdom"
+          },
+          {
+            "paragraph": 87,
+            "title": "'He who hears you, hears me'"
+          },
+          {
+            "paragraph": 516,
+            "title": "Christ's words reveal the Father"
+          },
+          {
+            "paragraph": 2731,
+            "title": "Rocky soil and the battle of prayer"
+          }
+        ],
+        "thematicConnection": "The Gospel fulfills Isaiah's prophecy about the effective word and Paul's vision of creation's fruitfulness: the seed of God's word does its work, but the harvest depends on the soil of the heart that receives it."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Word that will not return empty",
+    "body": "Today the Church invites us to sit on the shoreline with the crowds and listen to a single truth spoken through Isaiah, the psalmist, St. Paul, and finally the lips of Christ himself: God's word is a living seed, a soaking rain, an unstoppable spring rising out of heaven to make the earth bear fruit. Isaiah promises that this word never returns to God empty. The psalm shows us the God who drenches the furrows and crowns the year with his goodness. And in the parable of the sower, Jesus reveals where that rain lands—on the hardened path, the rocky heart, the thorn-choked life, and the good soil that yields thirty, sixty, a hundredfold. St. Paul then lifts our eyes: the sowing is not yet the harvest. Creation groans, and we with it, waiting for the redemption of our bodies and the revelation of God's children. The suffering of this age is the labor pain of a world about to bloom. So the question the liturgy places before us this Sunday is not whether God's word is powerful—it is—but what kind of soil we have become. Blessed are the eyes that see and the ears that hear; blessed most of all is the heart that lets the seed sink deep and bear its patient, hundredfold harvest."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9160,
+    "completionTokens": 2889,
+    "generatedAt": "2026-07-12T10:24:24.071840+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
