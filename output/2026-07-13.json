@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-13",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-13",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - July 13, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-13"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Isaiah 1:10-17",
+      "text": "Hear the word of the Lord,\nyou rulers of Sodom;\nlisten to the command of our God,\nyou people of Gomorrah.\n‘What are your endless sacrifices to me?\nsays the Lord.\nI am sick of holocausts of rams\nand the fat of calves.\nThe blood of bulls and of goats revolts me.\nWhen you come to present yourselves before me,\nwho asked you to trample over my courts?\nBring me your worthless offerings no more,\nthe smoke of them fills me with disgust.\nNew Moons, sabbaths, assemblies –\nI cannot endure festival and solemnity.\nYour New Moons and your pilgrimages\nI hate with all my soul.\nThey lie heavy on me,\nI am tired of bearing them.\nWhen you stretch out your hands\nI turn my eyes away.\nYou may multiply your prayers,\nI shall not listen.\nYour hands are covered with blood,\nwash, make yourselves clean.\n‘Take your wrong-doing out of my sight.\nCease to do evil.\nLearn to do good,\nsearch for justice,\nhelp the oppressed,\nbe just to the orphan,\nplead for the widow.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Isaiah delivers a searing indictment: the rulers of Judah have become like Sodom and Gomorrah, offering endless sacrifices while their hands are stained with blood. The Lord rejects worship divorced from justice, mercy, and care for the oppressed, the orphan, and the widow. True religion begins not with multiplied rituals but with a converted heart that ceases evil and learns to do good.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "These are the usual thoughts of all worldly priests, who take no thought how the people shall live without sin, but look to how much is offered in the Church, and esteem that the profit of their ministry."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2100,
+            "title": "Outward sacrifice must express spiritual sacrifice"
+          },
+          {
+            "paragraph": 2445,
+            "title": "Love of the poor incompatible with selfish riches"
+          }
+        ],
+        "thematicConnection": "Isaiah's prophetic denunciation of hollow sacrifice sets the theme the Psalm develops and that Jesus intensifies in the Gospel: God demands not ritual alone but wholehearted allegiance, even when that costs us our comfort and our closest ties."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 49(50):8-9,16-17,21,23",
+      "text": "I will show God’s salvation to the upright.\n‘I find no fault with your sacrifices,\nyour offerings are always before me.\nI do not ask more bullocks from your farms,\nnor goats from among your herds.\nI will show God’s salvation to the upright.\n‘But how can you recite my commandments\nand take my covenant on your lips,\nyou who despise my law\nand throw my words to the winds,\nI will show God’s salvation to the upright.\n‘You do this, and should I keep silence?\nDo you think that I am like you?\nA sacrifice of thanksgiving honours me\nand I will show God’s salvation to the upright.’\nI will show God’s salvation to the upright.",
+      "translation": "Universalis (US)",
+      "refrain": "I will show God’s salvation to the upright.",
+      "exegesis": {
+        "summary": "The psalmist echoes Isaiah: God has no need of bulls and goats but rejects the hypocrisy of those who recite His commandments while despising His law. What honors God is a sacrifice of thanksgiving offered by an upright heart, to whom salvation is shown.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Having first spoken in accordance with common opinion, He now addresses them out of Scripture, saying, 'Go ye, and learn what that meaneth, I will have mercy and not sacrifice.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2099,
+            "title": "Sacrifice as adoration, gratitude, and communion"
+          },
+          {
+            "paragraph": 2603,
+            "title": "Christ's prayer of thanksgiving to the Father"
+          }
+        ],
+        "thematicConnection": "The Psalm is the liturgical amen to Isaiah, teaching us the answer to the prophet's rebuke: 'a sacrifice of thanksgiving honors me.' It prepares us for the Gospel, where Christ demands from His disciples the very interior offering the prophets desired."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 10:34-11:1",
+      "text": "Jesus instructed the Twelve as follows: ‘Do not suppose that I have come to bring peace to the earth: it is not peace I have come to bring, but a sword. For I have come to set a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law. A man’s enemies will be those of his own household.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus warns the Twelve that His coming will not bring superficial peace but a sword that divides even households. Fidelity to Him may cost a disciple the affection of parents, children, and in-laws. Yet this is not cruelty but the sharp truth of a costly love that alone leads to authentic peace, the peace won at the Cross.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "For He sought by sharpness of speech so to rouse their attention, that they should not fall off in time of trial and difficulty... showing them the nature of their warfare, He taught them that it was more perilous than a civil war. Yet was it not Christ who made this division, but the evil nature of the parties."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He had before said, 'What I say to you in darkness, that speak ye in the light'; He now tells them what will follow upon that preaching, saying, 'Think not that I am come to send peace upon earth; I am not come to send peace, but a sword.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2029,
+            "title": "Take up your cross and follow"
+          },
+          {
+            "paragraph": 858,
+            "title": "The Twelve continue Christ's mission"
+          },
+          {
+            "paragraph": 2474,
+            "title": "The witness of the martyrs"
+          }
+        ],
+        "thematicConnection": "Where Isaiah exposes false worshippers who trample God's courts, Jesus reveals what true discipleship costs: the willingness to be divided from anything, even family, that would keep us from the justice and mercy God demands. The sword of the Gospel is the same fire the prophets carried."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Worship That Costs Something Real",
+    "body": "Today the Church confronts us with the difference between religion and conversion. Through Isaiah, God rejects a people who fill His temple with smoke while their hands are covered with blood; He is not appeased by ceremony when justice is starved and the widow is ignored. The Responsorial Psalm sharpens the point: God does not want more bullocks, He wants an upright heart offering a sacrifice of thanksgiving. Ritual without righteousness is not worship at all. Then Jesus, in the Gospel, tells the Twelve exactly what such righteousness will cost. The peace He brings is not the shallow comfort of an untroubled family dinner; it is the peace of communion with God, and to attain it a disciple must be ready for the sword — even the sword that cuts through the dearest human bonds. The Fathers see this not as Christ delighting in division but as the inevitable friction when holiness meets a world that prefers illusions. The Catechism reminds us that outward sacrifice is genuine only when it expresses the interior gift of self (CCC 2100), the same gift Christ made on the Cross. Today, then, we are asked: does our worship correspond to our lives? Learn to do good, plead for the widow, take up the cross — and offer to God a sacrifice He will not turn away from."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8302,
+    "completionTokens": 2030,
+    "generatedAt": "2026-07-13T11:58:32.931811+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
