@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-14",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-14",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - July 14, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-14"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Isaiah 7:1-9",
+      "text": "In the reign of Ahaz son of Jotham, son of Uzziah, king of Judah, Razon the king of Aram went up against Jerusalem with Pekah son of Remaliah, king of Israel, to lay siege to it; but he was unable to capture it.\n‘“Pay attention, keep calm, have no fear,\ndo not let your heart sink\nbecause of these two smouldering stumps of firebrands,\nor because Aram, Ephraim and the son of Remaliah\nhave plotted to ruin you, and have said:\nLet us invade Judah and terrorise it\nand seize it for ourselves,\nand set up a king there,\nthe son of Tabeel.\nThe Lord says this:\nIt shall not come true; it shall not be.\nThe capital of Aram is Damascus,\nthe head of Damascus, Razon;\nthe capital of Ephraim, Samaria,\nthe head of Samaria, the son of Remaliah.\nSix or five years more\nand a shattered Ephraim shall no longer be a people.\nBut if you do not stand by me,\nyou will not stand at all.”’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "In the face of a coalition threatening to unseat the Davidic king, Isaiah delivers the Lord's word to Ahaz: the plotters are but 'smouldering stumps of firebrands,' their kingdoms fragile and passing. The prophecy culminates in a piercing conditional: 'If you do not stand by me, you will not stand at all.' Faith, not political calculation, is the only foundation on which Jerusalem — and the soul — endures.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Commentary on Isaiah (via Catena Aurea)",
+            "quote": "Some among the Hebrews would refer this prophecy to Ezekias the son of Ahaz, because in his reign Samaria was taken; but this cannot be established, for the chronology forbids it. The true sign given to the house of David reaches beyond Ezekias to another born of the Virgin."
+          },
+          {
+            "father": "Gloss",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Ahaz is interpreted 'embracing,' for by obedience knowledge is increased; and then follows Ezekias, that is, 'the Lord is strong,' because he understands that God is strong, and so turning to His love he becomes faithful."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 269,
+            "title": "God the Almighty, master of history"
+          },
+          {
+            "paragraph": 205,
+            "title": "The God who saves his people"
+          }
+        ],
+        "thematicConnection": "The Lord's promise to preserve Jerusalem if Judah holds fast in faith prepares directly for the Psalm's confidence that 'God upholds his city forever,' and stands in contrast to the Gospel's unrepentant towns who refused to stand by the God who visited them."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 47(48):2-8",
+      "text": "God upholds his city for ever.\nThe Lord is great and worthy to be praised\nin the city of our God.\nHis holy mountain rises in beauty,\nthe joy of all the earth.\nGod upholds his city for ever.\nMount Zion, true pole of the earth,\nthe Great King’s city!\nGod, in the midst of its citadels,\nhas shown himself its stronghold.\nGod upholds his city for ever.\nFor the kings assembled together,\ntogether they advanced.\nThey saw; at once they were astounded;\ndismayed, they fled in fear.\nGod upholds his city for ever.\nA trembling seized them there,\nlike the pangs of birth.\nBy the east wind you have destroyed\nthe ships of Tarshish.\nGod upholds his city for ever.",
+      "translation": "Universalis (US)",
+      "refrain": "God upholds his city for ever.",
+      "exegesis": {
+        "summary": "The Psalm sings of Jerusalem as the city God himself defends: enemy kings advance and are seized with trembling before ever a sword is drawn. Zion is 'the joy of all the earth' because the Lord dwells within her citadels. The refrain — 'God upholds his city for ever' — is the answer of faith to Isaiah's summons.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This city is the Church of which it is said, 'Glorious things are spoken of thee, thou city of God.' Its citizens are all the faithful, and it is built upon Christ the hill, of whom Daniel spoke, 'A stone hewed without hands became a great mountain.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 865,
+            "title": "The Church as the heavenly Jerusalem"
+          },
+          {
+            "paragraph": 269,
+            "title": "The Lord of hosts, master of history"
+          }
+        ],
+        "thematicConnection": "The Psalm gives voice to the trust Isaiah demands of Ahaz, and it points beyond the earthly Zion to the Church, the city Christ will not abandon even when, as in the Gospel, particular towns refuse him."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 11:20-24",
+      "text": "Jesus began to reproach the towns in which most of his miracles had been worked, because they refused to repent.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus rebukes Chorazin, Bethsaida, and Capernaum — towns that saw his mightiest works yet would not repent. Tyre, Sidon, and even Sodom, he says, would have converted under such grace. The gravity of judgment is measured by the gift refused: to have seen the Messiah and remained unmoved is a heavier thing than pagan blindness.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on Matthew",
+            "quote": "If His miracles raised their wonder, why did He not work more? Because He looked not to display of Himself, but to what would profit others; and when that did not result, He forbore, that He might not increase their punishment. Yet He worked these few, that they should not say, 'We should have believed had any miracles been done among us.'"
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Jesus is despised in His own house and country — that is, among the Jewish people; and therefore He did among them few miracles, that they might not be altogether without excuse. But among the Gentiles He does daily greater miracles by His Apostles, not so much in healing bodies as in saving souls."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 549,
+            "title": "Messianic signs call to repentance"
+          },
+          {
+            "paragraph": 588,
+            "title": "Jesus calls sinners to repentance"
+          },
+          {
+            "paragraph": 674,
+            "title": "The delay of Israel's recognition of Christ"
+          }
+        ],
+        "thematicConnection": "Where Ahaz was warned, 'If you do not stand by me, you will not stand at all,' the Galilean towns embody that collapse: given far more than a prophetic word — given the Lord in the flesh — they still refuse. The Gospel is the tragic underside of the Psalm's confidence: God upholds his city, but woe to those who will not be upheld."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Stand by the Lord, or do not stand at all",
+    "body": "Today the Church sets before us a single, sober question: on what will you stand? Isaiah confronts King Ahaz, whose knees are knocking at a political threat, and offers not troop counts but a covenant: 'If you do not stand by me, you will not stand at all.' The Psalm answers with the trust Ahaz should have made his own — 'God upholds his city for ever' — remembering how enemy kings once advanced on Zion and fled in trembling because the Lord himself was her stronghold. Then the Gospel reveals how high the stakes have become in Christ. The towns of Galilee were not besieged by armies but visited by the Messiah, and his miracles were themselves the invitation to stand by God. To refuse repentance in the face of such grace, Jesus warns, is a graver ruin than Sodom's. The Fathers see in this the pattern of every soul and of the Church herself: Jerusalem endures not by walls but by faith; Christ's true city is the community of those who repent and believe. For us, Catholic disciples going about a Tuesday in Ordinary Time, the call is quiet but absolute — do not treat the mercies you have received as ordinary. Stand by the Lord who stands by his city, and be saved."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8271,
+    "completionTokens": 2255,
+    "generatedAt": "2026-07-14T10:42:43.623403+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
