@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-16",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-16",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - July 16, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-16"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Isaiah 26:7-9,12,16-19",
+      "text": "The path of the upright man is straight,\nyou smooth the way of the upright.\nFollowing the path of your judgements,\nwe hoped in you, O Lord,\nyour name, your memory are all my soul desires.\nAt night my soul longs for you\nand my spirit in me seeks for you;\nwhen your judgements appear on earth\nthe inhabitants of the world learn the meaning of integrity.\nO Lord, you are giving us peace,\nsince you treat us\nas our deeds deserve.\nDistressed, we search for you, O Lord;\nthe misery of oppression was your punishment for us.\nAs a woman with child near her time\nwrithes and cries out in her pangs,\nso are we, O Lord, in your presence:\nwe have conceived, we writhe\nas if we were giving birth;\nwe have not given the spirit of salvation to the earth,\nno more inhabitants of the world are born.\nYour dead will come to life,\ntheir corpses will rise;\nawake, exult,\nall you who lie in the dust,\nfor your dew is a radiant dew\nand the land of ghosts will give birth.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Isaiah portrays the just soul yearning for God in the night, acknowledging that peace is God's gift and that Israel's own labors have failed to bring forth salvation. Yet the prophet erupts in a startling hope: the dead will live, corpses shall rise, and the dust will yield its inhabitants at the touch of the Lord's radiant dew. This is one of the Old Testament's clearest anticipations of the resurrection of the body.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 19",
+            "quote": "In the end of the world all that are in their graves shall hear His voice, and come forth. They that have done good shall go unto the resurrection of life, that is, to live with the Angels of God; they that have done evil unto the resurrection of judgment."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels",
+            "quote": "He who rests secure concerning his hope and works, immediately opens to Him that knocks; for when he is aware of the time of death drawing near, he grows joyful, because of the glory of his reward."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "The heart restless until it rests in God"
+          },
+          {
+            "paragraph": 1038,
+            "title": "Resurrection of the just and the unjust"
+          },
+          {
+            "paragraph": 1502,
+            "title": "Illness, conversion, and the God who heals"
+          }
+        ],
+        "thematicConnection": "Isaiah's cry — 'at night my soul longs for you' — is the very labor and heavy burden that Christ answers in the Gospel with 'Come to me.' The promise that the dust will rise anticipates Christ, who alone gives rest to souls and life to the dead."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 101(102):13-21",
+      "text": "The Lord looked down from heaven to the earth.\nYou, O Lord, will endure for ever\nand your name from age to age.\nYou will arise and have mercy on Zion:\nfor this is the time to have mercy,\nfor your servants love her very stones,\nare moved with pity even for her dust.\nThe Lord looked down from heaven to the earth.\nThe nations shall fear the name of the Lord\nand all the earth’s kings your glory,\nwhen the Lord shall build up Zion again\nand appear in all his glory.\nThen he will turn to the prayers of the helpless;\nhe will not despise their prayers.\nThe Lord looked down from heaven to the earth.\nLet this be written for ages to come\nthat a people yet unborn may praise the Lord;\nfor the Lord leaned down from his sanctuary on high.\nHe looked down from heaven to the earth\nthat he might hear the groans of the prisoners\nand free those condemned to die.\nThe Lord looked down from heaven to the earth.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord looked down from heaven to the earth.",
+      "exegesis": {
+        "summary": "The psalmist sings of the Lord who leans down from His holy heights to hear the groans of prisoners and to free those condemned to die. The Lord is enthroned forever, yet He stoops in mercy to rebuild Zion and to answer the prayer of the destitute. This is written 'for a people yet unborn,' making the psalm a bridge between the promises of Isaiah and their fulfillment in Christ.",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Commentary on Matthew",
+            "quote": "The Lord sees them, and has compassion upon them, and heals all sickness and infirmity, that is, He cleanses their obstructed minds and unbelieving hearts for the understanding of the new preaching."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2578,
+            "title": "Prayer in the shadow of God's dwelling"
+          },
+          {
+            "paragraph": 2606,
+            "title": "The Father answers by raising His Son"
+          },
+          {
+            "paragraph": 635,
+            "title": "Christ descends to free those in death's bondage"
+          }
+        ],
+        "thematicConnection": "The Lord who 'looks down from heaven' to hear the prisoners' groans is the same Lord who, in Matthew, calls all who labor and are burdened to Himself. Both readings envision God bending down to the weary — Isaiah's dead in the dust, the psalmist's condemned prisoners, the Gospel's overburdened."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 11:28-30",
+      "text": "Jesus said, ‘Come to me, all you who labour and are overburdened, and I will give you rest. Shoulder my yoke and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. Yes, my yoke is easy and my burden light.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "In one of the tenderest passages of all Scripture, Jesus invites the weary of the world to come to Him and receive rest. He offers His yoke — the Gospel and its commandments — which is not a new bondage but a lightening of the crushing weight of sin. He gives Himself as the model of the meek and humble heart, the true Teacher from whom the disciple learns rest.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on Matthew",
+            "quote": "In beginning the Divine Law He begins with humility, and sets before us a great reward: 'ye shall find rest for your souls.' This is the highest reward — you shall not only be made useful to others, but shall make yourself to have peace."
+          },
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Commentary on Matthew",
+            "quote": "What is more pleasant than that yoke, what lighter than that burden? To be made better, to abstain from wickedness, to choose the good and refuse the evil, to love all men, to hate none, to gain eternal things."
+          },
+          {
+            "father": "Rabanus Maurus",
+            "work": "Commentary on Matthew",
+            "quote": "The yoke of Christ is Christ's Gospel, which joins and yokes together Jews and Gentiles in the unity of the faith. This we are commanded to take upon us, that is, to have in honor."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 459,
+            "title": "Take my yoke — Christ our model of holiness"
+          },
+          {
+            "paragraph": 2825,
+            "title": "Learning obedience with the Son"
+          },
+          {
+            "paragraph": 1691,
+            "title": "Recognize your Christian dignity"
+          }
+        ],
+        "thematicConnection": "Christ answers directly the anguish of Isaiah's 'we writhe as if in labor' and the psalmist's 'groans of the prisoners.' The rest Jesus promises is the very salvation Isaiah could not bring forth — the resurrection life given to souls yoked to the meek and humble Lord."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Come to the God who bends down and raises the dust to life",
+    "body": "Today the Church places before us the whole arc of the soul's longing and God's response. Isaiah gives voice to a people writhing in labor pains, unable to bring forth salvation from themselves, yet daring to believe that the Lord's radiant dew will awaken the dust and raise the dead. The Psalmist sees this same Lord not as a distant king but as One who leans down from His holy height to hear the groans of prisoners and free those condemned to die. And then, in the Gospel, the God who bends down speaks in the human voice of Jesus: 'Come to me, all you who labor and are overburdened.' The rest that Israel could not conceive, that the prisoner could only groan for, Christ simply gives — to those who take His yoke, which is the Gospel and the imitation of His meek and humble Heart. As St. John Chrysostom teaches, Christ begins His Law with humility because humility alone opens us to receive the rest of God. We were made, the Catechism reminds us, for Him — and our hearts are restless until they rest in Him. Today, then, is an invitation: lay down the impossible burden of self-salvation, and let the Lord who raises the dead raise you too."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8347,
+    "completionTokens": 2334,
+    "generatedAt": "2026-07-16T10:55:43.711559+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
