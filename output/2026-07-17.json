@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-17",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-17",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - July 17, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-17"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Isaiah 38:1-6,21-22,7-8",
+      "text": "Hezekiah fell ill and was at the point of death. The prophet Isaiah son of Amoz came and said to him, ‘The Lord says this, “Put your affairs in order, for you are going to die, you will not live.”’ Hezekiah turned his face to the wall and addressed this prayer to the Lord, ‘Ah, Lord, remember, I beg you, how I have behaved faithfully and with sincerity of heart in your presence and done what is right in your eyes.’ And Hezekiah shed many tears.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "King Hezekiah, told by Isaiah that his illness is mortal, turns his face to the wall and pleads with the Lord in tears, recalling his faithful walk before God. The Lord hears his prayer, adds fifteen years to his life, and grants him a sign: the shadow on the sundial goes back ten steps. This reading shows illness lived in the presence of God, prayer as a mysterious battle, and God as the true Master of life and death.",
+        "patristicQuotes": [
+          {
+            "father": "Gloss",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Hezekiah wept, not from desire of longer life, for he knew that Solomon had thereby pleased God, that he had not asked length of days; but he wept, for he feared that God's promise should not be fulfilled, when himself, being in the line of David of whom Christ should come, was without children."
+          },
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He is also Ezekias, that is, 'the strong Lord,' or, 'the Lord shall comfort;' according to that, 'Be of good cheer, I have overcome the world.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1502,
+            "title": "Illness lived before God in the Old Testament"
+          },
+          {
+            "paragraph": 2577,
+            "title": "Prayer as intercession, standing in the breach"
+          },
+          {
+            "paragraph": 1020,
+            "title": "The Christian's death united to Christ"
+          }
+        ],
+        "thematicConnection": "Hezekiah's turning to God in the face of death anticipates the Gospel's revelation that mercy — not mere legal sacrifice — is what God desires. Both readings show God bending his own order (adding years, permitting his disciples to pluck grain) for the sake of the human person."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Isaiah 38:10-12,16",
+      "text": "You have held back my life, O Lord, from the pit of doom.\nI said, ‘So I must go away,\nmy life half spent,\nassigned to the world below\nfor the rest of my years.’\nYou have held back my life, O Lord, from the pit of doom.\nI said, ‘No more shall I see the Lord\nin the land of the living,\nno more shall I look upon men\nwithin this world.\nYou have held back my life, O Lord, from the pit of doom.\n‘My home is pulled up and removed\nlike a shepherd’s tent.\nLike a weaver you have rolled up my life,\nyou cut it from the loom.\nYou have held back my life, O Lord, from the pit of doom.\n‘For you, Lord, my heart will live,\nyou gave me back my spirit;\nyou cured me, kept me alive,\nchanged my sickness into health.’\nYou have held back my life, O Lord, from the pit of doom.",
+      "translation": "Universalis (US)",
+      "refrain": "You have held back my life, O Lord, from the pit of doom.",
+      "exegesis": {
+        "summary": "Hezekiah's canticle voices the raw grief of one who feels his life torn away like a shepherd's tent, cut from the loom before its time. Yet the movement of the psalm is from lament to trust: the Lord has held him back from the pit, restored his spirit, and turned sickness into health. The refrain becomes the song of every believer rescued from death.",
+        "patristicQuotes": [
+          {
+            "father": "Chrysostom",
+            "work": "Homily 79 on John",
+            "quote": "His death was only a translation... a little while, and ye shall see Me: an intimation this that He would return, and after a short separation, come and live with them for ever."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 635,
+            "title": "Christ, the Author of life, destroys death's power"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Hope does not disappoint"
+          },
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in God"
+          }
+        ],
+        "thematicConnection": "The psalm gives Hezekiah's illness its inner voice and prefigures the paschal pattern: from the pit to praise, from death to life. It prepares us to hear the Son of Man declare himself Lord of the sabbath — Lord even of that final rest which is death."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 12:1-8",
+      "text": "Jesus took a walk one sabbath day through the cornfields. His disciples were hungry and began to pick ears of corn and eat them. The Pharisees noticed it and said to him, ‘Look, your disciples are doing something that is forbidden on the sabbath.’ But he said to them, ‘Have you not read what David did when he and his followers were hungry – how he went into the house of God and how they ate the loaves of offering which neither he nor his followers were allowed to eat, but which were for the priests alone? Or again, have you not read in the Law that on the sabbath day the Temple priests break the sabbath without being blamed for it? Now here, I tell you, is something greater than the Temple. And if you had understood the meaning of the words: What I want is mercy, not sacrifice , you would not have condemned the blameless. For the Son of Man is master of the sabbath.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "As Jesus and his hungry disciples cross a grainfield on the sabbath, the Pharisees accuse them of breaking the Law. Jesus answers with two scriptural precedents — David eating the loaves of the Presence, and the priests who 'profane' the sabbath by their temple service — and then reveals the deeper truth: something greater than the Temple is here. Quoting Hosea, he declares that God desires mercy, not sacrifice, and that the Son of Man is Lord of the sabbath.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Achimelech the Priest gave David the consecrated loaves, which it was not lawful for any to eat, but the Priests only and Levites; esteeming it a better action to deliver men from the danger of famine than to offer sacrifice to God; for the preservation of man is a sacrifice acceptable to God."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Admire the disciples, who are so limited in their desires, that they have no care of the things of the body, but despise the support of the flesh; they are assailed by hunger, and yet they go not away from Christ."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The laws of God are never contrary one to another; wisely therefore, wherein His disciples might be accused of having transgressed them, He shews that therein they followed the examples of Achimelech and David."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2173,
+            "title": "Jesus, Lord of the sabbath, made for mercy"
+          },
+          {
+            "paragraph": 582,
+            "title": "Christ's authoritative interpretation of the Law"
+          },
+          {
+            "paragraph": 2171,
+            "title": "The sabbath as sign of covenant"
+          },
+          {
+            "paragraph": 575,
+            "title": "Jesus and the religious authorities"
+          }
+        ],
+        "thematicConnection": "Jesus proclaims that God wants mercy, not sacrifice — the very disposition God showed to the weeping Hezekiah. The one who added fifteen years to a dying king now walks the earth as Lord of the sabbath, teaching that God's Law always serves the life and healing of his people."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Mercy, Not Sacrifice: The Lord of Life Bends Toward His People",
+    "body": "Today the Church places before us a God who is bent toward mercy. Hezekiah, condemned to die, turns his face to the wall and weeps — and the Master of life adds fifteen years to his days, even reversing the shadow on the sundial as a sign of his tenderness. The psalm, Hezekiah's own canticle, teaches us to name this grace: 'You have held back my life, O Lord, from the pit of doom.' Illness, before God, becomes a path of conversion and trust; prayer becomes a mysterious battle in which love always has the last word (CCC 1502, 2577). In the Gospel, this same merciful God walks his own grainfields. When his hungry disciples pluck ears of corn on the sabbath, Jesus does not retreat behind ritual; he cites David and the temple priests, then unveils the deeper law: 'What I want is mercy, not sacrifice.' The Son of Man is Lord of the sabbath — Lord, that is, of the very rest into which Hezekiah feared to sink. The One who spared the king now stands among us as 'something greater than the Temple,' and by his cross and resurrection he will free us definitively from the pit. Our response is Hezekiah's: tears, trust, and a heart that says, 'For you, Lord, my heart will live.'"
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7695,
+    "completionTokens": 2431,
+    "generatedAt": "2026-07-17T10:43:43.491099+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
