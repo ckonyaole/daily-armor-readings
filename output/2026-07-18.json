@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-18",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-18",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - July 18, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-18"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Micah 2:1-5",
+      "text": "Woe to those who plot evil,\nwho lie in bed planning mischief!\nNo sooner is it dawn than they do it\n– their hands have the strength for it.\nSeizing the fields that they covet,\nthey take over houses as well,\nowner and house they confiscate together,\ntaking both man and inheritance.\nSo the Lord says this:\nNow it is I who plot\nsuch mischief against this breed\nas your necks will not escape;\nnor will you be able to walk proudly,\nso evil will the time be.\nOn that day they will make a satire on you,\nsing a dirge and say,\n‘We are stripped of everything;\nmy people’s portion is measured out and shared,\nno one will give it back to them,\nour fields are awarded to our despoiler.’\nTherefore you will have no one\nto measure out a share\nin the community of the Lord.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Micah pronounces woe upon those who lie awake scheming how to seize the fields and houses of the poor, using the power of their hands to devour the inheritance of others. The Lord answers their plotting with His own: He will measure out judgment against them, so that they who took shares from the helpless will themselves have no share in the assembly of the Lord. It is a stern reminder that God sees every hidden injustice and defends the inheritance of the little ones.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Homily on the Rich Man",
+            "quote": "We are placed in this life not as lords in our own house, but as guests and strangers. Know thyself to be a dispenser of the things of others, and that the privileges granted thee are for a brief and passing use. Cast away then from thy soul the pride of power, and put on the humility and modesty of a steward."
+          },
+          {
+            "father": "St. Basil the Great",
+            "work": "Homily on Avarice",
+            "quote": "Tell me what is thine, from whence didst thou get it and bring it into life? If every one receiving what is sufficient for his own necessity would leave what remains to the needy, there would be no rich or poor."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2445,
+            "title": "Love for the poor incompatible with selfish riches"
+          },
+          {
+            "paragraph": 2450,
+            "title": "You shall not steal"
+          },
+          {
+            "paragraph": 2449,
+            "title": "Old Testament measures for the poor"
+          }
+        ],
+        "thematicConnection": "Micah gives voice to the very oppression the Psalm laments and identifies the wicked whom Christ, the gentle Servant of the Gospel, comes to unmask and to overthrow — not by their violence, but by His meekness that will not break the crushed reed."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 9B(10):1-4,7-8,14",
+      "text": "Lord, do not forget the poor.\nLord, why do you stand afar off\nand hide yourself in times of distress?\nThe poor man is devoured by the pride of the wicked:\nhe is caught in the schemes that others have made.\nLord, do not forget the poor.\nFor the wicked man boasts of his heart’s desires;\nthe covetous blasphemes and spurns the Lord.\nIn his pride the wicked says: ‘He will not punish.\nThere is no God.’ Such are his thoughts.\nLord, do not forget the poor.\nHis mouth is full of cursing, guile, oppression,\nmischief and deceit under his tongue.\nHe lies in wait among the reeds;\nthe innocent he murders in secret.\nLord, do not forget the poor.\nHis eyes are on the watch for the helpless man.\nBut you have seen the trouble and sorrow,\nyou note it, you take it in hand.\nThe helpless trusts himself to you;\nfor you are the helper of the orphan.\nLord, do not forget the poor.",
+      "translation": "Universalis (US)",
+      "refrain": "Lord, do not forget the poor.",
+      "exegesis": {
+        "summary": "The psalmist cries out to a God who seems to hide while the poor are hunted like prey by the proud. Yet the prayer is not despair but confidence: God has seen, God has noted, God will take the cause of the helpless into His own hand. The refrain, 'Lord, do not forget the poor,' is at once a plea and a profession that He never does.",
+        "patristicQuotes": [
+          {
+            "father": "St. Basil the Great",
+            "work": "Homily on Avarice",
+            "quote": "His barns bursting from the abundance of his stores, yet was his greedy mind by no means satisfied... His mind is distressed on account of his fruits, lest perchance when they have come forth they should profit the poor; like the glutton who had rather burst from eating, than give any thing of what remains to the starving."
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Homily on Dives and Lazarus",
+            "quote": "He lay at his gate for this reason, that the rich might not say, I never saw him... Thou seest the death of thy body lying before the gate, and thou pitiest not. What thou throwest away from thy table, afford for alms, make thy losses gain."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 716,
+            "title": "The people of the poor prepared for the Lord"
+          },
+          {
+            "paragraph": 2448,
+            "title": "Human misery and the compassion of Christ"
+          },
+          {
+            "paragraph": 2443,
+            "title": "God blesses those who aid the poor"
+          }
+        ],
+        "thematicConnection": "The psalm answers Micah's woe: while the wicked plot in bed, the poor throw themselves upon the Lord, who is quietly preparing His answer — the humble Servant of Matthew's Gospel who will not shout in the streets but will lead justice to victory."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 12:14-21",
+      "text": "The Pharisees went out and began to plot against Jesus, discussing how to destroy him.\nHere is my servant whom I have chosen,\nmy beloved, the favourite of my soul.\nI will endow him with my spirit,\nand he will proclaim the true faith to the nations.\nHe will not brawl or shout,\nnor will anyone hear his voice in the streets.\nHe will not break the crushed reed,\nnor put out the smouldering wick\ntill he has led the truth to victory:\nin his name the nations will put their hope.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "As the Pharisees withdraw to plot Jesus' destruction, He withdraws too — not to defend Himself, but to fulfill Isaiah's oracle of the chosen Servant. He will not brawl or shout, will not break the bruised reed or quench the smoldering wick, but will patiently carry justice to victory and become the hope of the nations. The Lord's response to human plotting is not violence but the meek strength of divine love, in whom Jew and Gentile alike find their rescue.",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Commentary on Matthew (Catena Aurea)",
+            "quote": "The Pharisees are moved with jealousy at what had been done; because beholding the outward body of a man, they did not recognize the God in His works."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 17.4",
+            "quote": "He who undertakes the office of preacher ought not to do evil, but to suffer it, and by his meekness to mollify the wrath of the angry, and by his wounds to heal the wounds of sinners in their affliction."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 574,
+            "title": "The plot against Jesus"
+          },
+          {
+            "paragraph": 575,
+            "title": "Christ as sign of contradiction"
+          },
+          {
+            "paragraph": 596,
+            "title": "The authorities hand Jesus over"
+          }
+        ],
+        "thematicConnection": "The Pharisees now enact what Micah condemned: they plot on their beds to destroy the innocent. But the Servant they scheme against is the very One in whom the poor of the psalm find their helper — He is the crushed reed's tenderness and the answer to 'Lord, do not forget the poor.'"
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Servant who does not forget the poor",
+    "body": "Today the Church sets before us two kinds of plotting. Micah unmasks the first: men who lie awake devising evil, whose hands are strong enough at dawn to seize the fields, the houses, the very inheritance of their neighbors. The Gospel shows us the same conspiracy grown to its fullness — the Pharisees withdrawing to plan how they might destroy Jesus Himself. Between these two scenes stands the Psalm, the prayer of every crushed reed and every smoldering wick: 'Lord, why do you stand afar off? Lord, do not forget the poor.' The answer is Christ. He is the chosen Servant who will not shout or brawl in the streets, who will not snap the bruised reed the oppressors have left behind, but will carry justice quietly to victory and become the hope of the nations. As the Fathers teach us, we possess nothing as lords, only as stewards; what we hoard becomes rust, what we share becomes Christ Himself received in the poor (CCC 2445, 2449). To follow this meek Servant is to renounce every scheme of the covetous heart and to become, with Him, one who remembers the poor because God has never forgotten them — or us."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9066,
+    "completionTokens": 2360,
+    "generatedAt": "2026-07-18T10:16:52.865423+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
