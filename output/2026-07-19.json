@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-19",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-19",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - July 19, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-07-19"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Wisdom 12:13,16-19",
+      "text": "There is no god, other than you, who cares for every thing,\nto whom you might have to prove that you never judged unjustly.\nYour justice has its source in strength,\nyour sovereignty over all makes you lenient to all.\nYou show your strength when your sovereign power is questioned\nand you expose the insolence of those who know it;\nbut, disposing of such strength, you are mild in judgement,\nyou govern us with great lenience,\nfor you have only to will, and your power is there.\nBy acting thus you have taught a lesson to your people\nhow the virtuous man must be kindly to his fellow men,\nand you have given your sons the good hope\nthat after sin you will grant repentance.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The Book of Wisdom contemplates the paradox of divine omnipotence: God's very sovereignty is the ground of His leniency. Because He has nothing to prove and no rival to fear, He judges with mildness and gives sinners space to repent. This mercy is not weakness but the highest expression of strength, and it becomes the pattern for how the righteous must treat their neighbors.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John, 39",
+            "quote": "He does not receive the power to judge because He is man, but because He is the ineffable Son of God; therefore is He Judge. The resurrection being a strictly divine work, He leaves His hearers to infer that He is God."
+          },
+          {
+            "father": "Titus of Bostra",
+            "work": "Catena Aurea on Luke",
+            "quote": "Whatever judgments are passed for the punishment of the guilty, happen not only by the authority of the judges, but the will of God. We must ascribe the work to the Divine appointment."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 679,
+            "title": "Christ, Lord of eternal life and judgment"
+          },
+          {
+            "paragraph": 1441,
+            "title": "Only God forgives sins"
+          }
+        ],
+        "thematicConnection": "Wisdom's teaching that God's power is expressed in patient forbearance directly prepares the Gospel parable of the wheat and tares, where the Master forbids premature uprooting and waits for the harvest."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 85(86):5-6,9-10,15-16",
+      "text": "O Lord, you are good and forgiving.\nO Lord, you are good and forgiving,\nfull of love to all who call.\nGive heed, O Lord, to my prayer\nand attend to the sound of my voice.\nO Lord, you are good and forgiving.\nAll the nations shall come to adore you\nand glorify your name, O Lord:\nfor you are great and do marvellous deeds,\nyou who alone are God.\nO Lord, you are good and forgiving.\nBut you, God of mercy and compassion,\nslow to anger, O Lord,\nabounding in love and truth,\nturn and take pity on me.\nO Lord, you are good and forgiving.",
+      "translation": "Universalis (US)",
+      "refrain": "O Lord, you are good and forgiving.",
+      "exegesis": {
+        "summary": "The psalmist confesses the very truth Wisdom proclaims: the Lord is good, forgiving, slow to anger, and abounding in mercy. This confession is coupled with a cry for God to hear and take pity, and a prophetic vision of all nations coming to worship the one true God. Mercy and universal salvation are bound together in a single hymn of praise.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Enchiridion, 73",
+            "quote": "This so great goodness, namely, to forgive debts, and to love our enemies... every believer should aim at, and seek by prayer to God, and struggles with himself to raise his human spirit to this temper."
+          },
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "Mighty is the Lord who pardons one man for the good deed of another. If thou despairest of the pardon of heavy sins, bring the prayers of others, bring the Church to pray for thee, and at sight of this the Lord may pardon."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2844,
+            "title": "Forgiveness as the high-point of Christian prayer"
+          },
+          {
+            "paragraph": 30,
+            "title": "God never ceases to call every man"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the human response to God's patient mercy described in Wisdom and enacted in the Gospel — trust, praise, and a plea that His compassion embrace all the nations."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 8:26-27",
+      "text": "The Spirit comes to help us in our weakness. For when we cannot choose words in order to pray properly, the Spirit himself expresses our plea in a way that could never be put into words, and God who knows everything in our hearts knows perfectly well what he means, and that the pleas of the saints expressed by the Spirit are according to the mind of God.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul reveals that even our prayer is a work of grace. When we cannot find the words, the Holy Spirit prays within us with sighs too deep for speech, bringing our poverty into perfect alignment with the mind of God. Weakness itself becomes the very place where the Spirit acts, so that our intercession truly reaches the Father.",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "De Trinitate, II.31",
+            "quote": "God being a Spirit ought to be worshipped in spirit... according to the saying of the Apostle, Where the Spirit of the Lord is, there is liberty."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Where our spirit, soul, and body are in agreement, and have not within them conflicting wills, they shall obtain from My Father every thing they shall ask; for none can doubt that that demand is good, where the body wills the same thing as the spirit."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 741,
+            "title": "The Spirit, master of prayer"
+          },
+          {
+            "paragraph": 2766,
+            "title": "The Spirit teaches us to pray"
+          },
+          {
+            "paragraph": 2825,
+            "title": "Uniting our will to the Son's"
+          }
+        ],
+        "thematicConnection": "If God is patient with the tares because He knows the heart, we too are known — and helped — from within. The Spirit's intercession is the interior counterpart to God's merciful forbearance in the field of the world."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 13:24-43",
+      "text": "Jesus put another parable before the crowds: ‘The kingdom of heaven may be compared to a man who sowed good seed in his field. While everybody was asleep his enemy came, sowed darnel all among the wheat, and made off. When the new wheat sprouted and ripened, the darnel appeared as well. The owner’s servants went to him and said, “Sir, was it not good seed that you sowed in your field? If so, where does the darnel come from?” “Some enemy has done this” he answered. And the servants said, “Do you want us to go and weed it out?” But he said, “No, because when you weed out the darnel you might pull up the wheat with it. Let them both grow till the harvest; and at harvest time I shall say to the reapers: First collect the darnel and tie it in bundles to be burnt, then gather the wheat into my barn.”’\nI will speak to you in parables\nand expound things hidden since the foundation of the world.\nThen, leaving the crowds, he went to the house; and his disciples came to him and said, ‘Explain the parable about the darnel in the field to us.’ He said in reply, ‘The sower of the good seed is the Son of Man. The field is the world; the good seed is the subjects of the kingdom; the darnel, the subjects of the evil one; the enemy who sowed them, the devil; the harvest is the end of the world; the reapers are the angels. Well then, just as the darnel is gathered up and burnt in the fire, so it will be at the end of time. The Son of Man will send his angels and they will gather out of his kingdom all things that provoke offences and all who do evil, and throw them into the blazing furnace, where there will be weeping and grinding of teeth. Then the virtuous will shine like the sun in the kingdom of their Father. Listen, anyone who has ears!’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus offers three parables of the Kingdom: wheat sown among weeds, a tiny mustard seed becoming a great tree, and leaven hidden in flour. The Kingdom grows quietly and mysteriously within a world where evil is really present, yet God refuses to uproot prematurely lest the just be lost with the wicked. At the harvest, the Son of Man will send His angels to separate them, and the righteous will shine like the sun in the Father's Kingdom.",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This grain when sown in the field, that is, when seized by the people and delivered to death, and as it were buried in the ground by a sowing of the body, grew up beyond the size of all herbs. The birds of the air lodge in the branches of the tree — the Apostles, overshadowing the world with their boughs."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Gospel preaching, though it seem small in its beginning, when sown in the mind of the hearer, or upon the world, comes up not a garden herb, but a tree, so that the birds of the air come and abide in its branches."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "They pass over the parables of the leaven and the mustard-seed as plain; and ask concerning the parable of the tares. And accordingly the Lord expounds it to them: He that sows the good seed is the Son of man."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 546,
+            "title": "The parables of the Kingdom"
+          },
+          {
+            "paragraph": 681,
+            "title": "Wheat and tares grow together until judgment"
+          },
+          {
+            "paragraph": 541,
+            "title": "The Kingdom inaugurated by Christ"
+          }
+        ],
+        "thematicConnection": "The parable dramatizes the divine mildness sung in Wisdom and the Psalm: God tolerates the darnel for the sake of the wheat, giving time for repentance, while the Spirit (second reading) labors within His people to bring them to the harvest."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Patience of God and the Harvest of Mercy",
+    "body": "Today the Church sets before us the mystery of God's patience — a patience that is not indifference but the very shape of omnipotence. The Book of Wisdom teaches that because God is sovereign over all, He can afford to be lenient: He alone judges rightly, and He gives even sinners 'good hope that after sin you will grant repentance.' The Psalm receives this revelation with gratitude: 'O Lord, you are good and forgiving, full of love to all who call.' In the Gospel, Jesus embodies this same patience in the parable of the wheat and the tares. The Master will not permit a premature harvest; He allows good and evil to grow together until the end, refusing to lose a single grain of wheat, though a final and just separation will come. Meanwhile, the Kingdom quietly expands like a mustard seed and leaven — small, hidden, unstoppable. And within this waiting time, St. Paul assures us we are not left alone: the Holy Spirit intercedes within us with sighs too deep for words, translating our weakness into a prayer perfectly aligned with the Father's will. God's forbearance with the world outside becomes God's Spirit praying in the world within. The Christian is called to live in that same patience: trusting the harvest, refusing to uproot our neighbor, and letting the Spirit shape us into wheat that will one day shine like the sun."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 10338,
+    "completionTokens": 2942,
+    "generatedAt": "2026-07-19T10:24:20.743366+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
