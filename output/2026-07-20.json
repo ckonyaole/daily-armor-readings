@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-20",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-20",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - July 20, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-20"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Micah 6:1-4,6-8",
+      "text": "Listen to what the Lord is saying:\nStand up and let the case begin in the hearing of the mountains\nand let the hills hear what you say.\nListen, you mountains, to the Lord’s accusation,\ngive ear, you foundations of the earth,\nfor the Lord is accusing his people,\npleading against Israel:\nMy people, what have I done to you,\nhow have I been a burden to you? Answer me.\nI brought you out of the land of Egypt,\nI rescued you from the house of slavery;\nI sent Moses to lead you,\nwith Aaron and Miriam.\n– ‘With what gift shall I come into the Lord’s presence\nand bow down before God on high?\nShall I come with holocausts,\nwith calves one year old?\nWill he be pleased with rams by the thousand,\nwith libations of oil in torrents?\nMust I give my first-born for what I have done wrong,\nthe fruit of my body for my own sin?’\n– What is good has been explained to you, man;\nthis is what the Lord asks of you:\nonly this, to act justly,\nto love tenderly\nand to walk humbly with your God.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The prophet Micah stages a divine lawsuit: the Lord summons the mountains as witnesses and pleads with His people, recalling how He delivered them from Egypt through Moses, Aaron, and Miriam. When Israel wonders what sacrifice could possibly repay God, the prophet strips away every empty ritual and reveals what God truly asks: to act justly, to love tenderly, and to walk humbly with Him. External offerings mean nothing without a converted heart.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Sermon 113",
+            "quote": "God is the fountain of justice; give not your alms then from interest and usury. If from the plunder of a poor man you were to give something to a judge that he might decide for you, such is the force of justice that you would be ill pleased in yourself. Do not then make to yourself such a God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2100,
+            "title": "Outward sacrifice must express spiritual sacrifice"
+          },
+          {
+            "paragraph": 2062,
+            "title": "The Commandments as response to covenant love"
+          },
+          {
+            "paragraph": 205,
+            "title": "The God who frees His people from slavery"
+          }
+        ],
+        "thematicConnection": "Micah's rejection of empty sacrifice sets the frame for the Psalm's identical indictment and Jesus' condemnation of a generation that demands signs while refusing the humble, just, merciful heart God actually seeks."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 49(50):5-6,8-9,16-17,21,23",
+      "text": "I will show God’s salvation to the upright.\n‘Summon before me my people\nwho made covenant with me by sacrifice.’\nThe heavens proclaim his justice,\nfor he, God, is the judge.\nI will show God’s salvation to the upright.\n‘I find no fault with your sacrifices,\nyour offerings are always before me.\nI do not ask more bullocks from your farms,\nnor goats from among your herds.\nI will show God’s salvation to the upright.\n‘But how can you recite my commandments\nand take my covenant on your lips,\nyou who despise my law\nand throw my words to the winds,\nI will show God’s salvation to the upright.\n‘You do this, and should I keep silence?\nDo you think that I am like you?\na sacrifice of thanksgiving honours me\nand I will show God’s salvation to the upright.’\nI will show God’s salvation to the upright.",
+      "translation": "Universalis (US)",
+      "refrain": "I will show God’s salvation to the upright.",
+      "exegesis": {
+        "summary": "Psalm 49 echoes Micah's courtroom: God gathers His covenant people and declares that He does not need their bulls or goats. What He requires is a sacrifice of thanksgiving from lips that do not despise His law. Ritual divorced from obedience becomes hypocrisy, but the upright heart is shown God's salvation.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Having first spoken in accordance with common opinion, He now addresses them out of Scripture, saying, Go ye, and learn what that meaneth: I will have mercy and not sacrifice."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2100,
+            "title": "The sacrifice acceptable to God is a broken spirit"
+          },
+          {
+            "paragraph": 1439,
+            "title": "True conversion of heart"
+          },
+          {
+            "paragraph": 30,
+            "title": "The upright heart that seeks the Lord"
+          }
+        ],
+        "thematicConnection": "The refrain — 'I will show God's salvation to the upright' — bridges Micah's demand for justice and mercy with the Gospel's warning that only the humble, converted heart (like Nineveh's) recognizes the presence of the One greater than Jonah."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 12:38-42",
+      "text": "Some of the scribes and Pharisees spoke up. ‘Master,’ they said ‘we should like to see a sign from you.’ He replied, ‘It is an evil and unfaithful generation that asks for a sign! The only sign it will be given is the sign of the prophet Jonah. For as Jonah was in the belly of the sea-monster for three days and three nights, so will the Son of Man be in the heart of the earth for three days and three nights. On Judgement day the men of Nineveh will stand up with this generation and condemn it, because when Jonah preached they repented; and there is something greater than Jonah here. On Judgement day the Queen of the South will rise up with this generation and condemn it, because she came from the ends of the earth to hear the wisdom of Solomon; and there is something greater than Solomon here.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The scribes and Pharisees demand a sign, but Jesus refuses their spectacle. The only sign given to this 'evil and unfaithful generation' will be the sign of Jonah — three days in the heart of the earth, the sign of His death and Resurrection. The pagan Ninevites and the Queen of the South, who responded to lesser prophets and lesser wisdom, will rise in judgment against those who reject the One who is Himself Wisdom and Prophet incarnate.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily on Matthew",
+            "quote": "The signs He wrought were not to move them, for He knew that they were hard as stone, but for the profit of others. He calls this a sign, and brings forward a figure of it, that the truth itself may be believed. For His Cross would not have been believed unless it had had signs to testify to it."
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "In us a right will became as a lamp of our ignorance, but your evil will became to you a blinding of your science."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 994,
+            "title": "The sign of Jonah and the Resurrection"
+          },
+          {
+            "paragraph": 590,
+            "title": "Something greater than Jonah, greater than Solomon"
+          },
+          {
+            "paragraph": 1041,
+            "title": "Judgment calls men to conversion"
+          }
+        ],
+        "thematicConnection": "Jesus makes explicit what Micah and the Psalm implied: God does not want spectacles or bulls, He wants repentant hearts. The Ninevites embodied Micah 6:8 by walking humbly at Jonah's preaching, while Israel's leaders demand a sign because they will not act justly or walk humbly."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "What the Lord Requires: A Humble Heart, Not a Spectacle",
+    "body": "Today the Church places us in God's courtroom. Through Micah, the Lord recounts His saving deeds — Egypt, Moses, Miriam, Aaron — and asks His people why they have wearied of Him. They imagine He can be appeased by rivers of oil or thousands of rams, even by their firstborn. But God has already told them plainly: act justly, love tenderly, walk humbly with your God. The Psalm reinforces the same lesson: God owns every beast of the forest; what He desires is a sacrifice of thanksgiving from lips that keep His covenant. In the Gospel, this ancient indictment lands on the scribes and Pharisees. They demand a sign, but they will not walk humbly. So Jesus points them past every miracle to the one sign that matters — His death and Resurrection, the sign of Jonah. The pagan Ninevites repented at a reluctant prophet; the Queen of Sheba crossed a continent for Solomon's wisdom. Something — Someone — greater is here, and He asks not for spectacle but for conversion. As CCC 2100 teaches, only Christ's sacrifice on the Cross is the perfect offering, and only by uniting our humble, just, and merciful lives to it do our own sacrifices become acceptable. Today, walk humbly."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8644,
+    "completionTokens": 2148,
+    "generatedAt": "2026-07-20T11:42:02.427637+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
