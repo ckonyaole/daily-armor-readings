@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-21",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-21",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - July 21, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-21"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Micah 7:14-15,18-20",
+      "text": "With shepherd’s crook, O Lord, lead your people to pasture,\nthe flock that is your heritage,\nliving confined in a forest\nwith meadow land all around.\nLet them pasture in Bashan and Gilead\nas in the days of old.\nAs in the days when you came out of Egypt\ngrant us to see wonders.\nWhat god can compare with you: taking fault away,\npardoning crime,\nnot cherishing anger for ever\nbut delighting in showing mercy?\nOnce more have pity on us,\ntread down our faults,\nto the bottom of the sea\nthrow all our sins.\nGrant Jacob your faithfulness,\nand Abraham your mercy,\nas you swore to our fathers\nfrom the days of long ago.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Micah closes his prophecy with a stunning hymn to divine mercy. The prophet begs the Lord to shepherd his people once more, then marvels at a God unlike any other—one who pardons crime, refuses to nurse anger, and casts our sins into the depths of the sea. This mercy is not sentiment but covenant fidelity: the faithfulness sworn to Abraham and Jacob from days of old.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 34",
+            "quote": "True justice feels compassion; false justice feels only scorn. The just, though they do not spare rebuke for the sake of discipline, cherish sweetness from charity within, setting above themselves those whom they correct—so that they keep others under discipline and themselves under humility."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "If we spend upon all indifferently, we shall always have compassion; for because Abraham entertained all, he also entertained angels. Let us not be severe censors of others, lest we too be strictly judged."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 205,
+            "title": "The faithful and compassionate God of the fathers"
+          },
+          {
+            "paragraph": 2572,
+            "title": "Abraham, father of believers"
+          },
+          {
+            "paragraph": 754,
+            "title": "The Church as sheepfold and flock"
+          }
+        ],
+        "thematicConnection": "Micah's cry that God 'throws all our sins to the bottom of the sea' is the very mercy the Psalm begs to see, and the divine family life Jesus opens in the Gospel to all who do the Father's will."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 84(85):2-8",
+      "text": "Let us see, O Lord, your mercy.\nO Lord, you once favoured your land\nand revived the fortunes of Jacob,\nyou forgave the guilt of your people\nand covered all their sins.\nYou averted all your rage,\nyou calmed the heat of your anger.\nLet us see, O Lord, your mercy.\nRevive us now, God, our helper!\nPut an end to your grievance against us.\nWill you be angry with us for ever,\nwill your anger never cease?\nLet us see, O Lord, your mercy.\nWill you not restore again our life\nthat your people may rejoice in you?\nLet us see, O Lord, your mercy\nand give us your saving help.\nLet us see, O Lord, your mercy.",
+      "translation": "Universalis (US)",
+      "refrain": "Let us see, O Lord, your mercy.",
+      "exegesis": {
+        "summary": "The refrain—'Let us see, O Lord, your mercy'—turns Micah's prophecy into personal prayer. Israel remembers past forgiveness and pleads for revival, trusting that the God who once averted his anger will restore life again. It is the language of a covenant people who know salvation is always gift.",
+        "patristicQuotes": [
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Jacob is interpreted 'supplanter,' and it is said of Christ, 'Thou hast cast down beneath Me them that rose up against Me.'"
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Homily on the Blind Man and Zacchaeus",
+            "quote": "As the sun pouring its rays into a house enlightens it not by word but by work, so the Saviour by the rays of righteousness put to flight the darkness of sin; for the light shineth in darkness."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2592,
+            "title": "The prayer of Abraham and Jacob—a battle of faith"
+          },
+          {
+            "paragraph": 30,
+            "title": "Our restless heart seeks God"
+          },
+          {
+            "paragraph": 2573,
+            "title": "Jacob's wrestling and perseverance in prayer"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the very mercy Micah proclaims and receives its answer in the Gospel, where Christ opens his family to all who turn to the Father."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 12:46-50",
+      "text": "Jesus was speaking to the crowds when his mother and his brothers appeared; they were standing outside and were anxious to have a word with him. But to the man who told him this Jesus replied, ‘Who is my mother? Who are my brothers?’ And stretching out his hand towards his disciples he said, ‘Here are my mother and my brothers. Anyone who does the will of my Father in heaven, he is my brother and sister and mother.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "When told that his mother and brethren stand outside, Jesus does not disown Mary—he glorifies her. He extends the bonds of his family beyond flesh to all who do the Father's will, and Mary, who said 'let it be done unto me according to thy word,' is first among such disciples. In Christ, obedience of faith makes us truly kin to the Son of God.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 3.2",
+            "quote": "He that by believing is made brother or sister of Christ, becomes His mother by preaching; for in pouring Him into the heart of the hearer, he may be said to beget the Lord, and is made the Lord's mother when by his word love of the Lord is begotten in the mind of his neighbor."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He said not, 'Go and say unto her, She is not My mother,' but continues His discourse to him that had brought Him word."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 500,
+            "title": "The 'brothers' of Jesus are close relations, not other children of Mary"
+          },
+          {
+            "paragraph": 501,
+            "title": "Mary's spiritual motherhood extends to all the faithful"
+          },
+          {
+            "paragraph": 788,
+            "title": "Christ constitutes his disciples as his Body"
+          }
+        ],
+        "thematicConnection": "The mercy Micah announces and the psalm implores now takes flesh: Christ gathers a new family from Abraham and Jacob's line, made his own by doing the Father's will."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The God who casts our sins into the sea gathers us as his own",
+    "body": "Today the Church proclaims the God who is unlike any other—the God who takes fault away, who does not cherish anger, who delights in mercy and hurls our sins into the depths of the sea. Micah anchors this mercy in the covenant sworn to Abraham and Jacob, and the psalmist prays that same mercy into the present tense: 'Revive us now, God, our helper!' The heart of Israel knows that its life is always a gift returned. Then in the Gospel that gift blossoms open. When Mary and his brethren seek him, Jesus does not deny his kin but expands them: 'Whoever does the will of my Father in heaven is my brother and sister and mother.' The mercy promised to the patriarchs is no longer confined by bloodline; it forges a new family in Christ, of which the Virgin Mary is preeminent—for no one has done the Father's will more perfectly than she. As St. Gregory reminds us, we too become Christ's kin by faith, and even his 'mother' when we bear him into the hearts of others. The mercy we beg to see is the mercy that makes us, sinners though we are, sons and daughters of the Father, brothers and sisters of the Lord."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8805,
+    "completionTokens": 2203,
+    "generatedAt": "2026-07-21T11:04:51.518955+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
