@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-22",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-22",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - July 22, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-22"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Song of Songs 3:1-4",
+      "text": "The bride says this:\nOn my bed, at night, I sought him\nwhom my heart loves.\nI sought but did not find him.\nSo I will rise and go through the City;\nin the streets and in the squares\nI will seek him whom my heart loves.\nI sought but did not find him.\nThe watchmen came upon me\non their rounds in the City:\n‘Have you seen him whom my heart loves?’\nScarcely had I passed them\nwhen I found him whom my heart loves.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The bride of the Song of Songs rises in the night to seek the one her heart loves, moving through the city until at last she finds him. The Church has always read this text as an allegory of the soul's search for Christ, and on this memorial of St. Mary Magdalene it becomes prophetic of her own restless love that would not rest until she found the Lord. To seek Christ with such longing is the very shape of Christian prayer.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 22",
+            "quote": "It is well said, When it was yet dark: Mary was seeking the Creator of all things in the tomb, and because she found Him not, thought He was stolen. Truly it was yet dark when she came to the sepulchre."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 63 on John",
+            "quote": "She did not wait for the Master to come to her, but, not letting her grief detain her, rose immediately to meet Him; as soon as she heard, she arose quickly, and came unto Him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our restless heart seeks God"
+          },
+          {
+            "paragraph": 2730,
+            "title": "Vigilance: 'Seek his face'"
+          },
+          {
+            "paragraph": 2563,
+            "title": "The heart, place of encounter"
+          }
+        ],
+        "thematicConnection": "The bride's night-search for her beloved anticipates Mary Magdalene at the tomb 'while it was still dark' — both women rise, both search, and both are given the joy of finding him whom their heart loves."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 62(63):2-6,8-9",
+      "text": "For you my soul is thirsting, O Lord my God.\nO God, you are my God, for you I long;\nfor you my soul is thirsting.\nMy body pines for you\nlike a dry, weary land without water.\nFor you my soul is thirsting, O Lord my God.\nSo I gaze on you in the sanctuary\nto see your strength and your glory.\nFor your love is better than life,\nmy lips will speak your praise.\nFor you my soul is thirsting, O Lord my God.\nSo I will bless you all my life,\nin your name I will lift up my hands.\nMy soul shall be filled as with a banquet,\nmy mouth shall praise you with joy.\nFor you my soul is thirsting, O Lord my God.\nFor you have been my help;\nin the shadow of your wings I rejoice.\nMy soul clings to you;\nyour right hand holds me fast.\nFor you my soul is thirsting, O Lord my God.",
+      "translation": "Universalis (US)",
+      "refrain": "For you my soul is thirsting, O Lord my God.",
+      "exegesis": {
+        "summary": "Psalm 63 gives voice to the soul that thirsts for God as a dry land thirsts for water. It is the prayer of one who has tasted the Lord's love and finds that love better than life itself. The refrain becomes the interior cry of every disciple, and today especially of Mary Magdalene weeping at the empty tomb.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 32 on John",
+            "quote": "As a man who had a spring within him would never feel thirst, so will not he who has this water which I shall give him — a well of water springing up into everlasting life."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2658,
+            "title": "Love is the source of prayer"
+          },
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in God"
+          }
+        ],
+        "thematicConnection": "The psalmist's thirst mirrors the bride's searching and Mary Magdalene's grief. Each expresses the same interior movement: the soul that has once glimpsed God's glory can no longer live without him."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 20:1-2,11-18",
+      "text": "It was very early on the first day of the week and still dark, when Mary of Magdala came to the tomb. She saw that the stone had been moved away from the tomb and came running to Simon Peter and the other disciple, the one Jesus loved. ‘They have taken the Lord out of the tomb’ she said ‘and we don’t know where they have put him.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "In the darkness of the first day of the week, Mary Magdalene comes to the tomb and finds the stone rolled back. Her love drives her to run, to search, to weep, and finally to be met by the Risen Lord who calls her by name. She becomes the 'Apostle to the Apostles,' the first herald of the Resurrection, sent by Christ himself to announce the Easter faith to Peter and the Twelve.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 22",
+            "quote": "Mary was seeking the Creator of all things in the tomb, and because she found Him not, thought He was stolen. Truly it was yet dark when she came to the sepulchre."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "On the Harmony of the Gospels 3.24",
+            "quote": "Mary Magdalene came and told the disciples that she had seen the Lord, and that He had spoken these things unto her."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 641,
+            "title": "The women, first messengers of the Resurrection"
+          },
+          {
+            "paragraph": 640,
+            "title": "The empty tomb as first sign"
+          },
+          {
+            "paragraph": 657,
+            "title": "Christ's body escaped the bonds of death"
+          }
+        ],
+        "thematicConnection": "Mary Magdalene is the living icon of the bride in the Song and the thirsting soul of the psalm: she seeks him whom her heart loves through the darkness, and her seeking is answered when the Risen Lord speaks her name."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Seeking Him Whom My Heart Loves",
+    "body": "On this memorial of St. Mary Magdalene, the Church places before us the whole drama of holy desire. In the Song of Songs, the bride rises in the night and searches the streets of the city for the one her heart loves; in Psalm 63, the soul pines for God like a parched land longing for water; in the Gospel, Mary Magdalene comes to the tomb while it is still dark, weeping because she cannot find her Lord. Each is a portrait of the same restless love that St. Augustine confessed when he wrote that our hearts have no rest until they rest in God (CCC 30). Mary Magdalene shows us where this love leads. Because she loved much and sought without stopping, she was the first to see the Risen Christ and was sent by him as the Apostle to the Apostles, announcing to Peter and the Twelve the Easter faith on which the Church is built (CCC 641). Today the Lord invites each of us into her posture: to rise, to seek, to refuse to let grief or darkness silence our longing. The empty tomb is not the end of the search — it is the threshold at which the living Christ speaks our name and sends us out to tell what we have seen."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6811,
+    "completionTokens": 1947,
+    "generatedAt": "2026-07-22T11:05:14.255497+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
