@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-23",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-23",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - July 23, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-23"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Galatians 2:19-20",
+      "text": "Through the Law I am dead to the Law, so that now I can live with God. I have been crucified with Christ, and I live now not with my own life but with the life of Christ who lives in me. The life I now live in this body I live in faith: faith in the Son of God who loved me and who sacrificed himself for my sake.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul testifies to the radical transformation worked by grace: through the Law's own witness he has died to the Law's power to condemn, and now lives a new life hidden in Christ. His life is no longer autonomous; Christ himself lives within him, and this indwelling is received and sustained by faith in the Son of God who loved him and gave himself for him. Paul's 'crucified with Christ' is the paradigm of every baptized life.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 49.15",
+            "quote": "Though his flesh die, his soul shall live till the flesh rise again, never to die more. For faith is the life of the soul."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 49.15",
+            "quote": "When I believed that Thou wert the Son of God, I believed that Thou wert the resurrection, that Thou wert life; and that he that believeth in Thee, though he were dead, shall live."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2543,
+            "title": "Crucified with Christ, led by the Spirit"
+          },
+          {
+            "paragraph": 1953,
+            "title": "Christ is the end of the Law"
+          },
+          {
+            "paragraph": 1814,
+            "title": "Faith by which man commits his entire self to God"
+          },
+          {
+            "paragraph": 1420,
+            "title": "New life carried in earthen vessels"
+          }
+        ],
+        "thematicConnection": "Paul's confession that 'Christ lives in me' is the doctrinal expression of the Gospel's image of the vine and branches: the Christian's true life is not his own but Christ's, received by faith and abiding."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 33(34):2-11",
+      "text": "I will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nI will bless the Lord at all times,\nhis praise always on my lips;\nin the Lord my soul shall make its boast.\nThe humble shall hear and be glad.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nGlorify the Lord with me.\nTogether let us praise his name.\nI sought the Lord and he answered me;\nfrom all my terrors he set me free.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nLook towards him and be radiant;\nlet your faces not be abashed.\nThis poor man called, the Lord heard him\nand rescued him from all his distress.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nThe angel of the Lord is encamped\naround those who revere him, to rescue them.\nTaste and see that the Lord is good.\nHe is happy who seeks refuge in him.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.\nRevere the Lord, you his saints.\nThey lack nothing, those who revere him.\nStrong lions suffer want and go hungry\nbut those who seek the Lord lack no blessing.\nI will bless the Lord at all times.\nor\nTaste and see that the Lord is good.",
+      "translation": "Universalis (US)",
+      "refrain": "I will bless the Lord at all times.",
+      "exegesis": {
+        "summary": "Psalm 34 is the song of the redeemed poor man whose whole existence has become blessing and praise. Because the Lord has heard him and delivered him, his lips overflow with thanksgiving, and he invites others to 'taste and see' the goodness of God. It is the natural voice of a soul that no longer lives for itself but for the Lord.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "He never refuses His blessings to them that pray, but rather stirs men up by His mercy not to faint in praying. Consider what a blessed privilege is granted thee, to talk with God in thy prayers."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2639,
+            "title": "Praise recognizes that God is God"
+          },
+          {
+            "paragraph": 2649,
+            "title": "Praise is entirely disinterested"
+          },
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in you"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the soul in whom Christ lives (first reading) and who abides in the vine (Gospel): a life grafted into Christ inevitably becomes ceaseless blessing and boasting in the Lord."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 15:1-8",
+      "text": "Jesus said to his disciples:\n‘I am the true vine,\nand my Father is the vinedresser.\nEvery branch in me that bears no fruit\nhe cuts away,\nand every branch that does bear fruit\nhe prunes to make it bear even more.\nYou are pruned already,\nby means of the word that I have spoken to you.\nMake your home in me, as I make mine in you.\nAs a branch cannot bear fruit all by itself,\nbut must remain part of the vine,\nneither can you unless you remain in me.\nI am the vine,\nyou are the branches.\nWhoever remains in me, with me in him,\nbears fruit in plenty;\nfor cut off from me you can do nothing.\nAnyone who does not remain in me\nis like a branch that has been thrown away – he withers;\nthese branches are collected and thrown on the fire,\nand they are burnt.\nIf you remain in me\nand my words remain in you,\nyou may ask what you will\nand you shall get it.\nIt is to the glory of my Father that you should bear much fruit,\nand then you will be my disciples.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "On the eve of his Passion, Jesus reveals the intimate mystery of communion with himself: he is the true vine, his Father the vinedresser, and we the branches. Everything depends on remaining in him, for apart from him we can do nothing; united to him, we bear abundant fruit that glorifies the Father. Even the pruning — the sufferings and purifications of Christian life — is the Father's loving work to increase fruitfulness.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 81.1",
+            "quote": "He who thinks that he bears fruit of himself, is not in the vine; he who is not in the vine, is not in Christ; he who is not in Christ, is not a Christian."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John 81.3",
+            "quote": "He does not say, ye can do little. Unless the branch abides in the vine, and lives from the root, it can bear no fruit whatever. Christ, though He would not be the vine, except He were man, yet could not give this grace to the branches, except He were God."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John 76",
+            "quote": "By fruit is meant life, i.e. that no one can be in Him without good works."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2074,
+            "title": "The fruit is holiness of life made fruitful by union with Christ"
+          },
+          {
+            "paragraph": 787,
+            "title": "Intimate communion: 'Abide in me, and I in you'"
+          },
+          {
+            "paragraph": 755,
+            "title": "The Church as the vineyard of Christ"
+          },
+          {
+            "paragraph": 1406,
+            "title": "Eucharistic abiding in Christ"
+          },
+          {
+            "paragraph": 736,
+            "title": "The Spirit makes us bear fruit"
+          }
+        ],
+        "thematicConnection": "The Gospel supplies the underlying reality that Paul confesses: the branch does not live by itself. 'Christ lives in me' (Galatians) is the same mystery as 'abide in me' (John), and its fruit is the ceaseless praise of Psalm 34."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Abiding: The One Life That Bears Fruit",
+    "body": "Today the Church places before us a single truth from three angles. In the Gospel, Jesus discloses the innermost secret of Christian existence: 'I am the vine, you are the branches.' All fruitfulness — every good work, every holiness, every prayer that reaches the Father — flows from remaining grafted into him. 'Cut off from me you can do nothing,' he says plainly, and St. Augustine insists that this leaves no room for the illusion of self-sufficient goodness: 'He who thinks that he bears fruit of himself, is not in the vine.' St. Paul, in Galatians, gives us the personal confession of a branch that knows itself alive only in the vine: 'I live now not with my own life but with the life of Christ who lives in me.' The Law could not produce this; only being crucified with Christ and receiving his indwelling life by faith could. And Psalm 34 gives us the song such a life inevitably sings: 'I will bless the Lord at all times… Taste and see that the Lord is good.' The branch that abides is pruned, yes — sometimes painfully — but it blossoms into praise, into good works, into the glory of the Father. Today the Eucharist we receive is precisely this abiding made flesh: he in us and we in him, that we may bear much fruit."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7273,
+    "completionTokens": 2255,
+    "generatedAt": "2026-07-23T11:07:18.072253+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
