@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-24",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-24",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - July 24, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-24"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jeremiah 3:14-17",
+      "text": "Come back, disloyal children – it is the Lord who speaks – for I alone am your Master. I will take one from a town, two from a clan, and bring you to Zion. I will give you shepherds after my own heart, and these shall feed you on knowledge and discretion. And when you have increased and become many in the land, then – it is the Lord who speaks – no one will ever say again: Where is the ark of the covenant of the Lord? There will be no thought of it, no memory of it, no regret for it, no making of another. When that time comes, Jerusalem shall be called: The Throne of the Lord; all the nations will gather there in the name of the Lord and will no longer follow the dictates of their own stubborn hearts.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Through Jeremiah, the Lord calls his unfaithful people back and promises to gather a remnant, giving them shepherds after his own heart who will feed them on knowledge and discretion. He foretells a day when the ark of the covenant will no longer be missed, because Jerusalem itself will be called 'The Throne of the Lord' and all nations will gather there. This oracle looks past the ruined temple to the Messianic Church, where Christ himself replaces the ark as God's dwelling among his people.",
+        "patristicQuotes": [
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Though little among cities that have dominion, yet art thou not the least, for out of thee shall come the Ruler, who shall rule my people Israel; this Ruler is Christ, who rules and guides his faithful people."
+          },
+          {
+            "father": "Gloss",
+            "work": "ap. Anselm",
+            "quote": "Jerusalem and Judaea signify him who is enlightened by the vision of peace and confession; and beyond Jordan, he who having passed the waters of Baptism enters the land of promise."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 762,
+            "title": "Prophets announce a new and eternal covenant"
+          },
+          {
+            "paragraph": 709,
+            "title": "The Kingdom belongs to the poor in Spirit"
+          },
+          {
+            "paragraph": 2580,
+            "title": "The Temple as house of prayer for all nations"
+          }
+        ],
+        "thematicConnection": "Jeremiah's promise of shepherds after God's own heart prepares directly for the Psalm's image of the Lord as shepherd gathering his scattered flock, and for the Gospel where Christ, the true Shepherd, sows the word of the kingdom in the hearts of his gathered people."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Jeremiah 31:10-13",
+      "text": "The Lord will guard us as a shepherd guards his flock.\nO nations, hear the word of the Lord,\nproclaim it to the far-off coasts.\nSay: ‘He who scattered Israel will gather him\nand guard him as a shepherd guards his flock.’\nThe Lord will guard us as a shepherd guards his flock.\nFor the Lord has ransomed Jacob,\nhas saved him from an overpowering hand.\nThey will come and shout for joy on Mount Zion,\nthey will stream to the blessings of the Lord.\nThe Lord will guard us as a shepherd guards his flock.\nThen the young girls will rejoice and dance,\nthe men, young and old, will be glad.\nI will turn their mourning into joy,\nI will console them, give gladness for grief.\nThe Lord will guard us as a shepherd guards his flock.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord will guard us as a shepherd guards his flock.",
+      "exegesis": {
+        "summary": "The refrain from Jeremiah 31 celebrates the Lord who scatters and then gathers, ransoming Jacob and turning mourning into joy on Mount Zion. It is a canticle of the exiles' return, but its full horizon is the eschatological ingathering of the nations into the one flock of the Good Shepherd. Grief is not merely soothed but transformed into festal dance.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Homily",
+            "quote": "The time was at hand in which the same Shepherd was to recall his scattered sheep to the pastures of life. He was born who says, 'I am the good Shepherd.'"
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 60 on John",
+            "quote": "Both these flocks are dispersed, and without shepherds... And then he foretells their future union: 'And there shall be one fold and one Shepherd.'"
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Sermon on the Words of the Lord",
+            "quote": "All these were good shepherds, not because they shed their blood, but because they did it for the sheep. For they shed it not in pride, but in love."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 754,
+            "title": "The Church as sheepfold of the Good Shepherd"
+          },
+          {
+            "paragraph": 764,
+            "title": "The little flock gathered around Jesus"
+          }
+        ],
+        "thematicConnection": "The Psalm answers Jeremiah's oracle: the promised gathering to Zion begins under the Shepherd who is Christ, the same Lord whose word, in the Gospel, is sown to bear fruit in the good soil of gathered hearts."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 13:18-23",
+      "text": "Jesus said to his disciples: ‘You are to hear the parable of the sower. When anyone hears the word of the kingdom without understanding, the evil one comes and carries off what was sown in his heart: this is the man who received the seed on the edge of the path. The one who received it on patches of rock is the man who hears the word and welcomes it at once with joy. But he has no root in him, he does not last; let some trial come, or some persecution on account of the word, and he falls away at once. The one who received the seed in thorns is the man who hears the word, but the worries of this world and the lure of riches choke the word and so he produces nothing. And the one who received the seed in rich soil is the man who hears the word and understands it; he is the one who yields a harvest and produces now a hundredfold, now sixty, now thirty.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus explains the parable of the sower, identifying four responses to the word of the kingdom: the hardened path from which the evil one snatches the seed, the shallow rock that cannot endure trial, the thorns of worldly anxiety and riches that choke growth, and the rich soil that hears, understands, and bears fruit in varied measure. The parable is not fatalism but diagnosis: the seed is uniformly good; what differs is the heart that receives it. Christ calls his disciples to become the tilled ground where the word takes deep root.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Not the substance but the will is changed, and the hearts as well of the unbelieving as the believing receive seed. We ought first to hear, then to understand, and after understanding to bring forth the fruits of teaching, either an hundredfold, or sixty, or thirty."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "With minds and doctrines it is possible that the rock be made rich soil, that the way should be no more trodden upon, and that the thorns should be extirpated. He that sowed put no difference between rich and poor, wise or foolish, but spoke to all alike."
+          },
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The seed or word of God, which is sown in the rock, that is, in the hard and untamed heart, can bring forth no fruit, inasmuch as its hardness is great, and its desire of heavenly things small."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 546,
+            "title": "Parables as mirrors: hard soil or good earth?"
+          },
+          {
+            "paragraph": 764,
+            "title": "Welcoming Jesus' word is welcoming the Kingdom"
+          },
+          {
+            "paragraph": 2527,
+            "title": "The Gospel renews and elevates every heart"
+          }
+        ],
+        "thematicConnection": "The shepherds after God's own heart promised in Jeremiah are precisely those who sow the word; today's Gospel shows how that word achieves the gathering the Psalm celebrates — in hearts that receive, understand, and yield fruit."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Word Sown, the Flock Gathered",
+    "body": "Today the Church places before us the whole arc of salvation as a single movement of God's mercy. Through Jeremiah, the Lord addresses his disloyal children with tenderness rather than rejection: 'Come back.' He promises shepherds after his own heart and a new Jerusalem where the ark is no longer needed because the Lord himself will be enthroned among the nations. The Psalm makes that promise sing — the God who scattered will gather, guarding us as a shepherd guards his flock, turning mourning into dance on Mount Zion. And the Gospel reveals how this gathering actually happens: not by force, but by a sower who walks the fields of human hearts and casts the word of the kingdom on every kind of soil. The seed is Christ's own word; the harvest is the Church, the little flock in which Jeremiah's prophecy is fulfilled. Yet the parable is also a searching question for us. Are we the trodden path, too distracted for the word to enter? The shallow rock that welcomes with joy but withers under trial? The thorny ground where anxieties and riches choke the seed? Or, by grace, rich soil that hears, understands, and bears fruit? To belong to the Shepherd's flock is to let his word take root — and to trust that even thirtyfold is a share in the harvest of the kingdom."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7935,
+    "completionTokens": 2494,
+    "generatedAt": "2026-07-24T11:00:38.883463+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
