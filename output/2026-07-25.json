@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-25",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-25",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - July 25, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-25"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Corinthians 4:7-15",
+      "text": "We are only the earthenware jars that hold this treasure, to make it clear that such an overwhelming power comes from God and not from us. We are in difficulties on all sides, but never cornered; we see no answer to our problems, but never despair; we have been persecuted, but never deserted; knocked down, but never killed; always, wherever we may be, we carry with us in our body the death of Jesus, so that the life of Jesus, too, may always be seen in our body. Indeed, while we are still alive, we are consigned to our death every day, for the sake of Jesus, so that in our mortal flesh the life of Jesus, too, may be openly shown. So death is at work in us, but life in you.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul describes the paradox of apostolic life: we are fragile earthenware jars carrying the surpassing treasure of the Gospel, so that the power revealed through us is manifestly God's and not our own. Persecuted, struck down, dying daily with Christ, the Apostle nevertheless bears the life of Jesus in his very body, and this hidden Cross bears fruit as life for the Church. To die with Christ is, for the baptized, the very means by which Christ's risen life is made visible.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John (l)",
+            "quote": "Remember the Apostle's words: 'To the one we are the savor of death unto death; and to the other the savor of life unto life.'"
+          },
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "It is a hard thing to take up the cross, and expose your life to danger and your body to death; to give up what you are, when you wish to be what you are not; and even the loftiest virtue seldom exchanges things present for future. The good Master, lest any should be broken down by despair or weariness, promises that He will be seen by the faithful."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 10 on 1 Corinthians",
+            "quote": "Every thing we have we receive from God. When we speak of 'mine and thine,' they are only bare words. Thy soul is not thy own possession, and will be reckoned to thee in like manner as all thy goods."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1010,
+            "title": "Christian death: dying with Christ"
+          },
+          {
+            "paragraph": 1009,
+            "title": "Death transformed by Christ's obedience"
+          },
+          {
+            "paragraph": 1012,
+            "title": "Life is changed, not ended"
+          },
+          {
+            "paragraph": 1681,
+            "title": "Paschal meaning of death"
+          }
+        ],
+        "thematicConnection": "Paul's 'carrying in our body the death of Jesus' interprets in advance the Gospel's cup that James and John are asked to drink; both proclaim that discipleship is cruciform, and the Psalm's tearful sowing is precisely this apostolic labor bearing life for others."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 125(126):1-6",
+      "text": "Those who are sowing in tears will sing when they reap.\nWhen the Lord delivered Zion from bondage,\nit seemed like a dream.\nThen was our mouth filled with laughter,\non our lips there were songs.\nThose who are sowing in tears will sing when they reap.\nThe heathens themselves said: ‘What marvels\nthe Lord worked for them!’\nWhat marvels the Lord worked for us!\nIndeed we were glad.\nThose who are sowing in tears will sing when they reap.\nDeliver us, O Lord, from our bondage\nas streams in dry land.\nThose who are sowing in tears\nwill sing when they reap.\nThose who are sowing in tears will sing when they reap.\nThey go out, they go out, full of tears,\ncarrying seed for the sowing:\nthey come back, they come back, full of song,\ncarrying their sheaves.\nThose who are sowing in tears will sing when they reap.",
+      "translation": "Universalis (US)",
+      "refrain": "Those who are sowing in tears will sing when they reap.",
+      "exegesis": {
+        "summary": "Psalm 126 sings of exile turned to homecoming: those who go out weeping, bearing seed, return with songs, carrying their sheaves. The Church sings this psalm as the pattern of every Christian life — tears sown into the ground of the Paschal Mystery yield a harvest of joy that the nations themselves recognize as the Lord's marvelous work.",
+        "patristicQuotes": [
+          {
+            "father": "Alcuin",
+            "work": "Catena Aurea on John",
+            "quote": "This is applicable to all believers who strive through present tears and afflictions to attain to the joys eternal. While the righteous weep, the world rejoices; for having no hope of the joys to come, all its delight is in the present."
+          },
+          {
+            "father": "Pseudo-Jerome",
+            "work": "Catena Aurea on Mark",
+            "quote": "They mourn and weep because they had not yet seen, but after a short time they shall receive a consolation. For blessed are they that weep now, for they shall be comforted."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2630,
+            "title": "Christian petition buoyed by hope"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Hope does not disappoint"
+          },
+          {
+            "paragraph": 2642,
+            "title": "The Church sings amid trial"
+          }
+        ],
+        "thematicConnection": "The psalm is the interior music of Paul's afflicted-but-not-crushed apostle and of the disciples who will drink Christ's cup: seeds watered with tears become the sheaves of eternal life."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 20:20-28",
+      "text": "The mother of the sons of Zebedee came to Jesus with her sons to make a request of him, and bowed low; and he said to her, ‘What is it you want?’ She said to him, ‘Promise that these two sons of mine may sit one at your right hand and the other at your left in your kingdom.’ ‘You do not know what you are asking’ Jesus answered. ‘Can you drink the cup that I am going to drink?’ They replied, ‘We can.’ ‘Very well,’ he said ‘you shall drink my cup, but as for seats at my right hand and my left, these are not mine to grant; they belong to those to whom they have been allotted by my Father.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "On the memorial of St. James — one of the very sons of Zebedee named in this passage — the Church hears the mother's ambitious request and the Lord's redirecting question: 'Can you drink the cup that I am going to drink?' Jesus does not deny them greatness, but reveals that His throne is the Cross and that true primacy in His Kingdom is service. James would indeed drink the cup, becoming the first apostolic martyr, and so this Gospel unmasks every worldly notion of glory and reshapes it around the Chalice of the Passion.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This mother of the sons of Zebedee is Salome — herself truly peaceful, and the mother of sons of peace. Not only had her sons left their father, but she had left her husband and followed Christ; for He could live without her, but she could not be saved without Christ. Her maternal affection made her bold to ask."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "De Consensu Evangelistarum II.64",
+            "quote": "What Matthew has represented as said by the mother, Mark relates that the two sons of Zebedee spake themselves, when she had presented their wish before the Lord."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 607,
+            "title": "The cup the Father has given"
+          },
+          {
+            "paragraph": 1384,
+            "title": "Drinking the cup of the Son of Man"
+          },
+          {
+            "paragraph": 663,
+            "title": "Christ seated at the Father's right hand"
+          }
+        ],
+        "thematicConnection": "The 'cup' that James accepts is the same death of Jesus that Paul carries in his body and the tearful seed of the Psalm. The Church proclaims that apostolic authority is inseparable from martyrdom-shaped service."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Cup, the Jar of Clay, and the Sheaves of Joy",
+    "body": "Today the Church honors St. James the Greater, and every reading is tuned to the pitch of his martyrdom. Jesus asks the sons of Zebedee whether they can drink His cup — and James, first of the Apostles to be slain for the Name, would answer with his blood. St. Paul unfolds the interior meaning of that cup: the treasure of the Gospel is carried in earthenware jars, so that when we are afflicted, perplexed, persecuted, and struck down, the surpassing power is unmistakably God's. 'Death is at work in us, but life in you' — the martyr's dying becomes the Church's living. Psalm 126 gives this Paschal exchange its song: those who go out weeping, carrying seed, come home carrying sheaves. James went out with tears and returned in glory; every disciple who unites daily dying to Christ's Passion enters the same harvest. The lesson unmasks the mother's request and our own: true seats at Christ's right and left were reserved for two crucified thieves, because His throne is the Cross. To share His glory we must first share His chalice — the very Chalice we receive at this altar, where the death of Jesus is proclaimed until He comes and the sowers in tears are already tasting the songs of the reapers."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7573,
+    "completionTokens": 2440,
+    "generatedAt": "2026-07-25T10:25:23.885183+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
