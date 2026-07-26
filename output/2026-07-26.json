@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-26",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-26",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - July 26, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-07-26"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Kings 3:5,7-12",
+      "text": "The Lord appeared to Solomon in a dream and said, ‘Ask what you would like me to give you.’ Solomon replied, ‘O Lord my God, you have made your servant king in succession to David my father. But I am a very young man, unskilled in leadership. Your servant finds himself in the midst of this people of yours that you have chosen, a people so many its number cannot be counted or reckoned. Give your servant a heart to understand how to discern between good and evil, for who could govern this people of yours that is so great?’ It pleased the Lord that Solomon should have asked for this. ‘Since you have asked for this’ the Lord said ‘and not asked for long life for yourself or riches or the lives of your enemies, but have asked for a discerning judgement for yourself, here and now I do what you ask. I give you a heart wise and shrewd as none before you has had and none will have after you.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Solomon, newly enthroned and aware of his own inexperience, does not ask God for wealth, long life, or victory over enemies, but for 'an understanding heart' to discern good from evil and to shepherd God's people well. God is pleased with this prayer because it seeks the one thing needful — wisdom — and He grants it beyond measure. Solomon shows us that true kingship, and true discipleship, begins with recognizing our poverty before God and desiring what He desires.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "There are two things needful for one who prays: that he ask earnestly, and that he ask such things as he ought to ask. And those are spiritual things — as Solomon, because he asked such things as were right, received speedily."
+          },
+          {
+            "father": "Gloss",
+            "work": "Catena Aurea on Matthew (moral sense)",
+            "quote": "One becomes 'peaceful' — a true Solomon — when unlawful movements of the soul are composed, and, being as it were already set in everlasting rest, he serves God and turns others to Him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2580,
+            "title": "Solomon's prayer at the Temple"
+          },
+          {
+            "paragraph": 30,
+            "title": "The heart that seeks God"
+          }
+        ],
+        "thematicConnection": "Solomon's choice of wisdom above every earthly treasure prefigures the merchant and the finder in today's Gospel, who sell all they have for the pearl and the hidden treasure of the Kingdom."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 118(119):57,72,76-77,127-130",
+      "text": "Lord, how I love your law!\nMy part, I have resolved, O Lord,\nis to obey your word.\nThe law from your mouth means more to me\nthan silver and gold.\nLord, how I love your law!\nLet your love be ready to console me\nby your promise to your servant.\nLet your love come and I shall live\nfor your law is my delight.\nLord, how I love your law!\nThat is why I love your commands\nmore than finest gold,\nwhy I rule my life by your precepts,\nand hate false ways.\nLord, how I love your law!\nYour will is wonderful indeed;\ntherefore I obey it.\nThe unfolding of your word gives light\nand teaches the simple.\nLord, how I love your law!",
+      "translation": "Universalis (US)",
+      "refrain": "Lord, how I love your law!",
+      "exegesis": {
+        "summary": "The psalmist sings of the Law of God as a treasure surpassing silver, gold, and finest gold. Far from being burden, God's precepts are 'delight' and 'light' to the simple. This is the joyful obedience of one who has tasted that the Lord's will is 'wonderful indeed.'",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "When the lawyer had answered the things contained in the Law, Christ, to whom all things are known, said to him, 'Thou hast answered right: this do, and thou shalt live.'"
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea",
+            "quote": "God loves those who keep the commandments of the Law, though they be inferior; nevertheless, He shows to those who would be perfect the deficiency of the Law, for He came not to destroy the Law, but to fulfil it."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1965,
+            "title": "The New Law written on the heart"
+          },
+          {
+            "paragraph": 1972,
+            "title": "Law of love, grace, and freedom"
+          },
+          {
+            "paragraph": 1975,
+            "title": "The Law as fatherly instruction"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to Solomon's request: the wise heart is one that loves God's law more than gold. It also anticipates the Gospel's merchant who gladly trades all his goods for the treasure of God's Kingdom."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 8:28-30",
+      "text": "We know that by turning everything to their good, God co-operates with all those who love him, with all those he has called according to his purpose. They are the ones he chose specially long ago and intended to become true images of his Son, so that his Son might be the eldest of many brothers. He called those he intended for this; those he called he justified, and with those he justified he shared his glory.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul unveils the golden chain of salvation: God foreknew, predestined, called, justified, and glorified those who love Him — that they might be conformed to the image of His Son. Every event of life, even suffering, is woven by Providence into good for those who love God. Our identity is not self-made; it is a gift of the Father's eternal purpose, drawing us into the family of His only-begotten Son, 'the eldest of many brothers.'",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 46 on John",
+            "quote": "Great indeed is the Son's dignity: the Father draws men, and the Son raises them up. This is no division of works, but an equality of power... The Master sits, dispensing His truth to all, pouring out His doctrine to all."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2012,
+            "title": "Predestined to be conformed to Christ"
+          },
+          {
+            "paragraph": 1,
+            "title": "God's plan of sheer goodness"
+          },
+          {
+            "paragraph": 312,
+            "title": "Providence brings good from evil"
+          },
+          {
+            "paragraph": 2825,
+            "title": "Uniting our will to the Son's"
+          }
+        ],
+        "thematicConnection": "Solomon asked to become the kind of king God intended; Paul reveals that God has intended each of us to become like His Son. The wisdom Solomon sought is now fulfilled: to be conformed to Christ is the true treasure hidden in the field."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 13:44-52",
+      "text": "Jesus said to the crowds, ‘The kingdom of heaven is like treasure hidden in a field which someone has found; he hides it again, goes off happy, sells everything he owns and buys the field.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus offers three short parables — the hidden treasure, the pearl of great price, and the dragnet — to reveal the Kingdom of Heaven. Two speak of joyful, total surrender: whoever glimpses the Kingdom sells all he has to possess it. The third warns that the Kingdom, present in the Church, contains good and bad alike until the final judgment separates them. To be a disciple is to be a scribe 'trained for the Kingdom,' bringing forth from the storeroom both old and new.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homily 11 on the Gospels",
+            "quote": "The treasure hidden in the field is the desire of heaven; the field in which the treasure is hidden is the discipline of heavenly learning. He it is who sells all he has and buys the field, who, renouncing fleshly delights, tramples upon all his worldly desires in his anxiety for the heavenly discipline."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Because He spoke of riches, warning us to strip ourselves of them, He promises to repay things greater, by how much heaven is greater than earth. By the word 'treasure' He denotes the abundance and endurance of the reward."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 546,
+            "title": "Parables and radical choice for the Kingdom"
+          },
+          {
+            "paragraph": 2544,
+            "title": "Renouncing all for the Kingdom"
+          },
+          {
+            "paragraph": 2556,
+            "title": "Detachment from riches"
+          },
+          {
+            "paragraph": 544,
+            "title": "The Kingdom belongs to the poor in spirit"
+          }
+        ],
+        "thematicConnection": "The Gospel crowns the day's readings: Solomon's wise choice, the psalmist's love of the Law more than gold, and Paul's vision of predestination in Christ all converge here. To love God is to sell everything for the one treasure that endures — the Kingdom, which is Christ Himself."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The One Thing Worth Everything",
+    "body": "Today the Church places before us a single, searching question: what do you actually want? Solomon, a young king overwhelmed by his task, is offered anything by God — and asks only for a wise and understanding heart. The psalmist echoes him: 'The law from your mouth means more to me than silver and gold.' In the Gospel, Jesus makes the choice unmistakable. The Kingdom of Heaven is a treasure hidden in a field, a pearl of surpassing beauty, and the one who finds it sells everything, joyfully, to possess it. This is not loss but discovery; not sacrifice grudgingly made but exchange gladly embraced. St. Paul then lifts the veil on why such surrender is possible: from all eternity, God has known us, called us, and destined us to be 'conformed to the image of His Son.' The treasure we seek is the One who first sought us. Every circumstance, even our sufferings, God is weaving into that likeness for those who love Him. So the Church asks us today: like Solomon, will we ask for wisdom rather than worldly gain? Like the merchant, will we let go of what cannot save us to grasp what will? To choose Christ above all is not to lose our life — it is finally to find it, hidden with Him in the field of the Father's love."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9248,
+    "completionTokens": 2862,
+    "generatedAt": "2026-07-26T10:41:54.969154+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
