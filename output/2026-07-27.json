@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-27",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-27",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - July 27, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-27"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jeremiah 13:1-11",
+      "text": "The Lord said this to me, ‘Go and buy a linen loincloth and put it round your waist. But do not dip it in water.’ And so, as the Lord had ordered, I bought a loincloth and put it round my waist. A second time the word of the Lord was spoken to me, ‘Take the loincloth that you have bought and are wearing round your waist; up! Go to the Euphrates and hide it in a hole in the rock.’ So I went and hid it near the Euphrates as the Lord had ordered me. Many days afterwards the Lord said to me, ‘Get up and go to the Euphrates and fetch the loincloth I ordered you to hide there.’ So I went to the Euphrates, and I searched, and I took the loincloth from the place where I had hidden it. The loincloth was spoilt, good for nothing. Then the word of the Lord was addressed to me, ‘Thus says the Lord: In the same way I will spoil the arrogance of Judah and Jerusalem. This evil people who refuse to listen to my words, who follow the dictates of their own hard hearts, who have followed alien gods, and served them and worshipped them, let them become like this loincloth, good for nothing. For just as a loincloth clings to a man’s waist, so I had intended the whole House of Judah to cling to me – it is the Lord who speaks – to be my people, my glory, my honour and my boast. But they have not listened.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jeremiah performs a prophetic sign: a linen loincloth, once clinging intimately to the prophet's waist, is buried by the Euphrates until it rots and becomes useless. The Lord reveals its meaning: He had intended Judah to cling to Him as closely as a loincloth clings to the body, to be His people, His glory, and His boast. But their idolatry and hardness of heart have made them spoilt and good for nothing. The reading is a searing image of what happens when God's chosen turn away from the intimacy He desires with them.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Commentary on John, Book X",
+            "quote": "It is possible even for the dweller in Jerusalem to incur guilt, and even the most richly endowed may stray. Unless they repent speedily, they lose the capacity with which they were endowed."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Luke",
+            "quote": "There are two images in man: one which he received from God, as it is written, 'Let us make man in our own image;' another from the enemy, which he has contracted through disobedience and sin. Cast away the earthly image, that by putting on the heavenly image, you may render unto God the things that are God's."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2583,
+            "title": "God seeks intimacy with His people"
+          },
+          {
+            "paragraph": 30,
+            "title": "The heart restless until it rests in God"
+          }
+        ],
+        "thematicConnection": "God's yearning that Judah 'cling' to Him sets up the psalm's lament that Israel has forgotten the Rock who fathered her, and prepares the Gospel's promise that even a spoilt covenant can be renewed by the tiny, hidden seed of the Kingdom."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Deuteronomy 32:18-21",
+      "text": "You forget the God who fathered you.\nYou forget the Rock who begot you,\nunmindful now of the God who fathered you.\nThe Lord has seen this, and in his anger\ncast off his sons and his daughters.\nYou forget the God who fathered you.\n‘I shall hide my face from them,’ he says\n‘and see what becomes of them.\nFor they are a deceitful brood,\nchildren with no loyalty in them.\nYou forget the God who fathered you.\n‘They have roused me to jealousy with what is no god,\nthey have angered me with their beings of nothing;\nI, then, will rouse them to jealousy with what is no people,\nI will anger them with an empty-headed nation.’\nYou forget the God who fathered you.",
+      "translation": "Universalis (US)",
+      "refrain": "You forget the God who fathered you.",
+      "exegesis": {
+        "summary": "Taken from the Song of Moses in Deuteronomy 32, this canticle names Israel's sin with painful tenderness: they have forgotten the God who fathered them, the Rock who begot them. The Lord's response is to hide His face and let them taste the emptiness of the 'no-gods' they preferred. Yet the very naming of God as Father reveals a covenant wound, not a broken bond; the divine 'jealousy' is the jealousy of love.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on Matthew",
+            "quote": "He calls them an evil generation, because they have ever been ungrateful to their benefactors, and were made worse when they received benefits, which is the extreme of wickedness."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2783,
+            "title": "The Father who begets us"
+          },
+          {
+            "paragraph": 205,
+            "title": "The faithful and compassionate God"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to what the ruined loincloth pictures: a people who once clung to God have forgotten Him. It also intensifies the Gospel's contrast — while Israel forgets, the Kingdom silently germinates in the smallest of seeds."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 13:31-35",
+      "text": "Jesus put a parable before the crowds: ‘The kingdom of heaven is like a mustard seed which a man took and sowed in his field. It is the smallest of all the seeds, but when it has grown it is the biggest shrub of all and becomes a tree so that the birds of the air come and shelter in its branches.’\nI will speak to you in parables\nand expound things hidden since the foundation of the world.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus compares the Kingdom of heaven to a mustard seed: the smallest of seeds becomes a great shrub in whose branches the birds of the air find shelter. He then interprets His own use of parables as fulfillment of prophecy — He speaks to unveil 'things hidden since the foundation of the world.' What Israel lost through infidelity, God is now planting anew in a hidden, humble, universal Kingdom that shelters all peoples.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The parables of the leaven and the grain of mustard-seed refer to the power of Gospel preaching, which has subdued the whole world. Lest any should say, 'Who and how many shall they be that believe?' He removes this cause of fear by the parable of the mustard seed."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The kingdom of heaven is the preaching of the Gospel and the knowledge of the Scriptures which leads to life. It is this kingdom of heaven which is likened to a grain of mustard seed."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 546,
+            "title": "The parables mirror the heart"
+          },
+          {
+            "paragraph": 541,
+            "title": "The Kingdom inaugurated by Christ"
+          },
+          {
+            "paragraph": 567,
+            "title": "The Church, seed of the Kingdom"
+          }
+        ],
+        "thematicConnection": "Where Judah rotted like a hidden loincloth by the Euphrates, God now hides a different thing in the earth — a mustard seed that grows into shelter for the nations. The Kingdom is the answer to Israel's forgetfulness: a new People who will cling to the Lord."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "From the Ruined Loincloth to the Mustard Seed",
+    "body": "Today the Church sets before us a startling contrast between two things hidden in the earth. In Jeremiah, God commands His prophet to bury a linen loincloth by the Euphrates, and when it is retrieved it is spoilt, useless — a picture of Judah, whom the Lord had intended to cling to Him 'as a loincloth clings to a man's waist,' but who chose alien gods instead. The psalm echoes the grief: they have forgotten the Rock who fathered them, and so the Father hides His face and lets them taste the emptiness of the nothings they preferred. Yet the Gospel proclaims that God is not finished hiding things in the earth. Jesus buries a mustard seed — the smallest of all seeds — and from that hidden, humble beginning rises a great shrub in whose branches all the birds of heaven find shelter. What Israel forfeited by infidelity, Christ restores by the hidden power of His Kingdom, the Church, the seed and beginning of God's reign (CCC 541, 567). The invitation today is intimate and urgent: cling to the Lord. Do not forget the God who fathered you. Let the mustard seed of the Word be sown deep in your heart, and become good earth in which the Kingdom can grow into shelter for others."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9409,
+    "completionTokens": 2224,
+    "generatedAt": "2026-07-27T12:18:34.735296+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
