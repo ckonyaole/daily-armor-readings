@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-28",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-28",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - July 28, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-28"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jeremiah 14:17-22",
+      "text": "The Lord said to me:\nSay this word to the people:\n‘Tears flood my eyes\nnight and day, unceasingly,\nsince a crushing blow falls on the daughter of my people,\na most grievous injury.\nIf I go into the countryside,\nthere lie men killed by the sword;\nif I go into the city,\nI see people sick with hunger;\neven prophets and priests\nplough the land: they are at their wit’s end.’\n‘Have you rejected Judah altogether?\nDoes your very soul revolt at Zion?\nWhy have you struck us down without hope of cure?\nWe were hoping for peace – no good came of it!\nFor the moment of cure – nothing but terror!\nLord, we do confess our wickedness\nand our fathers’ guilt:\nwe have indeed sinned against you.\nFor your name’s sake do not reject us,\ndo not dishonour the throne of your glory.\nRemember us; do not break your covenant with us.\nCan any of the pagan Nothings make it rain?\nCan the heavens produce showers?\nNo, it is you, Lord.\nO our God, you are our hope,\nsince it is you who do all this.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jeremiah weeps over the ruin of Judah, describing a land laid waste by sword and famine, where even prophets and priests are bewildered. Yet from the ashes of judgment rises a stunning confession: the people acknowledge their guilt and their fathers' guilt, and cling to the Lord as their only hope. This is a prayer of repentance that appeals not to Israel's merit but to God's own name, His covenant, and His unique power to save.",
+        "patristicQuotes": [
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "In good season He thus introduces their own woes, as here they will receive consolation from the common calamities; and He held out to them not this comfort only, but also that of the cause for which they should suffer."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 210,
+            "title": "God merciful and gracious, slow to anger"
+          },
+          {
+            "paragraph": 2854,
+            "title": "Deliver us from every evil"
+          }
+        ],
+        "thematicConnection": "Jeremiah's lament over a field of the slain foreshadows the Gospel's harvest at the end of time: the world is truly wounded by sin, and only the Lord — not the 'pagan Nothings' — can heal what wickedness has sown."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 78(79):8-9,11,13",
+      "text": "Rescue us, O Lord, for the glory of your name.\nDo not hold the guilt of our fathers against us.\nLet your compassion hasten to meet us;\nwe are left in the depths of distress.\nRescue us, O Lord, for the glory of your name.\nO God our saviour, come to our help.\nCome for the sake of the glory of your name.\nO Lord our God, forgive us our sins;\nrescue us for the sake of your name.\nRescue us, O Lord, for the glory of your name.\nLet the groans of the prisoners come before you;\nlet your strong arm reprieve those condemned to die.\nBut we, your people, the flock of your pasture,\nwill give you thanks for ever and ever.\nWe will tell your praise from age to age.\nRescue us, O Lord, for the glory of your name.",
+      "translation": "Universalis (US)",
+      "refrain": "Rescue us, O Lord, for the glory of your name.",
+      "exegesis": {
+        "summary": "The refrain distills Israel's cry: 'Rescue us, O Lord, for the glory of your name.' The psalmist does not plead innocence but confesses sin and appeals to God's honor as the true motive for mercy. Salvation is asked as a gift belonging to God's own reputation, so that His flock may proclaim His praise from age to age.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Sermon on the Mount, II.11",
+            "quote": "If it be counsel by which blessed are the merciful, for they shall obtain mercy, let us forgive debts, that our debts may be forgiven us."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2783,
+            "title": "From wicked servant to good son"
+          },
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in you"
+          }
+        ],
+        "thematicConnection": "The psalm becomes Israel's — and our — response to Jeremiah's lament: the guilty flock throws itself upon God's name, echoing the same trust that will finally cause the righteous to 'shine like the sun' in the Father's kingdom."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 13:36-43",
+      "text": "Leaving the crowds, Jesus went to the house; and his disciples came to him and said, ‘Explain the parable about the darnel in the field to us.’ He said in reply, ‘The sower of the good seed is the Son of Man. The field is the world; the good seed is the subjects of the kingdom; the darnel, the subjects of the evil one; the enemy who sowed them, the devil; the harvest is the end of the world; the reapers are the angels. Well then, just as the darnel is gathered up and burnt in the fire, so it will be at the end of time. The Son of Man will send his angels and they will gather out of his kingdom all things that provoke offences and all who do evil, and throw them into the blazing furnace, where there will be weeping and grinding of teeth. Then the virtuous will shine like the sun in the kingdom of their Father. Listen, anyone who has ears!’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Alone with His disciples, Jesus unveils the parable of the wheat and the tares. He Himself is the Sower; the field is the whole world; the good seed are His subjects and the weeds are the devil's. History is not a battle between two equal kingdoms — it is a patient sowing that will end in a decisive harvest, when the angels gather out everything that causes sin and the righteous shine like the sun in the kingdom of their Father.",
+        "patristicQuotes": [
+          {
+            "father": "Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Before, though desirous to learn, they had feared to ask; but now they ask freely and confidently because they had heard, To you it is given to know the mystery of the kingdom of heaven."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "So long as the wicked know neither themselves nor Christ, or the righteous see through a glass darkly, so long the good are not severed from the evil; but when by the manifestation of the Son of God all shall come to the knowledge of Him, then shall the Saviour sever the good from the evil."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 681,
+            "title": "Wheat and tares grow together in history"
+          },
+          {
+            "paragraph": 1036,
+            "title": "Hell as urgent call to conversion"
+          },
+          {
+            "paragraph": 541,
+            "title": "The Kingdom inaugurated by Christ"
+          }
+        ],
+        "thematicConnection": "Jeremiah saw wickedness ravaging Judah and cried for rescue; Jesus reveals the deeper truth beneath such devastation — the enemy sows weeds, but the harvest belongs to God alone, and He is patient precisely so that penitents like the psalmist may yet ripen into wheat."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Field of Tears and the Harvest of Light",
+    "body": "Today the Church invites us to stand in the middle of a wounded field. Jeremiah walks through a countryside of the slain and a city sick with hunger, and he weeps night and day. The psalmist joins him, confessing the guilt of fathers and sons alike, but daring to appeal to God's own name: 'Rescue us, O Lord, for the glory of your name.' Neither prophet nor psalmist pretends the harm is small; both refuse to despair, because the Lord alone gives rain, and He alone remembers His covenant. Then Jesus quietly explains the mystery hidden beneath every such lament: the world is a field in which He Himself has sown good seed, and an enemy has sown weeds. The devastation Jeremiah mourned is not the last word; it is the middle of a story whose ending belongs to the Sower. At the harvest, the angels will gather every cause of sin, and the righteous will shine like the sun in the kingdom of their Father (cf. CCC 681). Between now and that day, the Church prays with tears and hope: acknowledge your sin, cling to God's name, endure the mingled field, and trust the patient Lord who, for the glory of His name, is already ripening His wheat."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 10442,
+    "completionTokens": 1987,
+    "generatedAt": "2026-07-28T11:14:21.035182+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
