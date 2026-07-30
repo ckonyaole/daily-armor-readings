@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-30",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-07-30",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - July 30, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-07-30"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jeremiah 18:1-6",
+      "text": "The word that was addressed to Jeremiah by the Lord, ‘Get up and make your way down to the potter’s house; there I shall let you hear what I have to say.’ So I went down to the potter’s house; and there he was, working at the wheel. And whenever the vessel he was making came out wrong, as happens with the clay handled by potters, he would start afresh and work it into another vessel, as potters do. Then this word of the Lord was addressed to me, ‘House of Israel, can not I do to you what this potter does? – it is the Lord who speaks. Yes, as the clay is in the potter’s hand, so you are in mine, House of Israel.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "At the potter's house Jeremiah receives a living parable: Israel is clay in the hand of the Lord, who can reshape a marred vessel into something new. God's sovereignty is not tyranny but the patient artistry of a Maker who does not discard His people but reworks them. The image summons repentance and pliancy under God's forming hand.",
+        "patristicQuotes": [
+          {
+            "father": "John Chrysostom",
+            "work": "Homilies on John, lvi.2",
+            "quote": "He who had brought greater substances into being out of nothing could much more have given sight without any material; but He wished to show that He was the Creator, who in the beginning used clay for the formation of man."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 208,
+            "title": "Man's insignificance before God's holiness"
+          },
+          {
+            "paragraph": 269,
+            "title": "God the Mighty One, Lord of history"
+          }
+        ],
+        "thematicConnection": "The Potter who reshapes marred clay anticipates the Gospel's final sorting of vessels: what the Potter cannot rework in this life will be separated at the harvest. Both readings insist that our destiny lies in God's hands, not our own."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 145(146):2-6",
+      "text": "He is happy who is helped by Jacob’s God.\nor\nAlleluia!\nMy soul, give praise to the Lord.\nI will praise the Lord all my days,\nmake music to my God while I live.\nHe is happy who is helped by Jacob’s God.\nor\nAlleluia!\nPut no trust in princes,\nIn mortal men in whom there is no help.\nTake their breath, they return to clay\nand their plans that day come to nothing.\nHe is happy who is helped by Jacob’s God.\nor\nAlleluia!\nHe is happy who is helped by Jacob’s God,\nwhose hope is in the Lord his God,\nwho alone made heaven and earth,\nthe seas and all they contain.\nHe is happy who is helped by Jacob’s God.\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "He is happy who is helped by Jacob’s God.",
+      "exegesis": {
+        "summary": "The psalmist teaches where blessedness lies: not in princes whose breath returns to clay, but in the God of Jacob who made heaven and earth. Human plans perish; the Lord's help endures. This is a hymn of trust in the Almighty Creator.",
+        "patristicQuotes": [
+          {
+            "father": "Gloss",
+            "work": "Ordinary Gloss",
+            "quote": "He rejoices indeed who rejoices on God's account, who is the true joy."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 269,
+            "title": "The Mighty One of Jacob"
+          },
+          {
+            "paragraph": 2547,
+            "title": "Trust in God, blessedness of the poor"
+          }
+        ],
+        "thematicConnection": "The psalm echoes Jeremiah's imagery precisely: mortals 'return to clay,' yet the Potter-Creator remains. To be 'helped by Jacob's God' is to submit gladly to the hand that formed us and to be counted among the good vessels of the Gospel's dragnet."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 13:47-53",
+      "text": "Jesus said to the crowds: ‘The kingdom of heaven is like a dragnet cast into the sea that brings in a haul of all kinds. When it is full, the fishermen haul it ashore; then, sitting down, they collect the good ones in a basket and throw away those that are no use. This is how it will be at the end of time: the angels will appear and separate the wicked from the just to throw them into the blazing furnace where there will be weeping and grinding of teeth.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The Kingdom is a dragnet gathering fish of every kind; only at the shore, at the end of the age, does the sorting come. Jesus warns of a real and final separation carried out by the angels. He then commends the scribe trained for the Kingdom who brings from his storeroom things both new and old — the fulfillment of the Law and Prophets in Christ.",
+        "patristicQuotes": [
+          {
+            "father": "Gregory the Great",
+            "work": "Homilies on the Gospels, xii.1",
+            "quote": "By the kingdom of heaven is meant the present Church, as in that, 'The Son of Man shall send forth his angels, and they shall gather out of his kingdom all things that offend.'"
+          },
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "By the harvest is denoted the day of judgment, in which the good are to be separated from the evil; which will be done by the ministry of Angels."
+          },
+          {
+            "father": "Augustine",
+            "work": "Catena Aurea on Matthew",
+            "quote": "When they have been taken in who have been changed into angelic being, all entrance into the kingdom of heaven is closed; after the judgment, there is no more place for prayers or merit."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1038,
+            "title": "The Last Judgment"
+          },
+          {
+            "paragraph": 333,
+            "title": "Angels serving at Christ's judgment"
+          },
+          {
+            "paragraph": 577,
+            "title": "Christ fulfills, not abolishes, the Law"
+          }
+        ],
+        "thematicConnection": "The Potter's workshop becomes the fisherman's shore. Jeremiah's warning that the Lord can remake or discard is fulfilled in Jesus' teaching that the Church now holds all kinds together, but a final, angelic sorting is coming."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "In the Potter's Hand, in the Master's Net",
+    "body": "Today the Church places us before two images of divine sovereignty and mercy. Jeremiah watches a potter rework a spoiled vessel and hears the Lord say, 'As the clay is in the potter's hand, so are you in mine.' The Psalm sharpens the point: princes and their plans crumble back to clay, but blessed is the one whose hope is in the God of Jacob, the Maker of heaven and earth. Then Jesus tells of a dragnet that gathers fish of every kind until, at day's end, the sorting comes. Two workshops, one truth: our lives are held in hands not our own. The Potter is patient — He does not shatter the marred vessel but reshapes it — and the Fisherman is patient too, letting good and bad swim together in the net of the Church until the harvest. But patience is not indifference. A day is coming when the angels will separate, and no more reshaping will be possible. Today, then, is the day to be soft clay: to let sorrow for sin, as St. Bede says, take from our souls what should not be there, and to bring forth from the storeroom of a converted heart 'things new and old' — the whole treasure of Christ's Kingdom."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7369,
+    "completionTokens": 1873,
+    "generatedAt": "2026-07-30T11:04:08.210326+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
