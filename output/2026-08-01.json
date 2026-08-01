@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-01",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-01",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - August 01, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-01"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jeremiah 26:11-16,24",
+      "text": "The priests and prophets addressed the officials and all the people, ‘This man deserves to die, since he has prophesied against this city, as you have heard with your own ears.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jeremiah stands before the priests and princes of Judah, accused of prophesying against the Temple and the city. Because he speaks the truth entrusted to him by God, they judge him worthy of death, yet the Lord raises up defenders and Jeremiah is spared. The reading unveils the perennial pattern: the world silences the messengers of God, but God protects His word and its heralds until their appointed hour.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "These are the usual thoughts of all worldly priests, who take no thought how the people shall live without sin, but look to how much is offered in the Church, and esteem that the profit of their ministry."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on John",
+            "quote": "He said this with a bad intention, yet the Holy Spirit used his mouth as the vehicle of a prophecy: being high priest that year, he prophesied that Jesus should die for that nation."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2474,
+            "title": "The archives of the martyrs"
+          },
+          {
+            "paragraph": 1797,
+            "title": "Conscience as a pledge of conversion"
+          },
+          {
+            "paragraph": 596,
+            "title": "Religious authorities' judgment against the prophet"
+          }
+        ],
+        "thematicConnection": "Jeremiah foreshadows John the Baptist in today's Gospel: a righteous man condemned for speaking God's word to unrepentant power. Both prophets prepare us to see Christ Himself, the ultimate Prophet whom the Sanhedrin will condemn."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 68(69):15-16,30-31,33-34",
+      "text": "In your great love, answer me, O God.\nRescue me from sinking in the mud;\nsave me from my foes.\nSave me from the waters of the deep\nlest the waves overwhelm me.\nDo not let the deep engulf me\nnor death close its mouth on me.\nIn your great love, answer me, O God.\nAs for me in my poverty and pain\nlet your help, O God, lift me up.\nI will praise God’s name with a song;\nI will glorify him with thanksgiving.\nIn your great love, answer me, O God.\nThe poor when they see it will be glad\nand God-seeking hearts will revive;\nfor the Lord listens to the needy\nand does not spurn his servants in their chains.\nIn your great love, answer me, O God.",
+      "translation": "Universalis (US)",
+      "refrain": "In your great love, answer me, O God.",
+      "exegesis": {
+        "summary": "The psalmist, sinking in the waters of persecution, cries out for God to answer him in His great love. Poor and afflicted, he still promises praise, confident that the Lord listens to the needy and does not spurn His servants in their chains. This is the prayer of every faithful sufferer, and above all of Christ Himself in His Passion.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "He calls those blessed who shun a careless life mixed up with sin and devoted to carnal pleasures, and refuse enjoyments almost weeping from their hatred of all worldly things."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2443,
+            "title": "God hears the poor"
+          },
+          {
+            "paragraph": 2546,
+            "title": "Blessed are the poor in spirit"
+          },
+          {
+            "paragraph": 30,
+            "title": "Hearts of those who seek the Lord"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to Jeremiah in the stocks and John the Baptist in Herod's prison. Every faithful servant threatened for God's sake finds his cry here — and finds it answered, if not by rescue from death, then by resurrection to life."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 14:1-12",
+      "text": "Herod the tetrarch heard about the reputation of Jesus, and said to his court, ‘This is John the Baptist himself; he has risen from the dead, and that is why miraculous powers are at work in him.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Herod, haunted by guilt, imagines that the miracles of Jesus are the work of a resurrected John the Baptist. Matthew then recounts the sordid story of John's beheading — a righteous prophet murdered because a king would not lose face at a banquet. The forerunner dies as he lived, bearing witness to the truth, and his death prefigures Christ's own.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Observe how great a thing is virtue; Herod fears John even after he is dead, and philosophizes concerning the resurrection."
+          },
+          {
+            "father": "Gloss",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Evangelist relates what opinion Herod had formed concerning Christ on hearing of His miracles."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 523,
+            "title": "John, the immediate precursor"
+          },
+          {
+            "paragraph": 719,
+            "title": "John completes the cycle of the prophets"
+          },
+          {
+            "paragraph": 608,
+            "title": "The Lamb of God foreshadowed"
+          }
+        ],
+        "thematicConnection": "John, like Jeremiah, is condemned for telling a king the truth about his sin. He fulfills the psalm's cry — a poor and imprisoned servant of the Lord — and his martyrdom points to Christ, whose miracles even Herod cannot ignore."
+      }
+    },
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Romans 8:1-4",
+      "text": "The reason why those who are in Christ Jesus are not condemned is that the law of the spirit of life in Christ Jesus has set you free from the law of sin and death. God has done what the Law, because of our unspiritual nature, was unable to do. God dealt with sin by sending his own Son in a body as physical as any sinful body, and in that body God condemned sin. He did this in order that the Law’s just demands might be satisfied in us, who behave not as our unspiritual nature but as the spirit dictates.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul proclaims the heart of the Gospel: there is no condemnation for those in Christ Jesus. What the Law could not accomplish because of our weakened nature, God accomplished by sending His own Son in the likeness of sinful flesh, condemning sin in the flesh so that the Law's just demands might be fulfilled in us who walk according to the Spirit. This is the good news of grace triumphing over the law of sin and death.",
+        "patristicQuotes": [
+          {
+            "father": "Alcuin",
+            "work": "Catena Aurea on John",
+            "quote": "In this name alone is there salvation. God hath not many sons who can save; He by whom He saves is the Only Begotten."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 615,
+            "title": "By one man's obedience many are made righteous"
+          },
+          {
+            "paragraph": 1963,
+            "title": "The Law prepares for grace but cannot save"
+          },
+          {
+            "paragraph": 2543,
+            "title": "Righteousness of God through faith in Christ"
+          }
+        ],
+        "thematicConnection": "This reading interprets the martyrdoms of the day: Jeremiah, John, and every faithful witness endure the world's condemnation because a greater verdict has been rendered in Christ. In Him alone is the Law fulfilled and sin defeated."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 118(119):9-14",
+      "text": "Lord, teach me your statutes.\nHow shall the young remain sinless?\nBy obeying your word.\nI have sought you with all my heart;\nlet me not stray from your commands.\nLord, teach me your statutes.\nI treasure your promise in my heart\nlest I sin against you.\nBlessed are you, O Lord;\nteach me your statutes.\nLord, teach me your statutes.\nWith my tongue I have recounted\nthe decrees of your lips.\nI rejoiced to do your will\nas though all riches were mine.\nLord, teach me your statutes.",
+      "translation": "Universalis (US)",
+      "refrain": "Lord, teach me your statutes.",
+      "exegesis": {
+        "summary": "Psalm 119 sings the joy of the Torah loved and kept from the heart. The young remain sinless by treasuring God's word; the disciple begs, 'Teach me your statutes,' rejoicing in God's decrees more than in all riches. This is the Law not as burden but as light, the pedagogue that leads to Christ.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Because all the commandments that the Lord had recounted were contained in the Law, the young man saith unto him, All these have I kept from my youth up. And did not even rest there, but asked further, What lack I yet? — which alone is a mark of his intense desire."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1975,
+            "title": "The Law as fatherly instruction"
+          },
+          {
+            "paragraph": 708,
+            "title": "Divine pedagogy of the Law"
+          },
+          {
+            "paragraph": 580,
+            "title": "Christ's perfect fulfillment of the Law"
+          }
+        ],
+        "thematicConnection": "The psalm bridges Paul's teaching on grace and Christ's teaching on the Law's abiding worth. To love God's statutes is not to be enslaved by them but to be prepared for the Spirit who writes them on the heart."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 5:13-19",
+      "text": "Jesus said to his disciples: ‘You are the salt of the earth. But if salt becomes tasteless, what can make it salty again? It is good for nothing, and can only be thrown out to be trampled underfoot by men.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus calls His disciples the salt of the earth and the light of the world, and warns that He has not come to abolish the Law but to fulfill it. Not one iota shall pass away, and whoever keeps and teaches even the least commandment will be called great in the Kingdom. Grace does not abolish God's holy Law; it makes possible its full accomplishment in love.",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Apostles are preachers of heavenly things, and thus, as it were, salters with eternity; rightly called the salt of the earth, as by the virtue of their teaching, they salt and preserve bodies for eternity."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "It is not for you then to flatter and deal smoothly with men, but, on the contrary, to be rough and biting as salt is. When for thus offending men by reproving them ye are reviled, rejoice; for this is the proper effect of salt."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 580,
+            "title": "Christ fulfills the Law"
+          },
+          {
+            "paragraph": 2074,
+            "title": "Fruit through union with Christ"
+          },
+          {
+            "paragraph": 1982,
+            "title": "Old Law prepares for the Gospel"
+          }
+        ],
+        "thematicConnection": "The disciples' saltiness is exactly what Jeremiah and John embodied: unflinching witness to God's word before hostile powers. Christ's freedom from condemnation (Romans) does not exempt us from being salt and light — it empowers it."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Salt for the earth, freed from condemnation",
+    "body": "Today the Church places before us the costly vocation of speaking God's word in a world that would rather silence it. Jeremiah is dragged before the priests and princes and told, 'This man deserves to die,' because his prophecy wounded the pride of Jerusalem. John the Baptist meets the same fate on a birthday platter, his head the price of a king's vanity. Both prophets pray Psalm 69: sinking in the mire, poor and in pain, yet trusting that the Lord listens to the needy and does not spurn His servants in their chains. Their witness anticipates Christ Himself, whose miracles trouble even Herod's guilty conscience. St. Paul then discloses the deepest reason a Christian can face such trials without fear: 'There is no condemnation for those who are in Christ Jesus.' What the Law could not do because of our weakness, God did by sending His Son in the likeness of sinful flesh, that the Law's just demands might be fulfilled in us who walk by the Spirit. Psalm 119 then teaches us to love that Law, and Christ concludes: I have not come to abolish but to fulfill; you are the salt of the earth. Freed from condemnation, we are made bracing witnesses — like Jeremiah, like John, like every martyr — preserving the world for eternity."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 12599,
+    "completionTokens": 3645,
+    "generatedAt": "2026-08-01T10:38:28.195854+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
