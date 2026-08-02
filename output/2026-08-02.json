@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-02",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-02",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - August 02, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-08-02"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Isaiah 55:1-3",
+      "text": "Thus says the Lord:\nOh, come to the water all you who are thirsty;\nthough you have no money, come!\nBuy corn without money, and eat,\nand, at no cost, wine and milk.\nWhy spend money on what is not bread,\nyour wages on what fails to satisfy?\nListen, listen to me, and you will have good things to eat\nand rich food to enjoy.\nPay attention, come to me;\nlisten, and your soul will live.\nWith you I will make an everlasting covenant\nout of the favours promised to David.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Through Isaiah, God summons the thirsty and the poor to a banquet purchased without price, offering food, wine, and milk to those who have no money. He rebukes the futile spending of wages on what does not satisfy and calls His people to listen, that their souls may live. This lavish invitation culminates in the promise of an everlasting covenant, rooted in the mercies once shown to David.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Sermon 113",
+            "quote": "If you seek the true riches, there are some in which Job when naked abounded, when he had his heart full toward God. The others are called riches from unrighteousness, because they are not true riches, for they are full of poverty, and ever liable to chances."
+          },
+          {
+            "father": "Titus of Bostra",
+            "work": "Catena Aurea on Luke",
+            "quote": "A little thing is that thou spendest, thou receivest great things."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 709,
+            "title": "The Kingdom belongs to the poor in spirit"
+          },
+          {
+            "paragraph": 2835,
+            "title": "Man does not live by bread alone"
+          }
+        ],
+        "thematicConnection": "Isaiah's promise of free bread and an everlasting covenant is fulfilled visibly in the Gospel's multiplication of loaves, where Christ Himself becomes the food that satisfies without cost."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 144(145):8-9,15-18",
+      "text": "You open wide your hand, O Lord; you grant our desires.\nThe Lord is kind and full of compassion,\nslow to anger, abounding in love.\nHow good is the Lord to all,\ncompassionate to all his creatures.\nYou open wide your hand, O Lord; you grant our desires.\nThe eyes of all creatures look to you\nand you give them their food in due time.\nYou open wide your hand,\ngrant the desires of all who live.\nYou open wide your hand, O Lord; you grant our desires.\nThe Lord is just in all his ways\nand loving in all his deeds.\nHe is close to all who call him,\nwho call on him from their hearts.\nYou open wide your hand, O Lord; you grant our desires.",
+      "translation": "Universalis (US)",
+      "refrain": "You open wide your hand, O Lord; you grant our desires.",
+      "exegesis": {
+        "summary": "The psalmist praises the Lord as kind, compassionate, and slow to anger, whose providence extends to every living creature. He opens His hand and fills every hungry mouth in due season. He is near to all who call on Him from the heart, just in all His ways and loving in all His deeds.",
+        "patristicQuotes": [
+          {
+            "father": "Venerable Bede",
+            "work": "Homily on the Vigil of St. Andrew",
+            "quote": "This is truly to find the Lord: to have fervent love for Him, together with a care for our brother's salvation."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2830,
+            "title": "The Father who gives us life gives us all we need"
+          },
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in Him"
+          }
+        ],
+        "thematicConnection": "The refrain 'You open wide your hand' is the very hinge between Isaiah's free banquet and Christ's hands lifted to bless the loaves; God's providence in creation is fulfilled in Christ's providence in the desert."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 8:35,37-39",
+      "text": "Nothing can come between us and the love of Christ, even if we are troubled or worried, or being persecuted, or lacking food or clothes, or being threatened or even attacked. These are the trials through which we triumph, by the power of him who loved us.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul proclaims that no earthly trial, no persecution, no hunger, nakedness, or sword, can sever us from the love of Christ. Rather than defeating us, these tribulations become the very means by which we become 'more than conquerors,' triumphing through the power of the One who loved us. Neither death nor life nor any created thing can separate the beloved from Christ.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 83 on John",
+            "quote": "Where love is, what can be wanting? Where it is not, what can profit? To what end did Christ love us, but that we should reign with Him?"
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on John",
+            "quote": "He suffers us to remain in the midst of dangers and tribulations, that we may be proved thereby, and flee for succour to Him Who is able to give us deliverance when we least expect it."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 616,
+            "title": "Love to the end"
+          },
+          {
+            "paragraph": 1825,
+            "title": "Christ died out of love for us"
+          }
+        ],
+        "thematicConnection": "The same love that spread the banquet in Isaiah and multiplied bread in the desert is the love from which nothing can now separate us; it is the covenant made unbreakable in Christ."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 14:13-21",
+      "text": "When Jesus received the news of John the Baptist’s death he withdrew by boat to a lonely place where they could be by themselves. But the people heard of this and, leaving the towns, went after him on foot. So as he stepped ashore he saw a large crowd; and he took pity on them and healed their sick.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Grieved by the death of John the Baptist, Jesus withdraws to a lonely place, yet the crowds seek Him out. Moved with compassion, He heals the sick and, as evening falls, feeds five thousand men, besides women and children, from five loaves and two fish. This miracle, a prelude to the Eucharist, reveals Christ as the true Shepherd whose blessing turns scarcity into abundance.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He would that His verity of incarnation should be assured not by sight only, but by His actions. The testimony of deeds is stronger than the testimony of words."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Jesus is in the midst of the waves; secure in His majesty, He causes His vessel to come nigh the land, that the people, not being in danger, might stand on the shore with a firm step, to hear what was said."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1503,
+            "title": "Christ's compassion for the sick"
+          },
+          {
+            "paragraph": 1351,
+            "title": "The Eucharist and care for those in need"
+          },
+          {
+            "paragraph": 561,
+            "title": "The whole of Christ's life a continual teaching"
+          }
+        ],
+        "thematicConnection": "The multiplication of loaves is the enactment of Isaiah's invitation and the Psalm's refrain: God opens His hand in Christ, feeding the hungry without cost, and prefiguring the Eucharistic banquet that no tribulation can take from us."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Come to the water: the God who opens His hand in Christ",
+    "body": "Today the Church spreads before us one vast table. Through Isaiah, God cries out to a people who have spent their wages on what does not satisfy: come, buy without money, and I will make with you an everlasting covenant. The Psalm answers with a refrain that could be the whole Christian life: 'You open wide your hand, O Lord.' In the Gospel that hand is made visible. Jesus, though grieving the murder of John, sees the crowds and is moved with compassion; He heals their sick and, from five loaves and two fish, feeds thousands with baskets to spare. This is the free banquet Isaiah promised, and it points forward to the Eucharist, the true Bread of the everlasting covenant. St. Paul then names the deepest hunger and the deepest gift: nothing, not persecution or famine or sword, can separate us from the love of Christ. The God who feeds the ravens and the multitudes has bound Himself to us in a love stronger than death. So the Church invites us this Sunday to bring our poverty, our griefs, our meager loaves, and to place them in His hands, that we, in turn, might open wide our own hands to Christ hidden in the poor."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 10026,
+    "completionTokens": 2433,
+    "generatedAt": "2026-08-02T10:31:27.693391+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
