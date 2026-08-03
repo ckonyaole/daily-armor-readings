@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-03",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-03",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - August 03, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-03"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jeremiah 28:1-17",
+      "text": "At the beginning of the reign of Zedekiah king of Judah in the fifth month of the fourth year, the prophet Hananiah son of Azzur, a Gibeonite, spoke as follows to Jeremiah in the Temple of the Lord in the presence of the priests and of all the people. ‘The Lord, the God of Israel, says this, “I have broken the yoke of the king of Babylon. In two years’ time I will bring back all the vessels of the Temple of the Lord which Nebuchadnezzar king of Babylon carried off from this place and took to Babylon. And I will also bring back Jeconiah son of Jehoiakim, king of Judah, and all the exiles of Judah who have gone to Babylon – it is the Lord who speaks. Yes, I am going to break the yoke of the king of Babylon.”’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Hananiah confronts Jeremiah with a comforting counter-prophecy: within two years God will break Babylon's yoke and restore the Temple vessels. Jeremiah longs for this to be true, but the word of the Lord unmasks Hananiah as a false prophet who speaks his own dreams. God's word, spoken through Jeremiah, is a hard word of purification, and Hananiah's death that same year vindicates the true prophet.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "They beat them, as Jeremiah, killed them, as Isaiah, stoned them, as Naboth and Zacharias, whom they slew between the temple and the altar."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Mark",
+            "quote": "By the first servant, understand the prophets who lived about the time of Elias, for Zedekiah the false prophet beat Micaiah; and by the second servant whom they wounded in the head we may understand the prophets who lived about the time of Hosea and Isaiah; but by the third servant understand the prophets who flourished about the time of Daniel and Ezekiel."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2583,
+            "title": "The prophets and conversion of heart"
+          },
+          {
+            "paragraph": 2580,
+            "title": "The Temple and God's covenant with his people"
+          }
+        ],
+        "thematicConnection": "Jeremiah is the persecuted prophet who clings to God's true word against a smoother, more popular voice — the same fidelity to truth the psalmist begs for and the same steadfast trust Peter loses on the waves."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 118(119):29,43,79-80,95,102",
+      "text": "Lord, teach me your statutes.\nKeep me from the way of error\nand teach me your law.\nDo not take the word of truth from my mouth\nfor I trust in your decrees.\nLord, teach me your statutes.\nLet your faithful turn to me,\nthose who know your will.\nLet my heart be blameless in your statutes\nlest I be ashamed.\nLord, teach me your statutes.\nThough the wicked lie in wait to destroy me\nyet I ponder your will.\nI have not turned from your decrees;\nyou yourself have taught me.\nLord, teach me your statutes.",
+      "translation": "Universalis (US)",
+      "refrain": "Lord, teach me your statutes.",
+      "exegesis": {
+        "summary": "Psalm 119 is the great love-song to God's Law. The psalmist pleads to be kept from error, to have truth never taken from his mouth, and to persevere though the wicked lie in wait. His only stability is that God himself has taught him.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Sermon 83",
+            "quote": "Because the Law is set forth in ten precepts, the ten thousand talents owed denote all sins which can be done under the Law."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Law corrects faults, the Gospel removes their occasions."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1962,
+            "title": "The Old Law as light to conscience"
+          },
+          {
+            "paragraph": 1975,
+            "title": "Law as fatherly instruction"
+          },
+          {
+            "paragraph": 1977,
+            "title": "Christ is the end of the Law"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to Jeremiah's own posture: surrounded by false teachers and enemies, he trusts because God himself has taught him — the same trust Peter needs when he steps out of the boat."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 14:22-36",
+      "text": "Jesus made the disciples get into the boat and go on ahead to the other side while he would send the crowds away. After sending the crowds away he went up into the hills by himself to pray. When evening came, he was there alone, while the boat, by now far out on the lake, was battling with a heavy sea, for there was a head-wind. In the fourth watch of the night he went towards them, walking on the lake, and when the disciples saw him walking on the lake they were terrified. ‘It is a ghost’ they said, and cried out in fear. But at once Jesus called out to them, saying, ‘Courage! It is I! Do not be afraid.’ It was Peter who answered. ‘Lord,’ he said ‘if it is you, tell me to come to you across the water.’ ‘Come’ said Jesus. Then Peter got out of the boat and started walking towards Jesus across the water, but as soon as he felt the force of the wind, he took fright and began to sink. ‘Lord! Save me!’ he cried. Jesus put out his hand at once and held him. ‘Man of little faith,’ he said ‘why did you doubt?’ And as they got into the boat the wind dropped. The men in the boat bowed down before him and said, ‘Truly, you are the Son of God.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "After withdrawing to pray, Jesus comes to his storm-tossed disciples walking on the sea, revealing himself with the divine name: 'It is I.' Peter's bold faith carries him onto the water toward the Lord, but fear of the wind pulls him under; Jesus' outstretched hand saves him. The boat, image of the Church, arrives safely, and the disciples confess him as Son of God.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "See how great his warmth, how great his faith. He said not, Pray and entreat for me; but 'Bid me.' He believes not only that Christ can Himself walk on the sea, but that He can lead others also thereon; and he asks not from ostentation, but from love."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Peter overcame that which was greater, the waves of the sea, but is troubled by the lesser, the blowing wind. Such is human nature, in great trials oftentimes holding itself aright, and in lesser falling into fault."
+          },
+          {
+            "father": "Rabanus Maurus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The sea is the turmoil of the world; the boat in which Christ is embarked is to be understood as the tree of the cross, by the aid of which the faithful, having passed the waves of the world, arrive in their heavenly country as on a safe shore."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2600,
+            "title": "Jesus prays before decisive moments"
+          },
+          {
+            "paragraph": 2621,
+            "title": "Praying with lively faith and filial boldness"
+          },
+          {
+            "paragraph": 787,
+            "title": "Communion of the disciple with Christ"
+          }
+        ],
+        "thematicConnection": "As Jeremiah stood alone against the storm of false prophecy and clung to God's word, so Peter must fix his eyes on Christ amid the wind. The Lord's saving hand is the answer to the psalmist's cry, 'Lord, teach me your statutes.'"
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Christ's Hand Reaches into the Storm",
+    "body": "Today's liturgy sets us between two storms and one steady word. Jeremiah stands in the Temple while Hananiah preaches a soothing lie: two easy years and Babylon's yoke will snap. It is exactly the kind of prophecy weary hearts want to hear. But Jeremiah, faithful to what the Lord has actually spoken, refuses the false comfort — and pays for it, as prophets always do. The Psalmist gives us the interior posture that made Jeremiah able to stand: 'Keep me from the way of error… you yourself have taught me.' Truth is not something we invent; it is something God teaches to the docile heart. In the Gospel, that same drama moves onto the Sea of Galilee. The Church, tossed in her little boat against a headwind, sees the Lord coming across the very chaos that threatens her. Peter's bold faith is beautiful — 'Bid me come to you' — and his sinking is our own: strong in great trials, undone by the smaller wind. Yet Jesus' hand is there at once. The Lord who spoke through Jeremiah, who teaches the psalmist his statutes, is the same Lord who walks on the waters and pulls his sinking apostle up. Cling to his word when comfortable lies are louder; cling to his hand when the wind rises."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8044,
+    "completionTokens": 2322,
+    "generatedAt": "2026-08-03T12:18:52.664115+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
