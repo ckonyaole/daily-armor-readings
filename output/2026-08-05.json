@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-05",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-05",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - August 05, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-05"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jeremiah 31:1-7",
+      "text": "I will be the God of all the clans of Israel – it is the Lord who speaks – they shall be my people.\nThe Lord says this:\nThey have found pardon in the wilderness,\nthose who have survived the sword.\nIsrael is marching to his rest.\nThe Lord has appeared to him from afar:\nI have loved you with an everlasting love,\nso I am constant in my affection for you.\nI build you once more; you shall be rebuilt,\nvirgin of Israel.\nAdorned once more, and with your tambourines,\nyou will go out dancing gaily.\nYou will plant vineyards once more\non the mountains of Samaria\n(the planters have done their planting:\nthey will gather the fruit).\nYes, a day will come when the watchmen shout\non the mountains of Ephraim,\n‘Up! Let us go up to Zion,\nto the Lord our God!’\nFor the Lord says this:\nShout with joy for Jacob!\nHail the chief of nations!\nProclaim! Praise! Shout:\n‘The Lord has saved his people,\nthe remnant of Israel!’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Through Jeremiah, God speaks tender words to a people broken by exile: 'I have loved you with an everlasting love.' The Lord promises to rebuild the virgin of Israel, to gather the remnant, and to turn their weeping into dancing. This is a prophecy of return, of restoration, and ultimately of the new covenant in which God will be the God of all the clans of His people.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Homilies",
+            "quote": "The vineyard of the Lord of hosts is the house of Israel. The day shall come when, raised on high with the glory of immortal life, He will be filled with a new joy, together with His people born again of the fountain of spiritual grace."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "Zacharias, when he is blessing God, says that He hath visited His people — either the Israelites in the flesh, or the spiritual Israel, that is, the faithful, who were worthy of this visitation."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 205,
+            "title": "God faithful to the fathers"
+          },
+          {
+            "paragraph": 210,
+            "title": "The God merciful and gracious"
+          }
+        ],
+        "thematicConnection": "Jeremiah's promise to gather the scattered remnant sets the stage for the Psalm's shepherd imagery and for the Gospel, where that gathering unexpectedly extends beyond Israel to a Canaanite woman of great faith."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Jeremiah 31:10-12,13",
+      "text": "The Lord will guard us, as a shepherd guards his flock.\nO nations, hear the word of the Lord,\nproclaim it to the far-off coasts.\nSay: ‘He who scattered Israel will gather him,\nand guard him as a shepherd guards his flock.’\nThe Lord will guard us, as a shepherd guards his flock.\nFor the Lord has ransomed Jacob,\nhas saved him from an overpowering hand.\nThey will come and shout for joy on Mount Zion,\nthey will stream to the blessings of the Lord.\nThe Lord will guard us, as a shepherd guards his flock.\nThen the young girls will rejoice and will dance,\nthe men, young and old, will be glad.\nI will turn their mourning into joy,\nI will console them, give them gladness for grief.\nThe Lord will guard us, as a shepherd guards his flock.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord will guard us, as a shepherd guards his flock.",
+      "exegesis": {
+        "summary": "Drawn from Jeremiah itself, the psalm proclaims to the nations that the God who scattered Israel will gather him again 'as a shepherd guards his flock.' Mourning is turned into joy; the ransomed stream to Zion. The refrain announces that the Lord Himself is our shepherd and our watchman.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Homilies",
+            "quote": "Well at the birth of our Lord do shepherds watch over their flocks; for He was born who says, 'I am the good Shepherd' — the Shepherd who was to recall His scattered sheep to the pastures of life."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 60 on John",
+            "quote": "Both these flocks are dispersed, and without shepherds; and they shall hear My voice. And then He foretells their future union: 'There shall be one fold and one Shepherd.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 754,
+            "title": "Church as sheepfold under the Good Shepherd"
+          },
+          {
+            "paragraph": 30,
+            "title": "Hearts that seek the Lord rejoice"
+          }
+        ],
+        "thematicConnection": "The psalm links Jeremiah's promise of gathering to the Gospel's Good Shepherd, whose sheep include not only Israel but also the Canaanite mother who cries out for mercy."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 15:21-28",
+      "text": "Jesus left Gennesaret and withdrew to the region of Tyre and Sidon. Then out came a Canaanite woman from that district and started shouting, ‘Sir, Son of David, take pity on me. My daughter is tormented by a devil.’ But he answered her not a word. And his disciples went and pleaded with him. ‘Give her what she wants,’ they said ‘because she is shouting after us.’ He said in reply, ‘I was sent only to the lost sheep of the House of Israel.’ But the woman had come up and was kneeling at his feet. ‘Lord,’ she said ‘help me.’ He replied, ‘It is not fair to take the children’s food and throw it to the house-dogs.’ She retorted, ‘Ah yes, sir; but even house-dogs can eat the scraps that fall from their master’s table.’ Then Jesus answered her, ‘Woman, you have great faith. Let your wish be granted.’ And from that moment her daughter was well again.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "In the pagan territory of Tyre and Sidon, a Canaanite woman begs Jesus to deliver her daughter. Christ's apparent silence and hard sayings are a divine pedagogy that draws forth an astonishing act of humble, persevering faith. Calling Him 'Son of David,' she accepts even the name of a house-dog to remain at the Master's table — and her daughter is healed. Here the promised gathering of the nations begins.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He said, 'It is not good'; she answers, 'Yet even so, Lord.' He calls the Jews children, she calls them masters; He called her a dog, she accepts the office of a dog — as if she had said, 'I cannot leave the table of my Lord.'"
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He calls them perishing sheep, not straying; in every way contriving an apology for them, and drawing them to Himself."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 528,
+            "title": "Nations welcomed into Israel's heritage"
+          },
+          {
+            "paragraph": 2573,
+            "title": "Prayer as battle of persevering faith"
+          },
+          {
+            "paragraph": 305,
+            "title": "Childlike trust in the Father's providence"
+          }
+        ],
+        "thematicConnection": "The Canaanite woman is the living fulfillment of Jeremiah's word to 'proclaim it to the far-off coasts': the everlasting love once pledged to Israel now overflows in Christ to a Gentile mother whose faith unlocks the mercy of the Shepherd."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Everlasting Love That Gathers the Far-Off",
+    "body": "Today the Church holds before us the tender heart of God. Through Jeremiah He whispers into exile: 'I have loved you with an everlasting love.' He will rebuild the virgin Israel, turn her tambourines back to dancing, and gather her scattered children as a shepherd gathers his flock. The psalm — Jeremiah's own song — carries that promise outward: 'O nations, hear the word of the Lord, proclaim it to the far-off coasts.' Restoration is never merely for Israel; it is the first-fruit of a wider harvest. Then, in the Gospel, that far-off coast has a face. A Canaanite woman, an outsider by every reckoning of blood and religion, calls Jesus 'Son of David' and refuses to leave His feet. Christ tests her not to exclude her but, as Chrysostom sees, to draw forth the great faith already burning within her. She accepts even the name of a house-dog rather than depart from the Master's table — a wondrous image of every soul who clings to the Eucharistic Lord. In her, Jeremiah's oracle blossoms: the remnant of Israel and the ends of the earth alike find pardon in the wilderness. The Good Shepherd is gathering one flock, and He asks only that we, like this mother, persevere in humble, unshakeable trust."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8427,
+    "completionTokens": 2201,
+    "generatedAt": "2026-08-05T11:17:19.540291+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
