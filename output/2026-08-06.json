@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-06",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-06",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - August 06, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-06"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Daniel 7:9-10,13-14",
+      "text": "As I watched:\nThrones were set in place\nand one of great age took his seat.\nHis robe was white as snow,\nthe hair of his head as pure as wool.\nHis throne was a blaze of flames,\nits wheels were a burning fire.\nA stream of fire poured out,\nissuing from his presence.\nA thousand thousand waited on him,\nten thousand times ten thousand stood before him.\nA court was held\nand the books were opened.\nI gazed into the visions of the night.\nAnd I saw, coming on the clouds of heaven,\none like a son of man.\nHe came to the one of great age\nand was led into his presence.\nOn him was conferred sovereignty,\nglory and kingship,\nand men of all peoples, nations and languages became his servants.\nHis sovereignty is an eternal sovereignty\nwhich shall never pass away,\nnor will his empire ever be destroyed.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Daniel's night vision discloses the heavenly court: the Ancient of Days enthroned in fire, and 'one like a son of man' who comes on the clouds to receive an everlasting dominion over every nation and tongue. This apocalyptic scene is the Old Testament seedbed of Christ's own self-designation as Son of Man and foretells the universal, indestructible kingdom that will be inaugurated in him.",
+        "patristicQuotes": [
+          {
+            "father": "Rabanus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "After by His resurrection He had overcome death and driven forth the prince of this world, He returned as conqueror to His kingdom to sit on the right hand of the Father, until He shall put all His enemies under His feet."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on John",
+            "quote": "He reigns in the world and disposes all things according to His will; but His kingdom is not from below, but from above, and before all ages."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 664,
+            "title": "Christ's session at the Father's right hand"
+          },
+          {
+            "paragraph": 671,
+            "title": "The kingdom yet to be fulfilled in glory"
+          },
+          {
+            "paragraph": 2855,
+            "title": "For the kingdom, the power, and the glory are yours"
+          }
+        ],
+        "thematicConnection": "The Son of Man clothed in glory before the Ancient of Days is the same Jesus whose face shines like the sun on Tabor — Daniel sees in prophecy what the three apostles will glimpse with their eyes."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 96(97):1-2,5-6,9",
+      "text": "The Lord is king, most high above all the earth.\nThe Lord is king, let earth rejoice,\nlet all the coastlands be glad.\nCloud and darkness are his raiment;\nhis throne, justice and right.\nThe Lord is king, most high above all the earth.\nThe mountains melt like wax\nbefore the Lord of all the earth.\nThe skies proclaim his justice;\nall peoples see his glory.\nThe Lord is king, most high above all the earth.\nFor you indeed are the Lord\nmost high above all the earth,\nexalted far above all spirits.\nThe Lord is king, most high above all the earth.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord is king, most high above all the earth.",
+      "exegesis": {
+        "summary": "Psalm 96 answers Daniel's vision with jubilant acclamation: 'The Lord is king.' His throne is justice, his raiment is cloud and darkness, and the mountains melt at his coming. The refrain trains us to greet the King who reveals his glory in majesty veiled by cloud.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Luke",
+            "quote": "God ever appears in a cloud, according to the Psalms, clouds and darkness are round about him. Therefore shall the Son of man come in the clouds as God, and the Lord, not secretly, but in glory worthy of God."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Son of God, as He is wisdom, righteousness, and truth, so is He a kingdom; reigning over those in whose senses reigns justice and the other virtues."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 668,
+            "title": "Jesus Christ is Lord of the cosmos and of history"
+          },
+          {
+            "paragraph": 669,
+            "title": "Christ, head of the Church his body"
+          }
+        ],
+        "thematicConnection": "The psalm's 'cloud and darkness' as God's raiment binds Daniel's clouds of heaven to the bright overshadowing cloud of Tabor — the same divine signature marks every theophany."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 17:1-9",
+      "text": "Jesus took with him Peter and James and his brother John and led them up a high mountain where they could be alone. There in their presence he was transfigured: his face shone like the sun and his clothes became as white as the light. Suddenly Moses and Elijah appeared to them; they were talking with him. Then Peter spoke to Jesus. ‘Lord,’ he said ‘it is wonderful for us to be here; if you wish, I will make three tents here, one for you, one for Moses and one for Elijah.’ He was still speaking when suddenly a bright cloud covered them with shadow, and from the cloud there came a voice which said, ‘This is my Son, the Beloved; he enjoys my favour. Listen to him.’ When they heard this the disciples fell on their faces, overcome with fear. But Jesus came up and touched them. ‘Stand up,’ he said ‘do not be afraid.’ And when they raised their eyes they saw no one but only Jesus.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "On a high mountain Jesus is transfigured before Peter, James, and John; his face shines like the sun, Moses and Elijah converse with him, and the Father's voice from the luminous cloud identifies him as the Beloved Son to whom we must listen. For a moment the divine glory hidden in his humanity breaks through, strengthening the disciples for the scandal of the Cross that lies ahead. The vanishing of Moses and Elijah, leaving 'only Jesus,' reveals that Law and Prophets are fulfilled in him alone.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "They see Jesus standing after the cloud has been removed, and Moses and Elias disappeared, because after the shadow of the Law and Prophets has departed, both are found in the Gospel."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He first banishes their fear, that He may after impart teaching... lest the cross following after so great glory should cause offence."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 554,
+            "title": "The Transfiguration confirms Peter's confession"
+          },
+          {
+            "paragraph": 555,
+            "title": "Christ's glory prepares the disciples for his Passion"
+          },
+          {
+            "paragraph": 697,
+            "title": "Cloud and light: the Spirit's presence"
+          },
+          {
+            "paragraph": 208,
+            "title": "Falling on their faces before divine holiness"
+          }
+        ],
+        "thematicConnection": "Tabor is the visible fulfillment of Daniel's vision: the Son of Man receives glory from the Father, and the Church hears with her own ears the voice that authenticates his eternal kingship."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "This is my Son, the Beloved: the Son of Man crowned in glory",
+    "body": "Though today is only a green weekday in Ordinary Time, the readings sound the trumpet of the Feast of the Transfiguration celebrated in many places on August 6. Daniel gazes into heaven and sees the Ancient of Days handing over an everlasting kingdom to 'one like a son of man' who comes on the clouds. The psalmist responds with adoration: 'The Lord is king, most high above all the earth,' whose raiment is cloud and darkness. Then in the Gospel, that heavenly vision steps into human sight. On the mountain Jesus lets his divinity shine through his flesh; Moses and Elijah — the Law and the Prophets — bear witness that he is the one they foretold, and then withdraw so that 'only Jesus' remains. The Father's voice from the bright cloud identifies him with the very Son of Man Daniel beheld: 'This is my Son, the Beloved; listen to him.' As St. Jerome teaches, the Lord grants this glimpse of glory so that the Cross to come will not scandalize us. The Church places these readings before us so that, in the ordinary weekdays of our lives, we might lift our eyes, recognize the King already reigning in mystery, listen to his voice, and let no fear of the coming cross keep us from following him down the mountain."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8291,
+    "completionTokens": 2185,
+    "generatedAt": "2026-08-06T11:18:05.677530+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
