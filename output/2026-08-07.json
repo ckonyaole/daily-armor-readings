@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-07",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-07",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - August 07, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-07"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Nahum 2:1,3,3:1-3,6-7",
+      "text": "See, over the mountains the messenger hurries!\n‘Peace!’ he proclaims.\nJudah, celebrate your feasts,\ncarry out your vows,\nfor Belial will never pass through you again;\nhe is utterly annihilated.\nYes, the Lord is restoring the vineyard of Jacob\nand the vineyard of Israel.\nFor the plunderers had plundered them,\nthey had broken off their branches.\nWoe to the city soaked in blood,\nfull of lies,\nstuffed with booty,\nwhose plunderings know no end!\nThe crack of the whip!\nThe rumble of wheels!\nGalloping horse,\njolting chariot,\ncharging cavalry,\nflash of swords,\ngleam of spears...\na mass of wounded,\nhosts of dead,\ncountless corpses;\nthey stumble over the dead.\nI am going to pelt you with filth,\nshame you, make you a public show.\nAnd all who look on you will turn their backs on you and say,\n‘Nineveh is a ruin.’\nCould anyone pity her?\nWhere can I find anyone to comfort her?",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Nahum announces the fall of Nineveh, the great imperial city 'soaked in blood,' whose violence and plunder have provoked the Lord's just judgment. Yet the oracle opens with the beautiful feet of the messenger proclaiming peace to Judah: God restores the vineyard of Jacob even as He dismantles Belial's tyranny. The reading contrasts the doomed glory of worldly power with the enduring peace given to those who belong to the Lord.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Commentary on John, Book X",
+            "quote": "It is possible even for the dweller in Jerusalem to incur guilt, and even the most richly endowed may stray. And unless these repent speedily, they lose the capacity wherewith they were endued."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2445,
+            "title": "The judgment upon violent and unjust riches"
+          },
+          {
+            "paragraph": 2538,
+            "title": "Envy and plunder as roots of destruction"
+          }
+        ],
+        "thematicConnection": "Nineveh's ruin dramatizes what it means to 'gain the world and ruin one's life' — the very question Jesus poses in the Gospel. The city that hoarded plunder loses everything; Judah, who receives the messenger of peace, finds life."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Deuteronomy 32:35-36,39,41",
+      "text": "It is the Lord who deals death and life.\nIt is close, the day of their ruin;\ntheir doom comes at speed.\nFor the Lord will see his people righted,\nhe will take pity on his servants.\nIt is the Lord who deals death and life.\nSee now that I, I am He,\nand beside me there is no other god.\nIt is I who deal death and life;\nwhen I have struck it is I who heal.\nIt is the Lord who deals death and life.\nWhen I have whetted my flashing sword\nI will take up the cause of Right,\nI will give my foes as good again,\nI will repay those who hate me.\nIt is the Lord who deals death and life.",
+      "translation": "Universalis (US)",
+      "refrain": "It is the Lord who deals death and life.",
+      "exegesis": {
+        "summary": "The canticle from Deuteronomy proclaims the sovereignty of the one God over life and death: 'It is I who deal death and life; when I have struck it is I who heal.' This ancient song of Moses declares that vindication belongs to the Lord alone, and that His justice is inseparable from His compassion on His servants.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Lord is urgent with us to hasten to make friends with our enemies while we are yet in this life, knowing how dangerous for us that one of our enemies should die before peace is made with us."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels",
+            "quote": "He who rests secure concerning his hope and works, immediately opens to Him that knocks; for when he is aware of the time of death drawing near, he grows joyful, because of the glory of his reward."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1009,
+            "title": "Death transformed by Christ"
+          },
+          {
+            "paragraph": 1021,
+            "title": "Judgment immediately after death"
+          },
+          {
+            "paragraph": 1038,
+            "title": "The resurrection and Last Judgment"
+          }
+        ],
+        "thematicConnection": "The refrain answers Nahum's oracle: the Lord alone judges Nineveh and heals Israel. It also prepares us for the Gospel, where Jesus reveals that losing this life for His sake is the paradoxical path by which the God who 'deals death and life' bestows eternal life."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 16:24-28",
+      "text": "Jesus said to his disciples: ‘If anyone wants to be a follower of mine, let him renounce himself and take up his cross and follow me. For anyone who wants to save his life will lose it; but anyone who loses his life for my sake will find it. What, then, will a man gain if he wins the whole world and ruins his life? Or what has a man to offer in exchange for his life?",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Immediately after promising His Passion, Jesus lays down the law of discipleship: self-renunciation, the cross, and the following of Him. He then poses the searching question that pierces every human ambition — what does it profit to gain the whole world and lose one's soul? The paradox is that life is saved only by being spent for Christ.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on Matthew",
+            "quote": "Say not that he who escapes the dangers which threaten him for Christ's sake saves his soul; add to his temporal life the whole world, and what of all these things will profit a man if his soul perishes for ever?"
+          },
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Commentary on Matthew",
+            "quote": "The gain of life brings death, the loss of life brings salvation; for by the sacrifice of this short life we gain the reward of immortality."
+          },
+          {
+            "father": "Origen",
+            "work": "Commentary on Matthew",
+            "quote": "He gains the world who does not deny himself, nor loses his own life as to carnal pleasures, and thence suffers the loss of his soul. These two things being set before us, we must rather choose to lose the world, and gain our souls."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2544,
+            "title": "Renunciation for the Kingdom"
+          },
+          {
+            "paragraph": 908,
+            "title": "Royal freedom through self-denial"
+          },
+          {
+            "paragraph": 605,
+            "title": "Christ gave His life as ransom for all"
+          }
+        ],
+        "thematicConnection": "Where Nineveh clutched her plunder and perished, and where the Song of Moses declared the Lord alone gives life, Jesus reveals the way this life is received: by taking up the cross. He is Himself the messenger of peace Nahum saw crossing the mountains."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Losing the world, finding life in the Crucified",
+    "body": "Today the Church sets before us two cities and two ways of being alive. Nineveh, 'soaked in blood, stuffed with booty,' has gained the world and now loses her soul; her chariots and swords cannot ransom her when the Lord of hosts arises. Against her ruin, Nahum sees the beautiful feet of a messenger over the mountains proclaiming peace to Judah — a foreshadowing of Christ Himself. The Song of Moses then confesses the truth Nineveh forgot: 'I am He, and beside me there is no other god. It is I who deal death and life.' Life is not something we secure by hoarding, plundering, or clinging; it is a gift held only in open hands. Jesus draws this to its sharpest point in the Gospel. What does it profit a man to gain the whole world and ruin his life? The Cross He offers is not the destruction of life but its rescue. As Hilary teaches, 'the loss of life brings salvation.' The disciple who renounces himself, takes up his cross, and follows Jesus discovers that the God who deals death and life has already turned death itself into the doorway of resurrection. Today we are asked, gently but urgently, which city we are building — Nineveh, or the Kingdom announced by the Prince of Peace."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9033,
+    "completionTokens": 2204,
+    "generatedAt": "2026-08-07T09:57:37.571934+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
