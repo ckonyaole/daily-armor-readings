@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-10",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-10",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - August 10, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-10"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Corinthians 9:6-10",
+      "text": "Do not forget: thin sowing means thin reaping; the more you sow, the more you reap. Each one should give what he has decided in his own mind, not grudgingly or because he is made to, for God loves a cheerful giver. And there is no limit to the blessings which God can send you – he will make sure that you will always have all you need for yourselves in every possible circumstance, and still have something to spare for all sorts of good works. As scripture says: He was free in almsgiving, and gave to the poor: his good deeds will never be forgotten.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul teaches the Corinthians the spiritual law of sowing and reaping: God loves a cheerful giver, and generous almsgiving does not diminish the giver but multiplies God's blessings upon him. The Apostle grounds this in Scripture's testimony that the one who gives freely to the poor will never be forgotten, for God himself supplies both the seed and the harvest.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 34 on John",
+            "quote": "He that reapeth gathereth fruit unto life eternal; both the sower and the reaper share the same wages. In the new state, sowers and reapers rejoice together — how different from what we see here, where he that soweth grieveth because he soweth for others."
+          },
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "Covetousness is unprofitable, as the Lord says: 'Ye shall build houses of hewn stone, and shall not dwell in them.' A man's life consisteth not in the abundance of what he possesses."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1351,
+            "title": "The collection for the poor at the Eucharist"
+          },
+          {
+            "paragraph": 1942,
+            "title": "Solidarity and the spread of temporal goods"
+          },
+          {
+            "paragraph": 2547,
+            "title": "Trust in providence frees us from anxiety"
+          }
+        ],
+        "thematicConnection": "Paul establishes the day's central image — the seed sown generously that yields abundant fruit — which the Psalm illustrates in the just man and which Christ elevates in the Gospel to the mystery of his own dying and rising."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 111(112):1-2,5-9",
+      "text": "Happy the man who takes pity and lends.\nHappy the man who fears the Lord,\nwho takes delight in all his commands.\nHis sons will be powerful on earth;\nthe children of the upright are blessed.\nHappy the man who takes pity and lends.\nThe good man takes pity and lends,\nhe conducts his affairs with honour.\nThe just man will never waver:\nhe will be remembered for ever.\nHappy the man who takes pity and lends.\nHe has no fear of evil news;\nwith a firm heart he trusts in the Lord.\nWith a steadfast heart he will not fear;\nhe will see the downfall of his foes.\nHappy the man who takes pity and lends.\nOpen-handed, he gives to the poor;\nhis justice stands firm for ever.\nHis head will be raised in glory.\nHappy the man who takes pity and lends.",
+      "translation": "Universalis (US)",
+      "refrain": "Happy the man who takes pity and lends.",
+      "exegesis": {
+        "summary": "The psalm portrays the blessed man who fears the Lord, gives freely to the poor, and conducts his affairs with justice. His generosity is not weakness but the source of an unshakable heart, for he trusts in God and his righteousness endures forever.",
+        "patristicQuotes": [
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The merciful is he who has a sad heart; he counts others' misery his own, and is sad at their grief as at his own."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels",
+            "quote": "He who rests secure concerning his hope and works immediately opens to Him that knocks; when he is aware of the time of death drawing near, he grows joyful, because of the glory of his reward."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1825,
+            "title": "Charity as love of neighbor, especially the poor"
+          },
+          {
+            "paragraph": 1818,
+            "title": "Hope preserves from selfishness"
+          },
+          {
+            "paragraph": 1934,
+            "title": "Equal dignity of all called to divine beatitude"
+          }
+        ],
+        "thematicConnection": "The Psalm gives voice to the man Paul describes — 'open-handed, he gives to the poor' — and prefigures the Gospel's servant of Christ whose life yields fruit that endures forever."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 12:24-26",
+      "text": "Jesus said to his disciples:\n‘I tell you, most solemnly,\nunless a wheat grain falls on the ground and dies,\nit remains only a single grain;\nbut if it dies,\nit yields a rich harvest.\nAnyone who loves his life loses it;\nanyone who hates his life in this world\nwill keep it for the eternal life.\nIf a man serves me, he must follow me,\nwherever I am, my servant will be there too.\nIf anyone serves me, my Father will honour him.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "On the eve of his Passion, Jesus reveals the law of the Kingdom in the image of the grain of wheat: only what dies bears fruit. He calls his disciples into this same paschal pattern — to hate their life in this world in order to keep it eternally, and to follow him wherever he goes, that they may share his glory with the Father.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 66 on John",
+            "quote": "A grain of corn produces fruit after it has died. How much more then must the Son of God? To console the sorrow of His disciples, He tells them that to bear patiently not only His death, but their own too, is the only way to good."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 51 on John",
+            "quote": "They serve Christ who seek not their own things, but the things of Jesus Christ, who follow Him, walk in His ways, till at length they fulfil that great work of love, and lay down their lives for the brethren. Love Him for His own sake, and think it a rich reward for thy service, to be with Him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 605,
+            "title": "Christ died for all"
+          },
+          {
+            "paragraph": 615,
+            "title": "Christ's obedience unto death"
+          },
+          {
+            "paragraph": 2544,
+            "title": "Detachment for the Kingdom"
+          }
+        ],
+        "thematicConnection": "Christ himself is the true Sower and the true Seed, giving the deepest meaning to Paul's teaching on generosity: the fruitfulness of every gift flows from his own self-emptying on the Cross, in which his servants are called to share."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Grain That Falls, the Hand That Opens",
+    "body": "Today the Church places before us one image in three registers: the seed that dies to give life. St. Paul urges the Corinthians to sow generously, because God, the divine Farmer, multiplies what is given cheerfully — 'he was free in almsgiving, and gave to the poor: his good deeds will never be forgotten.' The Psalm sings of just such a man: open-handed to the poor, steadfast of heart, unafraid of evil tidings because his trust is in the Lord. But in the Gospel, Jesus lifts this whole pattern to its source. He himself is the grain of wheat that must fall into the earth and die so that the harvest of redemption may come forth. Every act of Christian generosity, every almsdeed and every renunciation, is a participation in his Paschal self-giving. To serve Christ, as St. Augustine teaches, is to follow him — even to the laying down of one's life for the brethren — and the reward is simply to be where he is. On this quiet weekday, the Church invites us to examine our grip on our own lives and goods. What are we hoarding that God is calling us to sow? Only what we surrender with him will rise with him into eternal life."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6388,
+    "completionTokens": 2150,
+    "generatedAt": "2026-08-10T10:14:07.555678+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
