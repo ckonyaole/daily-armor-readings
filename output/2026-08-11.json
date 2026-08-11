@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-11",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-11",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - August 11, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-11"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Ezekiel 2:8-3:4",
+      "text": "I, Ezekiel, heard a voice speaking. It said, ‘You, son of man, listen to the words I say; do not be a rebel like that rebellious set. Open your mouth and eat what I am about to give you.’ I looked. A hand was there, stretching out to me and holding a scroll. He unrolled it in front of me; it was written on back and front; on it was written ‘lamentations, wailings, moanings.’ He said, ‘Son of man, eat what is given to you; eat this scroll, then go and speak to the House of Israel.’ I opened my mouth; he gave me the scroll to eat and said, ‘Son of man, feed and be satisfied by the scroll I am giving you.’ I ate it, and it tasted sweet as honey.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Ezekiel is commanded to eat a scroll inscribed with 'lamentations, wailings, and moanings' before going to speak to the House of Israel. Though the scroll's message is one of judgment, when the prophet consumes it, it tastes sweet as honey. To be a true prophet, one must first interiorize God's Word, allowing it to nourish and become one's very substance before it can be spoken to others.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Ezekiel spoke many things adapted to the Jews, speaking to the weakness of his hearers, yet in a manner suited to convey the greatness of God."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "The heart made for God finds its rest in Him"
+          },
+          {
+            "paragraph": 2606,
+            "title": "The Word summing up all human cries"
+          }
+        ],
+        "thematicConnection": "The prophet must become small enough to receive and consume God's Word, echoing the Gospel's call to become like a little child in order to enter the Kingdom."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 118(119):14,24,72,103,111,131",
+      "text": "Your promise is sweet to my taste, O Lord.\nI rejoiced to do your will\nas though all riches were mine.\nYour will is my delight;\nyour statutes are my counsellors.\nYour promise is sweet to my taste, O Lord.\nThe law from your mouth means more to me\nthan silver and gold.\nYour promise is sweeter to my taste\nthan honey in the mouth.\nYour promise is sweet to my taste, O Lord.\nYour will is my heritage for ever,\nthe joy of my heart.\nI open my mouth and I sigh\nas I yearn for your commands.\nYour promise is sweet to my taste, O Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "Your promise is sweet to my taste, O Lord.",
+      "exegesis": {
+        "summary": "The psalmist rejoices that God's promise is sweeter than honey, more precious than silver and gold. His heart's joy is God's will, and he opens his mouth to yearn for the Lord's commands. The Word of God is savored as food, delight, and inheritance.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Sermon 113",
+            "quote": "If you seek the true riches, there are some in which Job when naked abounded, when he had his heart full toward God. For if worldly riches were true riches, they would give you security."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2055,
+            "title": "Love as the fulfillment of the Law"
+          },
+          {
+            "paragraph": 1824,
+            "title": "Charity keeps the commandments"
+          }
+        ],
+        "thematicConnection": "The psalm makes explicit what Ezekiel discovered when he ate the scroll: the Word of God, though it demands suffering and repentance, tastes sweet as honey to the soul that loves God."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 18:1-5,10,12-14",
+      "text": "The disciples came to Jesus and said, ‘Who is the greatest in the kingdom of heaven?’ So he called a little child to him and set the child in front of them. Then he said, ‘I tell you solemnly, unless you change and become like little children you will never enter the kingdom of heaven. And so, the one who makes himself as little as this little child is the greatest in the kingdom of heaven.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "When the disciples ask who is greatest in the Kingdom, Jesus sets a little child before them and declares that only those who become like little children will enter the Kingdom. To be great in God's eyes is to be small, humble, and dependent. The Father guards these little ones with such love that He rejoices over the one lost sheep more than the ninety-nine.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Lord exhorts His disciples, now become men, to condescend to the needs of babes, to be babes to babes, that they may gain babes. For He Himself, when He was in the form of God, was made a babe."
+          },
+          {
+            "father": "St. Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The disciples must ever remember that they are children of one Parent, and that by their new birth they have passed the limits of their earthly origin."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 544,
+            "title": "The Kingdom belongs to the poor and lowly"
+          },
+          {
+            "paragraph": 764,
+            "title": "The little flock gathered by Jesus"
+          },
+          {
+            "paragraph": 2825,
+            "title": "Learning obedience as adopted children"
+          }
+        ],
+        "thematicConnection": "Ezekiel becomes a child before the Lord, receiving the scroll from His hand and eating what is given; the psalmist yearns like a child for God's commands. The Gospel reveals the disposition beneath both: only the little ones inherit the Kingdom."
+      }
+    },
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Philippians 3:8-14",
+      "text": "I believe nothing can happen that will outweigh the supreme advantage of knowing Christ Jesus my Lord. For him I have accepted the loss of everything, and I look on everything as so much rubbish if only I can have Christ and be given a place in him. I am no longer trying for perfection by my own efforts, the perfection that comes from the Law, but I want only the perfection that comes through faith in Christ, and is from God and based on faith. All I want is to know Christ and the power of his resurrection and to share his sufferings by reproducing the pattern of his death. That is the way I can hope to take my place in the resurrection of the dead. Not that I have become perfect yet: I have not yet won, but I am still running, trying to capture the prize for which Christ Jesus captured me. I can assure you my brothers, I am far from thinking that I have already won. All I can say is that I forget the past and I strain ahead for what is still to come; I am racing for the finish, for the prize to which God calls us upwards to receive in Christ Jesus.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul counts everything as loss—even rubbish—compared to the surpassing knowledge of Christ Jesus his Lord. He seeks not a righteousness of his own from the Law, but the righteousness that comes through faith in Christ, to know the power of His resurrection and share in His sufferings. Though not yet perfect, he presses on, straining forward to the prize of the heavenly call in Christ Jesus.",
+        "patristicQuotes": [
+          {
+            "father": "St. Athanasius",
+            "work": "On the Incarnation",
+            "quote": "He dies on the cross with outstretched hands, that with one He may draw to Him the ancient people, with the other the Gentiles, joining both to Himself. Dying on the cross He purges the air of evil spirits, and prepares for us an ascent into heaven."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 44",
+            "quote": "He often brings in mention of the resurrection for this purpose: to warn men not to judge of God's providence from present events, but to carry on their ideas to another world."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 428,
+            "title": "The surpassing worth of knowing Christ"
+          },
+          {
+            "paragraph": 1020,
+            "title": "Death as entrance into everlasting life"
+          },
+          {
+            "paragraph": 2474,
+            "title": "The witness of the martyrs"
+          }
+        ],
+        "thematicConnection": "Paul embodies the disciple's response to today's Gospel: he has left everything to follow Christ, counting all as loss to gain the prize of eternal life."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 15(16):1-2,5,7-8,11",
+      "text": "You are my inheritance, O Lord.\nPreserve me, God, I take refuge in you.\nI say to the Lord: ‘You are my God.’\nO Lord, it is you who are my portion and cup;\nit is you yourself who are my prize.\nYou are my inheritance, O Lord.\nI will bless the Lord who gives me counsel,\nwho even at night directs my heart.\nI keep the Lord ever in my sight:\nsince he is at my right hand, I shall stand firm.\nYou are my inheritance, O Lord.\nYou will show me the path of life,\nthe fullness of joy in your presence,\nat your right hand happiness for ever.\nYou are my inheritance, O Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "You are my inheritance, O Lord.",
+      "exegesis": {
+        "summary": "The Lord Himself is the psalmist's portion, cup, and inheritance—not the goods of this world. Taking refuge in God alone, keeping Him ever in sight, the soul stands firm and is shown the path of life, the fullness of joy in His presence.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Commentary on the Sermon on the Mount",
+            "quote": "The meek shall inherit the earth, of which it is said, 'Thy lot is in the land of the living,' meaning the fixedness of a perpetual inheritance, in which the soul that hath good dispositions rests as in its own place."
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Homily on the Rich Man",
+            "quote": "We are placed in this life not as lords in our own house, but as guests and strangers. Cast away then from thy soul the pride of power, and put on the humility and modesty of a steward."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 260,
+            "title": "The Trinity as our dwelling"
+          },
+          {
+            "paragraph": 1698,
+            "title": "Christ as our true head"
+          }
+        ],
+        "thematicConnection": "This psalm gives voice to Paul's conviction: the Lord alone is our inheritance, worth counting all else as rubbish, worth leaving houses and lands to follow."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 19:27-29",
+      "text": "Peter spoke to Jesus. ‘What about us?’ he said. ‘We have left everything and followed you. What are we to have, then?’ Jesus said to him, ‘I tell you solemnly, when all is made new and the Son of Man sits on his throne of glory, you will yourselves sit on twelve thrones to judge the twelve tribes of Israel. And everyone who has left houses, brothers, sisters, father, mother, children or land for the sake of my name will be repaid a hundred times over, and also inherit eternal life.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Peter asks what awaits those who have left everything to follow Jesus. The Lord promises the Twelve thrones of glory in the world to come and assures every disciple who has renounced family or property for His name that he will receive a hundredfold and inherit eternal life. Following Christ costs everything, but the reward is immeasurably beyond the sacrifice.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Though what Peter and his brother had left behind were but little things, yet were they not esteemed as little with God, who considered that out of the fulness of their love they had so forsaken those least things as they would have forsaken the greatest."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 64",
+            "quote": "Peter puts this question that you, poor man, may learn that you are in nothing behind. He had already received the kingdom of heaven, and therefore secure of what was already there, he now asks for the whole world."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 765,
+            "title": "The Twelve as foundation stones of the new Jerusalem"
+          },
+          {
+            "paragraph": 551,
+            "title": "The Twelve share in Christ's authority and mission"
+          },
+          {
+            "paragraph": 2544,
+            "title": "Detachment from riches for the Kingdom"
+          }
+        ],
+        "thematicConnection": "Peter's question receives Paul's answer: what awaits those who leave all is Christ Himself and the resurrection of the dead—a prize infinitely surpassing what is renounced."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Consume the Word, Leave All, Inherit Christ",
+    "body": "Today's Church offers us two complementary movements of the disciple's life. In the first set of readings, Ezekiel is fed a scroll of lamentation that tastes like honey, the psalmist finds God's promise sweeter than gold, and Jesus sets a child before us as the model for entering the Kingdom. Before we can proclaim, we must consume; before we can teach, we must become small enough to be taught. God's Word is bitter to the proud but sweet to the humble, who receive it from His hand as a child receives bread. In the second set, St. Paul counts all things as rubbish that he may gain Christ and know the power of His Resurrection, while Peter, having left his nets, hears the promise of the hundredfold and eternal life. The little child of the Gospel and the empty-handed apostle are one and the same disciple: the one who has renounced any righteousness of his own, any inheritance but God, any greatness but Christ crucified and risen. The Lord Himself is our portion and our cup (CCC 428). To eat His Word today, to become little, and to leave whatever we still clutch—this is the path of life He shows us, and its end is the fullness of joy in His presence forever."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 16748,
+    "completionTokens": 3439,
+    "generatedAt": "2026-08-11T09:58:01.242074+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
