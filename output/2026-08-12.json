@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-12",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-12",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - August 12, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-12"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Ezekiel 9:1-7,10:18-22",
+      "text": "As I, Ezekiel, listened, God shouted, ‘Come here, you scourges of the city, and bring your weapons of destruction.’ Immediately six men advanced from the upper north gate, each holding a deadly weapon. In the middle of them was a man in white, with a scribe’s ink horn in his belt. They came in and halted in front of the bronze altar. The glory of the God of Israel rose off the cherubs where it had been and went up to the threshold of the Temple. He called the man in white with a scribe’s ink horn in his belt and said, ‘Go all through the city, all through Jerusalem, and mark a cross on the foreheads of all who deplore and disapprove of all the filth practised in it.’ I heard him say to the others, ‘Follow him through the city, and strike. Show neither pity nor mercy; old men, young men, virgins, children, women, kill and exterminate them all. But do not touch anyone with a cross on his forehead. Begin at my sanctuary.’ So they began with the old men in front of the Temple. He said to them, ‘Defile the Temple; fill the courts with corpses, and go.’ They went out and hacked their way through the city.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Ezekiel beholds a fearful vision: the glory of God departs from the defiled Temple, and a man clothed in linen is sent to mark a cross (the Hebrew letter tau) on the foreheads of those who grieve over the sins of Jerusalem. Only those bearing this sign are spared the judgment that begins at the sanctuary itself. The prophecy foreshadows both the destruction of the Temple and the saving mark of the Cross of Christ, which alone shelters the faithful remnant from wrath.",
+        "patristicQuotes": [
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Mark",
+            "quote": "By the rending of the veil God implied that the grace of the Holy Spirit goes away and is rent from the temple. This is also a figure of the living temple, the body of Christ, in whose Passion His garment is torn, that is, His flesh."
+          },
+          {
+            "father": "Pope St. Leo the Great",
+            "work": "Sermon 55",
+            "quote": "Ye have read, 'The Lord hath reigned from the tree.' Not the hidden meaning of the Law, not the mouths of the Prophets ever said the Lord would come down from the cross."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 586,
+            "title": "Jesus, the true Temple"
+          },
+          {
+            "paragraph": 2130,
+            "title": "Old Testament signs pointing to Christ"
+          },
+          {
+            "paragraph": 2474,
+            "title": "The faithful sealed as witnesses"
+          }
+        ],
+        "thematicConnection": "The tau-mark on the foreheads of the faithful anticipates the Gospel's concern for the salvation of the individual sinner within the community: God does not sweep the guilty and innocent together but distinguishes, warns, and seeks to preserve."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 112(113):1-6",
+      "text": "Above the heavens is the glory of the Lord.\nor\nAlleluia!\nPraise, O servants of the Lord,\npraise the name of the Lord!\nMay the name of the Lord be blessed\nboth now and for evermore!\nAbove the heavens is the glory of the Lord.\nor\nAlleluia!\nFrom the rising of the sun to its setting\npraised be the name of the Lord!\nHigh above all nations is the Lord,\nabove the heavens his glory.\nAbove the heavens is the glory of the Lord.\nor\nAlleluia!\nWho is like the Lord, our God,\nwho has risen on high to his throne\nyet stoops from the heights to look down,\nto look down upon heaven and earth?\nAbove the heavens is the glory of the Lord.\nor\nAlleluia!",
+      "translation": "Universalis (US)",
+      "refrain": "Above the heavens is the glory of the Lord.",
+      "exegesis": {
+        "summary": "Psalm 113 lifts the eyes of God's servants from the ruin of earthly sanctuaries to the enduring glory of the Lord enthroned above the heavens. Yet this exalted God stoops down to look upon heaven and earth, revealing a majesty that is inseparable from tender condescension. The refrain proclaims that even when human temples fall, the glory of the Lord remains unshaken.",
+        "patristicQuotes": [
+          {
+            "father": "Pope St. Leo the Great",
+            "work": "Sermon 72",
+            "quote": "By ascending into heaven He does not desert His adopted; but from above strengthens to endurance, those whom He invites upwards to glory."
+          },
+          {
+            "father": "Pseudo-Jerome",
+            "work": "Catena Aurea on Mark",
+            "quote": "The Lord Jesus, who had descended from heaven to give liberty to our weak nature, Himself also ascended above the heavens."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2160,
+            "title": "The majesty of the divine Name"
+          },
+          {
+            "paragraph": 2855,
+            "title": "Kingdom, power, and glory belong to God"
+          },
+          {
+            "paragraph": 344,
+            "title": "All creation ordered to God's glory"
+          }
+        ],
+        "thematicConnection": "Against Ezekiel's departing glory, the psalm affirms that God's true dwelling is above the heavens, and against the Gospel's picture of a struggling community, it reminds us that our God stoops low to gather even the wayward brother."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 18:15-20",
+      "text": "Jesus said to his disciples: ‘If your brother does something wrong, go and have it out with him alone, between your two selves. If he listens to you, you have won back your brother. If he does not listen, take one or two others along with you: the evidence of two or three witnesses is required to sustain any charge. But if he refuses to listen to these, report it to the community; and if he refuses to listen to the community, treat him like a pagan or a tax collector.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus lays out the pattern of fraternal correction: first speak with the offender alone, then with witnesses, and only then bring the matter before the Church. What is bound or loosed by the Church on earth is ratified in heaven, and where two or three gather in Christ's name, He Himself is present. This teaching entrusts to the Church a genuine authority to reconcile and, when necessary, to discipline, always for the salvation of souls.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Sermon on Matthew 18",
+            "quote": "If you alone know of his trespass, and proceed to rebuke him before all, you do not correct but betray him. Those faults are to be rebuked before all that are committed before all; those which are done in private are to be rebuked in private."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Thy brother is to be reproved in private, lest if once he has lost a sense of shame, he should continue in sin."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Sermon on Matthew 18",
+            "quote": "When you have corrected him, and agreed with him, you have loosed him upon earth, and when you have loosed him upon earth, he shall be loosed also in heaven. You confer a great boon not on yourself, but on him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2478,
+            "title": "Charity in judging one's neighbor"
+          },
+          {
+            "paragraph": 1789,
+            "title": "Charity respects the brother's conscience"
+          },
+          {
+            "paragraph": 2233,
+            "title": "Belonging to God's family"
+          }
+        ],
+        "thematicConnection": "Where Ezekiel saw judgment fall upon the unrepentant, Jesus reveals the merciful patience that must precede any exclusion: the Church seeks first to win back the sinner, and only after persistent refusal treats him as an outsider — still to be sought, as Christ sought publicans."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Marked for Mercy, Sent to Win Back",
+    "body": "Today the Church places before us two visions of judgment softened by mercy. Ezekiel watches the glory of God rise from a defiled Temple, yet before wrath falls, a man in linen goes through the city marking a tau — a cross — on the foreheads of those who grieve over sin. Even in judgment, God distinguishes and preserves. Psalm 113 lifts our gaze above the ruin: God's glory is not confined to any earthly sanctuary, for He is enthroned above the heavens and yet stoops down to look upon us. In Christ, that stooping God has come near, and He now speaks in the Gospel with the accents of patient love. Sin still wounds; brothers still fall. But Jesus does not send scourges with weapons — He sends the wounded brother, then witnesses, then the Church, always seeking to win back the one who has strayed. As St. Augustine reminds us, if we correct our brother in love, we gain him; if we bind him rashly, we betray him. The tau of Ezekiel is fulfilled in the Cross of Christ, under which the Church exercises her authority to bind and loose — not to destroy, but to gather sinners home. Where two or three are gathered in His Name, the God whose glory is above the heavens is in their midst."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7379,
+    "completionTokens": 2321,
+    "generatedAt": "2026-08-12T09:57:44.201078+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
