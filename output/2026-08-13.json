@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-13",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-13",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - August 13, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-13"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Ezekiel 12:1-12",
+      "text": "The word of the Lord was addressed to me as follows, ‘Son of man, you are living with that set of rebels who have eyes and never see, ears and never hear, for they are a set of rebels. You, son of man, pack an exile’s bundle and emigrate by daylight when they can see you, emigrate from where you are to somewhere else while they watch. Perhaps they will admit then that they are a set of rebels. You will pack your baggage like an exile’s bundle, by daylight, for them to see, and leave like an exile in the evening, making sure that they are looking. As they watch, make a hole in the wall, and go out through it. As they watch, you will shoulder your pack and go out into the dark; you will cover your face so that you cannot see the country, since I have made you a symbol for the House of Israel.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Ezekiel is commanded to become a living parable: to pack an exile's bundle, dig through the wall, and depart with covered face while his people watch. God addresses a house that has 'eyes and never sees, ears and never hears,' and so the prophet's body must speak what their ears refuse to hear. The dramatized exile foretells the coming captivity of Jerusalem and its prince, yet even this severity is a summons to repentance.",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The Word of God, on the close of the Law, entered the ship, that is, the Church; and departed into the desert, leaving to walk with Israel, passing into breasts void of Divine knowledge."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 710,
+            "title": "The Exile as purification and shadow of the Cross"
+          },
+          {
+            "paragraph": 674,
+            "title": "Hardening of Israel and hope of restoration"
+          }
+        ],
+        "thematicConnection": "Ezekiel's enacted exile embodies the tragic pattern the Psalm will lament — a rebellious people who provoke God's just discipline — and sets up the Gospel's astonishing counter-proclamation of boundless divine mercy."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 77(78):56-59,61-62",
+      "text": "Never forget the deeds of the Lord.\nThey put God to the proof and defied him;\nthey refused to obey the Most High.\nThey strayed, as faithless as their fathers,\nlike a bow on which the archer cannot count.\nNever forget the deeds of the Lord.\nWith their mountain shrines they angered him;\nmade him jealous with the idols they served.\nGod saw this and was filled with fury:\nhe utterly rejected Israel.\nNever forget the deeds of the Lord.\nHe gave his ark into captivity,\nhis glorious ark into the hands of the foe.\nHe gave up his people to the sword,\nin his anger against his chosen ones.\nNever forget the deeds of the Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "Never forget the deeds of the Lord.",
+      "exegesis": {
+        "summary": "Psalm 78 rehearses Israel's chronic infidelity: they tested God, turned to idols, and were 'as faithless as their fathers.' The Lord, filled with righteous anger, delivered even the ark into enemy hands. The refrain — 'Never forget the deeds of the Lord' — is not only a warning against amnesia but a plea that memory itself become the seed of repentance.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractate 51 on John",
+            "quote": "When He showed the power of His resurrection, then they remembered that these things were written of Him, and that they had done these things unto Him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 218,
+            "title": "God's gratuitous love that pardons unfaithfulness"
+          },
+          {
+            "paragraph": 210,
+            "title": "The Lord, merciful and slow to anger"
+          },
+          {
+            "paragraph": 2135,
+            "title": "Worship owed to God alone"
+          }
+        ],
+        "thematicConnection": "The Psalm interprets Ezekiel's prophetic sign-act: exile is the fruit of forgetting God's deeds. Yet the very command to 'remember' opens the door to the Gospel's mercy that keeps no count of wrongs."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 18:21-19:1",
+      "text": "Peter went up to Jesus and said, ‘Lord, how often must I forgive my brother if he wrongs me? As often as seven times?’ Jesus answered, ‘Not seven, I tell you, but seventy-seven times.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Peter, thinking himself generous, offers to forgive seven times — a perfect number. Christ shatters the ceiling: seventy-seven (or seventy times seven), meaning without measure and without end. The disciple of Christ is not to count injuries but to imitate the Father whose mercy is inexhaustible, forgiving as we have been forgiven.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 61 on Matthew",
+            "quote": "Peter thought that he had made a large allowance; but what answers Christ the Lover of men? 'I say not unto thee, Until seven times, but, Until seventy times seven.' He does not limit a definite number within which forgiveness must be kept; but He signifies thereby something endless and ever enduring."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Sermon 83.3",
+            "quote": "I am bold to say, that if he shall sin seventy-eight times, thou shouldest forgive him; yea, and if a hundred; and how oft soever he sin against thee, forgive him. For if Christ found a thousand sins, yet forgave them all, do not you withdraw your forgiveness."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1485,
+            "title": "Christ entrusts the power to forgive sins to His Church"
+          },
+          {
+            "paragraph": 552,
+            "title": "Peter, the rock, first in the college of the Twelve"
+          },
+          {
+            "paragraph": 208,
+            "title": "God is holy and can forgive the humble sinner"
+          }
+        ],
+        "thematicConnection": "Where Ezekiel's rebels are exiled and Israel's ark is handed over, Christ reveals the deepest movement of God's heart: not counting, but forgiving. The mercy Israel forfeited by idolatry is now poured out through the Son and entrusted to His Church through Peter."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The God Who Remembers Mercy",
+    "body": "Today's readings trace a single arc from human forgetfulness to divine forgiveness. Ezekiel is made a walking parable of exile before a people with 'eyes that never see' — an enacted sermon aimed at hearts too dull for words. Psalm 78 diagnoses that dullness: Israel forgot the deeds of the Lord, chased idols, and provoked the just anger that gave even the ark into enemy hands. The Catechism reminds us that this Exile 'already stands in the shadow of the Cross' (CCC 710) — a purification, not the last word. Then, in the Gospel, the last word is spoken. Peter, cautiously generous, asks whether seven times is enough; Christ answers with a number that means 'always.' Where the old covenant record shows sin tallied and judgment falling, the new covenant reveals a Father who, as Augustine says, forgave a thousand sins in Christ and asks us to do the same. The Church, built on Peter (CCC 552) and armed with the breath of the risen Christ (CCC 1485), is now that house with eyes that see and ears that hear. To 'never forget the deeds of the Lord' is, at last, to remember Calvary — and to hand on to our brother the very mercy that spared us exile."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6889,
+    "completionTokens": 2073,
+    "generatedAt": "2026-08-13T10:00:11.092291+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
