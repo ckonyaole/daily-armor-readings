@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-16",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-16",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - August 16, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-08-16"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Isaiah 56:1,6-7",
+      "text": "Thus says the Lord: Have a care for justice, act with integrity, for soon my salvation will come and my integrity be manifest.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Isaiah proclaims that the Lord's house will be a house of prayer for all peoples, not for Israel alone. The foreigners who bind themselves to the Lord, keep His covenant, and love His name will be brought to His holy mountain and their sacrifices accepted. God's salvation, once thought to be the exclusive inheritance of Israel, is revealed as a universal gift.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on Matthew 10",
+            "quote": "The difficulties of the law are turned into the easiness of faith; no more toils and labors await us, but grace and remission of sins make an easy way to salvation."
+          },
+          {
+            "father": "St. Ambrose",
+            "work": "Commentary on Luke",
+            "quote": "'I will, be thou clean' — you have the will, you also have the result of His mercy."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 872,
+            "title": "Equal dignity of all the faithful"
+          },
+          {
+            "paragraph": 1942,
+            "title": "Seeking first the kingdom for all peoples"
+          }
+        ],
+        "thematicConnection": "Isaiah announces the universal scope of salvation that Jesus enacts in the Gospel when He grants the Canaanite woman's petition, and that Paul explains in Romans as the mystery of Israel and the nations."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 66(67):2-3,5-6,8",
+      "text": "Let the peoples praise you, O God; let all the peoples praise you.\nO God, be gracious and bless us\nand let your face shed its light upon us.\nSo will your ways be known upon earth\nand all nations learn your saving help.\nLet the peoples praise you, O God; let all the peoples praise you.\nLet the nations be glad and exult\nfor you rule the world with justice.\nWith fairness you rule the peoples,\nyou guide the nations on earth.\nLet the peoples praise you, O God; let all the peoples praise you.\nLet the peoples praise you, O God;\nlet all the peoples praise you.\nMay God still give us his blessing\ntill the ends of the earth revere him.\nLet the peoples praise you, O God; let all the peoples praise you.",
+      "translation": "Universalis (US)",
+      "refrain": "Let the peoples praise you, O God; let all the peoples praise you.",
+      "exegesis": {
+        "summary": "The psalm begs God's blessing so that His saving way may be known upon earth and among all nations. Its refrain, 'Let all the peoples praise you, O God,' is the very heartbeat of today's liturgy: God's mercy reaches to the ends of the earth, and every nation is called into His praise.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Commentary on Luke",
+            "quote": "How great the reward of mercy which is received into the privilege of divine adoption! Widely spread is the mercy of God; He pours His rain upon the unthankful, and the fruitful earth refuses not its increase to the evil."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "De Doctrina Christiana I.30",
+            "quote": "No one is excluded to whom the office of mercy is to be denied; in the command by which we are bidden to love our neighbor, all are included."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2828,
+            "title": "The Father who gives to all the living"
+          },
+          {
+            "paragraph": 30,
+            "title": "The human heart made to praise God"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the universal blessing promised by Isaiah and vindicated in the Canaanite woman's faith, so that every people learns God's saving power."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 11:13-15,29-32",
+      "text": "Let me tell you pagans this: I have been sent to the pagans as their apostle, and I am proud of being sent, but the purpose of it is to make my own people envious of you, and in this way save some of them. Since their rejection meant the reconciliation of the world, do you know what their admission will mean? Nothing less than a resurrection from the dead! God never takes back his gifts or revokes his choice.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul, apostle to the Gentiles, unfolds the mystery of Israel's temporary rejection as the occasion of the world's reconciliation. Yet God's gifts and call are irrevocable: He has consigned all — Jew and Gentile alike — to disobedience precisely so that He might have mercy upon all. Salvation history is a single tapestry of divine mercy.",
+        "patristicQuotes": [
+          {
+            "father": "Gloss",
+            "work": "Catena Aurea on John",
+            "quote": "God was in Christ reconciling the world unto Himself, and hath given to us the word of reconciliation."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John 80",
+            "quote": "Raise up your spirits again: when the Master is victorious, the disciples should not be dejected; 'I have overcome the world.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 981,
+            "title": "The ministry of reconciliation"
+          },
+          {
+            "paragraph": 1442,
+            "title": "The Church as sign of reconciliation"
+          },
+          {
+            "paragraph": 1490,
+            "title": "Conversion and God's mercy"
+          }
+        ],
+        "thematicConnection": "Paul supplies the theological logic behind Isaiah's inclusion of foreigners and the Gospel's healing of the Canaanite woman: God's mercy overflows the boundaries of Israel to embrace all the nations."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 15:21-28",
+      "text": "Jesus left Gennesaret and withdrew to the region of Tyre and Sidon. Then out came a Canaanite woman from that district and started shouting, ‘Sir, Son of David, take pity on me. My daughter is tormented by a devil.’ But he answered her not a word. And his disciples went and pleaded with him. ‘Give her what she wants,’ they said ‘because she is shouting after us.’ He said in reply, ‘I was sent only to the lost sheep of the House of Israel.’ But the woman had come up and was kneeling at his feet. ‘Lord,’ she said ‘help me.’ He replied, ‘It is not fair to take the children’s food and throw it to the house-dogs.’ She retorted, ‘Ah yes, sir; but even house-dogs can eat the scraps that fall from their master’s table.’ Then Jesus answered her, ‘Woman, you have great faith. Let your wish be granted.’ And from that moment her daughter was well again.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "In pagan territory a Canaanite mother cries out to Jesus as 'Son of David.' Meeting silence, then apparent refusal, then a hard saying about children and dogs, she does not shrink but presses in with humble, tenacious faith. Jesus marvels: 'Woman, great is your faith,' and her daughter is healed. The Gentiles' inclusion, foretold by Isaiah, breaks open in this single mother's persistent trust.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Observe this woman's prudence: He calls the Jews children, she calls them masters; He called her a dog, she accepts the office of a dog — as if she had said, I cannot leave the table of my Lord."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He calls them perishing sheep, not straying; in every way contriving an apology for them, and drawing them to Himself."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2610,
+            "title": "Prayer of bold faith"
+          },
+          {
+            "paragraph": 305,
+            "title": "Childlike abandonment to the Father"
+          },
+          {
+            "paragraph": 2449,
+            "title": "Christ present in those who cry for mercy"
+          }
+        ],
+        "thematicConnection": "The Canaanite woman is the living embodiment of Isaiah's foreigner brought to the holy mountain, and of Paul's Gentile receiving mercy — she praises the God of Israel from outside Israel, and receives His saving help."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "A House of Prayer for All Peoples",
+    "body": "Today the Church throws open the doors of salvation to the whole world. Isaiah announces that foreigners who love the Lord will be brought to His holy mountain, for His house shall be called a house of prayer for all peoples. The psalm echoes back with the cry of every nation: 'Let all the peoples praise you, O God.' Paul then unveils the deep pattern beneath history: God has consigned all to disobedience so that He may have mercy on all — Israel and the nations woven together in one work of reconciliation, His gifts and call irrevocable. And then, in the Gospel, this whole vast mystery becomes flesh in one weeping Canaanite mother. She has no lineage, no covenant claim, no polite entry — only a bruised love for her daughter and a stubborn trust in the Son of David. She takes the place of a dog beneath the table, and Jesus lifts her up as an icon of great faith. The lesson for us is twofold. First, no one is outside the reach of Christ's mercy; the Church exists to gather every nation to His table. Second, the prayer that pierces heaven is the humble, persevering prayer of those who will not leave the Lord's table, even for crumbs. Let all the peoples praise Him."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8520,
+    "completionTokens": 2554,
+    "generatedAt": "2026-08-16T09:23:42.247846+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
