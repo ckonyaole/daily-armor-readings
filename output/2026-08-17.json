@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-17",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-17",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - August 17, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-17"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Ezekiel 24:15-24",
+      "text": "The word of the Lord was addressed to me as follows, ‘Son of man, I am about to deprive you suddenly of the delight of your eyes. But you are not to lament, not to weep, not to let your tears run down. Groan in silence, do not go into mourning for the dead, knot your turban round your head, put your sandals on your feet, do not cover your beard, do not eat common bread.’ I told this to the people in the morning, and my wife died in the evening, and the next morning I did as I had been ordered.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "God commands Ezekiel to become a living sign to Israel: when his beloved wife dies, he is forbidden the customary rites of mourning. His silent grief prefigures the stunned, tearless sorrow Israel will endure when the Temple—'the delight of their eyes'—is destroyed. The prophet's very body becomes a sermon, showing that some losses are so total, so justly deserved, that only silence before God remains.",
+        "patristicQuotes": [
+          {
+            "father": "St. Bede",
+            "work": "Commentary on the Gospels",
+            "quote": "For he follows the Lord, who imitates Him, and walks in His footsteps."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "They pierced my hands and my feet, and in another place, He is led as a sheep to the slaughter; by the iniquities of my people was He led to death."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1012,
+            "title": "Christian vision of death: life is changed, not ended"
+          },
+          {
+            "paragraph": 2474,
+            "title": "Witness sealed in silent fidelity"
+          },
+          {
+            "paragraph": 2825,
+            "title": "Obedience learned through suffering"
+          }
+        ],
+        "thematicConnection": "Ezekiel is stripped of the 'delight of his eyes' as a prophetic sign; the rich young man in the Gospel is asked to be stripped of his possessions and cannot bear it. One man obeys God in loss; the other clings and walks away sad."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Deuteronomy 32:18-21",
+      "text": "You forget the God who fathered you.\nYou forget the Rock who begot you,\nunmindful now of the God who fathered you.\nThe Lord has seen this, and in his anger\ncast off his sons and his daughters.\nYou forget the God who fathered you.\n‘I shall hide my face from them,’ he says\n‘and see what becomes of them.\nFor they are a deceitful brood,\nchildren with no loyalty in them.\nYou forget the God who fathered you.\n‘They have roused me to jealousy with what is no god,\nthey have angered me with their beings of nothing;\nI, then, will rouse them to jealousy with what is no people,\nI will anger them with an empty-headed nation.’\nYou forget the God who fathered you.",
+      "translation": "Universalis (US)",
+      "refrain": "You forget the God who fathered you.",
+      "exegesis": {
+        "summary": "Moses' song from Deuteronomy indicts Israel for forgetting the Rock who fathered her, chasing after 'beings of nothing.' The refrain names the deepest human tragedy: forgetfulness of the God who gave us life. God's threat to 'hide his face' is not caprice but the just fruit of a people who first turned their face away.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He calls them an evil generation, because they have ever been ungrateful to their benefactors, and were made worse when they received benefits, which is the extreme of wickedness."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on John",
+            "quote": "Many good works have I shewed you from My Father, shewing that they had no just reason for their anger."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Man can forget God, but God never ceases to call"
+          },
+          {
+            "paragraph": 2783,
+            "title": "The Father who has begotten us in Baptism"
+          },
+          {
+            "paragraph": 205,
+            "title": "The faithful God who remembers his people"
+          }
+        ],
+        "thematicConnection": "The psalm supplies the diagnosis behind Ezekiel's sign and the young man's sorrow: the human heart forgets the God who fathered it and clings instead to idols—whether the Temple treated as a talisman, or wealth treated as security."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 19:16-22",
+      "text": "There was a man who came to Jesus and asked, ‘Master, what good deed must I do to possess eternal life?’ Jesus said to him, ‘Why do you ask me about what is good? There is one alone who is good. But if you wish to enter into life, keep the commandments.’ He said, ‘Which?’ ‘These:’ Jesus replied ‘You must not kill. You must not commit adultery. You must not bring false witness. Honour your father and mother, and: you must love your neighbour as yourself.’ The young man said to him, ‘I have kept all these. What more do I need to do?’ Jesus said, ‘If you wish to be perfect, go and sell what you own and give the money to the poor, and you will have treasure in heaven; then come, follow me.’ But when the young man heard these words he went away sad, for he was a man of great wealth.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "A rich young man asks Jesus what good deed secures eternal life. Christ points first to the commandments—the ordinary road of love of God and neighbor—and then, seeing his readiness, opens the further way: 'If you wish to be perfect, go, sell what you own... come, follow me.' The young man walks away sorrowful, not because Jesus was harsh, but because his heart was already possessed by his possessions.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "It is not sufficient for perfection that they despise money, unless they also follow the Saviour... for he follows the Lord who is his imitator, and who walks in his steps. This is the sorrow that leads to death; the cause of his sorrow is added, for he had great possessions—thorns and briars, which choked the holy leaven."
+          },
+          {
+            "father": "Remigius",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He said not, Go, and consume all thou hast; but Go, and sell; and not some, as did Ananias and Sapphira, but All. And He said not, Give to thy neighbours, nor to the rich, but to the poor."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Quaestiones in Matthaeum",
+            "quote": "Having sold our possessions, we receive no other return greater than ourselves, for while we were involved in such things we were not our own, that we may again give ourselves for that pearl."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2052,
+            "title": "Keep the commandments to enter life"
+          },
+          {
+            "paragraph": 2053,
+            "title": "The evangelical counsels perfect the Law"
+          },
+          {
+            "paragraph": 2445,
+            "title": "Love of the poor and detachment from riches"
+          },
+          {
+            "paragraph": 2196,
+            "title": "Love of neighbor as fulfillment of the Law"
+          }
+        ],
+        "thematicConnection": "Where Ezekiel accepts a stripping he did not choose, and Israel is called back from forgetfulness, the young man is invited to a freely chosen dispossession—and refuses. All three readings turn on the same axis: what will we surrender for the God who is the one true Good?"
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The one thing that is good, and what it costs",
+    "body": "Today the Church places before us three portraits of the human heart tested by loss. Ezekiel is commanded to bury the delight of his eyes in silence, that his very body might preach to a people about to lose everything they trusted in place of God. The Song of Moses names why such losses come: 'You forget the God who fathered you,' chasing after nothings until the Rock hides his face. And then in the Gospel a promising young man kneels before the one who alone is good and asks the right question—only to walk away sorrowful when the answer touches his wallet. The Catechism teaches that following Christ requires both the commandments and, for those he calls further, the evangelical counsels (CCC 2052-2053). What Ezekiel receives as prophecy, and what Israel receives as chastisement, the young man is offered as invitation: to be dispossessed for love, to trade every lesser treasure for the pearl of great price. The question the Liturgy sets before us this Monday is quiet and searching. What is the 'delight of our eyes' that competes with God? Would we, if he asked, let it go in silence—or would we, too, go away sad, still rich, still forgetting the God who fathered us?"
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8254,
+    "completionTokens": 2258,
+    "generatedAt": "2026-08-17T09:37:13.325281+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
