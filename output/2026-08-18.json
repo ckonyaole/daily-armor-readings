@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-18",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-18",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - August 18, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-18"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Ezekiel 28:1-10",
+      "text": "The word of the Lord was addressed to me as follows, ‘Son of man, tell the ruler of Tyre, “The Lord says this:\nBeing swollen with pride,\nyou have said: I am a god;\nI am sitting on the throne of God,\nsurrounded by the seas.\nThough you are a man and not a god,\nyou consider yourself the equal of God.\nYou are wiser now than Danel;\nthere is no sage as wise as you.\nBy your wisdom and your intelligence\nyou have amassed great wealth;\nyou have piles of gold and silver\ninside your treasure-houses.\nSuch is your skill in trading,\nyour wealth has continued to increase,\nand with this your heart has grown more arrogant.\nAnd so, the Lord says this:\nSince you consider yourself the equal of God,\nvery well, I am going to bring foreigners against you,\nthe most barbarous of the nations.\nThey will draw sword against your fine wisdom,\nthey will defile your glory;\nthey will throw you down into the pit\nand you will die a violent death\nsurrounded by the seas.\nAre you still going to say: I am a god,\nwhen your murderers confront you?\nNo, you are a man and not a god\nin the clutches of your murderers!\nYou will die like the uncircumcised\nat the hand of foreigners.\nFor I have spoken – it is the Lord who speaks.”’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The Lord addresses the prince of Tyre, whose immense wealth and commercial genius have swelled his heart to the blasphemy: 'I am a god.' Ezekiel unmasks the great illusion of the wealthy and powerful: prosperity persuades them they have transcended creaturehood. God's verdict is stark—foreign swords will prove that the merchant-king is only a mortal, and he will die 'like the uncircumcised' among his gold and silver.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Homily on the Rich Man",
+            "quote": "There is a certain erroneous opinion inherent in mankind... the feeling that all the good things we possess we possess as lords over them. But we are placed in this life not as lords in our own house, but as guests and strangers. Cast away then from thy soul the pride of power, and put on the humility and modesty of a steward."
+          },
+          {
+            "father": "Augustine",
+            "work": "Sermon 113",
+            "quote": "If you seek the true riches, there are some in which Job when naked abounded, when he had his heart full towards God. The others are called riches from unrighteousness, because they are not true riches, for they are full of poverty, and ever liable to chances."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1723,
+            "title": "True happiness is not in riches"
+          },
+          {
+            "paragraph": 2445,
+            "title": "Immoderate love of riches condemned"
+          }
+        ],
+        "thematicConnection": "Tyre's prince is the archetypal 'rich man' of the Gospel—so full of possessions that he mistakes himself for God and cannot fit through the needle's eye. Both readings expose wealth as a spiritual danger that hardens the heart against the true King."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Deuteronomy 32:26-28,30,35-36",
+      "text": "It is the Lord who deals death and life.\nI should crush them to dust, said the Lord.\nI should wipe out their memory among men,\ndid I not fear the boasting of the enemy.\nBut let not their foes be mistaken!\nIt is the Lord who deals death and life.\nLet them not say: Our own power wins the victory,\nthe Lord plays no part in this.\nWhat a nation of short sight it is;\nin them there is no understanding.\nIt is the Lord who deals death and life.\nHow else could one man rout a thousand,\nhow could two put ten thousand to flight,\nwere it not that their Rock has sold them,\nthat the Lord has delivered them up?\nIt is the Lord who deals death and life.\nFor it is close, the day of their ruin;\ntheir doom comes at speed.\nFor the Lord will see his people righted,\nhe will take pity on his servants.\nIt is the Lord who deals death and life.",
+      "translation": "Universalis (US)",
+      "refrain": "It is the Lord who deals death and life.",
+      "exegesis": {
+        "summary": "The canticle from the Song of Moses proclaims the sovereign truth that shatters every human boast: 'It is the Lord who deals death and life.' Israel is warned not to say 'our own power wins the victory'; one man routs a thousand only because the Rock delivers or defends. God alone holds the ledger of life and death, and He will finally see His people righted.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Whosoever then shall not have been reconciled in this life with God through the death of His Son, shall be by Him delivered to the Judge... The law is an adversary to such as love to sin, and is given us for this life that it may be with us in the way. To this we ought to agree quickly."
+          },
+          {
+            "father": "Gregory the Great",
+            "work": "Homilies",
+            "quote": "He who rests secure concerning his hope and works, immediately opens to Him that knocks; for when he is aware of the time of death drawing near, he grows joyful, because of the glory of his reward."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2280,
+            "title": "God the sovereign Master of life"
+          },
+          {
+            "paragraph": 635,
+            "title": "Christ holds the keys of death"
+          }
+        ],
+        "thematicConnection": "The refrain answers Tyre directly: no ruler dispenses life; the Lord does. And the Psalm prepares the Gospel's astonishing word—'for God all things are possible'—by insisting that salvation, like victory in battle, is never our achievement but God's gift."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 19:23-30",
+      "text": "Jesus said to his disciples, ‘I tell you solemnly, it will be hard for a rich man to enter the kingdom of heaven. Yes, I tell you again, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of heaven.’ When the disciples heard this they were astonished. ‘Who can be saved, then?’ they said. Jesus gazed at them. ‘For men’ he told them ‘this is impossible; for God everything is possible.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus, watching the rich young man walk sadly away, tells His disciples that entrance into the Kingdom is harder for the wealthy than the passage of a camel through a needle's eye. The disciples, still assuming that riches were a sign of divine favor, are stunned: 'Who then can be saved?' Christ lifts their gaze from human calculation to divine grace: 'For men this is impossible; for God everything is possible.'",
+        "patristicQuotes": [
+          {
+            "father": "Hilary of Poitiers",
+            "work": "Catena Aurea on Matthew",
+            "quote": "It is a dangerous toil to become rich; and guiltlessness occupied in increasing its wealth has taken upon itself a sore burden; the servant of God gains not the things of the world clear of the sins of the world."
+          },
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "If we read Isaiah, how the camels of Midian and Ephah came to Jerusalem with gifts, and they who once were crooked and bowed down by the weight of their sins enter the gates of Jerusalem, we shall see how these camels, to which the rich are likened, when they have laid aside the heavy load of sins, may then enter by that narrow way that leads to life."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2544,
+            "title": "Detachment obligatory for the Kingdom"
+          },
+          {
+            "paragraph": 2547,
+            "title": "The Lord grieves over the rich"
+          },
+          {
+            "paragraph": 544,
+            "title": "Kingdom belongs to the poor"
+          }
+        ],
+        "thematicConnection": "The Gospel exposes what Ezekiel diagnosed and the Psalm confessed: riches breed the illusion of self-sufficiency, the very illusion that undid the prince of Tyre. Only the God who 'deals death and life' can perform the miracle of saving a rich man—by making him poor in spirit."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Needle's Eye and the Prince of Tyre",
+    "body": "Today the Church places before us the oldest and subtlest idolatry: the worship of what we own. Ezekiel paints the prince of Tyre as the exemplar of wealth's madness—so surrounded by gold and clever commerce that he begins to whisper, 'I am a god.' The Song of Moses answers with the truth that heals every proud heart: 'It is the Lord who deals death and life.' No merchant, no army, no fortune wins the victory; the Rock alone gives or withholds. And then Jesus, gazing at the disciples, drives the lesson into the flesh of every would-be follower: it is easier for a camel to pass through a needle's eye than for a rich man to enter the Kingdom. The disciples' shock—'Who then can be saved?'—is our own, because we too instinctively measure blessedness by abundance. But Christ turns their eyes upward: what is impossible for us is possible for God. As Jerome saw, the camel can enter Jerusalem once he lays down the crushing load. As Pseudo-Chrysostom taught, we are stewards, not lords. The Lord who dethrones Tyre and grieves over the rich stands ready today to unburden us, to make us poor in spirit, and to do in us the impossible thing: to bring us home."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9197,
+    "completionTokens": 2365,
+    "generatedAt": "2026-08-18T09:28:53.403465+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
