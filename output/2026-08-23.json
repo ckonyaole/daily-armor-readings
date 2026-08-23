@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-23",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-23",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - August 23, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-08-23"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Isaiah 22:19-23",
+      "text": "Thus says the Lord of Hosts to Shebna, the master of the palace:\nI dismiss you from your office,\nI remove you from your post,\nand the same day I call on my servant\nEliakim son of Hilkiah.\nI invest him with your robe,\ngird him with your sash,\nentrust him with your authority;\nand he shall be a father\nto the inhabitants of Jerusalem\nand to the House of Judah.\nI place the key of the House of David\non his shoulder;\nshould he open, no one shall close,\nshould he close, no one shall open.\nI drive him like a peg\ninto a firm place;\nhe will become a throne of glory\nfor his father’s house.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The Lord deposes the unfaithful steward Shebna and installs Eliakim as master of the palace, placing upon his shoulder 'the key of the House of David' with the authority to open and shut. This is a prophetic image of stewardship in the Davidic kingdom: the king rules, but he entrusts a vicar with the keys to govern in his name. Eliakim is to be 'a father' to Jerusalem and 'a peg in a firm place,' foreshadowing an office of steady, paternal authority within God's household.",
+        "patristicQuotes": [
+          {
+            "father": "St. Basil",
+            "work": "Epistle 236 ad Amphilochium",
+            "quote": "Our Lord sat not on the earthly throne of David, the Jewish kingdom having been transferred to Herod. The seat of David is that on which our Lord reestablished His spiritual kingdom which should never be destroyed."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 709,
+            "title": "The Kingdom promised to David"
+          },
+          {
+            "paragraph": 2579,
+            "title": "David, king after God's own heart"
+          }
+        ],
+        "thematicConnection": "The keys given to Eliakim prefigure the keys of the Kingdom that Christ, the Son of David, entrusts to Peter in today's Gospel. The Church hears Isaiah first so that Jesus' words to Peter resound with unmistakable royal and vicarious authority."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 137(138):1-3,6,8",
+      "text": "Your love, O Lord, is eternal: discard not the work of your hands.\nI thank you, Lord, with all my heart:\nyou have heard the words of my mouth.\nIn the presence of the angels I will bless you.\nI will adore before your holy temple.\nYour love, O Lord, is eternal: discard not the work of your hands.\nI thank you for your faithfulness and love,\nwhich excel all we ever knew of you.\nOn the day I called, you answered;\nyou increased the strength of my soul.\nYour love, O Lord, is eternal: discard not the work of your hands.\nThe Lord is high yet he looks on the lowly\nand the haughty he knows from afar.\nYour love, O Lord, is eternal,\ndiscard not the work of your hands.\nYour love, O Lord, is eternal: discard not the work of your hands.",
+      "translation": "Universalis (US)",
+      "refrain": "Your love, O Lord, is eternal: discard not the work of your hands.",
+      "exegesis": {
+        "summary": "The psalmist thanks the Lord for his eternal love and faithfulness, praising Him 'in the presence of the angels' and 'before your holy temple.' The refrain begs God not to abandon the work of his hands, confessing that though the Lord is high, He looks upon the lowly. It is the prayer of one whom God has answered and strengthened.",
+        "patristicQuotes": [],
+        "cccReferences": [
+          {
+            "paragraph": 2658,
+            "title": "Love as source of prayer"
+          },
+          {
+            "paragraph": 2579,
+            "title": "David's prayer of trust"
+          }
+        ],
+        "thematicConnection": "The psalm places on our lips the response of every soul who has received God's steadfast covenantal love — the same love that raises up Eliakim in Isaiah, calls forth Peter's confession in the Gospel, and moves Paul to doxology in Romans. God 'looks on the lowly': He chose a fisherman to be the rock."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 11:33-36",
+      "text": "How rich are the depths of God – how deep his wisdom and knowledge – and how impossible to penetrate his motives or understand his methods! Who could ever know the mind of the Lord? Who could ever be his counsellor? Who could ever give him anything or lend him anything? All that exists comes from him; all is by him and for him. To him be glory for ever! Amen.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul erupts in doxology at the mystery of God's providence over Israel and the Gentiles: 'How rich are the depths of God!' No one has known the Lord's mind or given Him counsel; from Him, through Him, and for Him are all things. This hymn closes Paul's meditation on election and mercy with adoration rather than explanation.",
+        "patristicQuotes": [],
+        "cccReferences": [
+          {
+            "paragraph": 300,
+            "title": "God greater than all his works"
+          },
+          {
+            "paragraph": 303,
+            "title": "God's sovereign providence"
+          },
+          {
+            "paragraph": 257,
+            "title": "The plan of loving kindness"
+          }
+        ],
+        "thematicConnection": "Paul's awe at God's unsearchable wisdom frames the day's other readings: it is God alone who chooses Eliakim over Shebna, who reveals the Son's identity to Peter 'not by flesh and blood,' and who builds a Church that hell cannot overpower. All authority in the Kingdom is gift, not achievement."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 16:13-20",
+      "text": "When Jesus came to the region of Caesarea Philippi he put this question to his disciples, ‘Who do people say the Son of Man is?’ And they said, ‘Some say he is John the Baptist, some Elijah, and others Jeremiah or one of the prophets.’ ‘But you,’ he said ‘who do you say I am?’ Then Simon Peter spoke up, ‘You are the Christ,’ he said, ‘the Son of the living God.’ Jesus replied, ‘Simon son of Jonah, you are a happy man! Because it was not flesh and blood that revealed this to you but my Father in heaven. So I now say to you: You are Peter and on this rock I will build my Church. And the gates of the underworld can never hold out against it. I will give you the keys of the kingdom of heaven: whatever you bind on earth shall be considered bound in heaven; whatever you loose on earth shall be considered loosed in heaven.’ Then he gave the disciples strict orders not to tell anyone that he was the Christ.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "At Caesarea Philippi, Peter confesses Jesus as 'the Christ, the Son of the living God.' Jesus declares that this confession is a revelation from the Father, renames Simon as Peter (Rock), and promises to build His Church upon him with the assurance that the gates of the underworld shall never prevail. To Peter alone He gives the keys of the Kingdom and the power to bind and loose — the very authority Isaiah foretold in the household of David.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "When the Lord enquires concerning the opinion of the multitudes, all the disciples answer; but when all the disciples are asked, Peter as the mouth and head of the Apostles answers for all."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "As from Christ proceeded that light to the Apostles, whereby they were called the light of the world, so upon Simon who believed in Christ the Rock, He bestowed the name of Peter."
+          },
+          {
+            "father": "St. Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This confession of Peter met a worthy reward, for that he had seen the Son of God in the man."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 442,
+            "title": "Peter's confession"
+          },
+          {
+            "paragraph": 552,
+            "title": "Peter's unique mission"
+          },
+          {
+            "paragraph": 424,
+            "title": "The rock of faith"
+          },
+          {
+            "paragraph": 553,
+            "title": "Keys of the Kingdom"
+          }
+        ],
+        "thematicConnection": "The Gospel is the fulfillment of Isaiah: the Son of David hands over the keys of His Kingdom to a new steward, Peter, whose faith becomes the immovable peg on which the Church hangs. Paul's doxology explains why: this office is not human invention but the depth of God's own wisdom."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Keys of the Kingdom",
+    "body": "Today the Church stands before the mystery of how God governs His household. In Isaiah, the Lord strips the faithless Shebna and lays the key of David upon Eliakim's shoulder, making him a father to Jerusalem, a peg fixed in a firm place. Centuries later, at Caesarea Philippi, the true Son of David repeats the gesture on a cosmic scale: 'You are Peter, and on this rock I will build my Church… I will give you the keys of the kingdom of heaven.' The prophecy has become a Catholic reality. Christ has founded a visible Church with a visible steward, and He has promised that the gates of the underworld will never prevail against her. Yet Peter's confession — 'You are the Christ, the Son of the living God' — was not the fruit of shrewdness but of revelation from the Father. This is why St. Paul's cry belongs at the heart of today's liturgy: 'How rich are the depths of God!' The Papacy, the sacraments, our own faith — none of these are our achievements; they come from Him, through Him, and for Him. The psalm gives us the only fitting response: to thank the Lord with all our heart, trusting that His love is eternal and that He will not discard the work of His hands — neither the Church He builds on Peter, nor the soul He is building in each of us."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 11185,
+    "completionTokens": 2402,
+    "generatedAt": "2026-08-23T09:23:28.402391+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
