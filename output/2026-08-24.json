@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-24",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-24",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - August 24, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-24"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Apocalypse 21:9-14",
+      "text": "The angel came to speak to me, and said, ‘Come here and I will show you the bride that the Lamb has married.’ In the spirit, he took me to the top of an enormous high mountain and showed me Jerusalem, the holy city, coming down from God out of heaven. It had all the radiant glory of God and glittered like some precious jewel of crystal-clear diamond. The walls of it were of a great height, and had twelve gates; at each of the twelve gates there was an angel, and over the gates were written the names of the twelve tribes of Israel; on the east there were three gates, on the north three gates, on the south three gates, and on the west three gates. The city walls stood on twelve foundation stones, each one of which bore the name of one of the twelve apostles of the Lamb.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "On this feast of St. Bartholomew (traditionally identified with Nathanael), John the Seer beholds the New Jerusalem descending from heaven as the Bride of the Lamb. Her walls rest upon twelve foundation stones bearing the names of the twelve apostles, joined to the twelve gates named for the tribes of Israel. The vision proclaims the Church as the fulfillment of both covenants, radiant with the glory of God and built upon the apostolic witness.",
+        "patristicQuotes": [
+          {
+            "father": "Rabanus Maurus",
+            "work": "Catena Aurea (cf. Tertullian, Adv. Marc. IV.13)",
+            "quote": "The number twelve is typified in the Old Testament by the twelve sons of Jacob, the twelve princes of Israel, the twelve springs of Elim, the twelve stones on Aaron's breastplate, the twelve loaves of showbread, and the twelve stones taken from the Jordan; and in the New Testament by the twelve stars in the Bride's crown, and by the twelve foundations and twelve gates of the Jerusalem which John saw."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 865,
+            "title": "The Church as the Bride, the New Jerusalem"
+          },
+          {
+            "paragraph": 765,
+            "title": "The Twelve as foundation stones of the new Jerusalem"
+          }
+        ],
+        "thematicConnection": "The apostolic foundation named here includes Nathanael/Bartholomew, whose call we hear in the Gospel. The heavenly city whose splendor John beholds is the very Kingdom the psalmist praises as everlasting."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 144(145):10-13a,17-18",
+      "text": "Your friends, O Lord, make known the glorious splendour of your reign.\nAll your creatures shall thank you, O Lord,\nand your friends shall repeat their blessing.\nThey shall speak of the glory of your reign\nand declare your might, O God.\nYour friends, O Lord, make known the glorious splendour of your reign.\nThey make known to men your mighty deeds\nand the glorious splendour of your reign.\nYours is an everlasting kingdom;\nyour rule lasts from age to age.\nYour friends, O Lord, make known the glorious splendour of your reign.\nThe Lord is just in all his ways\nand loving in all his deeds.\nHe is close to all who call him,\nwho call on him from their hearts.\nYour friends, O Lord, make known the glorious splendour of your reign.",
+      "translation": "Universalis (US)",
+      "refrain": "Your friends, O Lord, make known the glorious splendour of your reign.",
+      "exegesis": {
+        "summary": "The psalm places on the lips of God's friends — his saints and apostles — the proclamation of the glory of his everlasting Kingdom. The Lord is just in all his ways and close to all who call upon him from the heart. The refrain identifies the mission of the Twelve: to make known the splendor of the Reign of God.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "As the son of a good father set over all that is his, He shall communicate of His dignity and glory to His faithful and wise stewards, that they also may be above the whole creation."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 935,
+            "title": "Christ sends his apostles to plant his reign"
+          },
+          {
+            "paragraph": 2855,
+            "title": "The Kingdom, power, and glory belong to the Father"
+          }
+        ],
+        "thematicConnection": "The 'friends of the Lord' who declare his Kingdom are precisely the apostles whose names inscribe the foundations of the New Jerusalem, and Nathanael who confesses Jesus as 'King of Israel.'"
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "John 1:45-51",
+      "text": "Philip found Nathanael and said to him, ‘We have found the one Moses wrote about in the Law, the one about whom the prophets wrote: he is Jesus son of Joseph, from Nazareth.’ ‘From Nazareth?’ said Nathanael ‘Can anything good come from that place?’ ‘Come and see’ replied Philip. When Jesus saw Nathanael coming he said of him, ‘There is an Israelite who deserves the name, incapable of deceit.’ ‘How do you know me?’ said Nathanael. ‘Before Philip came to call you,’ said Jesus ‘I saw you under the fig tree.’ Nathanael answered, ‘Rabbi, you are the Son of God, you are the King of Israel.’ Jesus replied, ‘You believe that just because I said: I saw you under the fig tree. You will see greater things than that.’ And then he added ‘I tell you most solemnly, you will see heaven laid open and, above the Son of Man, the angels of God ascending and descending.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Philip brings Nathanael to Jesus, who greets him as 'a true Israelite, in whom there is no deceit.' Jesus reveals a supernatural knowledge of Nathanael 'under the fig tree,' and Nathanael responds with a confession of divine sonship and messianic kingship. Jesus promises he will see 'greater things' — heaven opened, and the angels ascending and descending upon the Son of Man, the fulfillment of Jacob's ladder.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John, xix",
+            "quote": "Nathanael, in difficulty about Christ coming out of Nazareth, showed the care with which he had read the Scriptures; his not rejecting the tidings when brought him showed his strong desire for Christ's coming. He calls him guileless, because he had said nothing to gain favor or to gratify malice."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Sermon 40 [122]",
+            "quote": "Nathanael remembered that he had been under the fig tree, where Christ was not present corporeally, but only by His spiritual knowledge. Hence, knowing that he had been alone, he recognized our Lord's Divinity."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 443,
+            "title": "Jesus as the Son who is superior to angels"
+          },
+          {
+            "paragraph": 590,
+            "title": "The divine identity claimed by Jesus"
+          }
+        ],
+        "thematicConnection": "The apostle Nathanael, whose name will one day be written on the foundations of the New Jerusalem (first reading), here first confesses Christ as Son of God and King of Israel — the King whose everlasting Kingdom the psalm proclaims."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Guileless Apostle and the Bride Adorned",
+    "body": "Today the Church honors St. Bartholomew, whom tradition identifies with Nathanael, the 'true Israelite in whom there is no deceit.' The readings trace an arc from a single call under a fig tree to the vision of a City whose foundations bear his name. In the Gospel, Jesus sees Nathanael before Nathanael sees him — a divine knowledge that draws forth the first great confession of John's Gospel: 'You are the Son of God, you are the King of Israel.' Jesus promises this new disciple that he will see heaven opened, Jacob's ladder fulfilled in the Son of Man himself, who is the bridge between earth and the Father's house. The Apocalypse shows us that promise kept: the Bride, the New Jerusalem, descends radiant with God's glory, resting upon twelve apostolic foundations — Bartholomew's among them (CCC 765, 865). Between these two visions the Psalm gives us the apostles' vocation and ours: 'Your friends, O Lord, make known the glorious splendor of your reign.' The saints are the friends of God who, having been seen and named by Christ, spend their lives proclaiming his everlasting Kingdom until the Bride is fully adorned and the City comes down from heaven."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8159,
+    "completionTokens": 2116,
+    "generatedAt": "2026-08-24T09:42:10.162855+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
