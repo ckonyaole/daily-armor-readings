@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-25",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-25",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - August 25, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-25"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Thessalonians 2:1-3,14-17",
+      "text": "To turn, brothers, to the coming of our Lord Jesus Christ and how we shall all be gathered round him: please do not get excited too soon or alarmed by any prediction or rumour or any letter claiming to come from us, implying that the Day of the Lord has already arrived. Never let anyone deceive you in this way.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul steadies the Thessalonians against feverish speculation about the Day of the Lord, warning them not to be shaken by rumors or forged letters claiming Christ has already come. Instead, he anchors them in the tradition they received—whether by word of mouth or letter—and prays that God the Father and the Lord Jesus Christ would strengthen their hearts in every good work and word. The Church is called to vigilant hope, not anxious calculation.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "Epistle 199",
+            "quote": "That we ought to look for the Lord's coming to be nigh, who denies? For daily it draws ever more near, but of the exact time it is said, 'It is not for you to know the times or the seasons.'"
+          },
+          {
+            "father": "Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "It is right to long for the day of Christ, yet from the earnestness of our longing let us not imagine the day is already at hand. Hence He says, 'They shall say to you, Lo here! and, Lo there!'"
+          },
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Suddenly, as on a stormy night, when all think themselves secure, at the hour when sleep is deepest, the coming of Christ shall be proclaimed by the shout of Angels and the trumpets of the Powers that go before Him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 673,
+            "title": "Christ's coming is imminent yet the hour is hidden"
+          },
+          {
+            "paragraph": 675,
+            "title": "The Church's final trial and the deception of Antichrist"
+          },
+          {
+            "paragraph": 671,
+            "title": "Maranatha: praying for Christ's return"
+          }
+        ],
+        "thematicConnection": "Paul's warning against deception and his call to hold fast to sound tradition prepares us for the Gospel, where Jesus exposes the hypocrisy of teachers who neglect the weightier matters, and it echoes the Psalm's confident announcement that the Lord truly comes to judge with justice."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 95(96):10-13",
+      "text": "The Lord comes to rule the earth.\nProclaim to the nations: ‘God is king.’\nThe world he made firm in its place;\nhe will judge the peoples in fairness.\nThe Lord comes to rule the earth.\nLet the heavens rejoice and earth be glad,\nlet the sea and all within it thunder praise,\nlet the land and all it bears rejoice,\nall the trees of the wood shout for joy\nat the presence of the Lord for he comes,\nhe comes to rule the earth.\nThe Lord comes to rule the earth.\nWith justice he will rule the world,\nhe will judge the peoples with his truth.\nThe Lord comes to rule the earth.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord comes to rule the earth.",
+      "exegesis": {
+        "summary": "The psalmist summons all creation—heavens, sea, land, trees—to rejoice because the Lord comes to rule the earth. His reign is not tyranny but fairness and truth, judgment rendered in righteousness. Creation itself groans in expectation of the King who alone can set the world right.",
+        "patristicQuotes": [
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Power is given in heaven and in earth, that He who before reigned in heaven should now reign on earth by the faith of the believers."
+          },
+          {
+            "father": "Rabanus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "After the parables concerning the end of the world, the Lord proceeds to describe the manner of the judgment to come."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2818,
+            "title": "Thy kingdom come: longing for Christ's return"
+          },
+          {
+            "paragraph": 2832,
+            "title": "The kingdom leavens the earth through justice"
+          },
+          {
+            "paragraph": 319,
+            "title": "Creation exists to share God's glory"
+          }
+        ],
+        "thematicConnection": "The psalm answers Paul's teaching on the Day of the Lord with joy rather than panic: the Lord's coming is good news for a world hungering for true justice, the very justice the Gospel demands the scribes and Pharisees had abandoned."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 23:23-26",
+      "text": "Jesus said: ‘Alas for you, scribes and Pharisees, you hypocrites! You who pay your tithe of mint and dill and cumin and have neglected the weightier matters of the Law – justice, mercy, good faith! These you should have practised, without neglecting the others. You blind guides! Straining out gnats and swallowing camels!",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus pronounces woes upon the scribes and Pharisees who meticulously tithe garden herbs while neglecting judgment, mercy, and faith. He does not abolish the small observances—'these you should have practiced'—but insists they can never replace the weightier matters of the Law. Blind guides who strain gnats from their cup while swallowing camels have inverted the true hierarchy of holiness.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Straining out a gnat is putting from them small sins; swallowing a camel is committing great sins. Mint, anise, and cummin are the seasoning, not the substance of food; so in our life there are some things necessary to justification—judgment, mercy, and faith—and others which merely give flavour."
+          },
+          {
+            "father": "Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He charges them with covetousness in exacting carefully the tithes of worthless herbs, while they neglected justice in their business, mercy to the poor, and faith toward God, which are the weighty things."
+          },
+          {
+            "father": "Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Because it was much less guilt to omit the tithing of herbs than a duty of benevolence, the Lord derides them: 'Ye blind guides, which strain out a gnat and swallow a camel.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 588,
+            "title": "Those who pretend not to need salvation are blind"
+          },
+          {
+            "paragraph": 2449,
+            "title": "The tithe and the duty toward the poor"
+          },
+          {
+            "paragraph": 582,
+            "title": "Jesus reveals the true interior meaning of the Law"
+          }
+        ],
+        "thematicConnection": "As Paul warned against religious deception, Jesus exposes its most subtle form: piety detached from justice and mercy. This is the very hypocrisy that will accompany the Church's pilgrimage until the Lord comes 'to judge the peoples with his truth,' as the Psalm proclaims."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Watchful for the King who judges hearts",
+    "body": "Today the Church trains our gaze on the coming of the Lord—not with the feverish speculation Paul rebukes in Thessalonica, nor with the shallow piety Jesus rebukes in Jerusalem, but with sober, watchful love. Paul steadies believers who are being shaken by false rumors that 'the Day of the Lord has already arrived,' calling them instead to hold fast to the tradition they received and to let God 'strengthen your hearts in every good work.' The Psalm bursts open the meaning of that Day: the Lord comes to rule the earth with fairness and truth, and creation itself trembles with joy at his approach. But how shall we be found on that Day? The Gospel gives the searching answer. It is not enough to tithe mint and dill—to keep the tidy externals of religion—while neglecting 'the weightier matters of the Law: justice, mercy, good faith.' Blind guides strain gnats and swallow camels. The Lord who comes to judge the world in truth (Ps 96) has already told us what he will look for: hearts made just and merciful by the Gospel, not merely hands busy with ritual dust. Maranatha, come Lord Jesus—and find us clean within, not only without."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6218,
+    "completionTokens": 2405,
+    "generatedAt": "2026-08-25T09:31:22.540130+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
