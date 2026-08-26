@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-26",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-26",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - August 26, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-26"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "2 Thessalonians 3:6-10,16-18",
+      "text": "In the name of the Lord Jesus Christ, we urge you, brothers, to keep away from any of the brothers who refuses to work or to live according to the tradition we passed on to you.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul exhorts the Thessalonians to keep away from any brother who lives in idleness, contrary to the tradition handed on. He appeals to his own example: while among them he worked night and day so as not to burden anyone, laying down the principle that whoever refuses to work should not eat. He closes with a blessing of peace from the Lord himself.",
+        "patristicQuotes": [
+          {
+            "father": "Bede",
+            "work": "Homily on the Vigil of St. Andrew",
+            "quote": "This is truly to find the Lord; namely, to have fervent love for Him, together with a care for our brother's salvation."
+          },
+          {
+            "father": "Augustine",
+            "work": "Tractate 58 on John",
+            "quote": "It is unquestionably better that hospitality should be done with the hands, and that the Christian disdain not to do what Christ did. For when the body is bent at the feet of a brother, the feeling of humility is made to rise in the heart."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 533,
+            "title": "The redeeming law of human work at Nazareth"
+          },
+          {
+            "paragraph": 2830,
+            "title": "'Our bread' — providence and cooperation, not idleness"
+          },
+          {
+            "paragraph": 2195,
+            "title": "Avoiding burdens that hinder others"
+          }
+        ],
+        "thematicConnection": "Paul's insistence that faith bears fruit in honest labor sets up the psalm's blessing on those who eat by the work of their hands and exposes, by contrast, the Gospel's hypocrites whose outward polish hides inward corruption."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 127(128):1-2,4-5",
+      "text": "O blessed are those who fear the Lord.\nO blessed are those who fear the Lord\nand walk in his ways!\nBy the labour of your hands you shall eat.\nYou will be happy and prosper.\nO blessed are those who fear the Lord.\nIndeed thus shall be blessed\nthe man who fears the Lord.\nMay the Lord bless you from Zion\nall the days of your life!\nO blessed are those who fear the Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "O blessed are those who fear the Lord.",
+      "exegesis": {
+        "summary": "The psalm sings a beatitude of the God-fearing worker: the one who walks in the Lord's ways will eat the fruit of his own labor, know true prosperity, and receive the Lord's blessing from Zion. Happiness here is not idleness or acquisition, but a life integrated in reverence, industry, and covenant.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Luke",
+            "quote": "All the blessings which Jesus pronounced in His Gospel He confirms by His own example, as having declared, Blessed are the meek; He afterwards sanctions it by saying, Learn of me, for I am meek."
+          },
+          {
+            "father": "Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "He calls those blessed who shun a careless life mixed up with sin and devoted to carnal pleasures, and refuse enjoyments, weeping from their hatred of all worldly things."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1716,
+            "title": "The Beatitudes at the heart of Jesus' preaching"
+          },
+          {
+            "paragraph": 2626,
+            "title": "Blessing as the basic movement of prayer"
+          },
+          {
+            "paragraph": 2546,
+            "title": "The order of happiness and grace"
+          }
+        ],
+        "thematicConnection": "The psalm ratifies Paul's teaching: the one who works and fears the Lord is blessed. It also anticipates the Gospel by contrasting genuine, interior blessedness with the counterfeit 'blessedness' of the whitewashed Pharisees."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 23:27-32",
+      "text": "Jesus said: ‘Alas for you, scribes and Pharisees, you hypocrites! You who are like whitewashed tombs that look handsome on the outside, but inside are full of dead men’s bones and every kind of corruption. In the same way you appear to people from the outside like good honest men, but inside you are full of hypocrisy and lawlessness.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus pronounces two woes against the scribes and Pharisees. They are like whitewashed tombs — outwardly beautiful, inwardly full of decay — appearing righteous while harboring hypocrisy and lawlessness. They build monuments to the prophets their fathers killed, yet fill up the measure of their fathers' guilt by plotting against the true Prophet standing before them.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He calls them hypocrites, that seeing Him to be a discerner of human hearts, they might not be hardy enough to carry through their design. The Pharisees spoke fair that they might destroy Him, but Jesus put them to shame that He might save them."
+          },
+          {
+            "father": "Rabanus",
+            "work": "Catena Aurea on Matthew",
+            "quote": "What else are the bodies of the faithless but sepulchres of the dead, in which the word of God dwells not, but there is enclosed the soul dead in sins."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 588,
+            "title": "Those who pretend not to need salvation"
+          },
+          {
+            "paragraph": 575,
+            "title": "Christ's relations with the Pharisees"
+          },
+          {
+            "paragraph": 576,
+            "title": "Jesus and the institutions of Israel"
+          }
+        ],
+        "thematicConnection": "Where Paul commends a life whose outward labor flows from inward faith, and the psalm blesses the God-fearing worker whose reverence is real, the Gospel condemns the inverse: a spotless exterior masking a tomb. Together they demand integrity between what is seen and what is within."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Blessedness within, labor without: the life free of hypocrisy",
+    "body": "Today's readings converge on a single question: does the inside of your life match the outside? St. Paul, working with his own hands so as to be no burden, insists that the Christian tradition includes honest labor and quiet self-support; idleness that trades on the community's charity is a betrayal of the Gospel we received. The psalm blesses precisely this life — the one who fears the Lord and eats the fruit of his hands is called happy, and the Lord's blessing pours out from Zion upon him. Then Jesus, in the Gospel, unmasks the counterfeit: the scribes and Pharisees whose exteriors gleam like polished tombs while corruption festers within. They honor dead prophets and prepare to kill the living One. The Church places these texts side by side to press us toward integrity of life. As the Catechism reminds us at Nazareth (CCC 533), Christ himself sanctified the ordinary labor of the day; and the Beatitudes (CCC 1716, 2546) reveal that true blessedness is inward, poor in spirit, unpretending. Ask today for the grace of a life without whitewash: a heart that fears the Lord, hands that work honestly, and a soul whose secret and public selves are one."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6349,
+    "completionTokens": 2216,
+    "generatedAt": "2026-08-26T09:36:45.595002+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
