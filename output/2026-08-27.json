@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-27",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-27",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Thursday - August 27, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-27"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Corinthians 1:1-9",
+      "text": "I, Paul, appointed by God to be an apostle, together with brother Sosthenes, send greetings to the church of God in Corinth, to the holy people of Jesus Christ, who are called to take their place among all the saints everywhere who pray to our Lord Jesus Christ; for he is their Lord no less than ours. May God our Father and the Lord Jesus Christ send you grace and peace.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul opens his letter to the Corinthians by identifying himself as an apostle called by God's will, and greets the church at Corinth as those 'sanctified in Christ Jesus, called to be holy.' He blesses them with grace and peace from the Father and the Lord Jesus, reminding them that they belong to a communion of saints who together call upon the name of Jesus as Lord. Paul's apostolic identity is not self-appointed but a share in Christ's own mission.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "No one takes the honor to himself but he that is called of God. Paul was not presumptuous but summoned; the Apostles, after leaving a few things, obtained the manifold gifts of grace and were accounted great everywhere."
+          },
+          {
+            "father": "St. Hilary",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Since Christ came from God, when He is received by us, through Him God is transfused into us; and to have received the Apostles is no other than to have received God, for Christ dwells in them, and God in Christ."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 858,
+            "title": "Apostles as Christ's emissaries"
+          },
+          {
+            "paragraph": 861,
+            "title": "Apostolic succession"
+          },
+          {
+            "paragraph": 2632,
+            "title": "Paul's prayer for the churches"
+          },
+          {
+            "paragraph": 957,
+            "title": "Communion of the saints"
+          }
+        ],
+        "thematicConnection": "Paul greets a people 'called to be holy' — a summons that requires the watchful readiness the Gospel demands. His apostolic vocation, like the faithful servant of Matthew 24, is a stewardship entrusted by the Master until He returns."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 144(145):2-7",
+      "text": "I will bless your name for ever, O Lord.\nI will bless you day after day\nand praise your name for ever.\nThe Lord is great, highly to be praised,\nhis greatness cannot be measured.\nI will bless your name for ever, O Lord.\nAge to age shall proclaim your works,\nshall declare your mighty deeds,\nshall speak of your splendour and glory,\ntell the tale of your wonderful works.\nI will bless your name for ever, O Lord.\nThey will speak of your terrible deeds,\nrecount your greatness and might.\nThey will recall your abundant goodness;\nage to age shall ring out your justice.\nI will bless your name for ever, O Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "I will bless your name for ever, O Lord.",
+      "exegesis": {
+        "summary": "Psalm 144 is a hymn of ceaseless blessing: 'I will bless your name for ever.' It rehearses God's greatness across the generations, remembering his mighty deeds and passing them from age to age. It is the natural response of those who have been 'enriched in every way' by God's grace, as Paul says the Corinthians were.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Augustine",
+            "work": "Catena Aurea",
+            "quote": "Hallowed be thy name — that is, let thy holiness be known to all the world, and let it worthily praise thee. For praise becometh the upright."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1077,
+            "title": "Blessing as the Father's gift"
+          },
+          {
+            "paragraph": 30,
+            "title": "The restless heart praises God"
+          },
+          {
+            "paragraph": 2474,
+            "title": "Praise even to the last breath"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to the 'grace and peace' Paul invokes upon the Corinthians. It is also the song of the watchful servant of Matthew 24: blessing God 'day after day,' the soul remains awake for the Master's coming."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 24:42-51",
+      "text": "Jesus said to his disciples: ‘Stay awake, because you do not know the day when your master is coming. You may be quite sure of this, that if the householder had known at what time of the night the burglar would come, he would have stayed awake and would not have allowed anyone to break through the wall of his house. Therefore, you too must stand ready because the Son of Man is coming at an hour you do not expect.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus warns his disciples to 'stay awake,' for the Son of Man will come at an hour they do not expect. He contrasts the faithful and prudent servant, whom the Master will find at his duty and set over his household, with the wicked servant who says, 'My master is delayed,' and abuses his fellow servants. Vigilance is not anxiety but fidelity in the tasks entrusted to us.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The tradition holds that Christ will come at midnight, as in Egypt when the destroyer came and the Lord passed over. Hence the apostolic custom on the Easter vigil that the people not be dismissed before midnight, in expectation of Christ's coming; whence the Psalmist says, 'At midnight I rose to praise thee.'"
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "When He had roused them from sleep, seeing in the Spirit what was drawing near, He says, 'Behold, the hour is at hand.' Vigilance belongs to those who see with the Spirit what others cannot yet see."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 672,
+            "title": "The time of waiting and watching"
+          },
+          {
+            "paragraph": 2849,
+            "title": "Vigilance as custody of the heart"
+          },
+          {
+            "paragraph": 1341,
+            "title": "'Until he comes' — the Eucharistic vigil"
+          }
+        ],
+        "thematicConnection": "The Gospel supplies the urgency behind Paul's greeting: the Corinthians 'wait for the revealing of our Lord Jesus Christ,' and God will 'sustain them to the end.' The psalm's ceaseless blessing is precisely the posture of a servant found awake."
+      }
+    },
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Ecclesiasticus 26:1-4,13-16",
+      "text": "Happy the husband of a really good wife;\nthe number of her days will be doubled.\nA perfect wife is the joy of her husband,\nhe will live out his years in peace.\nA good wife is the best of portions,\nreserved for those who fear the Lord:\nrich or poor, they will be glad of heart,\ncheerful of face, whatever the season.\nThe grace of a wife will charm her husband,\nher accomplishments will make him the stronger.\nA silent wife is a gift from the Lord,\nno price can be put on a well-trained character.\nA modest wife is a boon twice over,\na chaste character cannot be weighed on scales.\nLike the sun rising over the mountains of the Lord\nis the beauty of a good wife in a well-kept house.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Sirach praises the gift of a good wife, calling her 'the best of portions' reserved for those who fear the Lord. Her grace, modesty, chastity, and quiet strength are described as blessings 'twice over,' beyond price. The passage teaches that domestic holiness — the ordinary sanctity of the home — is a treasure from God's own hand.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "in Luc. ii. 5",
+            "quote": "Be not troubled that he calls her his wife; her wedlock is witnessed to, and the celebration of her marriage is declared — a sign that marriage itself is honorable and consecrated."
+          },
+          {
+            "father": "Gloss",
+            "work": "Catena Aurea",
+            "quote": "The Lord had taught us that our neighbour's wife was not to be coveted; He proceeds to teach that our own wife is not to be put away — for marriage is a covenant, not a possession."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1603,
+            "title": "God is the author of marriage"
+          },
+          {
+            "paragraph": 1638,
+            "title": "The perpetual and exclusive bond"
+          },
+          {
+            "paragraph": 1652,
+            "title": "Marriage ordered to procreation and love"
+          }
+        ],
+        "thematicConnection": "Sirach's portrait of the faithful wife anticipates the widow of Nain, whose maternal love draws forth the compassion of Christ. Both texts honor the hidden dignity of family love, which the Lord Himself blesses and, when broken by death, restores."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 130(131)",
+      "text": "Keep my soul in peace before you, O Lord.\nO Lord, my heart is not proud\nnor haughty my eyes.\nI have not gone after things too great\nnor marvels beyond me.\nKeep my soul in peace before you, O Lord.\nTruly I have set my soul\nin silence and peace.\nA weaned child on its mother’s breast,\neven so is my soul.\nKeep my soul in peace before you, O Lord.\nO Israel, hope in the Lord\nboth now and forever.\nKeep my soul in peace before you, O Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "Keep my soul in peace before you, O Lord.",
+      "exegesis": {
+        "summary": "Psalm 131 is one of the shortest and most tender psalms of trust. The soul renounces pride and ambition and settles like a weaned child on its mother's breast. It is the stillness of a heart that has learned to hope in the Lord alone.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Hom. 35 in Matt.",
+            "quote": "Peace is the mother of all good things; without it all other things are vain. Therefore our Lord commanded His disciples on entering a house first to pronounce peace as the sign of every good."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2658,
+            "title": "Prayer flowing from love"
+          },
+          {
+            "paragraph": 260,
+            "title": "The soul as God's dwelling of peace"
+          },
+          {
+            "paragraph": 1020,
+            "title": "Going forth in peace"
+          }
+        ],
+        "thematicConnection": "The image of the weaned child on its mother's breast mirrors both Sirach's good wife who brings peace to her husband's years and the widow of Nain who receives her son back into her arms. God's compassion produces in us the same trusting stillness."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Luke 7:11-17",
+      "text": "Jesus went to a town called Nain, accompanied by his disciples and a great number of people. When he was near the gate of the town it happened that a dead man was being carried out for burial, the only son of his mother, and she was a widow. And a considerable number of the townspeople were with her. When the Lord saw her he felt sorry for her. ‘Do not cry’ he said. Then he went up and put his hand on the bier and the bearers stood still, and he said, ‘Young man, I tell you to get up.’ And the dead man sat up and began to talk, and Jesus gave him to his mother. Everyone was filled with awe and praised God saying, ‘A great prophet has appeared among us; God has visited his people.’ And this opinion of him spread throughout Judaea and all over the countryside.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "At the gate of Nain, Jesus meets a funeral procession — the only son of a widow being carried to burial. Moved with compassion, He tells her, 'Do not weep,' touches the bier, and commands the young man to arise. Then Luke notes with deep tenderness: 'Jesus gave him to his mother.' The crowd recognizes that 'God has visited his people' — a foreshadowing of Christ's own victory over death.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "This widow surrounded by a great multitude represents the Church, who by the contemplation of her tears recalls the younger people from the funeral procession to life; and she is forbidden to weep for those to whom resurrection was promised."
+          },
+          {
+            "father": "Titus Bostrensis",
+            "work": "Catena Aurea on Luke",
+            "quote": "The Evangelist explains that the young man whom Christ came upon was already dead, the only son of a widow — that no one might say He raised one merely near to death, but truly one who had died."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 635,
+            "title": "Christ, the life of the dead"
+          },
+          {
+            "paragraph": 629,
+            "title": "Christ tasted death for every man"
+          },
+          {
+            "paragraph": 1373,
+            "title": "Christ present to His Church"
+          }
+        ],
+        "thematicConnection": "The Gospel crowns Sirach's praise of the mother and Psalm 131's image of the mother and child: Christ Himself restores the son to his mother. He is the compassionate visitation of God to every home broken by loss, the Bridegroom who dries the widow's tears."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Awake, at peace, and gathered into the Master's household",
+    "body": "Today the Church sets before us two complementary movements of grace. The weekday readings from 1 Corinthians and Matthew call us to vigilance: Paul reminds the Corinthians that God 'will sustain them to the end,' and Jesus urges the faithful servant to be found awake and about the Master's business when He returns. The psalm answers this call with unceasing blessing, 'day after day,' as the very rhythm of a watchful life. The alternate readings for a votive Mass draw us into the domestic sanctuary: Sirach praises the good wife as a gift 'reserved for those who fear the Lord,' the psalm nestles the soul like a weaned child on its mother's breast, and at Nain Jesus tenderly gives a son back to his mother. Together these readings proclaim that Christian watchfulness is not restless anxiety but the quiet trust of a child, lived out in the fidelity of ordinary loves — a marriage kept, a household tended, a widow comforted. Whether Christ finds us at prayer, at work, or at the graveside of our sorrows, He comes as the God who visits His people. The Master we await is the same Lord who touched the bier at Nain, and who even now, in every Eucharist, gives life back into our hands."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 13693,
+    "completionTokens": 3822,
+    "generatedAt": "2026-08-27T19:25:36.505369+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
