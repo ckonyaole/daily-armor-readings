@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-28",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-28",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - August 28, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-28"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Corinthians 1:17-25",
+      "text": "Christ did not send me to baptise, but to preach the Good News, and not to preach that in the terms of philosophy in which the crucifixion of Christ cannot be expressed. The language of the cross may be illogical to those who are not on the way to salvation, but those of us who are on the way see it as God’s power to save. As scripture says: I shall destroy the wisdom of the wise and bring to nothing all the learning of the learned. Where are the philosophers now? Where are the scribes? Where are any of our thinkers today? Do you see now how God has shown up the foolishness of human wisdom? If it was God’s wisdom that human wisdom should not know God, it was because God wanted to save those who have faith through the foolishness of the message that we preach. And so, while the Jews demand miracles and the Greeks look for wisdom, here are we preaching a crucified Christ; to the Jews an obstacle that they cannot get over, to the pagans madness, but to those who have been called, whether they are Jews or Greeks, a Christ who is the power and the wisdom of God. For God’s foolishness is wiser than human wisdom, and God’s weakness is stronger than human strength.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Saint Paul confronts the Corinthians with the scandal of the Cross: what appears as folly to the wise of this world is in truth the very power and wisdom of God. The Jews demand signs and the Greeks pursue philosophy, but the Gospel proclaims a crucified Messiah who saves those who believe. Human cleverness cannot climb up to God; God stoops down to us in the weakness of the Cross.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Catena Aurea on Matthew",
+            "quote": "To the Apostles who believe in Christ there is given, but from those who believed not on the Son of God there is taken away even whatever good they might seem to have by nature. For they cannot understand anything with wisdom, seeing they have not the head of wisdom."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on John",
+            "quote": "This is indeed the Saviour of the world, not one Christ out of many — the Author not only of temporal but of eternal salvation."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 598,
+            "title": "Our sins crucify Christ anew"
+          },
+          {
+            "paragraph": 591,
+            "title": "Faith requires a death to self"
+          }
+        ],
+        "thematicConnection": "Paul's proclamation that God's wisdom overturns human calculation prepares us for the Gospel parable, where the 'foolish' bridesmaids trusted their own reckoning rather than the humble preparation the Bridegroom requires."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 32(33):1-2,4-5,10-11",
+      "text": "The Lord fills the earth with his love.\nRing out your joy to the Lord, O you just;\nfor praise is fitting for loyal hearts.\nGive thanks to the Lord upon the harp,\nwith a ten-stringed lute sing him songs.\nThe Lord fills the earth with his love.\nFor the word of the Lord is faithful\nand all his works to be trusted.\nThe Lord loves justice and right\nand fills the earth with his love.\nThe Lord fills the earth with his love.\nHe frustrates the designs of the nations,\nhe defeats the plans of the peoples.\nHis own designs shall stand for ever,\nthe plans of his heart from age to age.\nThe Lord fills the earth with his love.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord fills the earth with his love.",
+      "exegesis": {
+        "summary": "The psalmist calls the just to ring out their joy, for the Lord's word is faithful and His designs stand forever, though He frustrates the schemes of the nations. Human plans crumble; the loving purpose of God fills the whole earth. This is the very truth Paul proclaims: what looks like divine weakness overthrows the wisdom of the mighty.",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Catena Aurea on Matthew",
+            "quote": "He is a fit teacher of doing the things He has done, who has given the weight of His own example to the loss of the world, the joy of the cross, the death of the body, and after that the glory of the heavenly kingdom."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our hearts are restless until they rest in Him"
+          },
+          {
+            "paragraph": 2642,
+            "title": "Faith is pure praise"
+          }
+        ],
+        "thematicConnection": "The psalm answers Paul: while the nations plot in their supposed wisdom, God's plan — the Cross — stands forever and fills the earth with love."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 25:1-13",
+      "text": "Jesus told this parable to his disciples: ‘The kingdom of heaven will be like this: Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish and five were sensible: the foolish ones did take their lamps, but they brought no oil, whereas the sensible ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, “The bridegroom is here! Go out and meet him.” At this, all those bridesmaids woke up and trimmed their lamps, and the foolish ones said to the sensible ones, “Give us some of your oil: our lamps are going out.” But they replied, “There may not be enough for us and for you; you had better go to those who sell it and buy some for yourselves.” They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall and the door was closed. The other bridesmaids arrived later. “Lord, Lord,” they said “open the door for us.” But he replied, “I tell you solemnly, I do not know you.” So stay awake, because you do not know either the day or the hour.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Our Lord likens the Kingdom to ten bridesmaids awaiting the Bridegroom's arrival at midnight. Five are wise, having stored oil for their lamps; five are foolish and unprepared, and when the Bridegroom comes they find the door shut. The parable is a solemn call to vigilance: readiness for Christ cannot be borrowed at the last hour but must be cultivated now through faith working in love.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The wise send the foolish to those that sell, seeing they had not stored up so much oil, that is, the word of doctrine, as would suffice both for themselves and to teach others. The price is perseverance, the love of learning, industry, and toil of all who are willing to learn."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Sermons",
+            "quote": "It is not said that they bought any oil; all their delight in the praise of men being gone, they return in distress. But His severity after judgment is as great as His mercy was unspeakable before."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2730,
+            "title": "Vigilance and the lamp of faith"
+          },
+          {
+            "paragraph": 1036,
+            "title": "Watch, for we know neither day nor hour"
+          }
+        ],
+        "thematicConnection": "The 'foolish' bridesmaids embody the human folly Paul warns against — a wisdom that fails to reckon with the true hour of God — while the wise ones live by the faithful word the psalm extols."
+      }
+    },
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 John 4:7-16",
+      "text": "My dear people,\nlet us love one another\nsince love comes from God\nand everyone who loves is begotten by God and knows God.\nAnyone who fails to love can never have known God,\nbecause God is love.\nGod’s love for us was revealed\nwhen God sent into the world his only Son\nso that we could have life through him;\nthis is the love I mean:\nnot our love for God,\nbut God’s love for us when he sent his Son\nto be the sacrifice that takes our sins away.\nMy dear people,\nsince God has loved us so much,\nwe too should love one another.\nNo one has ever seen God;\nbut as long as we love one another\nGod will live in us\nand his love will be complete in us.\nWe can know that we are living in him\nand he is living in us\nbecause he lets us share his Spirit.\nWe ourselves saw and we testify\nthat the Father sent his Son\nas saviour of the world.\nIf anyone acknowledges that Jesus is the Son of God,\nGod lives in him, and he in God.\nWe ourselves have known and put our faith in\nGod’s love towards ourselves.\nGod is love\nand anyone who lives in love lives in God,\nand God lives in him.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. John reveals the innermost mystery: God is love. This love was manifested when the Father sent His only Son as the atoning sacrifice for our sins, and it is completed in us when we love one another. To abide in love is to abide in God, and to confess Jesus as the Son of God is to have God dwell within us.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John, 65",
+            "quote": "He who loves God cannot despise His commandment that he should love his neighbour; and he who loves his neighbour in a heavenly spiritual way, in the neighbour loves God. Let each of us so love the other, that by this working of love we make each other the habitations of God."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on John",
+            "quote": "The Father does not bestow His love on the Son as a reward for the death He suffered; He loves Him as beholding in the Begotten His own essence, whence proceeded such love for mankind."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 221,
+            "title": "God's very being is love"
+          },
+          {
+            "paragraph": 616,
+            "title": "Christ's love 'to the end'"
+          }
+        ],
+        "thematicConnection": "This reading names the oil the wise virgins carried — the charity poured into our hearts — and reveals the content of God's 'foolish' wisdom in Paul: a love that gives itself unto the Cross."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 118(119):9-14",
+      "text": "Lord, teach me your statutes.\nHow shall the young remain sinless?\nBy obeying your word.\nI have sought you with all my heart;\nlet me not stray from your commands.\nLord, teach me your statutes.\nI treasure your promise in my heart\nlest I sin against you.\nBlessed are you, O Lord;\nteach me your statutes.\nLord, teach me your statutes.\nWith my tongue I have recounted\nthe decrees of your lips.\nI rejoiced to do your will\nas though all riches were mine.\nLord, teach me your statutes.",
+      "translation": "Universalis (US)",
+      "refrain": "Lord, teach me your statutes.",
+      "exegesis": {
+        "summary": "The young man asks how to keep his way pure and answers his own question: by treasuring God's word in the heart. To love God (as John commands) is inseparable from delighting in His statutes as though all riches were ours. The Law is no burden but a fatherly instruction leading us to Christ, the one Teacher.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 72 on Matthew",
+            "quote": "All whatsoever they say unto you, that observe and do, for they speak not their own, but God's — which things He taught through Moses in the Law. Look with how great honour He speaks of Moses, shewing what harmony there is with the Old Testament."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1975,
+            "title": "The Law is a fatherly instruction"
+          },
+          {
+            "paragraph": 1963,
+            "title": "The Law prepares us for Christ"
+          }
+        ],
+        "thematicConnection": "The psalm's cry, 'teach me your statutes,' anticipates the Gospel's declaration that Christ alone is our Teacher, and it names the interior treasure — God's word in the heart — that John says makes us dwell in love."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 23:8-12",
+      "text": "Jesus said to his disciples, ‘You must not allow yourselves to be called Rabbi, since you have only one master, and you are all brothers. You must call no one on earth your father, since you have only one Father, and he is in heaven. Nor must you allow yourselves to be called teachers, for you have only one Teacher, the Christ. The greatest among you must be your servant. Anyone who exalts himself will be humbled, and anyone who humbles himself will exalted.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus forbids His disciples the titles 'Rabbi,' 'father,' and 'teacher' insofar as they claim for men what belongs to God alone. There is one Master, one heavenly Father, one Teacher — Christ Himself. All authority in the Church is therefore servant-authority, and the way to greatness is the way of humility, which Christ Himself walked first.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Be not ye called Rabbi, that ye take not to yourselves what belongs to God. For One is the Master of all, who instructs all men by nature. Man cannot by teaching impart understanding to man; that understanding which is given by God, man only calls forth."
+          },
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "If one minister the divine word, knowing that it is Christ that makes it fruitful, he professes himself a minister and not a master — as Christ Himself, our true Master, said, 'I am in the midst of you as one that ministers.'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 427,
+            "title": "Christ alone teaches"
+          },
+          {
+            "paragraph": 428,
+            "title": "To teach Christ, one must first know Him"
+          },
+          {
+            "paragraph": 1575,
+            "title": "Pastors continue Christ's work as servants"
+          }
+        ],
+        "thematicConnection": "The Gospel unveils the shape of the love John proclaims: love descends and serves. The one Teacher is the crucified Christ of Paul's preaching, whose greatness is His self-emptying."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Wisdom of a Servant God",
+    "body": "Today the Church places before us two possible days for reflection, and in either the same Christ speaks. Paul stands in Corinth and dares to preach 'a crucified Christ' — a stumbling block to some, folly to others, but to us the power and wisdom of God. This wisdom is not an idea but a Person, and it takes the concrete shape of a Bridegroom coming at midnight, a Teacher who kneels to wash feet, a Son sent as expiation for our sins. The foolish virgins of the parable are precisely those who calculated by human wisdom and did not treasure the oil of charity in their hearts. The wise are those who, as St. John says, abide in love, because God is love and dwells in them. The psalms give us the interior posture for both: 'Ring out your joy,' for God's designs stand forever; 'Teach me your statutes,' for the young remain pure only by treasuring His word. And Jesus insists that in His Kingdom there is only one Teacher and one Father — so greatness means service. To be ready when the door opens, then, is simple though not easy: keep the lamp of faith burning with the oil of love, listen to the one Master, and let His crucified wisdom become the pattern of our lives."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 14078,
+    "completionTokens": 3540,
+    "generatedAt": "2026-08-28T20:38:54.247638+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
