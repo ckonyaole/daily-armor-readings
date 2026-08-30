@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-30",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-30",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - August 30, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-08-30"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Jeremiah 20:7-9",
+      "text": "You have seduced me, Lord, and I have let myself be seduced;\nyou have overpowered me: you were the stronger.\nI am a daily laughing-stock,\neverybody’s butt.\nEach time I speak the word, I have to howl\nand proclaim: ‘Violence and ruin!’\nThe word of the Lord has meant for me\ninsult, derision, all day long.\nI used to say, ‘I will not think about him,\nI will not speak in his name any more.’\nThen there seemed to be a fire burning in my heart,\nimprisoned in my bones.\nThe effort to restrain it wearied me,\nI could not bear it.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jeremiah pours out a raw lament: God has 'seduced' him into a prophetic vocation that has made him a laughingstock, yet the word of the Lord burns within him like a fire he cannot contain. This passage reveals the cost of authentic discipleship — the prophet is overpowered by God, misunderstood by men, yet unable to stop proclaiming the truth. It anticipates every disciple, and above all Christ himself, who will suffer for the word entrusted to him.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on the Gospel of John, xxviii.11",
+            "quote": "That such was said of Him, Who was God, is a consolation to any Christian, of whom the same may be said. If by seducing be meant bringing a person by persuasion out of one way of thinking into another, then we must enquire from what, and to what. If from evil to good, the seducer is a good one. Would that we were all called, and really were, such seducers."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies",
+            "quote": "The Lord when tempted by the Devil answered only with precepts of Holy Writ, and He who could have drowned His tempter in the abyss, displayed not the might of His power; giving us an example, that when we suffer any thing at the hands of evil men, we should be stirred up to learning rather than to revenge."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 409,
+            "title": "Life as a battle against evil"
+          },
+          {
+            "paragraph": 30,
+            "title": "The restless heart made for God"
+          }
+        ],
+        "thematicConnection": "Jeremiah's inner fire that cannot be silenced prefigures the Cross Jesus embraces in the Gospel: the prophet's suffering for the Word foreshadows the suffering Christ announces to Peter, and it explains why Paul in Romans calls us to offer our very bodies as a living sacrifice."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 62(63):2-6,8-9",
+      "text": "For you my soul is thirsting, O Lord my God.\nO God, you are my God, for you I long;\nfor you my soul is thirsting.\nMy body pines for you\nlike a dry, weary land without water.\nFor you my soul is thirsting, O Lord my God.\nSo I gaze on you in the sanctuary\nto see your strength and your glory.\nFor your love is better than life,\nmy lips will speak your praise.\nFor you my soul is thirsting, O Lord my God.\nSo I will bless you all my life,\nin your name I will lift up my hands.\nMy soul shall be filled as with a banquet,\nmy mouth shall praise you with joy.\nFor you my soul is thirsting, O Lord my God.\nFor you have been my help;\nin the shadow of your wings I rejoice.\nMy soul clings to you;\nyour right hand holds me fast.\nFor you my soul is thirsting, O Lord my God.",
+      "translation": "Universalis (US)",
+      "refrain": "For you my soul is thirsting, O Lord my God.",
+      "exegesis": {
+        "summary": "The psalmist thirsts for God as a dry land thirsts for water, gazing on him in the sanctuary and clinging to him through the night. This is the interior fire of Jeremiah rendered as tender longing: even amid suffering and dryness, the soul finds that God's love is better than life itself. It is the song of the disciple whose whole being seeks the Lord above every earthly consolation.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on the Gospel of John, xxxii.1",
+            "quote": "As a man who had a spring within him would never feel thirst, so will not he who has this water which I shall give him. The water that Christ gives becomes in him a well of water springing up into everlasting life."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 30,
+            "title": "Our heart is restless until it rests in God"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Love as the source of prayer"
+          }
+        ],
+        "thematicConnection": "The psalm gives voice to what makes Jeremiah's endurance possible and what animates Paul's 'living sacrifice': a soul that thirsts for God alone. It is also the disposition Peter still lacks in the Gospel — clinging to God's way rather than man's."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 12:1-2",
+      "text": "Think of God’s mercy, my brothers, and worship him, I beg you, in a way that is worthy of thinking beings, by offering your living bodies as a holy sacrifice, truly pleasing to God. Do not model yourselves on the behaviour of the world around you, but let your behaviour change, modelled by your new mind. This is the only way to discover the will of God and know what is good, what it is that God wants, what is the perfect thing to do.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul crystallizes the meaning of Christian discipleship: in response to God's mercy, we are to offer our bodies as a living sacrifice — a reasonable, spiritual worship. This requires a refusal to be conformed to the world and a continual renewal of the mind, so that we may discern what God wills. The Christian life is thus liturgy lived in the flesh, an ongoing transfiguration of thought and action into the mind of Christ.",
+        "patristicQuotes": [
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Seek ye first the kingdom of God, and his righteousness. The kingdom of God is the reward of good works; His righteousness is the way of piety by which we go to that kingdom. The account we shall have to render is not whether we have been poor or rich, but whether we have done well or ill, which is in our own power."
+          },
+          {
+            "father": "St. Gregory the Great",
+            "work": "Moralia, iv.33",
+            "quote": "What burden is it to put upon the neck of our mind that He bids us shun all desire that disturbs, and turn from the toilsome paths of this world?"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2826,
+            "title": "Discerning and doing the will of God"
+          },
+          {
+            "paragraph": 2706,
+            "title": "Meditation: 'Lord, what do you want me to do?'"
+          },
+          {
+            "paragraph": 1706,
+            "title": "Conscience recognizing God's voice"
+          }
+        ],
+        "thematicConnection": "Paul answers the question the other readings pose: how does one carry Jeremiah's fire and satisfy the psalmist's thirst? By refusing conformity to the world and renewing the mind — precisely the transformation Peter needs when Jesus tells him his thoughts are man's, not God's."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 16:21-27",
+      "text": "Jesus began to make it clear to his disciples that he was destined to go to Jerusalem and suffer grievously at the hands of the elders and chief priests and scribes, to be put to death and to be raised up on the third day. Then, taking him aside, Peter started to remonstrate with him. ‘Heaven preserve you, Lord;’ he said ‘this must not happen to you.’ But he turned and said to Peter, ‘Get behind me, Satan! You are an obstacle in my path, because the way you think is not God’s way but man’s.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Immediately after confessing Jesus as the Christ, Peter recoils from the Cross and is rebuked with the sharpest words: 'Get behind me, Satan.' Jesus reveals that the Messiah must suffer, die, and rise, and that every disciple must take up his own cross and lose his life to find it. To think as God thinks is to embrace the Paschal Mystery; to think as men do is to become an obstacle even after the noblest confession.",
+        "patristicQuotes": [
+          {
+            "father": "St. Jerome",
+            "work": "Commentary on Matthew",
+            "quote": "Peter had too hot a zeal, and a very great affection towards the Lord. After his confession and the reward he had heard, he would not have that confession destroyed, and thought it impossible that the Son of God could be put to death; and so he begins to chide Him with the feeling of one that loved Him, saying, 'Be propitious to Thyself, Lord, this shall not be unto Thee.'"
+          },
+          {
+            "father": "Origen",
+            "work": "Commentary on Matthew",
+            "quote": "While Christ was yet speaking the beginnings of the things which He was showing unto them, Peter considered them unworthy of the Son of the living God. Forgetting that the Son of the living God does nothing worthy of blame, he began to rebuke Him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 554,
+            "title": "The first announcement of the Passion"
+          },
+          {
+            "paragraph": 440,
+            "title": "Messianic kingship revealed on the Cross"
+          },
+          {
+            "paragraph": 599,
+            "title": "The Passion in God's plan"
+          },
+          {
+            "paragraph": 552,
+            "title": "Peter's unique mission in the Church"
+          }
+        ],
+        "thematicConnection": "The Gospel is the interpretive key: the fire in Jeremiah's bones, the thirst of the psalmist, and the living sacrifice of Paul all converge in the Cross. Peter's protest exposes the perennial temptation to want Christ without Calvary; Jesus insists that God's mercy takes the shape of self-gift."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Fire, the Thirst, and the Cross",
+    "body": "Today the Church places before us the whole shape of discipleship. Jeremiah confesses that following God has cost him everything — mockery, weariness, isolation — yet the word burns in his bones like a fire he cannot smother. The psalmist names what fuels that fire: a soul that thirsts for God as parched land thirsts for water, convinced that God's love is better than life. Then Paul draws the practical conclusion. In view of God's mercy we are to become a living sacrifice, refusing to be conformed to the world and letting our minds be renewed so we can discern the will of God. Finally, in the Gospel, Jesus reveals what that will looks like in the flesh: Jerusalem, the Cross, the third day. Peter, fresh from his great confession, recoils — and hears himself called Satan, because he thinks as men think, not as God thinks. To take up the cross is not a defeat of our humanity but its transfiguration; to lose our life for Christ's sake is precisely to find it. The fire of the prophet, the thirst of the psalmist, and the living sacrifice of the apostle all converge on Calvary, where the Messiah's kingship is unveiled and where our own lives, offered with his, become worship pleasing to the Father."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9733,
+    "completionTokens": 3009,
+    "generatedAt": "2026-08-30T14:15:39.774913+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
