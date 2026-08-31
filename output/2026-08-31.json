@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-31",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-08-31",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Monday - August 31, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-08-31"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Corinthians 2:1-5",
+      "text": "When I came to you, brothers, it was not with any show of oratory or philosophy, but simply to tell you what God had guaranteed. During my stay with you, the only knowledge I claimed to have was about Jesus, and only about him as the crucified Christ. Far from relying on any power of my own, I came among you in great ‘fear and trembling’ and in my speeches and the sermons that I gave, there were none of the arguments that belong to philosophy; only a demonstration of the power of the Spirit. And I did this so that your faith should not depend on human philosophy but on the power of God.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul reminds the Corinthians that he came to them without rhetorical flourish or philosophical sophistication, resolved to know nothing but Jesus Christ and him crucified. His weakness, fear, and trembling became the very stage upon which the Spirit's power was manifested, so that their faith would rest not on human eloquence but on God himself. The Cross, folly to the world, is the true wisdom and power of God.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 54 on John",
+            "quote": "When a man trusts spiritual things to reasonings of his own, observe how ridiculously he talks. Christ does not say, 'You do not take in my word,' but 'my word has no room in you,' showing the depth of his doctrines."
+          },
+          {
+            "father": "Pseudo-Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "Nicodemus, hearing of the sacrament of faith, asks, 'How can these things be?' — for that 'how' is the inquiry of a man who has no strong belief; and many who have so inquired have fallen from the faith."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 272,
+            "title": "Christ crucified: the power and wisdom of God"
+          },
+          {
+            "paragraph": 683,
+            "title": "Faith is possible only in the Holy Spirit"
+          },
+          {
+            "paragraph": 687,
+            "title": "The Spirit reveals the Word without speaking of himself"
+          }
+        ],
+        "thematicConnection": "Paul's refusal to preach anything but 'Christ crucified' prepares us for the Gospel, where Jesus in the Nazareth synagogue reveals himself as the anointed Servant whose mission will lead to the Cross — a truth his neighbors cannot receive because they judge by human categories ('Is this not Joseph's son?')."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 118(119):97-102",
+      "text": "Lord, how I love your law!\nLord, how I love your law!\nIt is ever in my mind.\nYour command makes me wiser than my foes;\nfor it is mine for ever.\nLord, how I love your law!\nI have more insight than all who teach me\nfor I ponder your will.\nI have more understanding than the old\nfor I keep your precepts.\nLord, how I love your law!\nI turn my feet from evil paths\nto obey your word.\nI have not turned from your decrees;\nyou yourself have taught me.\nLord, how I love your law!",
+      "translation": "Universalis (US)",
+      "refrain": "Lord, how I love your law!",
+      "exegesis": {
+        "summary": "The psalmist sings of an ardent love for the Law of the Lord, which grants him wisdom beyond his enemies, insight beyond his teachers, and understanding beyond his elders. This is not the pride of the scholar but the humble delight of a disciple taught directly by God. To keep the precepts is to be turned away from every evil path.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily 13 to the People of Antioch",
+            "quote": "We have a natural law implanted in us, by which we distinguish what is virtue and what is vice. Christ has ordained nothing surpassing our nature, but what he had long before implanted in our conscience, so that your own will is the law to you."
+          },
+          {
+            "father": "St. Bede the Venerable",
+            "work": "Catena Aurea on Mark",
+            "quote": "God loves those who keep the commandments of the law, though they be inferior; nevertheless, he shows to those who would be perfect the deficiency of the law, for he came not to destroy the law, but to fulfill it."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1972,
+            "title": "The New Law as law of love, grace, and freedom"
+          },
+          {
+            "paragraph": 1975,
+            "title": "The Law as fatherly instruction"
+          },
+          {
+            "paragraph": 1984,
+            "title": "The Gospel fulfills and surpasses the Old Law"
+          }
+        ],
+        "thematicConnection": "The psalmist's cry, 'You yourself have taught me,' anticipates both Paul's teaching that true wisdom comes from the Spirit rather than human philosophy, and the Gospel scene where Christ himself, the living Torah, unrolls the scroll and announces its fulfillment in his own person."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Luke 4:16-30",
+      "text": "Jesus came to Nazara, where he had been brought up, and went into the synagogue on the sabbath day as he usually did. He stood up to read and they handed him the scroll of the prophet Isaiah. Unrolling the scroll he found the place where it is written:\nThe spirit of the Lord has been given to me,\nfor he has anointed me.\nHe has sent me to bring the good news to the poor,\nto proclaim liberty to captives\nand to the blind new sight,\nto set the downtrodden free,\nto proclaim the Lord’s year of favour.\nHe then rolled up the scroll, gave it back to the assistant and sat down. And all eyes in the synagogue were fixed on him. Then he began to speak to them, ‘This text is being fulfilled today even as you listen.’ And he won the approval of all, and they were astonished by the gracious words that came from his lips. They said, ‘This is Joseph’s son, surely?’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "In the synagogue of his hometown Nazareth, Jesus reads from Isaiah the prophecy of the Spirit-anointed Servant and declares, 'This text is being fulfilled today even as you listen.' He identifies himself as the Messiah promised of old, come to bring good news to the poor and freedom to captives. Yet familiarity blinds his neighbors, who cannot see past 'Joseph's son' to the mystery of his divine mission.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "The Jews supposed Christ to be one of the saints or prophets. But that they might esteem him higher, he passes beyond the prophetic limits. For he said not, 'Thus says the Lord,' but being the Master of the Law, he uttered things which were above the Law, changing the letter to the truth, and the figures to the spiritual meaning."
+          },
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "Because he had said, 'This day is this prophecy fulfilled,' they thought that he compared himself to the prophets, and are therefore enraged, and expel him out of their city."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 712,
+            "title": "The Spirit of the Lord rests upon the Messiah"
+          },
+          {
+            "paragraph": 208,
+            "title": "Man's insignificance before God's holy presence"
+          },
+          {
+            "paragraph": 674,
+            "title": "Israel's hardening and future acceptance"
+          }
+        ],
+        "thematicConnection": "The Nazarenes stumble over the Messiah precisely because he comes without the trappings of power or philosophy — the very scandal Paul embraces in the first reading. To recognize him, one must love the Law as the psalmist does, letting God himself be the teacher rather than trusting in human reasoning."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Anointed One who teaches the humble heart",
+    "body": "Today the Church places before us a single question: how does God's wisdom reach the human heart? Isaiah's Servant, whom Jesus proclaims fulfilled in his own person at Nazareth, comes anointed by the Spirit to preach to the poor. Yet his townspeople cannot see past appearances — 'Is this not Joseph's son?' — because they measure him by human standards rather than by the Spirit who reveals the Word. St. Paul, standing before the philosophers of Corinth, refuses to compete on their terms; he preaches only Christ crucified, so that faith may rest on the power of God and not on human eloquence. The psalmist shows us the disposition that receives this Gospel: 'You yourself have taught me.' The one who loves God's law, who ponders it and lets it shape the heart, becomes wiser than his teachers — not by intellectual pride but by docility to the Master. The New Law, the Catechism teaches us, is a law of love infused by the Holy Spirit (CCC 1972). Today, then, we ask for the humility of the true disciple: to sit at the feet of Christ the Teacher, to receive him as Nazareth would not, and to let his crucified wisdom, not human philosophy, be the foundation of our faith."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8127,
+    "completionTokens": 2450,
+    "generatedAt": "2026-08-31T16:39:47.512373+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
