@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-01",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-09-01",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Tuesday - September 01, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-09-01"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Corinthians 2:10-16",
+      "text": "The Spirit reaches the depths of everything, even the depths of God. After all, the depths of a man can only be known by his own spirit, not by any other man, and in the same way the depths of God can only be known by the Spirit of God. Now instead of the spirit of the world, we have received the Spirit that comes from God, to teach us to understand the gifts that he has given us. Therefore we teach, not in the way in which philosophy is taught, but in the way that the Spirit teaches us: we teach spiritual things spiritually. An unspiritual person is one who does not accept anything of the Spirit of God: he sees it all as nonsense; it is beyond his understanding because it can only be understood by means of the Spirit. A spiritual man, on the other hand, is able to judge the value of everything, and his own value is not to be judged by other men. As scripture says: Who can know the mind of the Lord, so who can teach him? But we are those who have the mind of Christ.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul contrasts human wisdom with the wisdom given by the Holy Spirit, who alone searches the depths of God. Only those who have received the Spirit can grasp the gifts God has revealed; to the merely natural person, these spiritual realities appear as foolishness. Paul concludes with a bold claim: 'we have the mind of Christ,' the interior gift that enables the baptized to judge all things by God's own light.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on John, 102.3",
+            "quote": "The natural man so understands whatever he hears of God in a bodily sense, as being unable to conceive any other. But when, become spiritual, he hath begun to discern all things — though in this life he sees but in a glass and in part — yet he perceives, not by bodily sense, not by imagination, but by the most sure intelligence of the mind, that God is not body, but spirit."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homily xxx on John",
+            "quote": "By 'Spirit' here is meant the operation of the Holy Spirit. All of us have received the operation of the Spirit by measure, but Christ contains within Himself the whole operation of the Spirit."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 687,
+            "title": "The Spirit reveals the Word"
+          },
+          {
+            "paragraph": 137,
+            "title": "Scripture understood by the Spirit"
+          },
+          {
+            "paragraph": 2038,
+            "title": "Judging realities by the Spirit of God"
+          },
+          {
+            "paragraph": 367,
+            "title": "Spirit as ordering man to God"
+          }
+        ],
+        "thematicConnection": "Paul teaches that spiritual truth is grasped only by those given the Spirit — the same interior authority by which Christ will teach in Capernaum, astonishing his hearers not with human eloquence but with divine power."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 144(145):8-14",
+      "text": "The Lord is just in all his ways.\nThe Lord is kind and full of compassion,\nslow to anger, abounding in love.\nHow good is the Lord to all,\ncompassionate to all his creatures.\nThe Lord is just in all his ways.\nAll your creatures shall thank you, O Lord,\nand your friends shall repeat their blessing.\nThey shall speak of the glory of your reign\nand declare your might, O God,\nto make known to men your mighty deeds\nand the glorious splendour of your reign.\nThe Lord is just in all his ways.\nYours is an everlasting kingdom;\nyour rule lasts from age to age.\nThe Lord is faithful in all his words\nand loving in all his deeds.\nThe Lord supports all who fall\nand raises all who are bowed down.\nThe Lord is just in all his ways.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord is just in all his ways.",
+      "exegesis": {
+        "summary": "Psalm 145 sings of the Lord's kindness, compassion, and unshakeable faithfulness. His kingdom is everlasting, his rule spans every age, and he supports all who fall and raises up those who are bowed down. The refrain — 'The Lord is just in all his ways' — anchors the Church's confidence that God's power is always exercised as mercy.",
+        "patristicQuotes": [
+          {
+            "father": "Origen",
+            "work": "Catena Aurea on Matthew",
+            "quote": "The kingdom of heaven, in respect of Him who reigns there, is like a king; and He shall communicate of His dignity and glory to His faithful and wise stewards, that they also may be above the whole creation."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "For the Lord is never forgetful of His loving-kindness. While they are bringing death upon the righteous, He heals the wounds of His persecutors."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2046,
+            "title": "The Reign of justice, love, and peace"
+          },
+          {
+            "paragraph": 30,
+            "title": "God calls every man to seek him"
+          },
+          {
+            "paragraph": 344,
+            "title": "All creatures give praise"
+          }
+        ],
+        "thematicConnection": "The Psalm proclaims the everlasting reign of a compassionate King — the very kingdom that breaks into Capernaum when Jesus speaks with authority and casts out the unclean spirit, showing that God's rule truly lifts up those bowed down."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Luke 4:31-37",
+      "text": "Jesus went down to Capernaum, a town in Galilee, and taught them on the sabbath. And his teaching made a deep impression on them because he spoke with authority.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus enters Capernaum and teaches on the sabbath with an authority unlike the scribes. His word is not merely instruction but power: a demon recognizes him as 'the Holy One of God' and is expelled by a single command. The people are amazed, and his fame spreads — the kingdom announced in the Psalm is visibly arriving.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "He gave the Apostles their commission to be the teachers of the whole world, that they might recall the Jews from the bondage of the law, and the worshippers of devils from their Gentile errors to the knowledge of the truth."
+          },
+          {
+            "father": "Eusebius",
+            "work": "Catena Aurea on Luke",
+            "quote": "When the Lord had girded His disciples as soldiers of God with divine virtue and wise admonitions, sending them as teachers and physicians, they went forth preaching the gospel and healing everywhere."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 581,
+            "title": "Jesus teaches with divine authority"
+          },
+          {
+            "paragraph": 2054,
+            "title": "The Spirit at work in Christ's word"
+          }
+        ],
+        "thematicConnection": "The 'mind of Christ' that Paul speaks of is heard in the flesh here: Jesus teaches not from borrowed wisdom but from divine authority, and even the unclean spirits recognize what unspiritual men cannot."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Mind of Christ, Spoken with Authority",
+    "body": "Today the Church places before us a single mystery seen from three angles. St. Paul insists that the deep things of God can be known only by the Spirit of God, and that those who have received this Spirit possess nothing less than 'the mind of Christ.' What the natural person dismisses as folly, the spiritual person recognizes as truth. The Psalm then names the content of that truth: the Lord reigns forever, just in all his ways, compassionate, lifting up those who are bowed down. His kingdom is not a philosophy but a Person, and his rule is mercy. In the Gospel, this reign steps into a Capernaum synagogue. Jesus teaches, and his words strike with an authority the scribes never had, because his teaching is not opinion about God but the very speech of God. The demon knows him instantly — 'the Holy One of God' — and flees at his command; the people, still learning to see spiritually, are astonished. The Church invites us today to ask for the Spirit who alone opens our hearts to recognize Christ's authority, to receive his word as more than a proverb, and to let his kingdom of justice and compassion reign within us."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 7520,
+    "completionTokens": 2161,
+    "generatedAt": "2026-09-01T13:53:47.198219+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
