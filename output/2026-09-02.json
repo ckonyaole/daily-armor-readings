@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-02",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-09-02",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Wednesday - September 02, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-09-02"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Corinthians 3:1-9",
+      "text": "Brothers, I myself was unable to speak to you as people of the Spirit: I treated you as sensual men, still infants in Christ. What I fed you with was milk, not solid food, for you were not ready for it; and indeed, you are still not ready for it since you are still unspiritual. Isn’t that obvious from all the jealousy and wrangling that there is among you, from the way that you go on behaving like ordinary people? What could be more unspiritual than your slogans, ‘I am for Paul’ and ‘I am for Apollos’?",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul rebukes the Corinthians for their factionalism, evidence that they remain 'infants in Christ,' still feeding on milk rather than solid food. Their party slogans—'I am for Paul,' 'I am for Apollos'—betray a jealousy and worldliness incompatible with the Spirit. Paul insists that ministers are only servants; it is God alone who gives the growth.",
+        "patristicQuotes": [
+          {
+            "father": "St. John Chrysostom",
+            "work": "Catena Aurea on Matthew",
+            "quote": "So far am I from abhorring sinners, that for their sakes only did I come. Yet all have sinned and lack the glory of God; the Apostle would have us shun our brethren only when they persist in evil."
+          },
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "Why boastest thou thyself? As Paul says, 'Though I preach the Gospel I have nothing to glory of, for necessity is laid upon me.' The laborer in God's field owes his service; the reward is sheer gift of divine kindness."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1825,
+            "title": "Charity is not jealous or boastful"
+          },
+          {
+            "paragraph": 2087,
+            "title": "The obedience of faith"
+          },
+          {
+            "paragraph": 1590,
+            "title": "Ministers as stewards of God's gift"
+          }
+        ],
+        "thematicConnection": "Paul's diagnosis of Corinthian immaturity prepares us to hear the Psalm's blessing on the people God Himself has chosen—not one who follows this apostle or that—and to see in the Gospel a Christ who Himself heals and preaches, using ministers only as His instruments."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 32(33):12-15,20-21",
+      "text": "Happy the people the Lord has chosen as his own.\nThey are happy, whose God is the Lord,\nthe people he has chosen as his own.\nFrom the heavens the Lord looks forth,\nhe sees all the children of men.\nHappy the people the Lord has chosen as his own.\nFrom the place where he dwells he gazes\non all the dwellers on the earth;\nhe who shapes the hearts of them all;\nand considers all their deeds.\nHappy the people the Lord has chosen as his own.\nOur soul is waiting for the Lord.\nThe Lord is our help and our shield.\nIn him do our hearts find joy.\nWe trust in his holy name.\nHappy the people the Lord has chosen as his own.",
+      "translation": "Universalis (US)",
+      "refrain": "Happy the people the Lord has chosen as his own.",
+      "exegesis": {
+        "summary": "The Psalm celebrates the happiness of a people whose God is the Lord, chosen as His own inheritance. From heaven the Lord searches every heart He Himself has shaped, and His people find joy in trusting His holy name. It is a hymn of election, providence, and confident hope.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "Happy are ye who have heard and believed, for whatever soul hath believed both conceives and brings forth the word of God, and knows His works."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Sermon on the Mount, II.6",
+            "quote": "In that kingdom of blessedness the happy life will be made perfect in the Saints as it now is in the heavenly Angels, who have fruition of God, no error clouding their knowledge, no pain marring their blessedness."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1,
+            "title": "Called to share God's blessed life"
+          },
+          {
+            "paragraph": 1077,
+            "title": "Chosen in Christ before the foundation of the world"
+          },
+          {
+            "paragraph": 1818,
+            "title": "Hope and the aspiration to happiness"
+          }
+        ],
+        "thematicConnection": "Against Corinth's petty allegiances, the Psalm reminds us that the true unity of God's people is that they are chosen by the Lord Himself—the same Lord who in the Gospel bends over the sick and preaches the Kingdom to towns beyond Capernaum."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Luke 4:38-44",
+      "text": "Leaving the synagogue, Jesus went to Simon’s house. Now Simon’s mother-in-law was suffering from a high fever and they asked him to do something for her. Leaning over her he rebuked the fever and it left her. And she immediately got up and began to wait on them.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus enters the humble house of Simon Peter, rebukes the fever gripping his mother-in-law, and she rises at once to serve. As the sun sets, the whole town brings its sick, and He heals them one by one; yet at daybreak He withdraws, insisting He must proclaim the Kingdom to other towns as well, 'for I was sent for this.' Healing and preaching together reveal His mission.",
+        "patristicQuotes": [
+          {
+            "father": "St. Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "See how Christ abides in the house of a poor man, suffering poverty of His own will for our sakes, that we might learn to visit the poor, and despise not the destitute and needy."
+          },
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "Luke, having first introduced a man delivered from an evil spirit, goes on to relate the healing of a woman. For our Lord had come to heal each sex, and he ought first to be healed who was first created."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 544,
+            "title": "The Kingdom belongs to the poor and lowly"
+          },
+          {
+            "paragraph": 442,
+            "title": "Simon Peter and the apostolic faith"
+          },
+          {
+            "paragraph": 1698,
+            "title": "Christ our true Head"
+          }
+        ],
+        "thematicConnection": "The Gospel shows the true source of the Church's life: not Paul, not Apollos, but Jesus Himself, who heals and preaches. Peter's mother-in-law, raised up by Christ, immediately serves—the very maturity Paul begged of the Corinthians and the joy the Psalm ascribes to those the Lord has chosen."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "One Master, One Kingdom, One People Chosen by the Lord",
+    "body": "Today the Church diagnoses a persistent temptation and offers its only cure. Paul finds the Corinthians still 'infants,' fractured by slogans—'I am for Paul,' 'I am for Apollos'—as if the Gospel were a matter of personalities. Ministers are only servants; God alone gives the growth. The Psalm lifts our eyes higher: happy the people the Lord has chosen as His own. Our identity is not that we belong to this teacher or that movement, but that the God who shapes every heart has claimed us and gazes upon us from heaven. The Gospel then shows this Lord in action. Jesus enters Peter's poor house, rebukes the fever, receives the crowds at sunset, and by dawn is already pressing on: 'To the other towns also I must proclaim the good news of the Kingdom of God, for I was sent for this purpose.' Here is the true center around which the Church gathers—not a party leader, but the incarnate Son who heals and preaches. Peter's mother-in-law, raised up, at once begins to serve; that is the mature Christian life Paul longed to see in Corinth. May we let go of every rivalry today, rejoice that the Lord has chosen us, and rise like her to serve the One who has touched us."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6976,
+    "completionTokens": 2291,
+    "generatedAt": "2026-09-02T13:11:39.591912+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
