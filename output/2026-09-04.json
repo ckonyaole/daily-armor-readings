@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-04",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-09-04",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Friday - September 04, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-09-04"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Corinthians 4:1-5",
+      "text": "People must think of us as Christ’s servants, stewards entrusted with the mysteries of God. What is expected of stewards is that each one should be found worthy of his trust. Not that it makes the slightest difference to me whether you, or indeed any human tribunal, find me worthy or not. I will not even pass judgement on myself. True, my conscience does not reproach me at all, but that does not prove that I am acquitted: the Lord alone is my judge. There must be no passing of premature judgement. Leave that until the Lord comes; he will light up all that is hidden in the dark and reveal the secret intentions of men’s hearts. Then will be the time for each one to have whatever praise he deserves, from God.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Saint Paul identifies himself and the apostles as servants and stewards of the mysteries of God, entrusted with a sacred charge for which they must be found trustworthy. He refuses to be shaken by human tribunals or even by his own self-assessment, because the Lord alone judges rightly, seeing into hearts. He therefore urges the Corinthians to withhold premature judgment until Christ comes to illumine what is hidden.",
+        "patristicQuotes": [
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Luke",
+            "quote": "When we exercise not the management of our wealth according to our Lord's pleasure, but abuse our trust to our own pleasures, we are guilty stewards."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Luke",
+            "quote": "The unfaithful steward shall not only be deprived of the grace he had, but the greatness of his dignity shall the rather become a cause of his condemnation."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1039,
+            "title": "The Last Judgment lays bare all things"
+          },
+          {
+            "paragraph": 679,
+            "title": "Christ alone has full right to judge"
+          },
+          {
+            "paragraph": 1781,
+            "title": "Conscience as witness before God"
+          },
+          {
+            "paragraph": 1059,
+            "title": "All will render account before Christ's tribunal"
+          }
+        ],
+        "thematicConnection": "Paul's image of stewards awaiting the Lord's return sets the eschatological tone that the Gospel echoes: the Bridegroom will one day be taken away, and his servants must be found faithful when he returns."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 36(37):3-6,27-28,39-40",
+      "text": "The salvation of the just comes from the Lord.\nIf you trust in the Lord and do good,\nthen you will live in the land and be secure.\nIf you find your delight in the Lord,\nhe will grant your heart’s desire.\nThe salvation of the just comes from the Lord.\nCommit your life to the Lord,\ntrust in him and he will act,\nso that your justice breaks forth like the light,\nyour cause like the noon-day sun.\nThe salvation of the just comes from the Lord.\nThen turn away from evil and do good\nand you shall have a home for ever;\nfor the Lord loves justice\nand will never forsake his friends.\nThe salvation of the just comes from the Lord.\nThe salvation of the just comes from the Lord,\ntheir stronghold in time of distress.\nThe Lord helps them and delivers them\nand saves them: for their refuge is in him.\nThe salvation of the just comes from the Lord.",
+      "translation": "Universalis (US)",
+      "refrain": "The salvation of the just comes from the Lord.",
+      "exegesis": {
+        "summary": "Psalm 37 counsels the righteous to trust the Lord, to delight in him, and to commit their way to him rather than fret over evildoers or premature vindication. Justice will break forth like the noonday sun in God's time. The Lord is the refuge and stronghold of his friends, and salvation flows from him alone.",
+        "patristicQuotes": [
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Luke",
+            "quote": "The Lord Jesus is salvation, but the knowledge of salvation, i.e. of Christ, was given in John, who bore witness of Christ."
+          },
+          {
+            "father": "Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "Bring thou also repentance after sin. Wherever thou hearest the name of Christ, speed thither... Blessed tears, in which there is not only the redemption of sinners, but the refreshing of the righteous."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1741,
+            "title": "Christ's Cross wins salvation"
+          },
+          {
+            "paragraph": 620,
+            "title": "Salvation flows from God's initiative of love"
+          },
+          {
+            "paragraph": 1949,
+            "title": "Wounded by sin, man needs God's saving grace"
+          }
+        ],
+        "thematicConnection": "The refrain answers Paul's confidence that 'the Lord alone is my judge': the just one entrusts his cause to God, waiting for vindication rather than seizing it, and rejoices in the Bridegroom who is his salvation."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Luke 5:33-39",
+      "text": "The Pharisees and the scribes said to Jesus, ‘John’s disciples are always fasting and saying prayers, and the disciples of the Pharisees too, but yours go on eating and drinking.’ Jesus replied, ‘Surely you cannot make the bridegroom’s attendants fast while the bridegroom is still with them? But the time will come, the time for the bridegroom to be taken away from them; that will be the time when they will fast.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "When challenged about his disciples' failure to fast, Jesus reveals himself as the Bridegroom whose presence transforms religious practice. Fasting in mourning is out of place while he is with them, but the day is coming when he will be taken away — a veiled reference to his Passion — and then his disciples will fast. The parables of new cloth and new wine warn that the newness of the Gospel cannot simply be sewn onto old forms.",
+        "patristicQuotes": [
+          {
+            "father": "Augustine",
+            "work": "De Quaestionibus Evangeliorum II.18",
+            "quote": "There are two fasts: one is in tribulation, to propitiate God for our sins; another in joy, when as carnal things delight us less, we feed the more on things spiritual."
+          },
+          {
+            "father": "Cyril of Alexandria",
+            "work": "Catena Aurea on Luke",
+            "quote": "It was not fitting that the children of the Bridegroom should be troubled, as they were keeping a spiritual feast; but the days shall come when the Bridegroom shall be taken from them, and then shall they fast."
+          },
+          {
+            "father": "Basil",
+            "work": "Catena Aurea on Luke",
+            "quote": "The children of the Bridegroom cannot fast, i.e. refuse nourishment to the soul, but live on every word which proceedeth out of the mouth of God."
+          },
+          {
+            "father": "Augustine",
+            "work": "De Consensu Evangelistarum II.27",
+            "quote": "Ye cannot make the children of the bridegroom fast — this refers to those very men who were about to kill the Bridegroom."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1336,
+            "title": "The Eucharist as stumbling block and gift"
+          },
+          {
+            "paragraph": 1335,
+            "title": "Wedding feast at Cana anticipates the Kingdom"
+          },
+          {
+            "paragraph": 2612,
+            "title": "Watchful prayer awaiting the Bridegroom"
+          },
+          {
+            "paragraph": 2730,
+            "title": "The Bridegroom who comes today"
+          }
+        ],
+        "thematicConnection": "Jesus reveals himself as the Bridegroom whose coming (and coming again) is the horizon that Paul invokes and that the psalm anticipates. Faithful stewardship and trustful waiting take their meaning from him."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "Faithful Stewards Awaiting the Bridegroom",
+    "body": "Today the Church sets before us the mystery of Christian time: we live between the Bridegroom's first coming and his return. Saint Paul describes the apostles — and by extension every baptized soul — as stewards of the mysteries of God, whose only concern is to be found trustworthy when the Lord comes to 'light up all that is hidden in the dark.' He refuses the tyranny of human verdicts and even of his own conscience, for, as the Catechism teaches, Christ alone has full right to judge (CCC 679, 1039). The psalm answers this with serene confidence: commit your life to the Lord and he will make your justice break forth like the noonday sun. The just one need not seize his vindication; salvation comes from the Lord. In the Gospel, Jesus discloses why this waiting is not gloom but joy: he himself is the Bridegroom. While he is present, his friends feast; when he is taken away in the Passion, they will fast in longing love. Yet even our fasting, Saint Basil reminds us, is a hunger fed on every word from God's mouth. The Christian life, then, is a wedding feast interrupted by the Cross and consummated in glory — and our task, quite simply, is to keep watch, to be faithful, and to trust."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 6902,
+    "completionTokens": 2438,
+    "generatedAt": "2026-09-04T13:06:59.574137+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
