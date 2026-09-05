@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-05",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-09-05",
+    "color": "green",
+    "rank": "Weekday",
+    "title": "Saturday - September 05, 2026",
+    "lectionaryCycle": null,
+    "weekdayCycle": "II",
+    "date": "2026-09-05"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "1 Corinthians 4:6-15",
+      "text": "Take Apollos and myself as an example and remember the maxim: ‘Keep to what is written.’ It is not for you, so full of your own importance, to go taking sides for one man against another. In any case, brother, has anybody given you some special right? What do you have that was not given to you? And if it was given, how can you boast as though it were not? Is it that you have everything you want – that you are rich already, in possession of your kingdom, with us left outside? Indeed I wish you were really kings, and we could be kings with you! But instead, it seems to me, God has put us apostles at the end of his parade, with the men sentenced to death; it is true – we have been put on show in front of the whole universe, angels as well as men. Here we are, fools for the sake of Christ, while you are the learned men in Christ; we have no power, but you are influential; you are celebrities, we are nobodies. To this day, we go without food and drink and clothes; we are beaten and have no homes; we work for our living with our own hands. When we are cursed, we answer with a blessing; when we are hounded, we put up with it; we are insulted and we answer politely. We are treated as the offal of the world, still to this day, the scum of the earth.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Paul rebukes the Corinthians' self-satisfied pride by contrasting their imagined kingship with the actual condition of the apostles: hungry, homeless, beaten, insulted, and treated as the world's refuse. Everything the Christian possesses is gift, so boasting is absurd; the true apostolic life is cruciform, blessing those who curse and enduring persecution as fathers who beget the Church in Christ Jesus through the Gospel.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory the Great",
+            "work": "Homilies on the Gospels 5.1",
+            "quote": "He leaves much who keeps nothing for himself; he parts with much who with his possessions renounces his lusts. The Lord does not weigh the sacrifice by how much is offered, but out of how much it is offered."
+          },
+          {
+            "father": "St. Bede",
+            "work": "Catena Aurea on Luke",
+            "quote": "Whoever has come to the marriage feast of Christ's Church, being united to the members of the Church by faith, let him not exalt himself as higher than others by boasting of his merits. Whoever exalteth himself because of his merits, the Lord shall bring low, and him who humbleth himself on account of his mercies shall He exalt."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2544,
+            "title": "Detachment from riches for the Kingdom"
+          },
+          {
+            "paragraph": 2474,
+            "title": "The martyrs' witness in letters of blood"
+          },
+          {
+            "paragraph": 2550,
+            "title": "True glory in perfect communion with God"
+          }
+        ],
+        "thematicConnection": "Paul's inventory of apostolic humiliation prepares us for the Gospel, where Christ vindicates his hungry disciples against Pharisaic self-importance, and echoes the Psalm's assurance that the Lord is close precisely to those who cry to him from the heart, not to the self-styled 'kings.'"
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 144(145):17-21",
+      "text": "The Lord is close to all who call him.\nThe Lord is just in all his ways\nand loving in all his deeds.\nHe is close to all who call him,\nwho call on him from their hearts.\nThe Lord is close to all who call him.\nHe grants the desires of those who fear him,\nhe hears their cry and he saves them.\nThe Lord protects all who love him;\nbut the wicked he will utterly destroy.\nThe Lord is close to all who call him.\nLet me speak the praise of the Lord,\nlet all mankind bless his holy name\nfor ever, for ages unending.\nThe Lord is close to all who call him.",
+      "translation": "Universalis (US)",
+      "refrain": "The Lord is close to all who call him.",
+      "exegesis": {
+        "summary": "Psalm 144 sings of a God who is 'just in all his ways and loving in all his deeds,' who stands near to every soul that calls upon him in truth. He hears the cry of the lowly, fulfills the desires of those who fear him, and protects those who love him — a fitting response to Paul's cry from the depths of apostolic suffering.",
+        "patristicQuotes": [
+          {
+            "father": "St. Gregory of Nyssa",
+            "work": "On the Lord's Prayer, Sermon 2",
+            "quote": "See how great a preparation you need to be able to say boldly to God, 'O Father.' The highest of all good things is to glorify God's name in our lives. Who is there so debased, when he sees the pure life of those who believe, as not to glorify the name invoked in such a life?"
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Letter 130, 12",
+            "quote": "Whatever other words we may use, we say nothing more than is contained in the Lord's Prayer if we pray rightly. He who says, 'Save me, O my God, from my enemies,' what else does he say but 'Deliver us from evil?'"
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1,
+            "title": "God draws close to man"
+          },
+          {
+            "paragraph": 2083,
+            "title": "Love the Lord your God with all your heart"
+          },
+          {
+            "paragraph": 1844,
+            "title": "Charity binds everything in harmony"
+          }
+        ],
+        "thematicConnection": "The refrain 'The Lord is close to all who call him' answers directly Paul's plight and the disciples' hunger in the grainfields: God does not stand aloof from the poor and the persecuted; he draws near, hears, and saves."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Luke 6:1-5",
+      "text": "One sabbath Jesus happened to be taking a walk through the cornfields, and his disciples were picking ears of corn, rubbing them in their hands and eating them. Some of the Pharisees said, ‘Why are you doing something that is forbidden on the sabbath day?’ Jesus answered them, ‘So you have not read what David did when he and his followers were hungry – how he went into the house of God, took the loaves of offering and ate them and gave them to his followers, loaves which only the priests are allowed to eat?’ And he said to them, ‘The Son of Man is master of the sabbath.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "As Jesus and his disciples pass through the cornfields on the sabbath, the Pharisees accuse them of unlawful work. Jesus appeals to David eating the bread of the Presence and then reveals the deeper truth: 'The Son of Man is master of the sabbath.' The sabbath was made for man's rest and communion with God, not as a cage; and its true Lord now stands in their midst, ready to give the Bread that only priests may eat to all who follow him.",
+        "patristicQuotes": [
+          {
+            "father": "St. Ambrose",
+            "work": "Catena Aurea on Luke",
+            "quote": "In David escaping with his companions there was a foreshadowing of Christ in the law, who with His Apostles escaped the prince of the world. He showed by that figure that the priests' bread was to come over to the use of the people, and that all the children of the Church are priests, for we are anointed into a holy priesthood, offering ourselves a spiritual sacrifice to God."
+          },
+          {
+            "father": "St. Epiphanius",
+            "work": "Against Heresies 30.32",
+            "quote": "On the sabbath day they were seen passing through the cornfields and eating the corn, showing that the bonds of the sabbath were loosened when the great Sabbath was come in Christ, who made us to rest from the working of our iniquities."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on Luke",
+            "quote": "By His question He exposes their folly. For while God blessed the sabbath, they forbade to do good on the sabbath; but the day which does not admit the works of the good is accursed."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2173,
+            "title": "The Son of Man is Lord of the sabbath"
+          },
+          {
+            "paragraph": 582,
+            "title": "Jesus gives the Law its authentic interpretation"
+          },
+          {
+            "paragraph": 2171,
+            "title": "The sabbath as sign of the covenant"
+          }
+        ],
+        "thematicConnection": "Where the Pharisees, like the puffed-up Corinthians, cling to their status as arbiters of the Law, Christ sides with the hungry — vindicating Paul's 'fools for Christ' and confirming the Psalm's promise that the Lord is close to those who call from need, not from pride."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Lord of the Sabbath is close to the hungry and the humble",
+    "body": "Today the Church sets before us a single portrait of Christian discipleship drawn from three angles. Paul dismantles the Corinthians' pretensions with holy irony: 'You are kings already — while we apostles are the scum of the earth.' Everything is gift; boasting is madness; the true apostle looks like his crucified Master, blessing when cursed, working with his own hands, at the tail end of God's parade. The Psalm answers this apparent scandal with quiet certainty: the Lord is just, the Lord is loving, and the Lord is close — not to the self-satisfied, but 'to all who call on him from their hearts.' Then in the Gospel we see this nearness enacted. Christ walks with hungry disciples through the grainfields, defends them against a Sabbath weaponized by pride, and declares himself Lord of the day God made for man's rest and joy. As St. Ambrose teaches, David's forbidden bread foreshadows the priestly Bread that Christ will give to all his people. The through-line is unmistakable: God draws near the lowly and feeds them, while confounding those who trust in their own righteousness. To sit at his marriage feast we must first take the lowest place — fools for Christ, poor in spirit, calling on him from the heart."
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 8586,
+    "completionTokens": 2577,
+    "generatedAt": "2026-09-05T12:19:15.936093+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
