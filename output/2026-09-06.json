@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-06",
+  "liturgical": {
+    "season": "Ordinary Time",
+    "week": "Week of 2026-09-06",
+    "color": "green",
+    "rank": "Sunday",
+    "title": "Sunday - September 06, 2026",
+    "lectionaryCycle": "A",
+    "weekdayCycle": null,
+    "date": "2026-09-06"
+  },
+  "saint": null,
+  "readings": [
+    {
+      "kind": "first_reading",
+      "title": "First reading",
+      "citation": "Ezekiel 33:7-9",
+      "text": "The word of the Lord was addressed to me as follows: ‘Son of man, I have appointed you as sentry to the House of Israel. When you hear a word from my mouth, warn them in my name. If I say to a wicked man: Wicked wretch, you are to die, and you do not speak to warn the wicked man to renounce his ways, then he shall die for his sin, but I will hold you responsible for his death. If, however, you do warn a wicked man to renounce his ways and repent, and he does not repent, then he shall die for his sin, but you yourself will have saved your life.’",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "The Lord appoints Ezekiel as a watchman for the House of Israel, entrusting him with the grave responsibility of warning the wicked to turn from their ways. Silence in the face of a brother's sin is not neutrality but complicity: the prophet who fails to speak bears responsibility for the sinner's death. Fraternal correction, then, is not optional cruelty but a sacred duty rooted in love and truth.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Tractates on the Gospel of John 38.6",
+            "quote": "The misery of the Jews then was, not that they had sin, but that they would die in their sin. If ye believe that I am He, ye shall not die in your sin — so His words recall to hope those who might otherwise perish unwarned."
+          },
+          {
+            "father": "St. John Chrysostom",
+            "work": "Homilies on Matthew",
+            "quote": "The Lord moves their fears, showing that those who have sinned shall receive the most extreme punishment; every idle word shall give account in the day of judgment."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 208,
+            "title": "Holiness of God and repentance of the sinner"
+          },
+          {
+            "paragraph": 210,
+            "title": "God merciful, slow to anger, abounding in love"
+          }
+        ],
+        "thematicConnection": "Ezekiel's watchman anticipates the disciple in the Gospel who must go to the erring brother; both readings insist that love of neighbor requires the courage to speak truth for the sake of salvation."
+      }
+    },
+    {
+      "kind": "psalm",
+      "title": "Responsorial Psalm",
+      "citation": "Psalm 94(95):1-2,6-9",
+      "text": "O that today you would listen to his voice! ‘Harden not your hearts.’\nCome, ring out our joy to the Lord;\nhail the rock who saves us.\nLet us come before him, giving thanks,\nwith songs let us hail the Lord.\nO that today you would listen to his voice! ‘Harden not your hearts.’\nCome in; let us bow and bend low;\nlet us kneel before the God who made us:\nfor he is our God and we\nthe people who belong to his pasture,\nthe flock that is led by his hand.\nO that today you would listen to his voice! ‘Harden not your hearts.’\nO that today you would listen to his voice!\n‘Harden not your hearts as at Meribah,\nas on that day at Massah in the desert\nwhen your fathers put me to the test;\nwhen they tried me, though they saw my work.’\nO that today you would listen to his voice! ‘Harden not your hearts.’",
+      "translation": "Universalis (US)",
+      "refrain": "O that today you would listen to his voice! ‘Harden not your hearts.’",
+      "exegesis": {
+        "summary": "The psalm sounds an urgent invitation: 'Today, listen to his voice; harden not your hearts.' Israel is called to kneel before the God who made them, the Shepherd of the flock, and to remember the disaster of hardened hearts at Meribah and Massah. The 'today' of the psalm is every present moment in which God's word reaches us and asks for surrender.",
+        "patristicQuotes": [
+          {
+            "father": "St. Hilary of Poitiers",
+            "work": "Catena Aurea on Matthew",
+            "quote": "This is the Son, this the Beloved, this the Accepted; and He it is who is to be heard, as the voice out of the cloud signifies, saying, Hear ye Him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2700,
+            "title": "The heart present to God in prayer"
+          },
+          {
+            "paragraph": 2658,
+            "title": "Today — the hour of God's love poured into our hearts"
+          },
+          {
+            "paragraph": 30,
+            "title": "The restless heart made for God"
+          }
+        ],
+        "thematicConnection": "The psalm is the hinge of the day: Ezekiel warns the wicked, Paul urges love, Jesus commands correction — and all of it depends on hearts soft enough to hear God's voice today."
+      }
+    },
+    {
+      "kind": "second_reading",
+      "title": "Second reading",
+      "citation": "Romans 13:8-10",
+      "text": "Avoid getting into debt, except the debt of mutual love. If you love your fellow men you have carried out your obligations. All the commandments: You shall not commit adultery, you shall not kill, you shall not steal, you shall not covet, and so on, are summed up in this single command: You must love your neighbour as yourself. Love is the one thing that cannot hurt your neighbour; that is why it is the answer to every one of the commandments.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "St. Paul reduces the moral life to a single, unpayable debt: to love one another. Every commandment of the Decalogue — against adultery, murder, theft, covetousness — is fulfilled in loving the neighbor as oneself. Love, Paul insists, cannot harm; it is therefore the very fulfillment of the Law.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Sermon on the Mount II.8",
+            "quote": "This is not said of debts of money only, but of all things in which any sins against us. Unless you forgive this sin you cannot say, Forgive us our debts, as we forgive our debtors."
+          },
+          {
+            "father": "Theophylact",
+            "work": "Catena Aurea on John",
+            "quote": "Having said, If ye keep My commandments, ye shall abide in My love, He shows what commandments they are to keep: This is My commandment, that ye love one another."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 2196,
+            "title": "Love of neighbor as fulfillment of the Law"
+          },
+          {
+            "paragraph": 2055,
+            "title": "The Decalogue interpreted in the twofold commandment of love"
+          },
+          {
+            "paragraph": 1706,
+            "title": "Conscience fulfilled in love of God and neighbor"
+          }
+        ],
+        "thematicConnection": "Paul provides the interior principle for both Ezekiel's warning and Jesus' procedure of fraternal correction: it is love, not spite or self-interest, that must move the tongue that speaks truth to a brother."
+      }
+    },
+    {
+      "kind": "gospel",
+      "title": "Gospel",
+      "citation": "Matthew 18:15-20",
+      "text": "Jesus said to his disciples: ‘If your brother does something wrong, go and have it out with him alone, between your two selves. If he listens to you, you have won back your brother. If he does not listen, take one or two others along with you: the evidence of two or three witnesses is required to sustain any charge. But if he refuses to listen to these, report it to the community; and if he refuses to listen to the community, treat him like a pagan or a tax collector.",
+      "translation": "Universalis (US)",
+      "exegesis": {
+        "summary": "Jesus teaches the pastoral art of fraternal correction: first privately, then with witnesses, and only as a last resort before the Church. The goal is never public humiliation but the winning back of the brother. To this delicate ministry Christ attaches the astonishing gift of binding and loosing, and the promise that where two or three are gathered in his name, he is there — an authority the Catholic Church exercises to this day through her apostolic ministers.",
+        "patristicQuotes": [
+          {
+            "father": "St. Augustine",
+            "work": "Sermon 82",
+            "quote": "If you alone know of his trespass, let your rebuke be in private too. If you do it from self-love, you do nought; if you do it from love of him, you do most rightly. Do it for his sake, that you may gain him."
+          },
+          {
+            "father": "St. Jerome",
+            "work": "Commentary on Matthew",
+            "quote": "Thy brother is to be reproved in private, lest if once he has lost a sense of shame, he should continue in sin."
+          },
+          {
+            "father": "St. Augustine",
+            "work": "Sermon 82",
+            "quote": "When you have corrected him, and agreed with him, you have loosed him upon earth, and he shall be loosed also in heaven. You confer a great boon not on yourself, but on him."
+          }
+        ],
+        "cccReferences": [
+          {
+            "paragraph": 1789,
+            "title": "Charity respects the neighbor's conscience"
+          },
+          {
+            "paragraph": 2478,
+            "title": "Judging the neighbor's actions favorably"
+          },
+          {
+            "paragraph": 2233,
+            "title": "Belonging to God's family as brothers and sisters"
+          }
+        ],
+        "thematicConnection": "The Gospel completes what Ezekiel began and Paul defined: Christ Himself gives His Church the procedure, the authority, and the guarantee of His presence when love-driven correction is undertaken among His disciples."
+      }
+    }
+  ],
+  "synthesis": {
+    "title": "The Watchman's Debt: Love That Dares to Speak",
+    "body": "Today the Church places on our shoulders the weight of one another's souls. Through Ezekiel, God appoints every believer as a watchman: to see a brother wandering toward death and say nothing is not tact but betrayal. Yet the Lord knows how easily correction curdles into contempt, so through St. Paul He supplies the only motive that sanctifies the warning — the unpayable debt of love, which alone fulfills every commandment and cannot harm the neighbor it addresses. Then in the Gospel, Christ Himself hands His Church the very method: go first alone, then with witnesses, then to the community; always aiming not to expose but to 'win back your brother.' To this humble, patient work He binds the awesome authority of heaven and the promise of His own presence wherever two or three gather in His name. Between prophet and apostle stands the psalm, whispering the one condition that makes any of this possible: 'Today, harden not your hearts.' The watchman must first hear before he can warn; the corrector must first be corrected. Only hearts kept soft by daily listening to Christ can speak His truth in His love. This Sunday, then, the Church sends us home asking: whom has God set me beside to save, and have I loved them enough to tell them the truth?"
+  },
+  "generation": {
+    "model": "anthropic/claude-opus-4-7",
+    "promptTokens": 9079,
+    "completionTokens": 2718,
+    "generatedAt": "2026-09-06T12:34:56.662347+00:00",
+    "corpusVersion": "v1.0"
+  }
+}
